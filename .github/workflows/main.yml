@@ -5,8 +5,8 @@ name: CI
 # Controls when the workflow will run
 on:
   # - on schedule, every 4 hours
-  schedule:
-    - cron: '0 */4 * * *'
+  #schedule:
+   # - cron: '0 */4 * * *'
   workflow_dispatch:
 
 jobs:
@@ -25,7 +25,7 @@ jobs:
           # url you want to fetch
           url: 'https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus'
           # output directory name
-          storage: 'gemeente-substrings'
+          storage: 'thesaurus'
           fragmentation_strategy: 'substring'
           fragmentation_page_size: 20
           property_path: '<http://www.w3.org/2004/02/skos/core#prefLabel>'
