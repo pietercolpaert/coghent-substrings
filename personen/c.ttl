@@ -8,42 +8,4 @@
     a <http://purl.org/dc/terms/Agent>.
 <https://stad.gent/id/concept/470010241> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Coca Cola"@nl.
 <https://apidgdv.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <undefined>.
-<https://stad.gent/id/agent/470002829/2021-10-19T22:02:49.557Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470002829>;
-    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-19T22:02:49.557Z";
-    <http://www.w3.org/2004/02/skos/core#inscheme> "https://stad.gent/id/conceptscheme/agent";
-    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
-    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Canon";
-    <http://www.w3.org/2002/07/owl#sameAs> "https://www.wikidata.org/entity/Q62621", "http://vocab.getty.edu/page/ulan/500334802";
-    a <http://purl.org/dc/terms/Agent>.
-<https://apidgdv.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <undefined>.
-<https://stad.gent/id/agent/470002892/2021-10-19T22:02:54.558Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470002892>;
-    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-19T22:02:54.558Z";
-    <http://www.w3.org/2004/02/skos/core#note> "Claude Chappe (Brûlon 25 december 1763 – Parijs 23 januari 1805) was een Franse uitvinder die in 1792 een praktisch telegraafsysteem demonstreerde dat uiteindelijk geheel Frankrijk bestreek. Het was het eerste bruikbare telecommunicatiesysteem dat in vele landen navolging vond.";
-    <http://www.w3.org/2004/02/skos/core#inscheme> "https://stad.gent/id/conceptscheme/agent";
-    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
-    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_53_2;
-    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_53_3;
-    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Chappe, Claude";
-    <http://www.w3.org/2002/07/owl#sameAs> "https://www.wikidata.org/entity/Q361305";
-    a <http://purl.org/dc/terms/Agent>.
-_:df_53_3 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
-    <https://data.vlaanderen.be/ns/persoon#datum> "1805"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
-_:df_53_2 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
-    <https://data.vlaanderen.be/ns/persoon#datum> "1763"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
-<https://apidgdv.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <undefined>.
-<https://stad.gent/id/agent/470002897/2021-10-19T22:02:59.561Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470002897>;
-    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-19T22:02:59.561Z";
-    <http://www.w3.org/2004/02/skos/core#note> "Jacques Callot (c.1592 - 1635) was een Franse graveur.";
-    <http://www.w3.org/2004/02/skos/core#inscheme> "https://stad.gent/id/conceptscheme/agent";
-    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
-    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_53_5;
-    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_53_6;
-    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Callot, Jacques";
-    <http://www.w3.org/2002/07/owl#sameAs> "https://www.wikidata.org/entity/Q460124", "http://vocab.getty.edu/page/ulan/500021688";
-    a <http://purl.org/dc/terms/Agent>.
-_:df_53_6 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
-    <https://data.vlaanderen.be/ns/persoon#datum> "1635"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
-_:df_53_5 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
-    <https://data.vlaanderen.be/ns/persoon#datum> "1592"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
-<https://apidgdv.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <undefined>.
-<https://apidgdv.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/personen/c.ttl>.
+<https://apidgdv.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://pieter.pm/coghent-substrings/personen/c.ttl>.
