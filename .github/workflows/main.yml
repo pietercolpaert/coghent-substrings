@@ -25,7 +25,7 @@ jobs:
           # url you want to fetch
           url: 'https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen'
           # output directory name
-          storage: 'thesaurus'
+          storage: 'personen'
           fragmentation_strategy: 'substring'
           fragmentation_page_size: 20
           property_path: '<https://data.vlaanderen.be/ns/persoon#volledigeNaam>'
