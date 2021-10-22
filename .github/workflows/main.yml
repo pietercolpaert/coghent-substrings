@@ -23,10 +23,10 @@ jobs:
           gh_pages_url: 'pieter.pm/coghent-substrings'
           datasource_strategy: 'ldes-client'
           # url you want to fetch
-          url: 'https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus'
+          url: 'https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen'
           # output directory name
           storage: 'thesaurus'
           fragmentation_strategy: 'substring'
           fragmentation_page_size: 20
-          property_path: '<http://www.w3.org/2004/02/skos/core#prefLabel>'
+          property_path: '<https://data.vlaanderen.be/ns/persoon#volledigeNaam>'
           stream_data: "true"
