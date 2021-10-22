@@ -20,10 +20,10 @@ jobs:
       - name: Fetch and write data
         uses: treecg/LDES-Action@main
         with:
-          gh_pages_url: 'pieter.pm/coghent-substrings'
+          gh_pages_url: 'www.pieter.pm/coghent-substrings'
           datasource_strategy: 'ldes-client'
           # url you want to fetch
-          url: 'https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen'
+          url: 'https://apidgdv.gent.be/opendata/adlib2eventstream/v1/adlib/personen'
           # output directory name
           storage: 'personen'
           fragmentation_strategy: 'substring'
