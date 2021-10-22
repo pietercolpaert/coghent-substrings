@@ -54,4 +54,84 @@
     <http://www.w3.org/2002/07/owl#sameAs> "https://www.wikidata.org/entity/Q1809071";
     a <http://purl.org/dc/terms/Agent>.
 <https://apidgdv.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <undefined>.
-<https://apidgdv.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://pieter.pm/coghent-substrings/personen/d.ttl>.
+<https://stad.gent/id/agent/470005292/2021-10-19T22:04:40.535Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470005292>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-19T22:04:40.535Z";
+    <http://www.w3.org/2004/02/skos/core#inscheme> "https://stad.gent/id/conceptscheme/agent";
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_45_5;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_45_7;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "De Cock, Carl";
+    <http://www.w3.org/2002/07/owl#sameAs> "https://www.wikidata.org/entity/Q21645078";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_45_7 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1965"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7253069>.
+<http://vocab.getty.edu/tgn/7253069> a <http://purl.org/dc/terms/Location>.
+_:df_45_5 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1879"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>.
+<https://apidgdv.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <undefined>.
+<https://stad.gent/id/agent/470004396/2021-10-19T22:04:16.864Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470004396>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-19T22:04:16.864Z";
+    <http://www.w3.org/2004/02/skos/core#inscheme> "https://stad.gent/id/conceptscheme/agent";
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Drents Museum";
+    <http://www.w3.org/2002/07/owl#sameAs> "https://www.wikidata.org/entity/Q1258370";
+    a <http://purl.org/dc/terms/Agent>.
+<https://apidgdv.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <undefined>.
+<https://stad.gent/id/agent/470003682/2021-10-19T22:03:24.566Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470003682>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-19T22:03:24.566Z";
+    <http://www.w3.org/2004/02/skos/core#inscheme> "https://stad.gent/id/conceptscheme/agent";
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Die Keure";
+    <http://www.w3.org/2002/07/owl#sameAs> "https://www.wikidata.org/entity/Q2851022";
+    a <http://purl.org/dc/terms/Agent>.
+<https://apidgdv.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <undefined>.
+<https://stad.gent/id/agent/470001123/2021-10-19T22:02:04.944Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470001123>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-19T22:02:04.944Z";
+    <http://www.w3.org/2004/02/skos/core#inscheme> "https://stad.gent/id/conceptscheme/agent";
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Davidsfonds";
+    <http://www.w3.org/2002/07/owl#sameAs> "https://www.wikidata.org/entity/Q2690997";
+    a <http://purl.org/dc/terms/Agent>.
+<https://apidgdv.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <undefined>.
+<https://stad.gent/id/agent/470001284/2021-10-19T22:02:14.205Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470001284>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-19T22:02:14.205Z";
+    <http://www.w3.org/2004/02/skos/core#inscheme> "https://stad.gent/id/conceptscheme/agent";
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dangotte, Céline";
+    <http://www.w3.org/2002/07/owl#sameAs> "https://www.wikidata.org/entity/Q47514867";
+    a <http://purl.org/dc/terms/Agent>.
+<https://apidgdv.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <undefined>.
+<https://stad.gent/id/agent/470000084/2021-10-19T22:01:18.831Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470000084>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-19T22:01:18.831Z";
+    <http://www.w3.org/2004/02/skos/core#inscheme> "https://stad.gent/id/conceptscheme/agent";
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_61_3;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_61_4;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Delvaux, Laurent";
+    <http://www.w3.org/2002/07/owl#sameAs> "http://vocab.getty.edu/page/ulan/500002211", "https://www.wikidata.org/entity/Q510315", "https://rkd.nl/explore/artists/21847";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_61_4 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1778"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_61_3 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1696"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<https://apidgdv.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <undefined>.
+<https://stad.gent/id/agent/470000128/2021-10-19T22:01:23.832Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470000128>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-19T22:01:23.832Z";
+    <http://www.w3.org/2004/02/skos/core#note> "Polydoor De Baets (1897-1979) zal eerst samen met twee andere acrobaten het ‘Oriental Trio’ vormen, maar hij zal vooral als august Polly Bentos bekend worden. Zijn naam verwijst meteen naar zijn leermeester Frans Bento. Ook nu nog verwijzen artiesten naar de naam Bento, uit respect voor deze grote Gentse circusartiest. Het Oriental Trio werd gevormd door de Britse acrobaat R. Ainsley die twee jonge talenten in dienst nam, waaronder de Gentse Polydoor De Baets. Ze toerden in 1916 en 1917 langs zalen en circussen in het Verenigd Koninkrijk en Ierland. In een oosterse setting brachten het trio een combinatie van evenwichtsacrobatiek en oefeningen aan de perche. Polydoor trad als august op bij verschillende buitenlandse en Belgische circussen waaronder Semay en Demuynck, maar vooral bij het Nederlandse circus Van Bever waarin hij 10 seizoenen meedraaide.Hij zat bij The Otawa Troup met Eugène Babusiau sr., Harry Merks en Gertrude De Baere. Later werd Harry Merks vervangen door Josef Storms. Polly De Baets was gehuwd met Jenny Moreels met wie hij optrad als the Original Bento's samen met René Frans, Josef Storms en hun partners. Later traden ze op als de 4 Bento's, zonder Josef Storms en zijn partner.";
+    <http://www.w3.org/2004/02/skos/core#inscheme> "https://stad.gent/id/conceptscheme/agent";
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_61_6;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_61_7;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "De Baets, Polydoor";
+    <http://www.w3.org/2004/02/skos/core#related> <http://vocab.getty.edu/tgn/7008781>;
+    a <http://purl.org/dc/terms/Agent>.
+<http://vocab.getty.edu/tgn/7008781> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Polly Bentos"@nl.
+_:df_61_7 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1979"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_61_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1897"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<https://apidgdv.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <undefined>.
+<https://apidgdv.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/personen/d.ttl>.

@@ -30,4 +30,12 @@
     <http://www.w3.org/2002/07/owl#sameAs> "https://www.wikidata.org/entity/Q1129117", "http://vocab.getty.edu/page/ulan/500330449";
     a <http://purl.org/dc/terms/Agent>.
 <https://apidgdv.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <undefined>.
-<https://apidgdv.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://pieter.pm/coghent-substrings/personen/t.ttl>.
+<https://stad.gent/id/agent/470005477/2021-10-19T22:04:50.538Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470005477>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-19T22:04:50.538Z";
+    <http://www.w3.org/2004/02/skos/core#inscheme> "https://stad.gent/id/conceptscheme/agent";
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Textielmuseum";
+    <http://www.w3.org/2002/07/owl#sameAs> "https://www.wikidata.org/entity/Q3983824";
+    a <http://purl.org/dc/terms/Agent>.
+<https://apidgdv.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <undefined>.
+<https://apidgdv.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/personen/t.ttl>.

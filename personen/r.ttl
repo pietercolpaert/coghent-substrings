@@ -36,4 +36,22 @@
     a <http://purl.org/dc/terms/Agent>.
 <http://vocab.getty.edu/aat/300391140> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Rubens, Peter Paul"@nl.
 <https://apidgdv.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <undefined>.
-<https://apidgdv.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://pieter.pm/coghent-substrings/personen/r.ttl>.
+<https://stad.gent/id/agent/470004118/2021-10-19T22:03:40.130Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470004118>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-19T22:03:40.130Z";
+    <http://www.w3.org/2004/02/skos/core#inscheme> "https://stad.gent/id/conceptscheme/agent";
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Rijksuniversiteit Gent";
+    <http://www.w3.org/2002/07/owl#sameAs> "https://www.wikidata.org/entity/Q1137665";
+    <http://www.w3.org/2004/02/skos/core#related> <https://stad.gent/id/concept/470001109>;
+    a <http://purl.org/dc/terms/Agent>.
+<https://stad.gent/id/concept/470001109> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Universiteit Gent"@nl.
+<https://apidgdv.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <undefined>.
+<https://stad.gent/id/agent/470004273/2021-10-19T22:04:00.138Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470004273>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-19T22:04:00.138Z";
+    <http://www.w3.org/2004/02/skos/core#inscheme> "https://stad.gent/id/conceptscheme/agent";
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Rijksmuseum";
+    <http://www.w3.org/2002/07/owl#sameAs> "http://vocab.getty.edu/page/ulan/500246547", "https://www.wikidata.org/entity/Q190804";
+    a <http://purl.org/dc/terms/Agent>.
+<https://apidgdv.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <undefined>.
+<https://apidgdv.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/personen/r.ttl>.

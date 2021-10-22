@@ -1,0 +1,29 @@
+<https://stad.gent/id/agent/470003648/2021-10-19T22:03:19.565Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470003648>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-19T22:03:19.565Z";
+    <http://www.w3.org/2004/02/skos/core#inscheme> "https://stad.gent/id/conceptscheme/agent";
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Noordbrabants Museum";
+    <http://www.w3.org/2002/07/owl#sameAs> "http://vocab.getty.edu/page/ulan/500308292";
+    a <http://purl.org/dc/terms/Agent>.
+<https://apidgdv.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <undefined>.
+<https://stad.gent/id/agent/470002476/2021-10-19T22:02:44.212Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470002476>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-19T22:02:44.212Z";
+    <http://www.w3.org/2004/02/skos/core#note> "Nebukadnezar (Nabu-kudur-uzur II, wat zoveel betekent als Nebo, bescherm de kroon! of Nebo, bescherm de grenzen!) leefde van 604-562 v. Chr.. Hij was de koning van het Nieuw-Babylonische rijk. (zie ook Nebukadnezar I)\r\nNebukadnezar was de zoon en opvolger van Nabopolassar. Nebukadnezar was de machtigste koning van Babylon ooit. 95% van alle ruïnes die gevonden zijn in zijn koninkrijk, zijn gemaakt van bakstenen waar zijn naam op staat. Het lijkt er op dat hij bijna elke stad en elke tempel in het hele land heeft laten bouwen of restaureren.\r\n(wikipedia.org)";
+    <http://www.w3.org/2004/02/skos/core#inscheme> "https://stad.gent/id/conceptscheme/agent";
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_55_5;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_55_6;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Nebukadnezar II";
+    <http://www.w3.org/2002/07/owl#sameAs> "https://www.wikidata.org/entity/Q12591";
+    <http://www.w3.org/2004/02/skos/core#related> <https://stad.gent/id/concept/470002478>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_55_10;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_55_10 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Babyloniër"@nl.
+<https://stad.gent/id/concept/470002478> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nabu-kudur-uzur II"@nl.
+_:df_55_6 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "-0562"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_55_5 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "-0604"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<https://apidgdv.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <undefined>.
+<https://apidgdv.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/personen/n.ttl>.
