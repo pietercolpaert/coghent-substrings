@@ -20,6 +20,24 @@ _:df_7_1 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
     <http://www.w3.org/2002/07/owl#sameAs> "https://www.wikidata.org/entity/Q7836", "http://vocab.getty.edu/page/ulan/500022967";
     a <http://purl.org/dc/terms/Agent>.
 <https://apidgdv.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <undefined>.
+<https://stad.gent/id/agent/530013737/2021-10-23T00:00:14.087Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013737>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-23T00:00:14.087Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7_6, _:df_7_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_7_10;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "The Gallery Mourmans";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q108513154>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_7_10 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1986"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006862>.
+<http://vocab.getty.edu/tgn/7006862> a <http://purl.org/dc/terms/Location>.
+_:df_7_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01500"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_7_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013737"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidgdv.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <undefined>.
 <https://stad.gent/id/agent/470019428/2021-10-19T22:12:09.231Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470019428>;
     <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-19T22:12:09.231Z";
     <http://www.w3.org/2004/02/skos/core#inscheme> "https://stad.gent/id/conceptscheme/agent";
@@ -156,34 +174,26 @@ _:df_7_1 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
     <http://www.w3.org/2002/07/owl#sameAs> "https://www.wikidata.org/entity/Q833670";
     a <http://purl.org/dc/terms/Agent>.
 <https://apidgdv.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <undefined>.
-<https://stad.gent/id/agent/470016805/2021-10-19T22:11:03.417Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470016805>;
-    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-19T22:11:03.417Z";
-    <http://www.w3.org/2004/02/skos/core#inscheme> "https://stad.gent/id/conceptscheme/agent";
-    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
-    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Agfa-Gevaert";
-    <http://www.w3.org/2002/07/owl#sameAs> "https://www.wikidata.org/entity/Q309245";
-    a <http://purl.org/dc/terms/Agent>.
-<https://apidgdv.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <undefined>.
 <https://www.pieter.pm/coghent-substrings/personen/root.ttl> <https://w3id.org/tree#relation> _:df_0_0.
 _:df_0_0 a <https://w3id.org/tree#SubstringRelation>;
-    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/personen/s.ttl>;
-    <https://w3id.org/tree#value> "s".
-<https://www.pieter.pm/coghent-substrings/personen/root.ttl> <https://w3id.org/tree#relation> _:df_0_1.
-_:df_0_1 a <https://w3id.org/tree#SubstringRelation>;
-    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/personen/g.ttl>;
-    <https://w3id.org/tree#value> "g".
-<https://www.pieter.pm/coghent-substrings/personen/root.ttl> <https://w3id.org/tree#relation> _:df_0_2.
-_:df_0_2 a <https://w3id.org/tree#SubstringRelation>;
-    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/personen/o.ttl>;
-    <https://w3id.org/tree#value> "o".
-<https://www.pieter.pm/coghent-substrings/personen/root.ttl> <https://w3id.org/tree#relation> _:df_0_3.
-_:df_0_3 a <https://w3id.org/tree#SubstringRelation>;
-    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/personen/b.ttl>;
-    <https://w3id.org/tree#value> "b".
-<https://www.pieter.pm/coghent-substrings/personen/root.ttl> <https://w3id.org/tree#relation> _:df_0_4.
-_:df_0_4 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/personen/a.ttl>;
     <https://w3id.org/tree#value> "a".
+<https://www.pieter.pm/coghent-substrings/personen/root.ttl> <https://w3id.org/tree#relation> _:df_0_1.
+_:df_0_1 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/personen/s.ttl>;
+    <https://w3id.org/tree#value> "s".
+<https://www.pieter.pm/coghent-substrings/personen/root.ttl> <https://w3id.org/tree#relation> _:df_0_2.
+_:df_0_2 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/personen/g.ttl>;
+    <https://w3id.org/tree#value> "g".
+<https://www.pieter.pm/coghent-substrings/personen/root.ttl> <https://w3id.org/tree#relation> _:df_0_3.
+_:df_0_3 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/personen/o.ttl>;
+    <https://w3id.org/tree#value> "o".
+<https://www.pieter.pm/coghent-substrings/personen/root.ttl> <https://w3id.org/tree#relation> _:df_0_4.
+_:df_0_4 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/personen/b.ttl>;
+    <https://w3id.org/tree#value> "b".
 <https://www.pieter.pm/coghent-substrings/personen/root.ttl> <https://w3id.org/tree#relation> _:df_0_5.
 _:df_0_5 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/personen/t.ttl>;
