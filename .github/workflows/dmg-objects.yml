@@ -1,0 +1,32 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the workflow will run
+on:
+  # - on schedule, every 4 hours
+  #schedule:
+   # - cron: '0 */4 * * *'
+  workflow_dispatch:
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+      # Check out the repository, so it can read the files inside it and do other operations
+      - name: Check out repo
+        uses: actions/checkout@v2
+      # Fetch the dataset, write the data to json files and push the files to the repo
+      - name: Fetch and write data
+        uses: treecg/LDES-Action@main
+        with:
+          gh_pages_url: 'www.pieter.pm/coghent-substrings'
+          datasource_strategy: 'ldes-client'
+          # url you want to fetch
+          url: 'https://apidg.gent.be/opendata/adlib2eventstream/v1/dmg/objecten'
+          # output directory name
+          storage: 'dmg-objecten'
+          fragmentation_strategy: 'substring'
+          fragmentation_page_size: 20
+          property_path: '<http://www.cidoc-crm.org/cidoc-crm/P102_has_title>'
+          stream_data: "true"
