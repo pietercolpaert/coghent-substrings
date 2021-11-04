@@ -28,5 +28,5 @@ jobs:
           storage: 'thesaurus'
           fragmentation_strategy: 'substring'
           fragmentation_page_size: 20
-          property_path: '<https://data.vlaanderen.be/ns/persoon#volledigeNaam>'
+          property_path: '[ <http://www.w3.org/ns/shacl#alternativePath> (<http://www.w3.org/2004/02/skos/core#prefLabel> <http://www.w3.org/2004/02/skos/core#note>)]'
           stream_data: "true"
