@@ -1,0 +1,24 @@
+<https://stad.gent/id/concept/570015385/2021-10-31T23:15:28.147Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015385>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T23:15:28.147Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2447369>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2473_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Veldstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2473_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015385"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015385/2021-10-31T23:15:28.147Z>.
+<https://stad.gent/id/concept/570012190/2021-10-31T22:05:42.672Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012190>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T22:05:42.672Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008821>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2965_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Velzeke"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_2965_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012190"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012190/2021-10-31T22:05:42.672Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/vel.ttl>.

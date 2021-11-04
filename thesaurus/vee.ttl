@@ -1,0 +1,25 @@
+<https://stad.gent/id/concept/570023187/2021-11-01T02:00:27.680Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023187>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-11-01T02:00:27.680Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011809>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1303_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "veer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1303_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023187"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023187/2021-11-01T02:00:27.680Z>.
+<https://stad.gent/id/concept/570021784/2021-11-01T01:36:21.522Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570021784>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-11-01T01:36:21.522Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1048177>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1474_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Veenendaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_1474_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570021784"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570021784/2021-11-01T01:36:21.522Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/vee.ttl>.

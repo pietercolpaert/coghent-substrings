@@ -1,0 +1,22 @@
+<https://stad.gent/id/concept/570023518/2021-11-01T02:13:03.702Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023518>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-11-01T02:13:03.702Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1213_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "onderdeel (gasmeter)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1213_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023518"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023518/2021-11-01T02:13:03.702Z>.
+<https://stad.gent/id/concept/570012827/2021-10-31T22:17:27.677Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012827>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T22:17:27.677Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300241583>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2881_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "onderdeel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2881_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012827"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012827/2021-10-31T22:17:27.677Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/onderd.ttl>.

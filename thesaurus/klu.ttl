@@ -1,0 +1,25 @@
+<https://stad.gent/id/concept/570020455/2021-11-01T01:28:49.386Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020455>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-11-01T01:28:49.386Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300082978>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1528_41;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kluis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1528_41 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020455"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020455/2021-11-01T01:28:49.386Z>.
+<https://stad.gent/id/concept/570012142/2021-10-31T22:04:47.004Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012142>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T22:04:47.004Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q840517>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2971_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kluisbergen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_2971_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012142"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012142/2021-10-31T22:04:47.004Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/klu.ttl>.

@@ -1,0 +1,39 @@
+<https://stad.gent/id/concept/570023169/2021-11-01T01:59:27.043Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023169>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-11-01T01:59:27.043Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7248867>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1309_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bois-d'Haine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012866>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012866> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen (provincie)"@nl.
+_:df_1309_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023169"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023169/2021-11-01T01:59:27.043Z>.
+<https://stad.gent/id/concept/570020543/2021-11-01T01:30:10.146Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020543>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-11-01T01:30:10.146Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1036479>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1516_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Boizenburg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_1516_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020543"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020543/2021-11-01T01:30:10.146Z>.
+<https://stad.gent/id/concept/570012626/2021-10-31T22:14:45.358Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012626>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T22:14:45.358Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300052148>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2902_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor een groot scala aan drukvaten waarin water of een andere vloeistof wordt verhit, en die vervolgens heet water afgeven voor verwarmingsdoeleinden of stoom voor verwarming of het opwekken van energie.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boiler"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2902_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012626"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012626/2021-10-31T22:14:45.358Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/boi.ttl>.

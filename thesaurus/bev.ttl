@@ -1,0 +1,25 @@
+<https://stad.gent/id/concept/670000078/2021-11-01T03:33:01.850Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000078>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-11-01T03:33:01.850Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/themas/2852>;
+    <http://www.w3.org/ns/adms#identifier> _:df_655_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Beverhoutplein"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_655_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000078"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000078/2021-11-01T03:33:01.850Z>.
+<https://stad.gent/id/concept/570014851/2021-10-31T23:01:56.442Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014851>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T23:01:56.442Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026330>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2569_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Beveren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_2569_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014851"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014851/2021-10-31T23:01:56.442Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bev.ttl>.

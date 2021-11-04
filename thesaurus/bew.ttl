@@ -1,0 +1,36 @@
+<https://stad.gent/id/concept/570024462/2021-11-01T02:59:37.080Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024462>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-11-01T02:59:37.080Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_886_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bewaren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000727>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000727> <http://www.w3.org/2004/02/skos/core#prefLabel> "wonen"@nl.
+_:df_886_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024462"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024462/2021-11-01T02:59:37.080Z>.
+<https://stad.gent/id/concept/570020157/2021-11-01T01:24:14.711Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020157>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-11-01T01:24:14.711Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300193977>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1558_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bewegwijzering"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1558_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020157"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020157/2021-11-01T01:24:14.711Z>.
+<https://stad.gent/id/concept/570016630/2021-10-31T23:44:13.437Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016630>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T23:44:13.437Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300038992>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2269_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Grote kisten met scharnierende deksels die worden gebruikt om textiel, kleding en andere artikelen in op te bergen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kist"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "inscriptie positie"@nl, "inscription position"@en, "bewaarvorm"@nl, "preservation form"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2269_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016630"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016630/2021-10-31T23:44:13.437Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bew.ttl>.

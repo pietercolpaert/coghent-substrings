@@ -1,0 +1,23 @@
+<https://stad.gent/id/concept/570023439/2021-11-01T02:10:06.337Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023439>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-11-01T02:10:06.337Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300264870>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1234_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kleur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "aspect"@nl, "aspect"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1234_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023439"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023439/2021-11-01T02:10:06.337Z>.
+<https://stad.gent/id/concept/570010764/2021-10-31T21:52:10.954Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010764>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T21:52:10.954Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300404881>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3061_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "aspirine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3061_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010764"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010764/2021-10-31T21:52:10.954Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/asp.ttl>.

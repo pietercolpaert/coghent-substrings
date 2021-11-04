@@ -1,0 +1,21 @@
+<https://stad.gent/id/concept/570018045/2021-11-01T00:29:52.950Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018045>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-11-01T00:29:52.950Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1945_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hostiepapier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1945_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018045"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018045/2021-11-01T00:29:52.950Z>.
+<https://stad.gent/id/concept/570015450/2021-10-31T23:16:03.889Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015450>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T23:16:03.889Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300390902>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2470_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hostie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2470_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015450"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015450/2021-10-31T23:16:03.889Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/hos.ttl>.

@@ -1,0 +1,25 @@
+<https://stad.gent/id/concept/570023978/2021-11-01T02:32:36.383Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023978>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-11-01T02:32:36.383Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7009107>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1075_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Paisley"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000533>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000533> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schotland"@nl.
+_:df_1075_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023978"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023978/2021-11-01T02:32:36.383Z>.
+<https://stad.gent/id/concept/570019168/2021-11-01T00:51:00.334Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019168>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-11-01T00:51:00.334Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q674273>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1795_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "paillet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1795_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019168"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019168/2021-11-01T00:51:00.334Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/pai.ttl>.

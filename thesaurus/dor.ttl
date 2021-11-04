@@ -1,0 +1,25 @@
+<https://stad.gent/id/concept/570018938/2021-11-01T00:40:37.149Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018938>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-11-01T00:40:37.149Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006798>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1870_33;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Dordrecht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl, "Nederland"@nl, "Nederland"@nl, "Nederland"@nl.
+_:df_1870_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018938"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018938/2021-11-01T00:40:37.149Z>.
+<https://stad.gent/id/concept/570013970/2021-10-31T22:40:08.050Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013970>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T22:40:08.050Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q141830>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2725_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dorsvlegel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2725_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013970"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013970/2021-10-31T22:40:08.050Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/dor.ttl>.

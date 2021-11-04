@@ -1,0 +1,25 @@
+<https://stad.gent/id/concept/570012355/2021-10-31T22:08:24.848Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012355>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T22:08:24.848Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007424>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2947_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Muttenz"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020674>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020674> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zwitserland"@nl.
+_:df_2947_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012355"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012355/2021-10-31T22:08:24.848Z>.
+<https://stad.gent/id/concept/570010077/2021-10-31T21:40:00.440Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010077>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T21:40:00.440Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2835959>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3148_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mutualiteit"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3148_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010077"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010077/2021-10-31T21:40:00.440Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/mut.ttl>.

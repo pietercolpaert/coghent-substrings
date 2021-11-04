@@ -1,0 +1,35 @@
+<https://stad.gent/id/concept/570024145/2021-11-01T02:41:46.269Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024145>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-11-01T02:41:46.269Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7013415>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1009_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bethesda"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570011193>, <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+<https://stad.gent/id/concept/570011193> <http://www.w3.org/2004/02/skos/core#prefLabel> "Maryland"@nl.
+_:df_1009_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024145"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024145/2021-11-01T02:41:46.269Z>.
+<https://stad.gent/id/concept/570017322/2021-11-01T00:06:49.396Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017322>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-11-01T00:06:49.396Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010737>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2110_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beton"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "materiaal"@nl, "material"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2110_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017322"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017322/2021-11-01T00:06:49.396Z>.
+<https://stad.gent/id/concept/570013091/2021-10-31T22:22:47.905Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013091>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T22:22:47.905Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2845_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "betaalboekje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2845_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013091"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013091/2021-10-31T22:22:47.905Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bet.ttl>.

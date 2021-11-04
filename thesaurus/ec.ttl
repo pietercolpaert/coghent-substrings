@@ -1,0 +1,37 @@
+<https://stad.gent/id/concept/570020582/2021-11-01T01:30:45.970Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020582>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-11-01T01:30:45.970Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q9802>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1513_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Echt-Susteren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_1513_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020582"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020582/2021-11-01T01:30:45.970Z>.
+<https://stad.gent/id/concept/570016786/2021-10-31T23:49:38.837Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016786>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T23:49:38.837Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7012312>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2230_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Echternach"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570010990>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570010990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groothertogdom Luxemburg"@nl.
+_:df_2230_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016786"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016786/2021-10-31T23:49:38.837Z>.
+<https://stad.gent/id/concept/570015828/2021-10-31T23:22:39.387Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015828>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T23:22:39.387Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300154337>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2422_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "echtpaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2422_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015828"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015828/2021-10-31T23:22:39.387Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ec.ttl>.

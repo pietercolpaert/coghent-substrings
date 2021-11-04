@@ -1,0 +1,24 @@
+<https://stad.gent/id/concept/670000532/2021-11-01T04:09:24.253Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000532>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-11-01T04:09:24.253Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_400_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ghentbrugge"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_400_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000532"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000532/2021-11-01T04:09:24.253Z>.
+<https://stad.gent/id/concept/570016783/2021-10-31T23:49:23.105Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016783>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T23:49:23.105Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026448>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2233_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ghlin"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012866>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012866> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen (provincie)"@nl.
+_:df_2233_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016783"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016783/2021-10-31T23:49:23.105Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/gh.ttl>.

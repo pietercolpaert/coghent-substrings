@@ -1,0 +1,25 @@
+<https://stad.gent/id/concept/570012461/2021-10-31T22:10:51.933Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012461>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T22:10:51.933Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2929_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "midden 20ste eeuw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012473>;
+    <http://www.w3.org/2004/02/skos/core#note> "periode"@nl, "period"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012473> <http://www.w3.org/2004/02/skos/core#prefLabel> "20ste eeuw"@nl.
+_:df_2929_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012461"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012461/2021-10-31T22:10:51.933Z>.
+<https://stad.gent/id/concept/570012216/2021-10-31T22:06:23.377Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012216>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T22:06:23.377Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2962_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "midden 19de eeuw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003720>;
+    <http://www.w3.org/2004/02/skos/core#note> "periode"@nl, "period"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003720> <http://www.w3.org/2004/02/skos/core#prefLabel> "19de eeuw"@nl.
+_:df_2962_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012216"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012216/2021-10-31T22:06:23.377Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/mid.ttl>.

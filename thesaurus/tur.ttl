@@ -1,0 +1,18 @@
+<https://stad.gent/id/concept/570010431/2021-10-31T21:48:06.679Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010431>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T21:48:06.679Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000144>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3091_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Turkije"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570012303>, <https://stad.gent/id/concept/570012305>, <https://stad.gent/id/concept/570025020>, <https://stad.gent/id/concept/570013845>, <https://stad.gent/id/concept/570025026>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570025026> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hinis"@nl.
+<https://stad.gent/id/concept/570013845> <http://www.w3.org/2004/02/skos/core#prefLabel> "Esentepe (Istanbul)"@nl.
+<https://stad.gent/id/concept/570025020> <http://www.w3.org/2004/02/skos/core#prefLabel> "Emirdağ"@nl.
+<https://stad.gent/id/concept/570012305> <http://www.w3.org/2004/02/skos/core#prefLabel> "Arkadja"@nl.
+<https://stad.gent/id/concept/570012303> <http://www.w3.org/2004/02/skos/core#prefLabel> "Adana"@nl.
+_:df_3091_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010431"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010431/2021-10-31T21:48:06.679Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/tur.ttl>.

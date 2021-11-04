@@ -1,0 +1,25 @@
+<https://stad.gent/id/concept/570012514/2021-10-31T22:12:13.468Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012514>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T22:12:13.468Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/2064650>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2920_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Elizabethport (New Jersey)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_2920_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012514"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012514/2021-10-31T22:12:13.468Z>.
+<https://stad.gent/id/concept/570009629/2021-10-31T21:28:45.343Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009629>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T21:28:45.343Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q3773186>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3229_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "elixir"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3229_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009629"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009629/2021-10-31T21:28:45.343Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/eli.ttl>.

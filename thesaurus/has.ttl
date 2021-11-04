@@ -1,0 +1,22 @@
+<https://stad.gent/id/concept/570013524/2021-10-31T22:32:51.210Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013524>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T22:32:51.210Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2773_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "haspelmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2773_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013524"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013524/2021-10-31T22:32:51.210Z>.
+<https://stad.gent/id/concept/570012870/2021-10-31T22:17:52.686Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012870>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T22:17:52.686Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300263302>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2878_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "haspel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2878_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012870"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012870/2021-10-31T22:17:52.686Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/has.ttl>.

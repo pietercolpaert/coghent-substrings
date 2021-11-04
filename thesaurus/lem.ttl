@@ -1,0 +1,25 @@
+<https://stad.gent/id/concept/570023013/2021-11-01T01:52:36.320Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023013>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-11-01T01:52:36.320Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7242135>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1357_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lembeke"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl.
+_:df_1357_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023013"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023013/2021-11-01T01:52:36.320Z>.
+<https://stad.gent/id/concept/570016358/2021-10-31T23:35:51.450Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016358>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T23:35:51.450Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q330946>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2329_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lemmet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2329_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016358"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016358/2021-10-31T23:35:51.450Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/lem.ttl>.

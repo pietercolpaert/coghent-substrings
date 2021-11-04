@@ -1,0 +1,25 @@
+<https://stad.gent/id/concept/570019192/2021-11-01T00:51:50.882Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019192>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-11-01T00:51:50.882Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q53051155>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1789_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "haute-lisse"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1789_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019192"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019192/2021-11-01T00:51:50.882Z>.
+<https://stad.gent/id/concept/570016326/2021-10-31T23:34:55.831Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016326>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T23:34:55.831Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/2069636>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2335_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hauppauge (New York)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl, "Verenigde Staten van Amerika"@nl.
+_:df_2335_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016326"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016326/2021-10-31T23:34:55.831Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/hau.ttl>.

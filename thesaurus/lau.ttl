@@ -1,0 +1,35 @@
+<https://stad.gent/id/concept/570024207/2021-11-01T02:45:17.875Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024207>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-11-01T02:45:17.875Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026551>;
+    <http://www.w3.org/ns/adms#identifier> _:df_985_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lauwe"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_985_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024207"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024207/2021-11-01T02:45:17.875Z>.
+<https://stad.gent/id/concept/570016785/2021-10-31T23:49:33.107Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016785>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T23:49:33.107Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007299>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2230_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lausanne"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020674>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020674> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zwitserland"@nl.
+_:df_2230_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016785"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016785/2021-10-31T23:49:33.107Z>.
+<https://stad.gent/id/concept/570015376/2021-10-31T23:15:13.143Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015376>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T23:15:13.143Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q734844>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2476_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "laurierkrans"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2476_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015376"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015376/2021-10-31T23:15:13.143Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/lau.ttl>.

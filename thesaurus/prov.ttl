@@ -1,0 +1,25 @@
+<https://stad.gent/id/concept/670000991/2021-11-01T04:46:46.289Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000991>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-11-01T04:46:46.289Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/themas/3105>;
+    <http://www.w3.org/ns/adms#identifier> _:df_136_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Provenierstersstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_136_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000991"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000991/2021-11-01T04:46:46.289Z>.
+<https://stad.gent/id/concept/570017952/2021-11-01T00:28:42.055Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017952>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-11-01T00:28:42.055Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1002808>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1954_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Providence (Rhode Island)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_1954_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017952"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017952/2021-11-01T00:28:42.055Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/prov.ttl>.

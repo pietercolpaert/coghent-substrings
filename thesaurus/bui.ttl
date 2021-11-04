@@ -1,0 +1,22 @@
+<https://stad.gent/id/concept/570016405/2021-10-31T23:36:32.118Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016405>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T23:36:32.118Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2323_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "buizenklem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2323_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016405"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016405/2021-10-31T23:36:32.118Z>.
+<https://stad.gent/id/concept/570010296/2021-10-31T21:45:24.146Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010296>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T21:45:24.146Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014687>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3109_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "buizen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3109_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010296"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010296/2021-10-31T21:45:24.146Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bui.ttl>.

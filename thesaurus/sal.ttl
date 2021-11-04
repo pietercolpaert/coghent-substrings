@@ -1,0 +1,38 @@
+<https://stad.gent/id/concept/570017004/2021-10-31T23:59:42.079Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017004>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T23:59:42.079Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300435035>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2158_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "salade vork"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2158_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017004"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017004/2021-10-31T23:59:42.079Z>.
+<https://stad.gent/id/concept/570016812/2021-10-31T23:51:09.579Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016812>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T23:51:09.579Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003256>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2221_34;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Salzburg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570004793>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570004793> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oostenrijk"@nl.
+_:df_2221_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016812"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016812/2021-10-31T23:51:09.579Z>.
+<https://stad.gent/id/concept/570014009/2021-10-31T22:41:09.616Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014009>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T22:41:09.616Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1030518>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2716_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Salfords (Surrey)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_2716_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014009"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014009/2021-10-31T22:41:09.616Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/sal.ttl>.

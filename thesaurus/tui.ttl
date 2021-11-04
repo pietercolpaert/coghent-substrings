@@ -1,0 +1,26 @@
+<https://stad.gent/id/concept/570011180/2021-10-31T21:55:53.659Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011180>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T21:55:53.659Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054512>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3034_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het intensief en extensief verbouwen van tuinplanten, waaronder vruchten, groenten, bloementeelt en landschaps- en kwekerijgewassen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tuinbouw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3034_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011180"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011180/2021-10-31T21:55:53.659Z>.
+<https://stad.gent/id/concept/570010509/2021-10-31T21:49:23.040Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010509>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T21:49:23.040Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300172457>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3082_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tuinbank"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570013520>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570013520> <http://www.w3.org/2004/02/skos/core#prefLabel> "tuinmeubelen"@nl.
+_:df_3082_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010509"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010509/2021-10-31T21:49:23.040Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/tui.ttl>.

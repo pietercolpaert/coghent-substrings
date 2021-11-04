@@ -1,0 +1,36 @@
+<https://stad.gent/id/concept/570018102/2021-11-01T00:31:14.741Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018102>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-11-01T00:31:14.741Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300078157>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1936_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sanitair"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1936_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018102"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018102/2021-11-01T00:31:14.741Z>.
+<https://stad.gent/id/concept/570014436/2021-10-31T22:50:52.041Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014436>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T22:50:52.041Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7014456>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2647_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "San Francisco"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_2647_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014436"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014436/2021-10-31T22:50:52.041Z>.
+<https://stad.gent/id/concept/570014438/2021-10-31T22:50:57.043Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014438>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T22:50:57.043Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q211386>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2647_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "San Francisco, 1906"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "gebeurtenis"@nl, "event"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2647_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014438"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014438/2021-10-31T22:50:57.043Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/san.ttl>.

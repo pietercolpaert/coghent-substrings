@@ -1,0 +1,25 @@
+<https://stad.gent/id/concept/570023218/2021-11-01T02:02:19.442Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023218>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-11-01T02:02:19.442Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000133>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1288_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Pakistan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570011964>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570011964> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rawalpindi"@nl.
+_:df_1288_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023218"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023218/2021-11-01T02:02:19.442Z>.
+<https://stad.gent/id/concept/570019351/2021-11-01T00:59:13.651Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019351>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-11-01T00:59:13.651Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014177>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1738_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pakpapier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1738_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019351"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019351/2021-11-01T00:59:13.651Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/pak.ttl>.
