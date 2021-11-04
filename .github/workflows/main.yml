@@ -23,7 +23,7 @@ jobs:
           gh_pages_url: 'www.pieter.pm/coghent-substrings'
           datasource_strategy: 'ldes-client'
           # url you want to fetch
-          url: 'https://apidgdv.gent.be/opendata/adlib2eventstream/v1/adlib/personen'
+          url: 'https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen'
           # output directory name
           storage: 'personen'
           fragmentation_strategy: 'substring'
