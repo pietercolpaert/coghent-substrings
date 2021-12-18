@@ -5,8 +5,8 @@ name: DMG-Objects
 # Controls when the workflow will run
 on:
   # - on schedule, every 4 hours
-  #schedule:
-   # - cron: '0 */4 * * *'
+  schedule:
+    - cron: '0 */4 * * *'
   workflow_dispatch:
 
 jobs:
