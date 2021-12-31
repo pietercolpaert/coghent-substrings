@@ -1,0 +1,342 @@
+<https://stad.gent/id/dossier/archiefgent/670000704/2021-12-31T15:31:25.591Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/mensgemaaktobject/archiefgent/670000704>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T15:31:25.591Z";
+    <http://xmlns.com/foaf/0.1/page> <https://stad.gent/id/mensgemaaktobject/archiefgent/670000704/2021-12-31T15:31:25.591Z>;
+    <http://www.w3.org/ns/adms#identifier> _:df_220_2, _:df_220_4, _:df_220_6;
+    <http://www.cidoc-crm.org/cidoc-crm/P50_has_current_keeper> _:df_220_7;
+    <http://www.cidoc-crm.org/cidoc-crm/P46i_forms_part_of> <https://stad.gent/id/concept/670000035>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "SET";
+    <http://www.cidoc-crm.org/cidoc-crm/P41i_was_classified_by> _:df_220_10, _:df_220_12;
+    <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> "Gent: Huidevetterskaai, bouwaanvraag van Marie Hallen, 1777"@nl;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Bouwheer: Hallen, Marie. Ligging gebouw: eenen huijs gestaen ende gelegen op Bachterleije. Beschrijving van de werken: het huis veranderen volgens bijgevoegde tekening ('model'). Het advies van de schepenen: goedgekeurd."@nl;
+    <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:df_220_20;
+    <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <https://stad.gent/id/mensgemaaktobject/670000705>;
+    <https://data.vlaanderen.be/ns/dossier#Dossier.bestaatUit> <https://stad.gent/id/mensgemaaktobject/670000705>, _:df_220_23;
+    <http://www.cidoc-crm.org/cidoc-crm/P24i_changed_ownership_through> _:df_220_27;
+    <http://www.cidoc-crm.org/cidoc-crm/P129i_is_subject_of> _:df_220_29;
+    a <https://data.vlaanderen.be/ns/dossier#Dossier>.
+_:df_220_29 <http://www.w3.org/ns/regorg#orgType> "DigitalObject"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/conformsTo> _:df_220_28.
+_:df_220_28 <http://www.w3.org/ns/regorg#orgType> "InformatieObject"^^<http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_220_27 a <http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition>;
+    <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:df_220_24;
+    <http://www.cidoc-crm.org/cidoc-crm/P32_used_general_technique> _:df_220_26;
+    <http://www.cidoc-crm.org/cidoc-crm/P24_transferred_title_of> <https://stad.gent/id/mensgemaaktobject/archiefgent/670000704>;
+    <http://www.cidoc-crm.org/cidoc-crm/P22_transferred_title_to> <http://www.wikidata.org/entity/Q41776192>.
+_:df_220_26 a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://stad.gent/id/concept/670000040>, <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Term_verwervingsmethode>.
+<https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Term_verwervingsmethode> <http://www.w3.org/2000/01/rdf-schema#label> "verwerving.methode", "verwerving.methode", "verwerving.methode".
+<https://stad.gent/id/concept/670000040> <http://www.w3.org/2004/02/skos/core#prefLabel> "overdracht"@nl, "overdracht"@nl, "overdracht"@nl.
+_:df_220_24 a <http://data.europa.eu/m8g/PeriodOfTime>;
+    <http://data.europa.eu/m8g/startTime> "1777-11-07"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://data.europa.eu/m8g/endTime> "1777-11-07"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_220_23 a <https://data.vlaanderen.be/ns/dossier#Stuk>.
+<https://stad.gent/id/mensgemaaktobject/670000705> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> "Tekening: opstand voorgevel"^^<http://www.w3.org/1999/02/22-rdf-syntax-ns#langString>;
+    a <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object>;
+    <http://purl.org/dc/terms/title> "Tekening: opstand voorgevel";
+    a <https://data.vlaanderen.be/ns/dossier#Stuk>.
+_:df_220_20 a <http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object>;
+    <http://www.cidoc-crm.org/cidoc-crm/P128i_is_carried_by> <https://stad.gent/id/mensgemaaktobject/archiefgent/670000704>;
+    <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> _:df_220_15;
+    <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> _:df_220_17, _:df_220_19.
+_:df_220_19 a <http://www.w3.org/ns/prov#Entity>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://inventaris.onroerenderfgoed.be/themas/2752>, <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_geassocieerd_concept>.
+<https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_geassocieerd_concept> <http://www.w3.org/2000/01/rdf-schema#label> "associatie.onderwerp", "associatie.onderwerp", "associatie.onderwerp", "associatie.onderwerp", "associatie.onderwerp", "associatie.onderwerp".
+<https://inventaris.onroerenderfgoed.be/themas/2752> <http://www.w3.org/2004/02/skos/core#prefLabel> "Huidevetterskaai"@nl, "Huidevetterskaai"@nl, "Huidevetterskaai"@nl, "Huidevetterskaai"@nl, "Huidevetterskaai"@nl, "Huidevetterskaai"@nl.
+_:df_220_17 a <http://www.w3.org/ns/prov#Entity>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://inventaris.onroerenderfgoed.be/themas/2752>, <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_geassocieerd_concept>.
+_:df_220_15 a <http://www.w3.org/ns/person#Person>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://stad.gent/id/agent/670001445>, <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_geassocieerde_persoon_of_instelling>.
+<https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_geassocieerde_persoon_of_instelling> <http://www.w3.org/2000/01/rdf-schema#label> "associatie.persoon", "associatie.persoon", "associatie.persoon".
+<https://stad.gent/id/agent/670001445> <http://www.w3.org/2000/01/rdf-schema#label> "Hallen, Marie".
+_:df_220_12 a <http://www.cidoc-crm.org/cidoc-crm/E17_Type_Assignment>;
+    <http://www.cidoc-crm.org/cidoc-crm/P41_classified> <https://stad.gent/id/mensgemaaktobject/archiefgent/670000704>;
+    <http://www.cidoc-crm.org/cidoc-crm/P42_assigned> <https://stad.gent/id/concept/670000057>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Term_objectnaam>.
+<https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Term_objectnaam> <http://www.w3.org/2000/01/rdf-schema#label> "objectnaam", "objectnaam", "objectnaam", "objectnaam", "objectnaam".
+<https://stad.gent/id/concept/670000057> <http://www.w3.org/2004/02/skos/core#prefLabel> "bouwdossier"@nl, "bouwdossier"@nl, "bouwdossier"@nl.
+_:df_220_10 a <http://www.cidoc-crm.org/cidoc-crm/E17_Type_Assignment>;
+    <http://www.cidoc-crm.org/cidoc-crm/P41_classified> <https://stad.gent/id/mensgemaaktobject/archiefgent/670000704>;
+    <http://www.cidoc-crm.org/cidoc-crm/P42_assigned> <https://stad.gent/id/concept/670000036>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Objectcategorie>.
+<https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Objectcategorie> <http://www.w3.org/2000/01/rdf-schema#label> "object_category", "object_category", "object_category", "object_category", "object_category".
+<https://stad.gent/id/concept/670000036> <http://www.w3.org/2004/02/skos/core#prefLabel> "bouwaanvragen (met bouwtekeningen) en bouwsubsidieaanvragen, 1671-1795"@nl, "bouwaanvragen (met bouwtekeningen) en bouwsubsidieaanvragen, 1671-1795"@nl, "bouwaanvragen (met bouwtekeningen) en bouwsubsidieaanvragen, 1671-1795"@nl, "bouwaanvragen (met bouwtekeningen) en bouwsubsidieaanvragen, 1671-1795"@nl, "bouwaanvragen (met bouwtekeningen) en bouwsubsidieaanvragen, 1671-1795"@nl.
+<https://stad.gent/id/concept/670000035> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_collectie>;
+    a <http://www.w3.org/ns/prov#Collection>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_collectie>;
+    a <http://www.w3.org/ns/prov#Collection>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_collectie>;
+    a <http://www.w3.org/ns/prov#Collection>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_collectie>;
+    a <http://www.w3.org/ns/prov#Collection>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_collectie>;
+    a <http://www.w3.org/ns/prov#Collection>.
+<https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_collectie> <http://www.w3.org/2000/01/rdf-schema#label> "collectie", "collectie", "collectie", "collectie", "collectie".
+_:df_220_7 a <http://www.w3.org/ns/org#OrganizationalUnit>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oud Archief"^^<http://www.w3.org/1999/02/22-rdf-syntax-ns#langString>;
+    <http://www.w3.org/ns/org#unitOf> "http://www.wikidata.org/entity/Q41776192"^^<http://www.w3.org/ns/org#Organization>.
+_:df_220_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "https://id.erfgoed.net/erfgoedobjecten/19237"^^<https://stad.gent/id/identificatiesysteem/PID>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Type_alternatief_objectnummer>.
+<https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Type_alternatief_objectnummer> <http://www.w3.org/2000/01/rdf-schema#label> "alternatief_nummer", "alternatief_nummer".
+_:df_220_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "OA_535_003_06"^^<https://stad.gent/id/identificatiesysteem/objectnummer>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Waarde_objectnummer>.
+<https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Waarde_objectnummer> <http://www.w3.org/2000/01/rdf-schema#label> "objectnummer", "objectnummer", "objectnummer", "objectnummer", "objectnummer".
+_:df_220_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000704"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/archiefgent/objecten> <https://w3id.org/tree#member> <https://stad.gent/id/dossier/archiefgent/670000704/2021-12-31T15:31:25.591Z>.
+<https://stad.gent/id/dossier/archiefgent/670000706/2021-12-31T15:31:35.593Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/mensgemaaktobject/archiefgent/670000706>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T15:31:35.593Z";
+    <http://xmlns.com/foaf/0.1/page> <https://stad.gent/id/mensgemaaktobject/archiefgent/670000706/2021-12-31T15:31:35.593Z>;
+    <http://www.w3.org/ns/adms#identifier> _:df_220_55, _:df_220_57;
+    <http://www.cidoc-crm.org/cidoc-crm/P50_has_current_keeper> _:df_220_58;
+    <http://www.cidoc-crm.org/cidoc-crm/P46i_forms_part_of> <https://stad.gent/id/concept/670000035>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "SET";
+    <http://www.cidoc-crm.org/cidoc-crm/P41i_was_classified_by> _:df_220_61, _:df_220_63;
+    <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> "Gent: Huidevetterskaai, bouwaanvraag van Pieter van Rooten, 1780"@nl;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Bouwheer: van Rooten, Pieter. Ligging gebouw: een huijs staende ten voorhoofde Achter Leije. Beschrijving van de werken: het huis veranderen volgens bijgevoegde tekening ('model'); ook de achterbouw komende uit de Groenstraat egaal maken met zijn mouterij. Het advies van de schepenen: goedgekeurd."@nl;
+    <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:df_220_71;
+    <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <https://stad.gent/id/mensgemaaktobject/670000707>;
+    <https://data.vlaanderen.be/ns/dossier#Dossier.bestaatUit> <https://stad.gent/id/mensgemaaktobject/670000707>, _:df_220_74;
+    <http://www.cidoc-crm.org/cidoc-crm/P24i_changed_ownership_through> _:df_220_78;
+    <http://www.cidoc-crm.org/cidoc-crm/P129i_is_subject_of> _:df_220_80;
+    a <https://data.vlaanderen.be/ns/dossier#Dossier>.
+_:df_220_80 <http://www.w3.org/ns/regorg#orgType> "DigitalObject"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/conformsTo> _:df_220_79.
+_:df_220_79 <http://www.w3.org/ns/regorg#orgType> "InformatieObject"^^<http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_220_78 a <http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition>;
+    <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:df_220_75;
+    <http://www.cidoc-crm.org/cidoc-crm/P32_used_general_technique> _:df_220_77;
+    <http://www.cidoc-crm.org/cidoc-crm/P24_transferred_title_of> <https://stad.gent/id/mensgemaaktobject/archiefgent/670000706>;
+    <http://www.cidoc-crm.org/cidoc-crm/P22_transferred_title_to> <http://www.wikidata.org/entity/Q41776192>.
+_:df_220_77 a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://stad.gent/id/concept/670000040>, <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Term_verwervingsmethode>.
+<https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Term_verwervingsmethode> <http://www.w3.org/2000/01/rdf-schema#label> "verwerving.methode", "verwerving.methode", "verwerving.methode".
+<https://stad.gent/id/concept/670000040> <http://www.w3.org/2004/02/skos/core#prefLabel> "overdracht"@nl, "overdracht"@nl, "overdracht"@nl.
+_:df_220_75 a <http://data.europa.eu/m8g/PeriodOfTime>;
+    <http://data.europa.eu/m8g/startTime> "1780-07-22"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://data.europa.eu/m8g/endTime> "1780-07-22"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_220_74 a <https://data.vlaanderen.be/ns/dossier#Stuk>.
+<https://stad.gent/id/mensgemaaktobject/670000707> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> "Tekening: opstand voorgevel"^^<http://www.w3.org/1999/02/22-rdf-syntax-ns#langString>;
+    a <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object>;
+    <http://purl.org/dc/terms/title> "Tekening: opstand voorgevel";
+    a <https://data.vlaanderen.be/ns/dossier#Stuk>.
+_:df_220_71 a <http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object>;
+    <http://www.cidoc-crm.org/cidoc-crm/P128i_is_carried_by> <https://stad.gent/id/mensgemaaktobject/archiefgent/670000706>;
+    <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> _:df_220_66;
+    <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> _:df_220_68, _:df_220_70.
+_:df_220_70 a <http://www.w3.org/ns/prov#Entity>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://inventaris.onroerenderfgoed.be/themas/2752>, <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_geassocieerd_concept>.
+<https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_geassocieerd_concept> <http://www.w3.org/2000/01/rdf-schema#label> "associatie.onderwerp", "associatie.onderwerp", "associatie.onderwerp", "associatie.onderwerp", "associatie.onderwerp", "associatie.onderwerp".
+<https://inventaris.onroerenderfgoed.be/themas/2752> <http://www.w3.org/2004/02/skos/core#prefLabel> "Huidevetterskaai"@nl, "Huidevetterskaai"@nl, "Huidevetterskaai"@nl, "Huidevetterskaai"@nl, "Huidevetterskaai"@nl, "Huidevetterskaai"@nl.
+_:df_220_68 a <http://www.w3.org/ns/prov#Entity>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://inventaris.onroerenderfgoed.be/themas/2752>, <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_geassocieerd_concept>.
+_:df_220_66 a <http://www.w3.org/ns/person#Person>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://stad.gent/id/agent/670002779>, <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_geassocieerde_persoon_of_instelling>.
+<https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_geassocieerde_persoon_of_instelling> <http://www.w3.org/2000/01/rdf-schema#label> "associatie.persoon", "associatie.persoon", "associatie.persoon".
+<https://stad.gent/id/agent/670002779> <http://www.w3.org/2000/01/rdf-schema#label> "van Rooten, Pieter", "van Rooten, Pieter".
+_:df_220_63 a <http://www.cidoc-crm.org/cidoc-crm/E17_Type_Assignment>;
+    <http://www.cidoc-crm.org/cidoc-crm/P41_classified> <https://stad.gent/id/mensgemaaktobject/archiefgent/670000706>;
+    <http://www.cidoc-crm.org/cidoc-crm/P42_assigned> <https://stad.gent/id/concept/670000057>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Term_objectnaam>.
+<https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Term_objectnaam> <http://www.w3.org/2000/01/rdf-schema#label> "objectnaam", "objectnaam", "objectnaam", "objectnaam", "objectnaam".
+<https://stad.gent/id/concept/670000057> <http://www.w3.org/2004/02/skos/core#prefLabel> "bouwdossier"@nl, "bouwdossier"@nl, "bouwdossier"@nl.
+_:df_220_61 a <http://www.cidoc-crm.org/cidoc-crm/E17_Type_Assignment>;
+    <http://www.cidoc-crm.org/cidoc-crm/P41_classified> <https://stad.gent/id/mensgemaaktobject/archiefgent/670000706>;
+    <http://www.cidoc-crm.org/cidoc-crm/P42_assigned> <https://stad.gent/id/concept/670000036>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Objectcategorie>.
+<https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Objectcategorie> <http://www.w3.org/2000/01/rdf-schema#label> "object_category", "object_category", "object_category", "object_category", "object_category".
+<https://stad.gent/id/concept/670000036> <http://www.w3.org/2004/02/skos/core#prefLabel> "bouwaanvragen (met bouwtekeningen) en bouwsubsidieaanvragen, 1671-1795"@nl, "bouwaanvragen (met bouwtekeningen) en bouwsubsidieaanvragen, 1671-1795"@nl, "bouwaanvragen (met bouwtekeningen) en bouwsubsidieaanvragen, 1671-1795"@nl, "bouwaanvragen (met bouwtekeningen) en bouwsubsidieaanvragen, 1671-1795"@nl, "bouwaanvragen (met bouwtekeningen) en bouwsubsidieaanvragen, 1671-1795"@nl.
+<https://stad.gent/id/concept/670000035> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_collectie>;
+    a <http://www.w3.org/ns/prov#Collection>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_collectie>;
+    a <http://www.w3.org/ns/prov#Collection>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_collectie>;
+    a <http://www.w3.org/ns/prov#Collection>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_collectie>;
+    a <http://www.w3.org/ns/prov#Collection>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_collectie>;
+    a <http://www.w3.org/ns/prov#Collection>.
+<https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_collectie> <http://www.w3.org/2000/01/rdf-schema#label> "collectie", "collectie", "collectie", "collectie", "collectie".
+_:df_220_58 a <http://www.w3.org/ns/org#OrganizationalUnit>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oud Archief"^^<http://www.w3.org/1999/02/22-rdf-syntax-ns#langString>;
+    <http://www.w3.org/ns/org#unitOf> "http://www.wikidata.org/entity/Q41776192"^^<http://www.w3.org/ns/org#Organization>.
+_:df_220_57 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "OA_535_003_08"^^<https://stad.gent/id/identificatiesysteem/objectnummer>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Waarde_objectnummer>.
+<https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Waarde_objectnummer> <http://www.w3.org/2000/01/rdf-schema#label> "objectnummer", "objectnummer", "objectnummer", "objectnummer", "objectnummer".
+_:df_220_55 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000706"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/archiefgent/objecten> <https://w3id.org/tree#member> <https://stad.gent/id/dossier/archiefgent/670000706/2021-12-31T15:31:35.593Z>.
+<https://stad.gent/id/dossier/archiefgent/670000708/2021-12-31T15:31:45.596Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/mensgemaaktobject/archiefgent/670000708>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T15:31:45.596Z";
+    <http://xmlns.com/foaf/0.1/page> <https://stad.gent/id/mensgemaaktobject/archiefgent/670000708/2021-12-31T15:31:45.596Z>;
+    <http://www.w3.org/ns/adms#identifier> _:df_220_106, _:df_220_108, _:df_220_110;
+    <http://www.cidoc-crm.org/cidoc-crm/P50_has_current_keeper> _:df_220_111;
+    <http://www.cidoc-crm.org/cidoc-crm/P46i_forms_part_of> <https://stad.gent/id/concept/670000035>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "SET";
+    <http://www.cidoc-crm.org/cidoc-crm/P41i_was_classified_by> _:df_220_114, _:df_220_116;
+    <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> "Gent: Huidevetterskaai, bouwaanvraag van Pieter van Rooten, 1782"@nl;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Bouwheer: van Rooten, Pieter. Ligging gebouw: eenen huijse staende ten voorhoofde Achterleije. Beschrijving van de werken: het huis veranderen volgens bijgevoegde tekening ('model'). Het advies van de schepenen: goedgekeurd."@nl;
+    <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:df_220_124;
+    <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <https://stad.gent/id/mensgemaaktobject/670000709>;
+    <https://data.vlaanderen.be/ns/dossier#Dossier.bestaatUit> <https://stad.gent/id/mensgemaaktobject/670000709>, _:df_220_127;
+    <http://www.cidoc-crm.org/cidoc-crm/P24i_changed_ownership_through> _:df_220_131;
+    <http://www.cidoc-crm.org/cidoc-crm/P129i_is_subject_of> _:df_220_133;
+    a <https://data.vlaanderen.be/ns/dossier#Dossier>.
+_:df_220_133 <http://www.w3.org/ns/regorg#orgType> "DigitalObject"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/conformsTo> _:df_220_132.
+_:df_220_132 <http://www.w3.org/ns/regorg#orgType> "InformatieObject"^^<http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_220_131 a <http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition>;
+    <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:df_220_128;
+    <http://www.cidoc-crm.org/cidoc-crm/P32_used_general_technique> _:df_220_130;
+    <http://www.cidoc-crm.org/cidoc-crm/P24_transferred_title_of> <https://stad.gent/id/mensgemaaktobject/archiefgent/670000708>;
+    <http://www.cidoc-crm.org/cidoc-crm/P22_transferred_title_to> <http://www.wikidata.org/entity/Q41776192>.
+_:df_220_130 a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://stad.gent/id/concept/670000040>, <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Term_verwervingsmethode>.
+<https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Term_verwervingsmethode> <http://www.w3.org/2000/01/rdf-schema#label> "verwerving.methode", "verwerving.methode", "verwerving.methode".
+<https://stad.gent/id/concept/670000040> <http://www.w3.org/2004/02/skos/core#prefLabel> "overdracht"@nl, "overdracht"@nl, "overdracht"@nl.
+_:df_220_128 a <http://data.europa.eu/m8g/PeriodOfTime>;
+    <http://data.europa.eu/m8g/startTime> "1782-06-13"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://data.europa.eu/m8g/endTime> "1782-06-13"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_220_127 a <https://data.vlaanderen.be/ns/dossier#Stuk>.
+<https://stad.gent/id/mensgemaaktobject/670000709> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> "Tekening: opstand voorgevel"^^<http://www.w3.org/1999/02/22-rdf-syntax-ns#langString>;
+    a <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object>;
+    <http://purl.org/dc/terms/title> "Tekening: opstand voorgevel";
+    a <https://data.vlaanderen.be/ns/dossier#Stuk>.
+_:df_220_124 a <http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object>;
+    <http://www.cidoc-crm.org/cidoc-crm/P128i_is_carried_by> <https://stad.gent/id/mensgemaaktobject/archiefgent/670000708>;
+    <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> _:df_220_119;
+    <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> _:df_220_121, _:df_220_123.
+_:df_220_123 a <http://www.w3.org/ns/prov#Entity>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://inventaris.onroerenderfgoed.be/themas/2752>, <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_geassocieerd_concept>.
+<https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_geassocieerd_concept> <http://www.w3.org/2000/01/rdf-schema#label> "associatie.onderwerp", "associatie.onderwerp", "associatie.onderwerp", "associatie.onderwerp", "associatie.onderwerp", "associatie.onderwerp".
+<https://inventaris.onroerenderfgoed.be/themas/2752> <http://www.w3.org/2004/02/skos/core#prefLabel> "Huidevetterskaai"@nl, "Huidevetterskaai"@nl, "Huidevetterskaai"@nl, "Huidevetterskaai"@nl, "Huidevetterskaai"@nl, "Huidevetterskaai"@nl.
+_:df_220_121 a <http://www.w3.org/ns/prov#Entity>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://inventaris.onroerenderfgoed.be/themas/2752>, <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_geassocieerd_concept>.
+_:df_220_119 a <http://www.w3.org/ns/person#Person>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://stad.gent/id/agent/670002779>, <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_geassocieerde_persoon_of_instelling>.
+<https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_geassocieerde_persoon_of_instelling> <http://www.w3.org/2000/01/rdf-schema#label> "associatie.persoon", "associatie.persoon", "associatie.persoon".
+<https://stad.gent/id/agent/670002779> <http://www.w3.org/2000/01/rdf-schema#label> "van Rooten, Pieter", "van Rooten, Pieter".
+_:df_220_116 a <http://www.cidoc-crm.org/cidoc-crm/E17_Type_Assignment>;
+    <http://www.cidoc-crm.org/cidoc-crm/P41_classified> <https://stad.gent/id/mensgemaaktobject/archiefgent/670000708>;
+    <http://www.cidoc-crm.org/cidoc-crm/P42_assigned> <https://stad.gent/id/concept/670000057>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Term_objectnaam>.
+<https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Term_objectnaam> <http://www.w3.org/2000/01/rdf-schema#label> "objectnaam", "objectnaam", "objectnaam", "objectnaam", "objectnaam".
+<https://stad.gent/id/concept/670000057> <http://www.w3.org/2004/02/skos/core#prefLabel> "bouwdossier"@nl, "bouwdossier"@nl, "bouwdossier"@nl.
+_:df_220_114 a <http://www.cidoc-crm.org/cidoc-crm/E17_Type_Assignment>;
+    <http://www.cidoc-crm.org/cidoc-crm/P41_classified> <https://stad.gent/id/mensgemaaktobject/archiefgent/670000708>;
+    <http://www.cidoc-crm.org/cidoc-crm/P42_assigned> <https://stad.gent/id/concept/670000036>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Objectcategorie>.
+<https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Objectcategorie> <http://www.w3.org/2000/01/rdf-schema#label> "object_category", "object_category", "object_category", "object_category", "object_category".
+<https://stad.gent/id/concept/670000036> <http://www.w3.org/2004/02/skos/core#prefLabel> "bouwaanvragen (met bouwtekeningen) en bouwsubsidieaanvragen, 1671-1795"@nl, "bouwaanvragen (met bouwtekeningen) en bouwsubsidieaanvragen, 1671-1795"@nl, "bouwaanvragen (met bouwtekeningen) en bouwsubsidieaanvragen, 1671-1795"@nl, "bouwaanvragen (met bouwtekeningen) en bouwsubsidieaanvragen, 1671-1795"@nl, "bouwaanvragen (met bouwtekeningen) en bouwsubsidieaanvragen, 1671-1795"@nl.
+<https://stad.gent/id/concept/670000035> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_collectie>;
+    a <http://www.w3.org/ns/prov#Collection>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_collectie>;
+    a <http://www.w3.org/ns/prov#Collection>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_collectie>;
+    a <http://www.w3.org/ns/prov#Collection>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_collectie>;
+    a <http://www.w3.org/ns/prov#Collection>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_collectie>;
+    a <http://www.w3.org/ns/prov#Collection>.
+<https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_collectie> <http://www.w3.org/2000/01/rdf-schema#label> "collectie", "collectie", "collectie", "collectie", "collectie".
+_:df_220_111 a <http://www.w3.org/ns/org#OrganizationalUnit>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oud Archief"^^<http://www.w3.org/1999/02/22-rdf-syntax-ns#langString>;
+    <http://www.w3.org/ns/org#unitOf> "http://www.wikidata.org/entity/Q41776192"^^<http://www.w3.org/ns/org#Organization>.
+_:df_220_110 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "https://inventaris.onroerenderfgoed.be/erfgoedobjecten?tekst"^^<https://stad.gent/id/identificatiesysteem/PID>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Type_alternatief_objectnummer>.
+<https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Type_alternatief_objectnummer> <http://www.w3.org/2000/01/rdf-schema#label> "alternatief_nummer", "alternatief_nummer".
+_:df_220_108 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "OA_535_003_09"^^<https://stad.gent/id/identificatiesysteem/objectnummer>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Waarde_objectnummer>.
+<https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Waarde_objectnummer> <http://www.w3.org/2000/01/rdf-schema#label> "objectnummer", "objectnummer", "objectnummer", "objectnummer", "objectnummer".
+_:df_220_106 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000708"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/archiefgent/objecten> <https://w3id.org/tree#member> <https://stad.gent/id/dossier/archiefgent/670000708/2021-12-31T15:31:45.596Z>.
+<https://stad.gent/id/dossier/archiefgent/670000697/2021-12-31T15:30:50.073Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/mensgemaaktobject/archiefgent/670000697>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T15:30:50.073Z";
+    <http://xmlns.com/foaf/0.1/page> <https://stad.gent/id/mensgemaaktobject/archiefgent/670000697/2021-12-31T15:30:50.073Z>;
+    <http://www.w3.org/ns/adms#identifier> _:df_226_81, _:df_226_83;
+    <http://www.cidoc-crm.org/cidoc-crm/P50_has_current_keeper> _:df_226_84;
+    <http://www.cidoc-crm.org/cidoc-crm/P46i_forms_part_of> <https://stad.gent/id/concept/670000035>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "SET";
+    <http://www.cidoc-crm.org/cidoc-crm/P41i_was_classified_by> _:df_226_87, _:df_226_89;
+    <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> "Gent: Huidevetterskaai, bouwaanvraag van Michiel Jacobus Dhooghe, 1769"@nl;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Bouwheer: Dhooghe, Michiel Jacobus. Ligging gebouw: twee distincte huijsekens ten voorhoofde achter leijen ende voorder daer achter streckende langhst een cleen vuijl ende slecht straetjen ter causen van dien ghenaemt het strontstraetje leedende van de Slijpstraete naar Achter Leijen. Beschrijving van de werken: twee huisjes met verschillende uitgangen en poortjes van verschillende kleine woningen verbouwen volgens het plan; het strontstraatje innemen en afsluiten (slechte reputatie). Het advies van de schepenen: goedgekeurd; bouwen op afgelijnde lijn; toelating voor het afsluiten van het straatje met een muur; riool leggen voor water afvoer van slijpstraat."@nl;
+    <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:df_226_97;
+    <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <https://stad.gent/id/mensgemaaktobject/670000698>;
+    <https://data.vlaanderen.be/ns/dossier#Dossier.bestaatUit> <https://stad.gent/id/mensgemaaktobject/670000698>, _:df_226_100;
+    <http://www.cidoc-crm.org/cidoc-crm/P24i_changed_ownership_through> _:df_226_104;
+    <http://www.cidoc-crm.org/cidoc-crm/P129i_is_subject_of> _:df_226_106;
+    a <https://data.vlaanderen.be/ns/dossier#Dossier>.
+_:df_226_106 <http://www.w3.org/ns/regorg#orgType> "DigitalObject"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/conformsTo> _:df_226_105.
+_:df_226_105 <http://www.w3.org/ns/regorg#orgType> "InformatieObject"^^<http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_226_104 a <http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition>;
+    <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:df_226_101;
+    <http://www.cidoc-crm.org/cidoc-crm/P32_used_general_technique> _:df_226_103;
+    <http://www.cidoc-crm.org/cidoc-crm/P24_transferred_title_of> <https://stad.gent/id/mensgemaaktobject/archiefgent/670000697>;
+    <http://www.cidoc-crm.org/cidoc-crm/P22_transferred_title_to> <http://www.wikidata.org/entity/Q41776192>.
+_:df_226_103 a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://stad.gent/id/concept/670000040>, <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Term_verwervingsmethode>.
+<https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Term_verwervingsmethode> <http://www.w3.org/2000/01/rdf-schema#label> "verwerving.methode", "verwerving.methode".
+<https://stad.gent/id/concept/670000040> <http://www.w3.org/2004/02/skos/core#prefLabel> "overdracht"@nl, "overdracht"@nl.
+_:df_226_101 a <http://data.europa.eu/m8g/PeriodOfTime>;
+    <http://data.europa.eu/m8g/startTime> "1769-04-10"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://data.europa.eu/m8g/endTime> "1769-04-10"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_226_100 a <https://data.vlaanderen.be/ns/dossier#Stuk>.
+<https://stad.gent/id/mensgemaaktobject/670000698> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> "Tekening: opstand voorgevel"^^<http://www.w3.org/1999/02/22-rdf-syntax-ns#langString>;
+    a <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object>;
+    <http://purl.org/dc/terms/title> "Tekening: opstand voorgevel";
+    a <https://data.vlaanderen.be/ns/dossier#Stuk>.
+_:df_226_97 a <http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object>;
+    <http://www.cidoc-crm.org/cidoc-crm/P128i_is_carried_by> <https://stad.gent/id/mensgemaaktobject/archiefgent/670000697>;
+    <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> _:df_226_92;
+    <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> _:df_226_94, _:df_226_96.
+_:df_226_96 a <http://www.w3.org/ns/prov#Entity>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://inventaris.onroerenderfgoed.be/themas/2752>, <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_geassocieerd_concept>.
+<https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_geassocieerd_concept> <http://www.w3.org/2000/01/rdf-schema#label> "associatie.onderwerp", "associatie.onderwerp", "associatie.onderwerp", "associatie.onderwerp".
+<https://inventaris.onroerenderfgoed.be/themas/2752> <http://www.w3.org/2004/02/skos/core#prefLabel> "Huidevetterskaai"@nl, "Huidevetterskaai"@nl.
+_:df_226_94 a <http://www.w3.org/ns/prov#Entity>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://inventaris.onroerenderfgoed.be/themas/2752>, <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_geassocieerd_concept>.
+_:df_226_92 a <http://www.w3.org/ns/person#Person>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://stad.gent/id/agent/670001167>, <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_geassocieerde_persoon_of_instelling>.
+<https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_geassocieerde_persoon_of_instelling> <http://www.w3.org/2000/01/rdf-schema#label> "associatie.persoon", "associatie.persoon".
+<https://stad.gent/id/agent/670001167> <http://www.w3.org/2000/01/rdf-schema#label> "Dhooghe, Michiel Jacobus".
+_:df_226_89 a <http://www.cidoc-crm.org/cidoc-crm/E17_Type_Assignment>;
+    <http://www.cidoc-crm.org/cidoc-crm/P41_classified> <https://stad.gent/id/mensgemaaktobject/archiefgent/670000697>;
+    <http://www.cidoc-crm.org/cidoc-crm/P42_assigned> <https://stad.gent/id/concept/670000057>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Term_objectnaam>.
+<https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Term_objectnaam> <http://www.w3.org/2000/01/rdf-schema#label> "objectnaam", "objectnaam", "objectnaam", "objectnaam", "objectnaam".
+<https://stad.gent/id/concept/670000057> <http://www.w3.org/2004/02/skos/core#prefLabel> "bouwdossier"@nl, "bouwdossier"@nl.
+_:df_226_87 a <http://www.cidoc-crm.org/cidoc-crm/E17_Type_Assignment>;
+    <http://www.cidoc-crm.org/cidoc-crm/P41_classified> <https://stad.gent/id/mensgemaaktobject/archiefgent/670000697>;
+    <http://www.cidoc-crm.org/cidoc-crm/P42_assigned> <https://stad.gent/id/concept/670000036>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Objectcategorie>.
+<https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Objectcategorie> <http://www.w3.org/2000/01/rdf-schema#label> "object_category", "object_category", "object_category", "object_category", "object_category".
+<https://stad.gent/id/concept/670000036> <http://www.w3.org/2004/02/skos/core#prefLabel> "bouwaanvragen (met bouwtekeningen) en bouwsubsidieaanvragen, 1671-1795"@nl, "bouwaanvragen (met bouwtekeningen) en bouwsubsidieaanvragen, 1671-1795"@nl, "bouwaanvragen (met bouwtekeningen) en bouwsubsidieaanvragen, 1671-1795"@nl, "bouwaanvragen (met bouwtekeningen) en bouwsubsidieaanvragen, 1671-1795"@nl, "bouwaanvragen (met bouwtekeningen) en bouwsubsidieaanvragen, 1671-1795"@nl.
+<https://stad.gent/id/concept/670000035> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_collectie>;
+    a <http://www.w3.org/ns/prov#Collection>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_collectie>;
+    a <http://www.w3.org/ns/prov#Collection>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_collectie>;
+    a <http://www.w3.org/ns/prov#Collection>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_collectie>;
+    a <http://www.w3.org/ns/prov#Collection>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_collectie>;
+    a <http://www.w3.org/ns/prov#Collection>.
+<https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_collectie> <http://www.w3.org/2000/01/rdf-schema#label> "collectie", "collectie", "collectie", "collectie", "collectie".
+_:df_226_84 a <http://www.w3.org/ns/org#OrganizationalUnit>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oud Archief"^^<http://www.w3.org/1999/02/22-rdf-syntax-ns#langString>;
+    <http://www.w3.org/ns/org#unitOf> "http://www.wikidata.org/entity/Q41776192"^^<http://www.w3.org/ns/org#Organization>.
+_:df_226_83 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "OA_535_003_03"^^<https://stad.gent/id/identificatiesysteem/objectnummer>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Waarde_objectnummer>.
+<https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Waarde_objectnummer> <http://www.w3.org/2000/01/rdf-schema#label> "objectnummer", "objectnummer", "objectnummer", "objectnummer", "objectnummer".
+_:df_226_81 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000697"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/archiefgent/objecten> <https://w3id.org/tree#member> <https://stad.gent/id/dossier/archiefgent/670000697/2021-12-31T15:30:50.073Z>.
+<https://www.pieter.pm/coghent-substrings/archiefgent-objecten/gent+h.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/archiefgent/objecten> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/archiefgent-objecten/gent+h.ttl>.

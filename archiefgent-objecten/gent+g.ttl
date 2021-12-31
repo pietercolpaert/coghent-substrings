@@ -1,0 +1,85 @@
+<https://stad.gent/id/dossier/archiefgent/670000699/2021-12-31T15:31:00.582Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/mensgemaaktobject/archiefgent/670000699>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T15:31:00.582Z";
+    <http://xmlns.com/foaf/0.1/page> <https://stad.gent/id/mensgemaaktobject/archiefgent/670000699/2021-12-31T15:31:00.582Z>;
+    <http://www.w3.org/ns/adms#identifier> _:df_223_2, _:df_223_4;
+    <http://www.cidoc-crm.org/cidoc-crm/P50_has_current_keeper> _:df_223_5;
+    <http://www.cidoc-crm.org/cidoc-crm/P46i_forms_part_of> <https://stad.gent/id/concept/670000035>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "SET";
+    <http://www.cidoc-crm.org/cidoc-crm/P41i_was_classified_by> _:df_223_8, _:df_223_10;
+    <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> "Gent: Groenbrugstraat, bouwaanvraag van Pieter van Rooten, 1769"@nl;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Bouwheer: van Rooten, Pieter. Ligging gebouw: eenen huijse stede ende erfve staende Bachter Leije komende met de erfve in het Groenstraetjen. Beschrijving van de werken: het huis afbreken en opbouwen volgens breedte van het model en de lager komende gevels vervangen volgens bijgevoegd plan. Het advies van de schepenen: goedgekeurd, mits de bouwlijn zal door de erfscheiders aangeduid worden."@nl;
+    <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:df_223_18;
+    <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <https://stad.gent/id/mensgemaaktobject/670000700>;
+    <https://data.vlaanderen.be/ns/dossier#Dossier.bestaatUit> <https://stad.gent/id/mensgemaaktobject/670000700>, _:df_223_21;
+    <http://www.cidoc-crm.org/cidoc-crm/P24i_changed_ownership_through> _:df_223_25;
+    <http://www.cidoc-crm.org/cidoc-crm/P129i_is_subject_of> _:df_223_27;
+    a <https://data.vlaanderen.be/ns/dossier#Dossier>.
+_:df_223_27 <http://www.w3.org/ns/regorg#orgType> "DigitalObject"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/conformsTo> _:df_223_26.
+_:df_223_26 <http://www.w3.org/ns/regorg#orgType> "InformatieObject"^^<http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_223_25 a <http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition>;
+    <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:df_223_22;
+    <http://www.cidoc-crm.org/cidoc-crm/P32_used_general_technique> _:df_223_24;
+    <http://www.cidoc-crm.org/cidoc-crm/P24_transferred_title_of> <https://stad.gent/id/mensgemaaktobject/archiefgent/670000699>;
+    <http://www.cidoc-crm.org/cidoc-crm/P22_transferred_title_to> <http://www.wikidata.org/entity/Q41776192>.
+_:df_223_24 a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://stad.gent/id/concept/670000040>, <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Term_verwervingsmethode>.
+<https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Term_verwervingsmethode> <http://www.w3.org/2000/01/rdf-schema#label> "verwerving.methode", "verwerving.methode".
+<https://stad.gent/id/concept/670000040> <http://www.w3.org/2004/02/skos/core#prefLabel> "overdracht"@nl, "overdracht"@nl.
+_:df_223_22 a <http://data.europa.eu/m8g/PeriodOfTime>;
+    <http://data.europa.eu/m8g/startTime> "1769-04-11"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://data.europa.eu/m8g/endTime> "1769-04-11"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_223_21 a <https://data.vlaanderen.be/ns/dossier#Stuk>.
+<https://stad.gent/id/mensgemaaktobject/670000700> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> "Tekening: opstand voorgevel"^^<http://www.w3.org/1999/02/22-rdf-syntax-ns#langString>;
+    a <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object>;
+    <http://purl.org/dc/terms/title> "Tekening: opstand voorgevel";
+    a <https://data.vlaanderen.be/ns/dossier#Stuk>.
+_:df_223_18 a <http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object>;
+    <http://www.cidoc-crm.org/cidoc-crm/P128i_is_carried_by> <https://stad.gent/id/mensgemaaktobject/archiefgent/670000699>;
+    <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> _:df_223_13;
+    <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> _:df_223_15, _:df_223_17.
+_:df_223_17 a <http://www.w3.org/ns/prov#Entity>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://inventaris.onroerenderfgoed.be/themas/2745>, <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_geassocieerd_concept>.
+<https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_geassocieerd_concept> <http://www.w3.org/2000/01/rdf-schema#label> "associatie.onderwerp", "associatie.onderwerp", "associatie.onderwerp", "associatie.onderwerp".
+<https://inventaris.onroerenderfgoed.be/themas/2745> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groenbrugstraat"@nl, "Groenbrugstraat"@nl.
+_:df_223_15 a <http://www.w3.org/ns/prov#Entity>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://inventaris.onroerenderfgoed.be/themas/2745>, <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_geassocieerd_concept>.
+_:df_223_13 a <http://www.w3.org/ns/person#Person>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://stad.gent/id/agent/670002779>, <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_geassocieerde_persoon_of_instelling>.
+<https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_geassocieerde_persoon_of_instelling> <http://www.w3.org/2000/01/rdf-schema#label> "associatie.persoon", "associatie.persoon".
+<https://stad.gent/id/agent/670002779> <http://www.w3.org/2000/01/rdf-schema#label> "van Rooten, Pieter".
+_:df_223_10 a <http://www.cidoc-crm.org/cidoc-crm/E17_Type_Assignment>;
+    <http://www.cidoc-crm.org/cidoc-crm/P41_classified> <https://stad.gent/id/mensgemaaktobject/archiefgent/670000699>;
+    <http://www.cidoc-crm.org/cidoc-crm/P42_assigned> <https://stad.gent/id/concept/670000057>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Term_objectnaam>.
+<https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Term_objectnaam> <http://www.w3.org/2000/01/rdf-schema#label> "objectnaam", "objectnaam", "objectnaam", "objectnaam", "objectnaam".
+<https://stad.gent/id/concept/670000057> <http://www.w3.org/2004/02/skos/core#prefLabel> "bouwdossier"@nl, "bouwdossier"@nl.
+_:df_223_8 a <http://www.cidoc-crm.org/cidoc-crm/E17_Type_Assignment>;
+    <http://www.cidoc-crm.org/cidoc-crm/P41_classified> <https://stad.gent/id/mensgemaaktobject/archiefgent/670000699>;
+    <http://www.cidoc-crm.org/cidoc-crm/P42_assigned> <https://stad.gent/id/concept/670000036>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Objectcategorie>.
+<https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Objectcategorie> <http://www.w3.org/2000/01/rdf-schema#label> "object_category", "object_category", "object_category", "object_category", "object_category".
+<https://stad.gent/id/concept/670000036> <http://www.w3.org/2004/02/skos/core#prefLabel> "bouwaanvragen (met bouwtekeningen) en bouwsubsidieaanvragen, 1671-1795"@nl, "bouwaanvragen (met bouwtekeningen) en bouwsubsidieaanvragen, 1671-1795"@nl, "bouwaanvragen (met bouwtekeningen) en bouwsubsidieaanvragen, 1671-1795"@nl, "bouwaanvragen (met bouwtekeningen) en bouwsubsidieaanvragen, 1671-1795"@nl, "bouwaanvragen (met bouwtekeningen) en bouwsubsidieaanvragen, 1671-1795"@nl.
+<https://stad.gent/id/concept/670000035> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_collectie>;
+    a <http://www.w3.org/ns/prov#Collection>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_collectie>;
+    a <http://www.w3.org/ns/prov#Collection>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_collectie>;
+    a <http://www.w3.org/ns/prov#Collection>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_collectie>;
+    a <http://www.w3.org/ns/prov#Collection>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_collectie>;
+    a <http://www.w3.org/ns/prov#Collection>.
+<https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_collectie> <http://www.w3.org/2000/01/rdf-schema#label> "collectie", "collectie", "collectie", "collectie", "collectie".
+_:df_223_5 a <http://www.w3.org/ns/org#OrganizationalUnit>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oud Archief"^^<http://www.w3.org/1999/02/22-rdf-syntax-ns#langString>;
+    <http://www.w3.org/ns/org#unitOf> "http://www.wikidata.org/entity/Q41776192"^^<http://www.w3.org/ns/org#Organization>.
+_:df_223_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "OA_535_003_04"^^<https://stad.gent/id/identificatiesysteem/objectnummer>;
+    <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Waarde_objectnummer>.
+<https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Waarde_objectnummer> <http://www.w3.org/2000/01/rdf-schema#label> "objectnummer", "objectnummer", "objectnummer", "objectnummer", "objectnummer".
+_:df_223_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000699"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/archiefgent/objecten> <https://w3id.org/tree#member> <https://stad.gent/id/dossier/archiefgent/670000699/2021-12-31T15:31:00.582Z>.
+<https://www.pieter.pm/coghent-substrings/archiefgent-objecten/gent+g.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/archiefgent/objecten> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/archiefgent-objecten/gent+g.ttl>.
