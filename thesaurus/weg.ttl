@@ -21,3 +21,37 @@ _:df_3175_27 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009968"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009968/2021-10-31T21:36:22.351Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/weg.ttl>.
+<https://stad.gent/id/concept/570009968/2022-09-24T05:33:45.761Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009968>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:33:45.761Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q358078>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1240_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wegennet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1240_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009968"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009968/2022-09-24T05:33:45.761Z>.
+<https://stad.gent/id/concept/570000233/2022-09-24T04:08:19.798Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000233>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:08:19.798Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300008217>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1849_36;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wegen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1849_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000233"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000233/2022-09-24T04:08:19.798Z>.
+<https://stad.gent/id/concept/670006589/2022-09-09T08:49:40.011Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006589>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:49:40.011Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4024_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Weg in die Vergangenheit"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4024_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006589"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006589/2022-09-09T08:49:40.011Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/weg.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/weg.ttl>.

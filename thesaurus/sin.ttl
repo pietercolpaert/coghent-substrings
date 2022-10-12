@@ -243,3 +243,264 @@ _:df_1_808 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/sing.ttl>;
     <https://w3id.org/tree#value> "sing".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/sin.ttl>.
+<https://stad.gent/id/concept/570008491/2022-09-24T04:48:45.391Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008491>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:48:45.391Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/7007989>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1561_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Niklaas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl.
+_:df_1561_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008491"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008491/2022-09-24T04:48:45.391Z>.
+<https://stad.gent/id/concept/570007949/2022-09-24T04:44:06.783Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007949>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:44:06.783Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/26205>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1594_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Lucasinstituut (Gent)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1594_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007949"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007949/2022-09-24T04:44:06.783Z>.
+<https://stad.gent/id/concept/550009264/2022-09-24T04:03:26.093Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009264>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:03:26.093Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1882_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Michielsbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550001540>;
+    <http://www.w3.org/2004/02/skos/core#note> "Vindplaats"@nl, "Collection place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gent"@nl, "Gent"@nl.
+_:df_1882_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009264"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009264/2022-09-24T04:03:26.093Z>.
+<https://stad.gent/id/concept/550008599/2022-09-24T03:36:26.035Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008599>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:36:26.035Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7252879>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2074_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Lievens-Houtem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004313>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "Vindplaats"@nl, "Collection place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004313> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen"@nl.
+_:df_2074_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008599"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008599/2022-09-24T03:36:26.035Z>.
+<https://stad.gent/id/concept/550006878/2022-09-24T02:31:33.084Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006878>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:31:33.084Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1041240>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2536_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sinsheim"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004734>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_2536_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006878"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006878/2022-09-24T02:31:33.084Z>.
+<https://stad.gent/id/concept/550006559/2022-09-24T02:20:56.643Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006559>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:20:56.643Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7253069>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2611_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Martens-Latem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004313>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "Vindplaats"@nl, "Collection place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004313> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen"@nl.
+_:df_2611_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006559"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006559/2022-09-24T02:20:56.643Z>.
+<https://stad.gent/id/concept/550006431/2022-09-24T02:16:59.397Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006431>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:16:59.397Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026735>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2641_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Michiels"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004834>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004834> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen"@nl.
+_:df_2641_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006431"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006431/2022-09-24T02:16:59.397Z>.
+<https://stad.gent/id/concept/550006407/2022-09-24T02:16:03.900Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006407>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:16:03.900Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026727>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2647_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Andries"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004834>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004834> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen"@nl.
+_:df_2647_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006407"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006407/2022-09-24T02:16:03.900Z>.
+<https://stad.gent/id/concept/550006247/2022-09-24T02:09:50.657Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006247>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:09:50.657Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7252904>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2692_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Katelijne-Waver"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005392>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005392> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl, "Antwerpen (provincie)"@nl.
+_:df_2692_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006247"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006247/2022-09-24T02:09:50.657Z>.
+<https://stad.gent/id/concept/550006166/2022-09-24T02:06:38.797Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006166>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:06:38.797Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026728>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2713_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Denijs-Westrem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004313>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004313> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen"@nl.
+_:df_2713_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006166"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006166/2022-09-24T02:06:38.797Z>.
+<https://stad.gent/id/concept/550005980/2022-09-24T01:59:24.429Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005980>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:59:24.429Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026726>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2764_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Amandsberg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004313>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004313> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen"@nl, "Oost-Vlaanderen"@nl.
+_:df_2764_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005980"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005980/2022-09-24T01:59:24.429Z>.
+<https://stad.gent/id/concept/550005744/2022-09-24T01:51:50.423Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005744>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:51:50.423Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008735>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2818_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Truiden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004370>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004370> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburg (provincie)"@nl.
+_:df_2818_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005744"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005744/2022-09-24T01:51:50.423Z>.
+<https://stad.gent/id/concept/550004933/2022-09-24T01:24:15.632Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004933>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:24:15.632Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7024703>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3016_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Amands"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005392>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005392> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl.
+_:df_3016_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004933"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004933/2022-09-24T01:24:15.632Z>.
+<https://stad.gent/id/concept/550004709/2022-09-24T01:17:05.774Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004709>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:17:05.774Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7010273>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3067_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Petersburg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550001875>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001875> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rusland"@nl.
+_:df_3067_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004709"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004709/2022-09-24T01:17:05.774Z>.
+<https://stad.gent/id/concept/550004259/2022-09-24T01:01:11.513Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004259>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:01:11.513Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7000381>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3181_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Singapore"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550003505>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003505> <http://www.w3.org/2004/02/skos/core#prefLabel> "Azië"@nl.
+_:df_3181_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004259"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004259/2022-09-24T01:01:11.513Z>.
+<https://stad.gent/id/concept/550000980/2022-09-24T00:12:51.794Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000980>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:12:51.794Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007989>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3526_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Niklaas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004313>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004313> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen"@nl.
+_:df_3526_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000980"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000980/2022-09-24T00:12:51.794Z>.
+<https://stad.gent/id/concept/550000404/2022-09-24T00:05:57.396Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000404>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:05:57.396Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026710>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3574_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Gillis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008923>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008923> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brussels Hoofdstedelijk Gewest"@nl.
+_:df_3574_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000404"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000404/2022-09-24T00:05:57.396Z>.
+<https://stad.gent/id/concept/670001492/2022-09-13T00:00:59.924Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001492>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-13T00:00:59.924Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3697_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Agnetebrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3697_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001492"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001492/2022-09-13T00:00:59.924Z>.
+<https://stad.gent/id/concept/670007089/2022-09-09T09:29:41.089Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670007089>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:29:41.089Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/126537>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3736_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Bernadettestraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3736_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670007089"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670007089/2022-09-09T09:29:41.089Z>.
+<https://stad.gent/id/concept/670007087/2022-09-09T09:29:36.087Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670007087>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:29:36.087Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3739_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Baafskouterstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3739_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670007087"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670007087/2022-09-09T09:29:36.087Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/sin.ttl> <https://w3id.org/tree#relation> _:df_1_1385.
+_:df_1_1385 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/sint.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "sint".
+<https://www.pieter.pm/coghent-substrings/thesaurus/sin.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/sin.ttl>.

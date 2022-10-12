@@ -9,3 +9,15 @@ _:df_1828_25 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570019044"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019044/2021-11-01T00:46:31.587Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/onb.ttl>.
+<https://stad.gent/id/concept/550000114/2022-09-24T00:02:35.624Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000114>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:02:35.624Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3598_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "onbekend"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "verwervingsmethode"@nl, "acquisition method"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "inscriptie positie"@nl, "inscription position"@en, "periode"@nl, "period"@en, "objectnaam"@nl, "object name"@en, "materiaal"@nl, "material"@en, "Vindplaats"@nl, "Collection place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3598_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000114"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000114/2022-09-24T00:02:35.624Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/onb.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/onb.ttl>.

@@ -10,3 +10,51 @@ _:df_2146_20 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570017072"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017072/2021-11-01T00:01:39.308Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/kos.ttl>.
+<https://stad.gent/id/concept/570006732/2022-09-24T04:37:37.011Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006732>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:37:37.011Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300178802>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1639_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kostuum"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1639_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006732"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006732/2022-09-24T04:37:37.011Z>.
+<https://stad.gent/id/concept/550007783/2022-09-24T02:40:28.305Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007783>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:40:28.305Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300178802>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2473_35;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De wijze van mode van persoonlijke kledij en dracht met inbegrip van de manier van het dragen van het haar, de stijl van kleding, sieraden, kronen, scepters, en andere accessoires van persoonlijke versiering, behorend tot een bepaalde natie, klasse, periode, of speciale gelegenheid, met inbegrip van alle artikelen gedragen of door mensen voor warmte, bescherming, verfraaiing, of symbolische doeleinden uitgevoerd. In het Engels, in het algemeen uitgedrukt in het enkelvoud.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kostuum (wijze van mode)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004876>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007850>, <https://stad.gent/id/concept/550007832>, <https://stad.gent/id/concept/550007782>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007782> <http://www.w3.org/2004/02/skos/core#prefLabel> "kledingaccessoires"@nl, "kledingaccessoires"@nl.
+<https://stad.gent/id/concept/550007832> <http://www.w3.org/2004/02/skos/core#prefLabel> "kleding naar functie"@nl.
+<https://stad.gent/id/concept/550007850> <http://www.w3.org/2004/02/skos/core#prefLabel> "kleding"@nl.
+<https://stad.gent/id/concept/550004876> <http://www.w3.org/2004/02/skos/core#prefLabel> "kostuum"@nl, "kostuum"@nl.
+_:df_2473_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007783"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007783> <http://www.w3.org/2004/02/skos/core#prefLabel> "kostuum (wijze van mode)"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007783/2022-09-24T02:40:28.305Z>.
+<https://stad.gent/id/concept/550004876/2022-09-24T01:22:55.163Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004876>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:22:55.163Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209261>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3025_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De hiërarchie Kleding bevat descriptoren voor objecten die worden gedragen om warmte of bescherming te bieden, als verfraaiing of voor symbolische doeleinden. De hiërarchie bevat descriptoren voor kledingstukken die als hoofdelement van de kleding worden beschouwd (bijvoorbeeld 'overhemden' of 'broeken'), descriptoren voor kleding die onder de hoofdkleding wordt gedragen (bijvoorbeeld 'onderhemden') en descriptoren voor kledingstukken die over de hoofdkleding worden gedragen (bijvoorbeeld 'parka's'). Daarnaast zijn descriptoren opgenomen voor: beschermende kledij, met inbegrip van soorten harnassen; liturgische gewaden en andere ceremoniële kledij; uniformen; plus een uitgebreide lijst accessoires, met inbegrip van accessoires die op het lichaam worden gedragen (bijvoorbeeld 'hoofddeksels', 'schoeisel') en accessoires die een persoon meedraagt (bijvoorbeeld 'avondtasjes', 'parasols'). Relatie met andere hiërarchieën: de descriptoren 'zakhorloges' en 'polshorloges', evenals andere soorten uurwerken, zijn opgenomen in de hiërarchie Meetinstrumenten. De descriptoren 'zakpistolen' en 'staatsiezwaarden' verschijnen naast andere wapentypen in de hiërarchie Wapens en Munitie. Descriptoren voor objecten die kunnen worden gebruikt voor het onderhoud van kleding of de verzorging van de persoon zelf (bijvoorbeeld 'kledingborstels', 'nagelknippers') verschijnen in de hiërarchie Gereedschap en Uitrusting. Descriptoren voor objecten die worden gebruikt voor de opslag of het vervoer van kleding of andere persoonlijke eigendommen (bijvoorbeeld 'handschoenendozen', 'koffers') verschijnen in de hiërarchie Houders. Samenstellende delen van kleding (bijvoorbeeld 'busks', 'taillebanden') zijn opgenomen in de hiërarchie Componenten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kostuum"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007784>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007783>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007783> <http://www.w3.org/2004/02/skos/core#prefLabel> "kostuum (wijze van mode)"@nl.
+<https://stad.gent/id/concept/550007784> <http://www.w3.org/2004/02/skos/core#prefLabel> "gebruiksartikelen en uitrusting"@nl.
+_:df_3025_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004876"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004876/2022-09-24T01:22:55.163Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/kos.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/kos.ttl>.

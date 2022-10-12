@@ -21,3 +21,177 @@ _:df_2275_14 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570016602"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016602/2021-10-31T23:43:22.818Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/laa.ttl>.
+<https://stad.gent/id/concept/570005409/2022-09-24T04:30:17.449Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570005409>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:30:17.449Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1100301>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1693_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Laarne"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_1693_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570005409"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570005409/2022-09-24T04:30:17.449Z>.
+<https://stad.gent/id/concept/550009126/2022-09-24T04:01:03.927Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009126>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:01:03.927Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1900_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "laat-neolithicum"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1900_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009126"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009126/2022-09-24T04:01:03.927Z>.
+<https://stad.gent/id/concept/550007973/2022-09-24T02:56:12.342Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007973>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:56:12.342Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300194573>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2359_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "laat-westerse wereldmunten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007976>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007977>, <https://stad.gent/id/concept/550007972>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007972> <http://www.w3.org/2004/02/skos/core#prefLabel> "laat-westerse wereldmunten naar naamsomschrijving"@nl.
+<https://stad.gent/id/concept/550007977> <http://www.w3.org/2004/02/skos/core#prefLabel> "laat-westerse wereldmunten naar coupure"@nl.
+<https://stad.gent/id/concept/550007976> <http://www.w3.org/2004/02/skos/core#prefLabel> "munten naar herkomst"@nl, "munten naar herkomst"@nl.
+_:df_2359_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007973"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007973> <http://www.w3.org/2004/02/skos/core#prefLabel> "laat-westerse wereldmunten"@nl, "laat-westerse wereldmunten"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007973/2022-09-24T02:56:12.342Z>.
+<https://stad.gent/id/concept/550007977/2022-09-24T02:56:32.361Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007977>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:56:32.361Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300204267>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2359_36;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "laat-westerse wereldmunten naar coupure"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007973>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550003733>, <https://stad.gent/id/concept/550003728>, <https://stad.gent/id/concept/550003698>, <https://stad.gent/id/concept/550003692>, <https://stad.gent/id/concept/550003703>, <https://stad.gent/id/concept/550003681>, <https://stad.gent/id/concept/550003699>, <https://stad.gent/id/concept/550004934>, <https://stad.gent/id/concept/550003736>, <https://stad.gent/id/concept/550003181>, <https://stad.gent/id/concept/550003668>, <https://stad.gent/id/concept/550003773>, <https://stad.gent/id/concept/550003737>, <https://stad.gent/id/concept/550003697>, <https://stad.gent/id/concept/550004938>, <https://stad.gent/id/concept/550003688>, <https://stad.gent/id/concept/550003720>, <https://stad.gent/id/concept/550003677>, <https://stad.gent/id/concept/550003683>, <https://stad.gent/id/concept/550003696>, <https://stad.gent/id/concept/550003682>, <https://stad.gent/id/concept/550003675>, <https://stad.gent/id/concept/550003759>, <https://stad.gent/id/concept/550003722>, <https://stad.gent/id/concept/550003695>, <https://stad.gent/id/concept/550003684>, <https://stad.gent/id/concept/550003730>, <https://stad.gent/id/concept/550003767>, <https://stad.gent/id/concept/550003676>, <https://stad.gent/id/concept/550003714>, <https://stad.gent/id/concept/550003753>, <https://stad.gent/id/concept/550003693>, <https://stad.gent/id/concept/550003670>, <https://stad.gent/id/concept/550003735>, <https://stad.gent/id/concept/550003742>, <https://stad.gent/id/concept/550003729>, <https://stad.gent/id/concept/550003674>, <https://stad.gent/id/concept/550003669>, <https://stad.gent/id/concept/550003740>, <https://stad.gent/id/concept/550003723>, <https://stad.gent/id/concept/550003761>, <https://stad.gent/id/concept/550003672>, <https://stad.gent/id/concept/550003721>, <https://stad.gent/id/concept/550003679>, <https://stad.gent/id/concept/550003680>, <https://stad.gent/id/concept/550003702>, <https://stad.gent/id/concept/550001985>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001985> <http://www.w3.org/2004/02/skos/core#prefLabel> "vuurslag (munt)"@nl.
+<https://stad.gent/id/concept/550003702> <http://www.w3.org/2004/02/skos/core#prefLabel> "vuurijzer"@nl.
+<https://stad.gent/id/concept/550003680> <http://www.w3.org/2004/02/skos/core#prefLabel> "vierstuiver"@nl.
+<https://stad.gent/id/concept/550003679> <http://www.w3.org/2004/02/skos/core#prefLabel> "vierlander"@nl.
+<https://stad.gent/id/concept/550003721> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tournois"@nl.
+<https://stad.gent/id/concept/550003672> <http://www.w3.org/2004/02/skos/core#prefLabel> "stuiver"@nl.
+<https://stad.gent/id/concept/550003761> <http://www.w3.org/2004/02/skos/core#prefLabel> "sterling"@nl.
+<https://stad.gent/id/concept/550003723> <http://www.w3.org/2004/02/skos/core#prefLabel> "sol"@nl.
+<https://stad.gent/id/concept/550003740> <http://www.w3.org/2004/02/skos/core#prefLabel> "schilling"@nl.
+<https://stad.gent/id/concept/550003669> <http://www.w3.org/2004/02/skos/core#prefLabel> "schelling"@nl.
+<https://stad.gent/id/concept/550003674> <http://www.w3.org/2004/02/skos/core#prefLabel> "reaal"@nl.
+<https://stad.gent/id/concept/550003729> <http://www.w3.org/2004/02/skos/core#prefLabel> "punt"@nl.
+<https://stad.gent/id/concept/550003742> <http://www.w3.org/2004/02/skos/core#prefLabel> "pice"@nl.
+<https://stad.gent/id/concept/550003735> <http://www.w3.org/2004/02/skos/core#prefLabel> "penny"@nl.
+<https://stad.gent/id/concept/550003670> <http://www.w3.org/2004/02/skos/core#prefLabel> "patagon"@nl.
+<https://stad.gent/id/concept/550003693> <http://www.w3.org/2004/02/skos/core#prefLabel> "pasmunt"@nl.
+<https://stad.gent/id/concept/550003753> <http://www.w3.org/2004/02/skos/core#prefLabel> "ore"@nl.
+<https://stad.gent/id/concept/550003714> <http://www.w3.org/2004/02/skos/core#prefLabel> "oord"@nl.
+<https://stad.gent/id/concept/550003676> <http://www.w3.org/2004/02/skos/core#prefLabel> "nobel (munt)"@nl.
+<https://stad.gent/id/concept/550003767> <http://www.w3.org/2004/02/skos/core#prefLabel> "munt (fictief)"@nl.
+<https://stad.gent/id/concept/550003730> <http://www.w3.org/2004/02/skos/core#prefLabel> "mijt"@nl.
+<https://stad.gent/id/concept/550003684> <http://www.w3.org/2004/02/skos/core#prefLabel> "mijt"@nl.
+<https://stad.gent/id/concept/550003695> <http://www.w3.org/2004/02/skos/core#prefLabel> "liart"@nl.
+<https://stad.gent/id/concept/550003722> <http://www.w3.org/2004/02/skos/core#prefLabel> "liard"@nl.
+<https://stad.gent/id/concept/550003759> <http://www.w3.org/2004/02/skos/core#prefLabel> "leeuwengroot"@nl.
+<https://stad.gent/id/concept/550003675> <http://www.w3.org/2004/02/skos/core#prefLabel> "leeuw"@nl.
+<https://stad.gent/id/concept/550003682> <http://www.w3.org/2004/02/skos/core#prefLabel> "lam"@nl.
+<https://stad.gent/id/concept/550003696> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kreuzer"@nl.
+<https://stad.gent/id/concept/550003683> <http://www.w3.org/2004/02/skos/core#prefLabel> "klinkaart (munt)"@nl.
+<https://stad.gent/id/concept/550003677> <http://www.w3.org/2004/02/skos/core#prefLabel> "gulden"@nl.
+<https://stad.gent/id/concept/550003720> <http://www.w3.org/2004/02/skos/core#prefLabel> "guenard"@nl.
+<https://stad.gent/id/concept/550003688> <http://www.w3.org/2004/02/skos/core#prefLabel> "groot"@nl.
+<https://stad.gent/id/concept/550004938> <http://www.w3.org/2004/02/skos/core#prefLabel> "gouden rijder"@nl.
+<https://stad.gent/id/concept/550003697> <http://www.w3.org/2004/02/skos/core#prefLabel> "frank"@nl.
+<https://stad.gent/id/concept/550003737> <http://www.w3.org/2004/02/skos/core#prefLabel> "farthing"@nl.
+<https://stad.gent/id/concept/550003773> <http://www.w3.org/2004/02/skos/core#prefLabel> "esterling"@nl.
+<https://stad.gent/id/concept/550003668> <http://www.w3.org/2004/02/skos/core#prefLabel> "dukaton"@nl.
+<https://stad.gent/id/concept/550003181> <http://www.w3.org/2004/02/skos/core#prefLabel> "dukaat"@nl.
+<https://stad.gent/id/concept/550003736> <http://www.w3.org/2004/02/skos/core#prefLabel> "double"@nl.
+<https://stad.gent/id/concept/550004934> <http://www.w3.org/2004/02/skos/core#prefLabel> "denier"@nl.
+<https://stad.gent/id/concept/550003699> <http://www.w3.org/2004/02/skos/core#prefLabel> "decime"@nl.
+<https://stad.gent/id/concept/550003681> <http://www.w3.org/2004/02/skos/core#prefLabel> "daalder"@nl.
+<https://stad.gent/id/concept/550003703> <http://www.w3.org/2004/02/skos/core#prefLabel> "corte"@nl.
+<https://stad.gent/id/concept/550003692> <http://www.w3.org/2004/02/skos/core#prefLabel> "centimes"@nl.
+<https://stad.gent/id/concept/550003698> <http://www.w3.org/2004/02/skos/core#prefLabel> "cent"@nl.
+<https://stad.gent/id/concept/550003728> <http://www.w3.org/2004/02/skos/core#prefLabel> "botdrager"@nl.
+<https://stad.gent/id/concept/550003733> <http://www.w3.org/2004/02/skos/core#prefLabel> "Anna"@nl.
+<https://stad.gent/id/concept/550007973> <http://www.w3.org/2004/02/skos/core#prefLabel> "laat-westerse wereldmunten"@nl, "laat-westerse wereldmunten"@nl.
+_:df_2359_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007977"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007977> <http://www.w3.org/2004/02/skos/core#prefLabel> "laat-westerse wereldmunten naar coupure"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007977/2022-09-24T02:56:32.361Z>.
+<https://stad.gent/id/concept/550007972/2022-09-24T02:56:07.340Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007972>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:56:07.340Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300204274>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2362_37;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "laat-westerse wereldmunten naar naamsomschrijving"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007973>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550003673>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003673> <http://www.w3.org/2004/02/skos/core#prefLabel> "carolusgulden"@nl.
+<https://stad.gent/id/concept/550007973> <http://www.w3.org/2004/02/skos/core#prefLabel> "laat-westerse wereldmunten"@nl.
+_:df_2362_37 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007972"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007972/2022-09-24T02:56:07.340Z>.
+<https://stad.gent/id/concept/550007559/2022-09-24T02:34:29.985Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007559>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:34:29.985Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300204668>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2515_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Stokken die worden gebruikt vanaf de 15e eeuw om de kogel en de kruitlading tegen het achterstuk van de loop te duwen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "laadstok"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007792>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007792> <http://www.w3.org/2004/02/skos/core#prefLabel> "vuurwapenonderdelen"@nl, "vuurwapenonderdelen"@nl.
+_:df_2515_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007559"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007559/2022-09-24T02:34:29.985Z>.
+<https://stad.gent/id/concept/550005211/2022-09-24T01:32:55.516Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005211>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:32:55.516Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1100301>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2953_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Laarne"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004313>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004313> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen"@nl.
+_:df_2953_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005211"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005211/2022-09-24T01:32:55.516Z>.
+<https://stad.gent/id/concept/550003117/2022-09-24T00:45:30.145Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003117>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:45:30.145Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046057>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3292_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Schoeisel waarvan de schacht tot boven het enkelgewricht loopt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "laars"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008317>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008317> <http://www.w3.org/2004/02/skos/core#prefLabel> "schoeisel naar vorm"@nl.
+_:df_3292_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003117"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003117/2022-09-24T00:45:30.145Z>.
+<https://stad.gent/id/concept/550001920/2022-09-24T00:28:31.148Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001920>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:28:31.148Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300204668>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3412_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Stokken die worden gebruikt vanaf de 15e eeuw om de kogel en de kruitlading tegen het achterstuk van de loop te duwen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "laadstok"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007792>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007792> <http://www.w3.org/2004/02/skos/core#prefLabel> "vuurwapenonderdelen"@nl.
+_:df_3412_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001920"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001920/2022-09-24T00:28:31.148Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/laa.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/laa.ttl>.

@@ -65,3 +65,150 @@ _:df_2956_11 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570012265"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012265/2021-10-31T22:06:59.069Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/doo.ttl>.
+<https://stad.gent/id/concept/570009161/2022-09-24T05:11:32.450Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009161>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:11:32.450Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300045643>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1399_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "doos"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "inscriptie positie"@nl, "inscription position"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1399_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009161"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009161/2022-09-24T05:11:32.450Z>.
+<https://stad.gent/id/concept/550006527/2022-09-24T02:19:50.831Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006527>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:19:50.831Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7260451>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2620_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Doornspijk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006121>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006121> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_2620_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006527"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006527/2022-09-24T02:19:50.831Z>.
+<https://stad.gent/id/concept/550005327/2022-09-24T01:38:53.728Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005327>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:38:53.728Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2911_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Specifieke kleding die tijdens de doopplechtigheid door de dopeling (en soms ook door de doopouders) wordt gedragen";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "doopkleding"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007832>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007832> <http://www.w3.org/2004/02/skos/core#prefLabel> "kleding naar functie"@nl.
+_:df_2911_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005327"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005327/2022-09-24T01:38:53.728Z>.
+<https://stad.gent/id/concept/550005069/2022-09-24T01:27:42.488Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005069>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:27:42.488Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2992_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Stoppen is een handwerktechniek om gaten in breiwerk of weefsel te herstellen met naald en draad. Dit wordt ook wel 'verstellen' genoemd.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "doorstoppen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2992_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005069"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005069/2022-09-24T01:27:42.488Z>.
+<https://stad.gent/id/concept/550004997/2022-09-24T01:25:41.607Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004997>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:25:41.607Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300265752>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3007_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Lange jurken, doorgaans verfijnd afgewerkt met kant, kralenwerk of borduursel, en tijdens de doop gedragen door baby's.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "doopkleed"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007848>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007848> <http://www.w3.org/2004/02/skos/core#prefLabel> "japonnen naar functie"@nl.
+_:df_3007_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004997"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004997/2022-09-24T01:25:41.607Z>.
+<https://stad.gent/id/concept/550004781/2022-09-24T01:19:11.680Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004781>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:19:11.680Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300391140>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3052_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Grote metalen schotel met religieuze afbeeldingen in maat variërend van ca. 20 cm. tot ca. 65 cm, meestal gemaakt uit koperlegeringen zoals messing. Werd vervaardigd in de zestiende tot de achttiende eeuw. De schotel werd gebruikt tijdens het wassen en later als versiering aan de muur gehangen maar kon ook in de kerk worden gebruikt bij de doop en als offerschotel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "doopschotel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005809>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005809> <http://www.w3.org/2004/02/skos/core#prefLabel> "aandenken"@nl.
+_:df_3052_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004781"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004781/2022-09-24T01:19:11.680Z>.
+<https://stad.gent/id/concept/550004568/2022-09-24T01:10:32.143Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004568>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:10:32.143Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7260454>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3115_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Doornik"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008925>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "Vindplaats"@nl, "Collection place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008925> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen"@nl.
+_:df_3115_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004568"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004568/2022-09-24T01:10:32.143Z>.
+<https://stad.gent/id/concept/550003982/2022-09-24T00:58:35.059Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003982>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:58:35.059Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300080617>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3199_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Bekkens of andere vaten, die vaak op een voetstuk geplaatst zijn en water bevatten voor de doop.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "doopvont"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007910>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007910> <http://www.w3.org/2004/02/skos/core#prefLabel> "meubilair van christelijke religieuze gebouwen"@nl, "meubilair van christelijke religieuze gebouwen"@nl.
+_:df_3199_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003982"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003982/2022-09-24T00:58:35.059Z>.
+<https://stad.gent/id/concept/550001204/2022-09-24T00:16:08.194Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001204>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:16:08.194Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3502_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een pot, van gebakken aarde, koper of ook wel ijzer, met een deksel zodat er geen lucht in kan. Zo kunnen gloeiende kolen gedoofd worden tot houtskool. (MOT)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "doofpot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007827>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007827> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders naar functie of context"@nl.
+_:df_3502_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001204"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001204/2022-09-24T00:16:08.194Z>.
+<https://stad.gent/id/concept/550001095/2022-09-24T00:14:57.718Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001095>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:14:57.718Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300045643>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3511_35;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verpakkingen, vaak rechthoekig, meestal met een klep of deksel, waarin iets niet-vloeibaars wordt bewaard of gedragen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "doos (houder)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007776>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008141>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008141> <http://www.w3.org/2004/02/skos/core#prefLabel> "bak"@nl.
+<https://stad.gent/id/concept/550007776> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders naar vorm"@nl.
+_:df_3511_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001095"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001095/2022-09-24T00:14:57.718Z>.
+<https://stad.gent/id/concept/530004478/2022-09-20T00:00:24.397Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004478>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-20T00:00:24.397Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3625_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Stoppen is een handwerktechniek om gaten in breiwerk of weefsel te herstellen met naald en draad. Dit wordt ook wel 'verstellen' genoemd.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "doorstoppen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008586>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008586> <http://www.w3.org/2004/02/skos/core#prefLabel> "naaldwerk en naaldwerktechniek"@nl.
+_:df_3625_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004478"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004478/2022-09-20T00:00:24.397Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/doo.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/doo.ttl>.

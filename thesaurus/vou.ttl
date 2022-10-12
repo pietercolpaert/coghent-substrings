@@ -19,3 +19,37 @@ _:df_3214_22 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009700"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009700/2021-10-31T21:30:47.670Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/vou.ttl>.
+<https://stad.gent/id/concept/570004395/2022-09-24T04:27:44.773Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570004395>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:27:44.773Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300428849>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1711_30;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Machine voor het vouwen van gedrukte vellen papier en katernen";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vouwmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1711_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570004395"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570004395/2022-09-24T04:27:44.773Z>.
+<https://stad.gent/id/concept/670006552/2022-09-09T08:46:33.622Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006552>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:46:33.622Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4045_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vous Pigez?"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4045_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006552"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006552/2022-09-09T08:46:33.622Z>.
+<https://stad.gent/id/concept/670006553/2022-09-09T08:46:38.625Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006553>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:46:38.625Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4045_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vous seule que j'aime…"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4045_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006553"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006553/2022-09-09T08:46:38.625Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/vou.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/vou.ttl>.

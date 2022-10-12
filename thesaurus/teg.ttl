@@ -21,3 +21,48 @@ _:df_1858_21 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570018963"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018963/2021-11-01T00:42:13.453Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/teg.ttl>.
+<https://stad.gent/id/concept/550008087/2022-09-24T03:05:38.566Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008087>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:05:38.566Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2293_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tegel (object)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008084>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550002774>, <https://stad.gent/id/concept/550005831>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005831> <http://www.w3.org/2004/02/skos/core#prefLabel> "wandtegel"@nl.
+<https://stad.gent/id/concept/550002774> <http://www.w3.org/2004/02/skos/core#prefLabel> "vloertegel"@nl.
+<https://stad.gent/id/concept/550008084> <http://www.w3.org/2004/02/skos/core#prefLabel> "objectgenres naar materiaal"@nl.
+_:df_2293_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008087"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008087/2022-09-24T03:05:38.566Z>.
+<https://stad.gent/id/concept/550002916/2022-09-24T00:43:24.338Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002916>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:43:24.338Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900032752>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3307_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een tegeltableau is een meestal figuratief beschilderde voorstelling op een in aardewerk tegels verdeeld vlak, dat na de beschildering is gebakken en geglazuurd.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tegeltableau"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007769>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007769> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldmateriaal naar medium of techniek"@nl.
+_:df_3307_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002916"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002916/2022-09-24T00:43:24.338Z>.
+<https://stad.gent/id/concept/530005288/2022-09-15T00:02:20.255Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005288>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-15T00:02:20.255Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411607>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3655_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een tegeltableau is een meestal figuratief beschilderde voorstelling op een in aardewerk tegels verdeeld vlak, dat na de beschildering is gebakken en geglazuurd.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tegeltableau"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005468>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005468> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldmateriaal"@nl.
+_:df_3655_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005288"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005288/2022-09-15T00:02:20.255Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/teg.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/teg.ttl>.

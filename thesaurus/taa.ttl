@@ -20,3 +20,95 @@ _:df_3148_7 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010076"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010076/2021-10-31T21:39:55.439Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/taa.ttl>.
+<https://stad.gent/id/concept/570011410/2022-09-24T05:55:43.397Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011410>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:55:43.397Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300388486>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1084_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Japans"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "taal"@nl, "language"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1084_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011410"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011410/2022-09-24T05:55:43.397Z>.
+<https://stad.gent/id/concept/570010076/2022-09-24T05:37:17.348Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010076>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:37:17.348Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1216_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "taalboek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1216_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010076"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010076/2022-09-24T05:37:17.348Z>.
+<https://stad.gent/id/concept/570009289/2022-09-24T05:17:10.067Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009289>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:17:10.067Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300389471>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1360_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Turks"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "taal"@nl, "language"@en, "nationaliteit"@nl, "nationality"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1360_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009289"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009289/2022-09-24T05:17:10.067Z>.
+<https://stad.gent/id/concept/570009263/2022-09-24T05:16:02.178Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009263>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:16:02.178Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054244>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1366_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "taalonderwijs"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1366_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009263"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009263/2022-09-24T05:16:02.178Z>.
+<https://stad.gent/id/concept/570008506/2022-09-24T04:49:10.403Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008506>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:49:10.403Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q652>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1558_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Italiaans"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "taal"@nl, "language"@en, "nationaliteit"@nl, "nationality"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1558_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008506"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008506/2022-09-24T04:49:10.403Z>.
+<https://stad.gent/id/concept/570000545/2022-09-24T04:10:46.290Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000545>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:10:46.290Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q150>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1831_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Frans"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "taal"@nl, "language"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1831_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000545"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000545/2022-09-24T04:10:46.290Z>.
+<https://stad.gent/id/concept/570000146/2022-09-24T04:07:29.385Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000146>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:07:29.385Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q188>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1855_34;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Duits"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "taal"@nl, "language"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1855_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000146"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000146/2022-09-24T04:07:29.385Z>.
+<https://stad.gent/id/concept/550004816/2022-09-24T01:21:09.211Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004816>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:21:09.211Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300200718>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3037_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gerei met twee lange tanden en een handvat dat wordt gebruikt voor het plaatsen van taarten in en verwijderen uit een oven. Gebruik 'schietschoppen' voor plat, peddelachtig gerei dat wordt gebruikt voor het plaatsen in en verwijderen van voedsel uit een oven.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "taartschep"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008316>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008316> <http://www.w3.org/2004/02/skos/core#prefLabel> "keukengereedschap voor het hanteren van voedsel"@nl.
+_:df_3037_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004816"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004816/2022-09-24T01:21:09.211Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/taa.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/taa.ttl>.

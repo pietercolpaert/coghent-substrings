@@ -74,3 +74,140 @@ _:df_3124_30 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010178"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010178/2021-10-31T21:43:27.929Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/die.ttl>.
+<https://stad.gent/id/concept/570000313/2022-09-24T04:09:25.458Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000313>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:09:25.458Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054472>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1840_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dierkunde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1840_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000313"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000313/2022-09-24T04:09:25.458Z>.
+<https://stad.gent/id/concept/550008854/2022-09-24T03:51:01.377Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008854>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:51:01.377Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300191588>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1972_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dierlijk materiaal naar vorm of functie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008759>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008866>, <https://stad.gent/id/concept/550008853>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008853> <http://www.w3.org/2004/02/skos/core#prefLabel> "skelet en skeletdelen"@nl, "skelet en skeletdelen"@nl.
+<https://stad.gent/id/concept/550008866> <http://www.w3.org/2004/02/skos/core#prefLabel> "ei en eierbestanddelen"@nl.
+<https://stad.gent/id/concept/550008759> <http://www.w3.org/2004/02/skos/core#prefLabel> "dierlijk materiaal"@nl.
+_:df_1972_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008854"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008854> <http://www.w3.org/2004/02/skos/core#prefLabel> "dierlijk materiaal naar vorm of functie"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008854/2022-09-24T03:51:01.377Z>.
+<https://stad.gent/id/concept/550008151/2022-09-24T03:10:58.991Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008151>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:10:58.991Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300239147>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2254_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dierenuitrusting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007780>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550009246>, <https://stad.gent/id/concept/550001915>, <https://stad.gent/id/concept/550003212>, <https://stad.gent/id/concept/550008285>, <https://stad.gent/id/concept/550008286>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008286> <http://www.w3.org/2004/02/skos/core#prefLabel> "werkuitrusting van dieren"@nl.
+<https://stad.gent/id/concept/550008285> <http://www.w3.org/2004/02/skos/core#prefLabel> "paardeharnasstuk"@nl.
+<https://stad.gent/id/concept/550003212> <http://www.w3.org/2004/02/skos/core#prefLabel> "hoefijzer (dierenuitrusting)"@nl.
+<https://stad.gent/id/concept/550001915> <http://www.w3.org/2004/02/skos/core#prefLabel> "halsband (dier)"@nl.
+<https://stad.gent/id/concept/550009246> <http://www.w3.org/2004/02/skos/core#prefLabel> "brandijzer"@nl.
+<https://stad.gent/id/concept/550007780> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting naar context"@nl.
+_:df_2254_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008151"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008151/2022-09-24T03:10:58.991Z>.
+<https://stad.gent/id/concept/550006254/2022-09-24T02:10:20.669Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006254>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:10:20.669Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007874>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2686_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Diest"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008920>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008920> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams-Brabant"@nl.
+_:df_2686_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006254"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006254/2022-09-24T02:10:20.669Z>.
+<https://stad.gent/id/concept/550005961/2022-09-24T01:58:54.409Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005961>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:58:54.409Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008922>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2770_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Dieppe"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004704>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004704> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_2770_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005961"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005961/2022-09-24T01:58:54.409Z>.
+<https://stad.gent/id/concept/550005380/2022-09-24T01:40:44.508Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005380>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:40:44.508Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043071>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2899_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Open houders, gevariëerd van vorm, materiaal en decoratie, met platte onderkant, lage rand, bedoeld om er artikelen op te zetten, te dragen of te tonen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dienblad"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007776>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007776> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders naar vorm"@nl.
+_:df_2899_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005380"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005380/2022-09-24T01:40:44.508Z>.
+<https://stad.gent/id/concept/550004359/2022-09-24T01:03:33.234Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004359>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:03:33.234Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004711>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3163_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Diessen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004734>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl.
+_:df_3163_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004359"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004359/2022-09-24T01:03:33.234Z>.
+<https://stad.gent/id/concept/550000045/2022-09-24T00:01:45.222Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000045>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:01:45.222Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3604_44;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "diepte"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "afmeting"@nl, "dimension"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3604_44 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000045"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000045/2022-09-24T00:01:45.222Z>.
+<https://stad.gent/id/concept/530003107/2022-09-15T00:01:19.933Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003107>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-15T00:01:19.933Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300215749>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3661_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Toestellen waarbij invriezen als methode van levensmiddelenconservering waarbij snelle, tot de kern gaande bevriezing wordt toegepast.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "diepvriezer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008875>, <https://stad.gent/id/concept/530009468>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009468> <http://www.w3.org/2004/02/skos/core#prefLabel> "koel-, verwarm- en bevochtigingsuitrusting"@nl.
+<https://stad.gent/id/concept/530008875> <http://www.w3.org/2004/02/skos/core#prefLabel> "huishoudelijk apparaat"@nl.
+_:df_3661_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003107"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003107/2022-09-15T00:01:19.933Z>.
+<https://stad.gent/id/concept/670006907/2022-09-09T09:15:48.506Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006907>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:15:48.506Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3835_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Dienst Monumentenzorg en Architectuur, foto's"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3835_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006907"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006907/2022-09-09T09:15:48.506Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/die.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/die.ttl>.

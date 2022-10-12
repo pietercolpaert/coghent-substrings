@@ -36,3 +36,53 @@ _:df_2389_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570016010"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016010/2021-10-31T23:27:08.845Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ten.ttl>.
+<https://stad.gent/id/concept/570016010/2022-09-24T07:25:12.832Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016010>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:25:12.832Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007825>;
+    <http://www.w3.org/ns/adms#identifier> _:df_448_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tennessee"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_448_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016010"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016010/2022-09-24T07:25:12.832Z>.
+<https://stad.gent/id/concept/570006109/2022-09-24T04:34:15.293Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006109>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:34:15.293Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054766>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1663_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tentoonstelling"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaalsoort"@nl, "document type"@en, "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1663_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006109"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006109/2022-09-24T04:34:15.293Z>.
+<https://stad.gent/id/concept/530003151/2022-09-15T00:01:29.938Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003151>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-15T00:01:29.938Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300434539>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3661_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tennisracket"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008807>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008807> <http://www.w3.org/2004/02/skos/core#prefLabel> "sportbenodigdheid"@nl.
+_:df_3661_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003151"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003151/2022-09-15T00:01:29.938Z>.
+<https://stad.gent/id/concept/670006900/2022-09-09T09:15:12.923Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006900>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:15:12.923Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1509>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3841_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tennessee"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3841_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006900"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006900/2022-09-09T09:15:12.923Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/ten.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ten.ttl>.

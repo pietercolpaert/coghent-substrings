@@ -214,3 +214,275 @@ _:df_1_211 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/geografisch+t.ttl>;
     <https://w3id.org/tree#value> "geografisch", "t".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/geografisch.ttl>.
+<https://stad.gent/id/concept/570016087/2022-09-24T07:26:38.753Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016087>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:26:38.753Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1032637>;
+    <http://www.w3.org/ns/adms#identifier> _:df_439_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Chauny"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_439_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016087"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016087/2022-09-24T07:26:38.753Z>.
+<https://stad.gent/id/concept/570016057/2022-09-24T07:26:03.256Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016057>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:26:03.256Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7001933>;
+    <http://www.w3.org/ns/adms#identifier> _:df_442_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Melbourne"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008306>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008306> <http://www.w3.org/2004/02/skos/core#prefLabel> "Australië"@nl.
+_:df_442_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016057"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016057/2022-09-24T07:26:03.256Z>.
+<https://stad.gent/id/concept/570016060/2022-09-24T07:26:13.261Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016060>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:26:13.261Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7246628>;
+    <http://www.w3.org/ns/adms#identifier> _:df_442_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Dikkele (Zwalm)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_442_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016060"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016060/2022-09-24T07:26:13.261Z>.
+<https://stad.gent/id/concept/570016039/2022-09-24T07:25:48.250Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016039>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:25:48.250Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7337734>;
+    <http://www.w3.org/ns/adms#identifier> _:df_445_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Catalonië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570017318>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570017318> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spanje"@nl.
+_:df_445_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016039"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016039/2022-09-24T07:25:48.250Z>.
+<https://stad.gent/id/concept/570016041/2022-09-24T07:25:53.252Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016041>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:25:53.252Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7012572>;
+    <http://www.w3.org/ns/adms#identifier> _:df_445_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Leonberg (Stuttgart)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_445_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016041"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016041/2022-09-24T07:25:53.252Z>.
+<https://stad.gent/id/concept/570016046/2022-09-24T07:25:58.254Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016046>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:25:58.254Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/2065039>;
+    <http://www.w3.org/ns/adms#identifier> _:df_445_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Irvington"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_445_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016046"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016046/2022-09-24T07:25:58.254Z>.
+<https://stad.gent/id/concept/570016010/2022-09-24T07:25:12.832Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016010>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:25:12.832Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007825>;
+    <http://www.w3.org/ns/adms#identifier> _:df_448_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tennessee"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_448_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016010"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016010/2022-09-24T07:25:12.832Z>.
+<https://stad.gent/id/concept/570016016/2022-09-24T07:25:17.835Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016016>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:25:17.835Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7012530>;
+    <http://www.w3.org/ns/adms#identifier> _:df_448_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kempten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl.
+_:df_448_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016016"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016016/2022-09-24T07:25:17.835Z>.
+<https://stad.gent/id/concept/570016018/2022-09-24T07:25:22.840Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016018>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:25:22.840Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1038715>;
+    <http://www.w3.org/ns/adms#identifier> _:df_448_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Calw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl.
+_:df_448_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016018"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016018/2022-09-24T07:25:22.840Z>.
+<https://stad.gent/id/concept/570016023/2022-09-24T07:25:27.844Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016023>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:25:27.844Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7010444>;
+    <http://www.w3.org/ns/adms#identifier> _:df_448_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ilkley (Yorkshire)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_448_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016023"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016023/2022-09-24T07:25:27.844Z>.
+<https://stad.gent/id/concept/570015979/2022-09-24T07:24:27.449Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015979>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:24:27.449Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026317>;
+    <http://www.w3.org/ns/adms#identifier> _:df_454_5;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Beernem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018081>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018081> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen (provincie)"@nl.
+_:df_454_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015979"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015979/2022-09-24T07:24:27.449Z>.
+<https://stad.gent/id/concept/570015996/2022-09-24T07:24:37.454Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015996>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:24:37.454Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7010445>;
+    <http://www.w3.org/ns/adms#identifier> _:df_454_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Keighley"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_454_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015996"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015996/2022-09-24T07:24:37.454Z>.
+<https://stad.gent/id/concept/570015952/2022-09-24T07:23:57.438Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015952>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:23:57.438Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007462>;
+    <http://www.w3.org/ns/adms#identifier> _:df_457_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Schauffhausen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020674>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020674> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zwitserland"@nl.
+_:df_457_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015952"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015952/2022-09-24T07:23:57.438Z>.
+<https://stad.gent/id/concept/570015947/2022-09-24T07:23:42.013Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015947>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:23:42.013Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008121>;
+    <http://www.w3.org/ns/adms#identifier> _:df_460_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Guebwiller"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_460_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015947"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015947/2022-09-24T07:23:42.013Z>.
+<https://stad.gent/id/concept/570015950/2022-09-24T07:23:52.435Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015950>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:23:52.435Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7013445>;
+    <http://www.w3.org/ns/adms#identifier> _:df_460_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Boston"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_460_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015950"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015950/2022-09-24T07:23:52.435Z>.
+<https://stad.gent/id/concept/570015917/2022-09-24T07:23:06.999Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015917>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:23:06.999Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1038743>;
+    <http://www.w3.org/ns/adms#identifier> _:df_463_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Dülmen (Westfalen)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_463_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015917"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015917/2022-09-24T07:23:06.999Z>.
+<https://stad.gent/id/concept/570015937/2022-09-24T07:23:27.007Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015937>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:23:27.007Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7010948>;
+    <http://www.w3.org/ns/adms#identifier> _:df_463_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Leicester"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_463_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015937"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015937/2022-09-24T07:23:27.007Z>.
+<https://stad.gent/id/concept/570015905/2022-09-24T07:22:41.670Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015905>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:22:41.670Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7598929>;
+    <http://www.w3.org/ns/adms#identifier> _:df_466_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Valentigney"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_466_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015905"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015905/2022-09-24T07:22:41.670Z>.
+<https://stad.gent/id/concept/570015899/2022-09-24T07:22:16.651Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015899>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:22:16.651Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7207158>;
+    <http://www.w3.org/ns/adms#identifier> _:df_469_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Buchholz (Saksen)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_469_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015899"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015899/2022-09-24T07:22:16.651Z>.
+<https://stad.gent/id/concept/570015853/2022-09-24T07:21:05.785Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015853>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:21:05.785Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005317>;
+    <http://www.w3.org/ns/adms#identifier> _:df_478_5;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Celle"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_478_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015853"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015853/2022-09-24T07:21:05.785Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/geografisch.ttl> <https://w3id.org/tree#relation> _:df_1_459.
+_:df_1_459 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/geografisch+t.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "geografisch", "t".
+<https://www.pieter.pm/coghent-substrings/thesaurus/geografisch.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/geografisch.ttl>.

@@ -50,3 +50,161 @@ _:df_2860_21 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570013004"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013004/2021-10-31T22:20:41.504Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/dra.ttl>.
+<https://stad.gent/id/concept/550009270/2022-09-24T04:03:41.559Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009270>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:03:41.559Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053908>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1882_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De manier waarop een keramisch voorwerp op een draaischijf gemaakt wordt. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "draaien (pottenbakkerstechniek)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1882_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009270"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009270/2022-09-24T04:03:41.559Z>.
+<https://stad.gent/id/concept/550008872/2022-09-24T03:52:33.052Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008872>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:52:33.052Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014250>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1960_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Enkelvoudige fijne vezels, groepen van dergelijke vezels die stevig zijn samengedraaid of vezelige lengtes gevormd door het spinnen en twijnen van korte vezels tot een onafgebroken streng.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "draad"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008864>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550002545>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002545> <http://www.w3.org/2004/02/skos/core#prefLabel> "zijdedraad"@nl.
+<https://stad.gent/id/concept/550008864> <http://www.w3.org/2004/02/skos/core#prefLabel> "textielmaterialen naar vorm"@nl.
+_:df_1960_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008872"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008872/2022-09-24T03:52:33.052Z>.
+<https://stad.gent/id/concept/550008193/2022-09-24T03:14:20.791Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008193>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:14:20.791Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300078047>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2230_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dragende en weerstandbiedende elementen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007861>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550002603>, <https://stad.gent/id/concept/550008192>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008192> <http://www.w3.org/2004/02/skos/core#prefLabel> "zuilen en zuilonderdelen"@nl.
+<https://stad.gent/id/concept/550002603> <http://www.w3.org/2004/02/skos/core#prefLabel> "sokkel"@nl.
+<https://stad.gent/id/concept/550007861> <http://www.w3.org/2004/02/skos/core#prefLabel> "structurele bouwelementen"@nl.
+_:df_2230_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008193"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008193/2022-09-24T03:14:20.791Z>.
+<https://stad.gent/id/concept/550008100/2022-09-24T03:06:44.420Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008100>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:06:44.420Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2284_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vuurwapens, meestal met een kaliber tot 2 cm, die zijn ontworpen om door één persoon te worden gehanteerd, al of niet met steun van de schouder.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "draagbaar vuurwapen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550001573>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008225>, <https://stad.gent/id/concept/550008099>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008099> <http://www.w3.org/2004/02/skos/core#prefLabel> "draagbare vuurwapens naar vorm"@nl.
+<https://stad.gent/id/concept/550008225> <http://www.w3.org/2004/02/skos/core#prefLabel> "draagbare vuurwapens naar ontstekingsmechanisme"@nl.
+<https://stad.gent/id/concept/550001573> <http://www.w3.org/2004/02/skos/core#prefLabel> "vuurwapen"@nl.
+_:df_2284_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008100"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008100/2022-09-24T03:06:44.420Z>.
+<https://stad.gent/id/concept/550008099/2022-09-24T03:06:39.417Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008099>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:06:39.417Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037156>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2287_36;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "draagbare vuurwapens naar vorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008100>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005645>, <https://stad.gent/id/concept/550008098>, <https://stad.gent/id/concept/550008300>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008300> <http://www.w3.org/2004/02/skos/core#prefLabel> "vuistvuurwapen"@nl.
+<https://stad.gent/id/concept/550008098> <http://www.w3.org/2004/02/skos/core#prefLabel> "schoudervuurwapen"@nl.
+<https://stad.gent/id/concept/550005645> <http://www.w3.org/2004/02/skos/core#prefLabel> "revolver"@nl.
+<https://stad.gent/id/concept/550008100> <http://www.w3.org/2004/02/skos/core#prefLabel> "draagbaar vuurwapen"@nl.
+_:df_2287_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008099"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008099> <http://www.w3.org/2004/02/skos/core#prefLabel> "draagbare vuurwapens naar vorm"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008099/2022-09-24T03:06:39.417Z>.
+<https://stad.gent/id/concept/550007867/2022-09-24T02:47:22.085Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007867>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:47:22.085Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300258894>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2422_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Banden die over de schouder en diagonaal over het lichaam worden gedragen, vaak gebruikt om munitie of wapens mee te dragen. Soms ook decoratief.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "draagband"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005305>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550000997>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000997> <http://www.w3.org/2004/02/skos/core#prefLabel> "bandelier"@nl.
+<https://stad.gent/id/concept/550005305> <http://www.w3.org/2004/02/skos/core#prefLabel> "accessoires die boven het middel gedragen worden"@nl.
+_:df_2422_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007867"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007867/2022-09-24T02:47:22.085Z>.
+<https://stad.gent/id/concept/550005802/2022-09-24T01:53:31.386Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005802>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:53:31.386Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300238441>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2806_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor vervoermiddelen die door achter elkaar geplaatste mensen of dieren worden gedragen en meestal bestaan uit een tussen twee palen geplaatst bed of bank, vaak in de vorm van een doos waar gordijnen omheen hangen. Gebruik 'brancards' voor vervoermiddelen die worden gebruikt voor het transport van zieken, gewonden of doden, die bestaan uit canvas of een dergelijk materiaal dat over een raamwerk is gespannen. Gebruik 'draagstoelen' voor draagbare, vaak rijkelijk versierde stoelen, gedragen op palen";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "draagkoets"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008045>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008045> <http://www.w3.org/2004/02/skos/core#prefLabel> "sleeën, draagkoetsen en landvoertuigen waarmee wordt gelopen"@nl.
+_:df_2806_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005802"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005802/2022-09-24T01:53:31.386Z>.
+<https://stad.gent/id/concept/550005216/2022-09-24T01:33:10.529Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005216>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:33:10.529Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2953_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Algemene benaming voor een penning met een oog, waardoor deze kan worden gedragen. (SKKN)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "draagpenning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008059>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008059> <http://www.w3.org/2004/02/skos/core#prefLabel> "penning (medaille)"@nl.
+_:df_2953_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005216"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005216/2022-09-24T01:33:10.529Z>.
+<https://stad.gent/id/concept/550004739/2022-09-24T01:17:56.249Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004739>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:17:56.249Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053158>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3061_18;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het vormen van objecten met snijinstrumenten terwijl het materiaal waarvan de objecten worden gemaakt, snel ronddraait op een draaibank. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "draaien (draaibank)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3061_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004739"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004739/2022-09-24T01:17:56.249Z>.
+<https://stad.gent/id/concept/550001996/2022-09-24T00:31:17.658Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001996>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:31:17.658Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900023624>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3394_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "draagteken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008050>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008050> <http://www.w3.org/2004/02/skos/core#prefLabel> "identificatiedrager"@nl.
+_:df_3394_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001996"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001996/2022-09-24T00:31:17.658Z>.
+<https://stad.gent/id/concept/670007026/2022-09-09T09:25:23.881Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670007026>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:25:23.881Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3769_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Dracenastraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3769_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670007026"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670007026/2022-09-09T09:25:23.881Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/dra.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/dra.ttl>.

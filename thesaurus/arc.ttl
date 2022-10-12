@@ -10,3 +10,92 @@ _:df_3154_22 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010054"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010054/2021-10-31T21:39:19.777Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/arc.ttl>.
+<https://stad.gent/id/concept/570000089/2022-09-24T04:06:38.850Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000089>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:06:38.850Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054328>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1861_150;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "archeologie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1861_150 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000089"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000089/2022-09-24T04:06:38.850Z>.
+<https://stad.gent/id/concept/550008165/2022-09-24T03:12:04.416Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008165>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:12:04.416Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300234110>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2248_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor objecten die zijn gevonden bij archeologisch onderzoek, met name voor opgegraven voorwerpen die stammen uit de periode voor 1800 of voorwerpen uit niet meer bestaande culturen. Gebruik 'etnografica' voor objecten die afkomstig zijn uit een nog bestaande cultuur of bekende cultuur uit het vrij recente verleden, wanneer deze voorwerpen van belang zijn voor etnografische en etnologische onderzoek.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "archeologisch object"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008166>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005504>, <https://stad.gent/id/concept/550007738>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007738> <http://www.w3.org/2004/02/skos/core#prefLabel> "tweeslagschuinsteker"@nl.
+<https://stad.gent/id/concept/550005504> <http://www.w3.org/2004/02/skos/core#prefLabel> "leem (archeologisch object)"@nl.
+<https://stad.gent/id/concept/550008166> <http://www.w3.org/2004/02/skos/core#prefLabel> "objectgenres naar locatie, context of oorsprong"@nl.
+_:df_2248_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008165"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008165> <http://www.w3.org/2004/02/skos/core#prefLabel> "archeologisch object"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008165/2022-09-24T03:12:04.416Z>.
+<https://stad.gent/id/concept/550007809/2022-09-24T02:42:29.293Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007809>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:42:29.293Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300078071>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2458_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "architecturale elementen naar gebouwtype"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007810>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007808>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007808> <http://www.w3.org/2004/02/skos/core#prefLabel> "religieus roerend goed"@nl, "religieus roerend goed"@nl.
+<https://stad.gent/id/concept/550007810> <http://www.w3.org/2004/02/skos/core#prefLabel> "architecturaal element"@nl.
+_:df_2458_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007809"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007809> <http://www.w3.org/2004/02/skos/core#prefLabel> "architecturale elementen naar gebouwtype"@nl, "architecturale elementen naar gebouwtype"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007809/2022-09-24T02:42:29.293Z>.
+<https://stad.gent/id/concept/550007810/2022-09-24T02:42:34.298Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007810>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:42:34.298Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300000885>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2458_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Structurele of decoratieve vormen die oorspronkelijk of hoofdzakelijk ontstonden als architectonische componenten, vaak aangepast voor andere bewoonbare ruimten zoals grote voertuigen, en vaak geleend of geïmiteerd voor structureel of decoratief gebruik op andere objecten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "architecturaal element"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007795>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007809>, <https://stad.gent/id/concept/550008359>, <https://stad.gent/id/concept/550007865>, <https://stad.gent/id/concept/550007953>, <https://stad.gent/id/concept/550007862>, <https://stad.gent/id/concept/550008135>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008135> <http://www.w3.org/2004/02/skos/core#prefLabel> "verwarmings- en kookelementen"@nl.
+<https://stad.gent/id/concept/550007862> <http://www.w3.org/2004/02/skos/core#prefLabel> "structurele bouwelementen en onderdelen van structurele bouwelementen"@nl.
+<https://stad.gent/id/concept/550007953> <http://www.w3.org/2004/02/skos/core#prefLabel> "openingen en openingsonderdelen"@nl.
+<https://stad.gent/id/concept/550007865> <http://www.w3.org/2004/02/skos/core#prefLabel> "hekwerken en hekwerkonderdelen"@nl.
+<https://stad.gent/id/concept/550008359> <http://www.w3.org/2004/02/skos/core#prefLabel> "circulatie-elementen"@nl.
+<https://stad.gent/id/concept/550007809> <http://www.w3.org/2004/02/skos/core#prefLabel> "architecturale elementen naar gebouwtype"@nl, "architecturale elementen naar gebouwtype"@nl.
+<https://stad.gent/id/concept/550007795> <http://www.w3.org/2004/02/skos/core#prefLabel> "onderdelen naar specifieke context"@nl.
+_:df_2458_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007810"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007810> <http://www.w3.org/2004/02/skos/core#prefLabel> "architecturaal element"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007810/2022-09-24T02:42:34.298Z>.
+<https://stad.gent/id/concept/550006019/2022-09-24T02:00:50.399Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006019>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:00:50.399Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2755_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "architectuur- en interieuronderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2755_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006019"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006019/2022-09-24T02:00:50.399Z>.
+<https://stad.gent/id/concept/550000544/2022-09-24T00:07:28.430Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000544>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:07:28.430Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3562_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "architect"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3562_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000544"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000544/2022-09-24T00:07:28.430Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/arc.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/arc.ttl>.

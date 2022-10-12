@@ -32,3 +32,120 @@ _:df_2824_20 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570013212"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013212/2021-10-31T22:25:50.565Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/inf.ttl>.
+<https://stad.gent/id/concept/570015610/2022-09-24T07:16:28.890Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015610>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:16:28.890Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q11388>;
+    <http://www.w3.org/ns/adms#identifier> _:df_511_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "infrarood"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_511_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015610"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015610/2022-09-24T07:16:28.890Z>.
+<https://stad.gent/id/concept/570013212/2022-09-24T06:23:07.265Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013212>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:23:07.265Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_889_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "infobrochure"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000276>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000276> <http://www.w3.org/2004/02/skos/core#prefLabel> "brochure"@nl.
+_:df_889_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013212"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013212/2022-09-24T06:23:07.265Z>.
+<https://stad.gent/id/concept/570009318/2022-09-24T05:18:25.519Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009318>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:18:25.519Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q21198>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1351_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "informatica"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1351_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009318"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009318/2022-09-24T05:18:25.519Z>.
+<https://stad.gent/id/concept/570000335/2022-09-24T04:09:30.461Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000335>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:09:30.461Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300311832>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1840_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "informatie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1840_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000335"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000335/2022-09-24T04:09:30.461Z>.
+<https://stad.gent/id/concept/550007790/2022-09-24T02:41:03.809Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007790>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:41:03.809Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300230425>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2467_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Omvat beschrijvingen voor de fysieke samenstellingen en voorwerpen waarmee specifieke informatie kan worden opgenomen of overgebracht.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "informatiedragers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007791>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007763>, <https://stad.gent/id/concept/550005710>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005710> <http://www.w3.org/2004/02/skos/core#prefLabel> "informatiedragers naar fysieke vorm"@nl.
+<https://stad.gent/id/concept/550007763> <http://www.w3.org/2004/02/skos/core#prefLabel> "informatiedragers naar functie"@nl.
+<https://stad.gent/id/concept/550007791> <http://www.w3.org/2004/02/skos/core#prefLabel> "informatievormen"@nl.
+_:df_2467_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007790"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007790> <http://www.w3.org/2004/02/skos/core#prefLabel> "informatiedragers"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007790/2022-09-24T02:41:03.809Z>.
+<https://stad.gent/id/concept/550007791/2022-09-24T02:41:08.811Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007791>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:41:08.811Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300220751>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2467_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "informatievormen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007790>, <https://stad.gent/id/concept/550007878>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007878> <http://www.w3.org/2004/02/skos/core#prefLabel> "soorten documenten"@nl.
+<https://stad.gent/id/concept/550007790> <http://www.w3.org/2004/02/skos/core#prefLabel> "informatiedragers"@nl.
+_:df_2467_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007791"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007791> <http://www.w3.org/2004/02/skos/core#prefLabel> "informatievormen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007791/2022-09-24T02:41:08.811Z>.
+<https://stad.gent/id/concept/550007763/2022-09-24T02:39:02.419Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007763>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:39:02.419Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300137961>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2482_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "informatiedragers naar functie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007790>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005746>, <https://stad.gent/id/concept/550005722>, <https://stad.gent/id/concept/550008050>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008050> <http://www.w3.org/2004/02/skos/core#prefLabel> "identificatiedrager"@nl.
+<https://stad.gent/id/concept/550005722> <http://www.w3.org/2004/02/skos/core#prefLabel> "correspondentiedragers"@nl.
+<https://stad.gent/id/concept/550005746> <http://www.w3.org/2004/02/skos/core#prefLabel> "aankondigings- en reclamedragers"@nl.
+<https://stad.gent/id/concept/550007790> <http://www.w3.org/2004/02/skos/core#prefLabel> "informatiedragers"@nl.
+_:df_2482_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007763"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007763/2022-09-24T02:39:02.419Z>.
+<https://stad.gent/id/concept/550005710/2022-09-24T01:50:49.973Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005710>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:50:49.973Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300137960>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2827_29;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Omvat beschrijvingen voor de fysieke samenstellingen en voorwerpen waarmee specifieke informatie kan worden opgenomen of overgebracht.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "informatiedragers naar fysieke vorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007790>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005163>, <https://stad.gent/id/concept/550008650>, <https://stad.gent/id/concept/550005463>, <https://stad.gent/id/concept/550000220>, <https://stad.gent/id/concept/550009249>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550009249> <http://www.w3.org/2004/02/skos/core#prefLabel> "sticker"@nl.
+<https://stad.gent/id/concept/550000220> <http://www.w3.org/2004/02/skos/core#prefLabel> "pamflet"@nl.
+<https://stad.gent/id/concept/550005463> <http://www.w3.org/2004/02/skos/core#prefLabel> "kaart (informatiedrager)"@nl.
+<https://stad.gent/id/concept/550008650> <http://www.w3.org/2004/02/skos/core#prefLabel> "button (informatiedrager)"@nl.
+<https://stad.gent/id/concept/550005163> <http://www.w3.org/2004/02/skos/core#prefLabel> "boek"@nl.
+<https://stad.gent/id/concept/550007790> <http://www.w3.org/2004/02/skos/core#prefLabel> "informatiedragers"@nl.
+_:df_2827_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005710"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005710/2022-09-24T01:50:49.973Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/inf.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/inf.ttl>.

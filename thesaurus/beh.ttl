@@ -61,3 +61,60 @@ _:df_2905_21 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570012603"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012603/2021-10-31T22:14:19.745Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/beh.ttl>.
+<https://stad.gent/id/concept/570013199/2022-09-24T06:23:02.264Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013199>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:23:02.264Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q26256310>;
+    <http://www.w3.org/ns/adms#identifier> _:df_889_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "behandeling"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_889_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013199"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013199/2022-09-24T06:23:02.264Z>.
+<https://stad.gent/id/concept/570012603/2022-09-24T06:11:36.540Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012603>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:11:36.540Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_970_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gewassen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "behandeling"@nl, "method of check/assessment or conservation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_970_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012603"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012603/2022-09-24T06:11:36.540Z>.
+<https://stad.gent/id/concept/570000791/2022-09-24T04:12:27.316Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000791>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:12:27.316Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037366>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1819_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "behangpapier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1819_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000791"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000791/2022-09-24T04:12:27.316Z>.
+<https://stad.gent/id/concept/550003240/2022-09-24T00:47:57.834Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003240>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:47:57.834Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037366>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3274_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Papier of soortgelijk materiaal dat vaak ter versiering dient en hoofdzakelijk is gemaakt om aan muren en plafonds te bevestigen maar soms op andere oppervlakken wordt aangebracht.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "behang"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007891>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007891> <http://www.w3.org/2004/02/skos/core#prefLabel> "muurbedekkingen naar vorm"@nl.
+_:df_3274_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003240"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003240/2022-09-24T00:47:57.834Z>.
+<https://stad.gent/id/concept/530010837/2022-09-23T00:00:20.702Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010837>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-23T00:00:20.702Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3616_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "uitlijsten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "behandeling"@nl, "method of check/assessment or conservation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3616_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010837"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010837/2022-09-23T00:00:20.702Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/beh.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/beh.ttl>.

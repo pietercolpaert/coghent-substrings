@@ -66,3 +66,308 @@ _:df_2962_11 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570012208"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012208/2021-10-31T22:06:08.374Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/deu.ttl>.
+<https://stad.gent/id/concept/570012208/2022-09-24T06:03:27.517Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012208>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:03:27.517Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026393>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1030_35;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Deurne (Antwerpen)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020234>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "motief"@nl, "motif"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020234> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl.
+_:df_1030_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012208"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012208/2022-09-24T06:03:27.517Z>.
+<https://stad.gent/id/concept/570007027/2022-09-24T04:39:48.333Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007027>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:39:48.333Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/4003261>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1624_34;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Deurle"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl.
+_:df_1624_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007027"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/570007027> <http://www.w3.org/2004/02/skos/core#prefLabel> "Deurle"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007027/2022-09-24T04:39:48.333Z>.
+<https://stad.gent/id/concept/550008849/2022-09-24T03:50:45.984Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008849>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:50:45.984Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300002911>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1972_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Decoratieve delen van een deuropening of deurframe, zoals afbeeldingen of gesneden panelen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "deurstuk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008008>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008008> <http://www.w3.org/2004/02/skos/core#prefLabel> "deuropeningonderdelen"@nl.
+_:df_1972_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008849"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008849/2022-09-24T03:50:45.984Z>.
+<https://stad.gent/id/concept/550008229/2022-09-24T03:17:12.595Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008229>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:17:12.595Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300002892>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2212_35;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "deuronderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005700>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005867>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005867> <http://www.w3.org/2004/02/skos/core#prefLabel> "naald (deur)"@nl.
+<https://stad.gent/id/concept/550005700> <http://www.w3.org/2004/02/skos/core#prefLabel> "deuren en deuronderdelen"@nl.
+_:df_2212_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008229"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008229/2022-09-24T03:17:12.595Z>.
+<https://stad.gent/id/concept/550008123/2022-09-24T03:08:36.799Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008123>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:08:36.799Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300033337>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2272_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Schuivende stangen of staven die gebruikt worden om een deur op slot te doen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "deurgrendel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005755>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005928>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005928> <http://www.w3.org/2004/02/skos/core#prefLabel> "grendelslot"@nl.
+<https://stad.gent/id/concept/550005755> <http://www.w3.org/2004/02/skos/core#prefLabel> "afsluitingsmiddelen"@nl.
+_:df_2272_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008123"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008123/2022-09-24T03:08:36.799Z>.
+<https://stad.gent/id/concept/550008021/2022-09-24T03:00:03.997Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008021>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:00:03.997Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300002785>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2332_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Constructies die in een muur zijn gebouwd en die bestaan uit twee staande delen (deurposten) en een horizontaal deel (bovendorpel) en die de steunpunten leveren waaraan de deur kan worden opgehangen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "deurkozijn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008022>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008022> <http://www.w3.org/2004/02/skos/core#prefLabel> "deurkozijnen en deurkozijnonderdelen"@nl.
+_:df_2332_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008021"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008021> <http://www.w3.org/2004/02/skos/core#prefLabel> "deurkozijn"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008021/2022-09-24T03:00:03.997Z>.
+<https://stad.gent/id/concept/550008022/2022-09-24T03:00:08.999Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008022>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:00:08.999Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300131774>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2332_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "deurkozijnen en deurkozijnonderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008008>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008021>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008021> <http://www.w3.org/2004/02/skos/core#prefLabel> "deurkozijn"@nl.
+<https://stad.gent/id/concept/550008008> <http://www.w3.org/2004/02/skos/core#prefLabel> "deuropeningonderdelen"@nl.
+_:df_2332_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008022"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008022> <http://www.w3.org/2004/02/skos/core#prefLabel> "deurkozijnen en deurkozijnonderdelen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008022/2022-09-24T03:00:08.999Z>.
+<https://stad.gent/id/concept/550008023/2022-09-24T03:00:14.002Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008023>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:00:14.002Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300033312>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2332_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor alle soorten deurplaten die zijn bevestigd om het deuroppervlak te beschermen of om te fungeren als basis voor deurknoppen of hefboomgrepen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "deurplaat (afwerkingsijzerwaar)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005918>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001382>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001382> <http://www.w3.org/2004/02/skos/core#prefLabel> "deurplaat"@nl.
+<https://stad.gent/id/concept/550005918> <http://www.w3.org/2004/02/skos/core#prefLabel> "deurbeslag-accessoire"@nl.
+_:df_2332_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008023"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008023/2022-09-24T03:00:14.002Z>.
+<https://stad.gent/id/concept/550008008/2022-09-24T02:58:58.599Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008008>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:58:58.599Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300002784>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2341_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "deuropeningonderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005231>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005700>, <https://stad.gent/id/concept/550008022>, <https://stad.gent/id/concept/550008849>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008849> <http://www.w3.org/2004/02/skos/core#prefLabel> "deurstuk"@nl.
+<https://stad.gent/id/concept/550008022> <http://www.w3.org/2004/02/skos/core#prefLabel> "deurkozijnen en deurkozijnonderdelen"@nl.
+<https://stad.gent/id/concept/550005700> <http://www.w3.org/2004/02/skos/core#prefLabel> "deuren en deuronderdelen"@nl.
+<https://stad.gent/id/concept/550005231> <http://www.w3.org/2004/02/skos/core#prefLabel> "deuropeningen en deuropeningonderdelen"@nl.
+_:df_2341_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008008"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008008/2022-09-24T02:58:58.599Z>.
+<https://stad.gent/id/concept/550006164/2022-09-24T02:06:28.791Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006164>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:06:28.791Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300065880>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2716_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "deurgreep"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008020>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008020> <http://www.w3.org/2004/02/skos/core#prefLabel> "handgrepen naar locatie en context"@nl.
+_:df_2716_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006164"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006164/2022-09-24T02:06:28.791Z>.
+<https://stad.gent/id/concept/550005918/2022-09-24T01:57:38.514Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005918>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:57:38.514Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300045309>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2779_30;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Zichtbare, functionele ijzerwaren die er afgewerkt uitziet en vaak wordt gebruikt als deel van het decoratieve ontwerp op objecten zoals meubels, in architectuur, maar ook in boekbandonderdelen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "deurbeslag-accessoire"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007905>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005223>, <https://stad.gent/id/concept/550005890>, <https://stad.gent/id/concept/550008023>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008023> <http://www.w3.org/2004/02/skos/core#prefLabel> "deurplaat (afwerkingsijzerwaar)"@nl.
+<https://stad.gent/id/concept/550005890> <http://www.w3.org/2004/02/skos/core#prefLabel> "deurknop"@nl.
+<https://stad.gent/id/concept/550005223> <http://www.w3.org/2004/02/skos/core#prefLabel> "deurklopper"@nl.
+<https://stad.gent/id/concept/550007905> <http://www.w3.org/2004/02/skos/core#prefLabel> "ijzerwaren naar vorm"@nl.
+_:df_2779_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005918"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005918/2022-09-24T01:57:38.514Z>.
+<https://stad.gent/id/concept/550005898/2022-09-24T01:56:53.097Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005898>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:56:53.097Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300052739>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2782_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Bellen, gongen, zoemers of sets belletjes die in een gebouw klinken wanneer ze, meestal met een knop die zich nabij een ingang bevindt, worden geactiveerd.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "deurbel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008015>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008015> <http://www.w3.org/2004/02/skos/core#prefLabel> "geluidssysteem"@nl.
+_:df_2782_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005898"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005898/2022-09-24T01:56:53.097Z>.
+<https://stad.gent/id/concept/550005890/2022-09-24T01:56:38.090Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005890>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:56:38.090Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300176901>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2785_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een vorm van deurbeslag dat bestaat uit een tweetal knoppen aan tegenovergestelde uiteinden van een spindel, die worden gebruikt om een klink los te maken. Te onderscheiden van 'kastknoppen', die een knop hebben aan één kant van de spindel en aan de andere kant een afdekplaatje o.i.d..";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "deurknop"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005918>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005918> <http://www.w3.org/2004/02/skos/core#prefLabel> "deurbeslag-accessoire"@nl.
+_:df_2785_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005890"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005890/2022-09-24T01:56:38.090Z>.
+<https://stad.gent/id/concept/550005897/2022-09-24T01:56:48.094Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005897>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:56:48.094Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300077937>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2785_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "deurkruk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008011>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008011> <http://www.w3.org/2004/02/skos/core#prefLabel> "hendel (afwerkingsijzerwaar)"@nl.
+_:df_2785_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005897"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005897/2022-09-24T01:56:48.094Z>.
+<https://stad.gent/id/concept/550005700/2022-09-24T01:50:34.965Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005700>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:50:34.965Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300052371>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2827_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "deuren en deuronderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008008>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550002416>, <https://stad.gent/id/concept/550008229>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008229> <http://www.w3.org/2004/02/skos/core#prefLabel> "deuronderdelen"@nl.
+<https://stad.gent/id/concept/550002416> <http://www.w3.org/2004/02/skos/core#prefLabel> "deur"@nl.
+<https://stad.gent/id/concept/550008008> <http://www.w3.org/2004/02/skos/core#prefLabel> "deuropeningonderdelen"@nl.
+_:df_2827_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005700"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005700/2022-09-24T01:50:34.965Z>.
+<https://stad.gent/id/concept/550005231/2022-09-24T01:34:05.917Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005231>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:34:05.917Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300052372>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2947_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "deuropeningen en deuropeningonderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007951>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008008>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008008> <http://www.w3.org/2004/02/skos/core#prefLabel> "deuropeningonderdelen"@nl.
+<https://stad.gent/id/concept/550007951> <http://www.w3.org/2004/02/skos/core#prefLabel> "openingen naar vorm"@nl.
+_:df_2947_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005231"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005231/2022-09-24T01:34:05.917Z>.
+<https://stad.gent/id/concept/550005223/2022-09-24T01:33:35.547Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005223>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:33:35.547Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300080114>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2950_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "deurklopper"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005918>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005918> <http://www.w3.org/2004/02/skos/core#prefLabel> "deurbeslag-accessoire"@nl.
+_:df_2950_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005223"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005223/2022-09-24T01:33:35.547Z>.
+<https://stad.gent/id/concept/550002501/2022-09-24T00:37:00.933Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002501>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:37:00.933Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300045375>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3352_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "deurbeslag"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008019>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008019> <http://www.w3.org/2004/02/skos/core#prefLabel> "ijzerwaren naar locatie of context"@nl.
+_:df_3352_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002501"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002501/2022-09-24T00:37:00.933Z>.
+<https://stad.gent/id/concept/550002416/2022-09-24T00:35:45.313Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002416>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:35:45.313Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300002803>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3361_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Barrières die draaien, schuiven, kantelen, of vouwen om een deuropening af te sluiten, meestal van een massieve en afgewerkte constructie en die meestal leiden naar binnenruimtes of die scheiden. Wordt ook gebruikt voor vergelijkbare elementen die een bak of een kast afsluiten. Voor minder massieve of afgewerkte constructies en die meestal twee buitenruimtes scheiden wordt 'hekken (poortonderdelen)' gebruikt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "deur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005700>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005700> <http://www.w3.org/2004/02/skos/core#prefLabel> "deuren en deuronderdelen"@nl.
+_:df_3361_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002416"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002416/2022-09-24T00:35:45.313Z>.
+<https://stad.gent/id/concept/550001381/2022-09-24T00:18:34.708Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001381>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:18:34.708Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300033404>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3484_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Groffere vorm van sluitwerk. Gebruik voor reguliere handgrepen 'deurkrukken'.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "deurklink"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008009>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008009> <http://www.w3.org/2004/02/skos/core#prefLabel> "klinken naar vorm"@nl.
+_:df_3484_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001381"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001381/2022-09-24T00:18:34.708Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/deu.ttl> <https://w3id.org/tree#relation> _:df_1_1327.
+_:df_1_1327 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/deur.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "deur".
+<https://www.pieter.pm/coghent-substrings/thesaurus/deu.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/deu.ttl>.

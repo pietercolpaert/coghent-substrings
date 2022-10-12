@@ -1,0 +1,29 @@
+<https://stad.gent/id/concept/550006632/2022-09-24T02:23:08.668Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006632>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:23:08.668Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026694>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2596_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Retie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005392>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005392> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl.
+_:df_2596_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006632"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006632/2022-09-24T02:23:08.668Z>.
+<https://stad.gent/id/concept/550003807/2022-09-24T00:56:13.310Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003807>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:56:13.310Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300076035>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3217_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar toevoegingen geplaatst op de altaartafel in een christelijke kerk. Een retabel kan bestaan uit een eenvoudige plank of rand die is aangebracht boven de achterkant van het altaar en die wordt gebruikt als kaarsenhouder. Er kan ook een raamwerk of een andere constructie aan verbonden zijn waarin beschilderde of beeldgesneden panelen zijn gemonteerd, met of zonder een plank voor kaarsen. Een 'reredos' is iets anders; deze verrijst meestal vanaf de grond achter het altaar. Het retabel is kleiner en staat achter op het altaar zelf of op een sokkel achter het altaar. Veel altaren hebben zowel een reredos als een retabel. Gebruik 'retablo's' voor de kleinere Mexicaanse en Spaans-Amerikaanse schilderingen van christelijke heiligen en andere heilige figuren.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "retabel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008311>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008311> <http://www.w3.org/2004/02/skos/core#prefLabel> "altaarstuk"@nl.
+_:df_3217_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003807"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003807/2022-09-24T00:56:13.310Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/ret.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ret.ttl>.

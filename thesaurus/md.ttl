@@ -1,0 +1,16 @@
+<https://stad.gent/id/concept/550008649/2022-09-24T03:40:28.972Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008649>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:40:28.972Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300390932>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2047_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Medium-Density Fibreboard of MDF is geperst board met een middelharde dichtheid. MDF is dus geen merknaam, maar een soortnaam. (De Brits-Engelse spelling is fibre.) De houtvezels zijn gedroogd en door middel van harsen met elkaar verbonden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "MDF"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008804>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008804> <http://www.w3.org/2004/02/skos/core#prefLabel> "hardboard"@nl.
+_:df_2047_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008649"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008649/2022-09-24T03:40:28.972Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/md.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/md.ttl>.

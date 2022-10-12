@@ -104,3 +104,118 @@ _:df_2884_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570012795"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012795/2021-10-31T22:17:01.800Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/har.ttl>.
+<https://stad.gent/id/concept/570004878/2022-09-24T04:28:46.462Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570004878>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:28:46.462Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300012882>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1702_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hars"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1702_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570004878"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570004878/2022-09-24T04:28:46.462Z>.
+<https://stad.gent/id/concept/550008804/2022-09-24T03:47:59.405Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008804>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:47:59.405Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014203>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1993_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Elke harde, compacte, stijve plank, vaak gemaakt van houtvezels die onder hitte en druk in een warme pers zijn verstevigd.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hardboard"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008806>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008649>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008649> <http://www.w3.org/2004/02/skos/core#prefLabel> "MDF"@nl.
+<https://stad.gent/id/concept/550008806> <http://www.w3.org/2004/02/skos/core#prefLabel> "houtvezelplank"@nl, "houtvezelplank"@nl.
+_:df_1993_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008804"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008804/2022-09-24T03:47:59.405Z>.
+<https://stad.gent/id/concept/550008744/2022-09-24T03:44:27.404Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008744>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:44:27.404Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300012882>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2017_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een vaste of halfvaste organische stof die meestal wordt verkregen uit plantenuitscheidingen maar soms ook van insekten of synthetisch materiaal; het is oplosbaar in organische oplosmiddelen maar niet in water en wordt doorgaans gebruikt in vernis, drukinkt en stijfsel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hars"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008756>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008727>, <https://stad.gent/id/concept/550008841>, <https://stad.gent/id/concept/550005713>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005713> <http://www.w3.org/2004/02/skos/core#prefLabel> "lak (hars)"@nl.
+<https://stad.gent/id/concept/550008841> <http://www.w3.org/2004/02/skos/core#prefLabel> "gomhars en gomharsproducten"@nl.
+<https://stad.gent/id/concept/550008727> <http://www.w3.org/2004/02/skos/core#prefLabel> "fossiele hars"@nl.
+<https://stad.gent/id/concept/550008756> <http://www.w3.org/2004/02/skos/core#prefLabel> "organisch materiaal"@nl.
+_:df_2017_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008744"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008744/2022-09-24T03:44:27.404Z>.
+<https://stad.gent/id/concept/550008147/2022-09-24T03:10:38.974Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008147>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:10:38.974Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300241516>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2257_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "harnasgroepen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008079>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001760>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001760> <http://www.w3.org/2004/02/skos/core#prefLabel> "harnas"@nl.
+<https://stad.gent/id/concept/550008079> <http://www.w3.org/2004/02/skos/core#prefLabel> "kledinggroepen"@nl.
+_:df_2257_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008147"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008147/2022-09-24T03:10:38.974Z>.
+<https://stad.gent/id/concept/550005430/2022-09-24T01:42:35.559Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005430>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:42:35.559Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037011>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2884_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Blanke wapens die bestaan uit een vaste of afneembare kop met weerhaakjes op een stok en met de hand worden geworpen of geschoten vanuit een harpoenkanon; gebruikt bij de jacht op grote vissen een zeezoogdieren.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "harpoen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550000727>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000727> <http://www.w3.org/2004/02/skos/core#prefLabel> "blanke wapens"@nl.
+_:df_2884_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005430"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005430/2022-09-24T01:42:35.559Z>.
+<https://stad.gent/id/concept/550001760/2022-09-24T00:25:54.892Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001760>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:25:54.892Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300226591>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3433_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Metalen bekleding van het lichaam van een krijgsman ter voorkoming van verwonding c.q. doding. Gebruik 'wapenrusting' voor alle kleding om het lichaam te beschermen ten tijde van strijd, in complete sets, ook in afzonderlijke delen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "harnas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008147>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008147> <http://www.w3.org/2004/02/skos/core#prefLabel> "harnasgroepen"@nl.
+_:df_3433_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001760"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001760/2022-09-24T00:25:54.892Z>.
+<https://stad.gent/id/concept/550001566/2022-09-24T00:22:51.883Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001566>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:22:51.883Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300204516>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3454_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Blanke gevestwapens ontworpen en gebruikt voor de jacht met een doorgaans asymmetrisch gevest en een rechte kling van ongeveer 30 tot 70 cm, eensnijdend en voorzien van een lang rugscherp.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hartsvanger"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007932>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007932> <http://www.w3.org/2004/02/skos/core#prefLabel> "blanke gevestwapens naar vorm"@nl, "blanke gevestwapens naar vorm"@nl.
+_:df_3454_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001566"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001566/2022-09-24T00:22:51.883Z>.
+<https://stad.gent/id/concept/670006946/2022-09-09T09:18:49.609Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006946>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:18:49.609Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q478797>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3814_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Harelbeke"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3814_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006946"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006946/2022-09-09T09:18:49.609Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/har.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/har.ttl>.

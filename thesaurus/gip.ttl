@@ -1,0 +1,18 @@
+<https://stad.gent/id/concept/550005014/2022-09-24T01:26:06.989Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005014>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:26:06.989Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011099>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3004_38;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een in de natuur voorkomend zacht, wit mineraal dat veel wordt gebruikt als een vertragend middel in portlandcement, als kern in bouwplaten, in wit pigment, in ondergronden voor schilderijen; het is ook het belangrijkste bestanddeel van albast.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gips"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550002710>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550002497>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002497> <http://www.w3.org/2004/02/skos/core#prefLabel> "albast"@nl.
+<https://stad.gent/id/concept/550002710> <http://www.w3.org/2004/02/skos/core#prefLabel> "mineraal"@nl.
+_:df_3004_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005014"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005014/2022-09-24T01:26:06.989Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/gip.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/gip.ttl>.

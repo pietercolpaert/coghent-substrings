@@ -1,0 +1,39 @@
+<https://stad.gent/id/concept/550008262/2022-09-24T03:19:53.975Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008262>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:19:53.975Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300180183>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2191_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor fakkels van vlasdraden of katoenen lonten die met hars zijn doordrenkt en met een waslaagje zijn bedekt. Er werden vaak vier lonten samengebonden en opnieuw met een waslaagje bedekt om de fakkel groter te maken. De benaming wordt ook gebruikt voor de fakkels die bij een vuurwerkshow worden gedragen, zoals in een optocht.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toorts"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008263>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001753>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001753> <http://www.w3.org/2004/02/skos/core#prefLabel> "processietoorts"@nl.
+<https://stad.gent/id/concept/550008263> <http://www.w3.org/2004/02/skos/core#prefLabel> "fakkel"@nl, "fakkel"@nl.
+_:df_2191_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008262"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008262> <http://www.w3.org/2004/02/skos/core#prefLabel> "toorts"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008262/2022-09-24T03:19:53.975Z>.
+<https://stad.gent/id/concept/670006335/2022-09-09T08:28:11.897Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006335>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:28:11.897Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4174_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Too Young to Kiss"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4174_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006335"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006335/2022-09-09T08:28:11.897Z>.
+<https://stad.gent/id/concept/670006334/2022-09-09T08:28:06.896Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006334>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:28:06.896Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4177_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Too Hot to Handle"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4177_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006334"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006334/2022-09-09T08:28:06.896Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/too.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/too.ttl>.

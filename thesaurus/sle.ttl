@@ -31,3 +31,140 @@ _:df_2326_9 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570016364"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016364/2021-10-31T23:36:07.111Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/sle.ttl>.
+<https://stad.gent/id/concept/550008328/2022-09-24T03:25:27.511Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008328>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:25:27.511Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300251631>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2152_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor ringen in een ronde of andere vorm die vaak van metaal zijn gemaakt en worden gebruikt voor het bijeenhouden van sleutels.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sleutelring"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007779>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001982>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001982> <http://www.w3.org/2004/02/skos/core#prefLabel> "sleutelhanger"@nl.
+<https://stad.gent/id/concept/550007779> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting voor persoonlijk gebruik"@nl.
+_:df_2152_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008328"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008328/2022-09-24T03:25:27.511Z>.
+<https://stad.gent/id/concept/550008183/2022-09-24T03:13:30.391Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008183>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:13:30.391Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300078282>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2236_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sleutels en sleutelonderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007906>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005627>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005627> <http://www.w3.org/2004/02/skos/core#prefLabel> "sleutel (ijzerwaar)"@nl.
+<https://stad.gent/id/concept/550007906> <http://www.w3.org/2004/02/skos/core#prefLabel> "ijzerwaar"@nl.
+_:df_2236_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008183"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008183/2022-09-24T03:13:30.391Z>.
+<https://stad.gent/id/concept/550008045/2022-09-24T03:02:06.722Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008045>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:02:06.722Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300227840>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2317_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Landvoertuigen die over de grond worden getrokken of worden gedragen, of toestellen die ter verplaatsing direct aan de voeten worden gebruikt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sleeën, draagkoetsen en landvoertuigen waarmee wordt gelopen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008046>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005802>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005802> <http://www.w3.org/2004/02/skos/core#prefLabel> "draagkoets"@nl.
+<https://stad.gent/id/concept/550008046> <http://www.w3.org/2004/02/skos/core#prefLabel> "landvoertuigen naar vorm"@nl, "landvoertuigen naar vorm"@nl.
+_:df_2317_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008045"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008045> <http://www.w3.org/2004/02/skos/core#prefLabel> "sleeën, draagkoetsen en landvoertuigen waarmee wordt gelopen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008045/2022-09-24T03:02:06.722Z>.
+<https://stad.gent/id/concept/550005893/2022-09-24T01:56:43.093Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005893>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:56:43.093Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300251159>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2785_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Handgereedschap om mee te openen en sluiten dat geen bek heeft of in schroeven past. Gebruik 'schroevendraaiers' voor verstelgereedschap waarvan de punt in de groef van een schroef past. Gebruik 'moersleutels' voor handgereedschap dat opent en sluit door middel van een bek. Gebruik 'sleutels (ijzerwaren)' voor de wegneembare en in werking brengende voorwerpen van sloten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sleutel (afsteluitrusting)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008327>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008327> <http://www.w3.org/2004/02/skos/core#prefLabel> "bevestigings-en versteluitrusting"@nl.
+_:df_2785_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005893"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005893/2022-09-24T01:56:43.093Z>.
+<https://stad.gent/id/concept/550005857/2022-09-24T01:55:52.643Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005857>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:55:52.643Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2791_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Balksleutel, slof, langwerpig plat stuk hout ter ondersteuning van een balkeinde. Het vergroot het draagvlak onder het einde van een moer- of zolderbalk en rust meestal op een muurstijl en een korbeel of op een natuurstenen console, of het is direct opgelegd in de muur. Modegevoelig onderdeel met diverse stijlgebonden profielen en afwerkingsvormen, soms ook met wapenschilden, spreuken of figuratief snijwerk.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sleutelstuk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007860>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007860> <http://www.w3.org/2004/02/skos/core#prefLabel> "overspannende en uitkragende bouwelementen"@nl.
+_:df_2791_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005857"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005857/2022-09-24T01:55:52.643Z>.
+<https://stad.gent/id/concept/550005627/2022-09-24T01:48:23.672Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005627>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:48:23.672Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300033579>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2845_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het bij een slot behorende instrument waarmee een slot wordt bediend. Voor handgereedschap zonder bek dat wordt gebruikt voor het openen en sluiten van andere instrumenten dan sloten, maar niet voor het aandraaien van schroeven wordt 'sleutels (afsteluitrusting)' gebruikt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sleutel (ijzerwaar)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008183>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005219>, <https://stad.gent/id/concept/550009247>, <https://stad.gent/id/concept/550008298>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008298> <http://www.w3.org/2004/02/skos/core#prefLabel> "ronde spie"@nl.
+<https://stad.gent/id/concept/550009247> <http://www.w3.org/2004/02/skos/core#prefLabel> "loper"@nl.
+<https://stad.gent/id/concept/550005219> <http://www.w3.org/2004/02/skos/core#prefLabel> "kamsleutel"@nl.
+<https://stad.gent/id/concept/550008183> <http://www.w3.org/2004/02/skos/core#prefLabel> "sleutels en sleutelonderdelen"@nl.
+_:df_2845_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005627"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005627/2022-09-24T01:48:23.672Z>.
+<https://stad.gent/id/concept/550005281/2022-09-24T01:36:37.285Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005281>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:36:37.285Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300257917>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2929_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor vlakke sleutelgatplaatjes voor een of meer sleutelgaten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sleutelplaatje (afwerkingsijzerwaren)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008329>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008329> <http://www.w3.org/2004/02/skos/core#prefLabel> "afdekplaatje"@nl.
+_:df_2929_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005281"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005281/2022-09-24T01:36:37.285Z>.
+<https://stad.gent/id/concept/550001982/2022-09-24T00:30:57.649Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001982>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:30:57.649Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900032058>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3397_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Siervoorwerpen die men aan het oog van een sleutel kan bevestigen en waarmee men ze kan ophangen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sleutelhanger"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008328>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008328> <http://www.w3.org/2004/02/skos/core#prefLabel> "sleutelring"@nl.
+_:df_3397_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001982"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001982/2022-09-24T00:30:57.649Z>.
+<https://stad.gent/id/concept/530002002/2022-09-15T00:01:04.925Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002002>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-15T00:01:04.925Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411458>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3664_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Siervoorwerpen die men aan het oog van een sleutel kan bevestigen en waarmee men ze kan ophangen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sleutelhanger"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008830>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008830> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting voor persoonlijk gebruik"@nl.
+_:df_3664_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002002"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002002/2022-09-15T00:01:04.925Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/sle.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/sle.ttl>.

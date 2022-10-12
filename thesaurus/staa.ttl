@@ -29,3 +29,42 @@ _:df_3160_19 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010026"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010026/2021-10-31T21:38:24.122Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/staa.ttl>.
+<https://stad.gent/id/concept/550005379/2022-09-24T01:40:39.503Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005379>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:40:39.503Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300190536>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2899_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Drukprocédé waarbij wordt gegraveerd met behulp van stalen platen of met koperen platen met een stalen bovenzijde; kwam aan het begin van de 19e eeuw als vervanging voor het kopergraveren met de minder duurzame koperplaten. Gebruik 'siderografie' voor het graveren van staalplaten bestemd voor de produktie van documenten, zoals bankbiljetten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "staal graveren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2899_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005379"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005379/2022-09-24T01:40:39.503Z>.
+<https://stad.gent/id/concept/550001413/2022-09-24T00:19:05.065Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001413>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:19:05.065Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300133751>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3481_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Alle harde, sterke, duurzame, plooibare legeringen van ijzer en koolstof, vaak met andere materialen zoals mangaan, chroom, nikkel, molybdeen, koper, wolfraam, kobalt of silicium. Wordt algemeen gebruikt als constructiemateriaal.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "staal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005588>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005588> <http://www.w3.org/2004/02/skos/core#prefLabel> "ijzerlegering"@nl.
+_:df_3481_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001413"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001413/2022-09-24T00:19:05.065Z>.
+<https://stad.gent/id/concept/670007586/2022-09-15T00:04:21.216Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670007586>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-15T00:04:21.216Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300389774>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3640_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "staalgravure"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3640_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670007586"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670007586/2022-09-15T00:04:21.216Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/staa.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/staa.ttl>.

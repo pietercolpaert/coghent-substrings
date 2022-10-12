@@ -48,3 +48,47 @@ _:df_2317_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570016445"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016445/2021-10-31T23:37:17.781Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bek.ttl>.
+<https://stad.gent/id/concept/550006132/2022-09-24T02:04:37.219Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006132>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:04:37.219Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300199747>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2728_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Cilindrische bekers met een platte onderkant en meestal een schenktuit, vooral gebruikt door chemici en apothekers.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bekerglas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007852>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007852> <http://www.w3.org/2004/02/skos/core#prefLabel> "vaatwerk (houder)"@nl.
+_:df_2728_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006132"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006132/2022-09-24T02:04:37.219Z>.
+<https://stad.gent/id/concept/550005343/2022-09-24T01:39:44.093Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005343>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:39:44.093Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195548>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2905_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Hoge bekers die bestaan uit een cuppa in verschillende vormen, die op een stam staan en meestal een deksel hebben. Worden vaak gebruikt voor ceremoniële doeleinden";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beker op voet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007896>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008204>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008204> <http://www.w3.org/2004/02/skos/core#prefLabel> "gemonteerde bekers"@nl.
+<https://stad.gent/id/concept/550007896> <http://www.w3.org/2004/02/skos/core#prefLabel> "koppen naar vorm"@nl.
+_:df_2905_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005343"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005343/2022-09-24T01:39:44.093Z>.
+<https://stad.gent/id/concept/550001903/2022-09-24T00:27:55.719Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001903>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:27:55.719Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043202>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3418_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Drinkgerei, vaak met één handvat, maar soms met twee of geen handvatten, gewoonlijk op een lage voetring; naar boven toe minder wijd uitlopend dan 'kommen'.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3418_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001903"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001903/2022-09-24T00:27:55.719Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/bek.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bek.ttl>.

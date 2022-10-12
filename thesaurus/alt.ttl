@@ -1,0 +1,30 @@
+<https://stad.gent/id/concept/550005832/2022-09-24T01:54:42.113Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005832>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:54:42.113Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900031697>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2800_31;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Op een altaar geplaatst kruis.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "altaarkruis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007811>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007811> <http://www.w3.org/2004/02/skos/core#prefLabel> "kruis (beeldend werk)"@nl.
+_:df_2800_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005832"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005832/2022-09-24T01:54:42.113Z>.
+<https://stad.gent/id/concept/550004904/2022-09-24T01:23:40.618Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004904>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:23:40.618Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300391097>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3019_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "In tegenstelling tot een altaarbel die slechts één bel omvat, heeft de altaarschel meer belletjes. Wordt door de misdienaar gescheld om de aandacht van de gelovigen te vestigen op de belangrijkste momenten in de eredienst.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "altaarschel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007815>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007815> <http://www.w3.org/2004/02/skos/core#prefLabel> "klok (idiofoon)"@nl.
+_:df_3019_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004904"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004904/2022-09-24T01:23:40.618Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/alt.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/alt.ttl>.

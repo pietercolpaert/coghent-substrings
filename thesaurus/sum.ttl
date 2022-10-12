@@ -1,0 +1,15 @@
+<https://stad.gent/id/concept/550001585/2022-09-24T00:23:12.281Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001585>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:23:12.281Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7016484>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3451_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sumatra"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550001658>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001658> <http://www.w3.org/2004/02/skos/core#prefLabel> "Indonesië"@nl, "Indonesië"@nl.
+_:df_3451_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001585"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001585/2022-09-24T00:23:12.281Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/sum.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/sum.ttl>.

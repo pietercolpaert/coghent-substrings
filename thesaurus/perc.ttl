@@ -10,3 +10,65 @@ _:df_2287_7 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570016551"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016551/2021-10-31T23:41:36.363Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/perc.ttl>.
+<https://stad.gent/id/concept/550007817/2022-09-24T02:43:09.806Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007817>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:43:09.806Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209185>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2452_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "percussie-idiofonen: hol"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007818>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007816>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007816> <http://www.w3.org/2004/02/skos/core#prefLabel> "klokken en klokkenseries"@nl.
+<https://stad.gent/id/concept/550007818> <http://www.w3.org/2004/02/skos/core#prefLabel> "percussie-idiofoon"@nl, "percussie-idiofoon"@nl.
+_:df_2452_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007817"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007817> <http://www.w3.org/2004/02/skos/core#prefLabel> "percussie-idiofonen: hol"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007817/2022-09-24T02:43:09.806Z>.
+<https://stad.gent/id/concept/550007818/2022-09-24T02:43:14.809Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007818>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:43:14.809Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195371>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2452_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Slaginstrumenten; bespeeld door ze aan te slaan met een niet-klinkend voorwerp, zoals een stok of een hand, ook door ze te slaan tegen een niet-klinkend voorwerp, zoals het menselijk lichaam of de grond.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "percussie-idiofoon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007819>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007817>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007817> <http://www.w3.org/2004/02/skos/core#prefLabel> "percussie-idiofonen: hol"@nl.
+<https://stad.gent/id/concept/550007819> <http://www.w3.org/2004/02/skos/core#prefLabel> "rechtstreeks aangeslagen idiofonen"@nl, "rechtstreeks aangeslagen idiofonen"@nl.
+_:df_2452_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007818"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007818> <http://www.w3.org/2004/02/skos/core#prefLabel> "percussie-idiofoon"@nl, "percussie-idiofoon"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007818/2022-09-24T02:43:14.809Z>.
+<https://stad.gent/id/concept/550005595/2022-09-24T01:46:57.686Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005595>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:46:57.686Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2854_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "vuurwapen met percussieslot";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "percussiewapen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008225>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008225> <http://www.w3.org/2004/02/skos/core#prefLabel> "draagbare vuurwapens naar ontstekingsmechanisme"@nl.
+_:df_2854_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005595"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005595/2022-09-24T01:46:57.686Z>.
+<https://stad.gent/id/concept/550001649/2022-09-24T00:24:22.704Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001649>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:24:22.704Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300203975>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3442_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Sloten voor vuurwapens, waarbij een slagsas wordt ingeleid en explodeert en zo de lading ontsteekt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "percussieslot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008131>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008131> <http://www.w3.org/2004/02/skos/core#prefLabel> "slot (vuurwapenonderdeel)"@nl.
+_:df_3442_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001649"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001649/2022-09-24T00:24:22.704Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/perc.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/perc.ttl>.

@@ -35,3 +35,83 @@ _:df_3106_30 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010345"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010345/2021-10-31T21:46:05.027Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ts.ttl>.
+<https://stad.gent/id/concept/570017385/2022-09-24T08:06:58.522Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017385>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T08:06:58.522Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000065>;
+    <http://www.w3.org/ns/adms#identifier> _:df_151_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tsjechoslowakije"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_151_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017385"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017385/2022-09-24T08:06:58.522Z>.
+<https://stad.gent/id/concept/570010345/2022-09-24T05:43:20.895Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010345>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:43:20.895Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1001780>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1171_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tsjechië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570010359>, <https://stad.gent/id/concept/570024354>, <https://stad.gent/id/concept/570025366>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570025366> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kladno"@nl.
+<https://stad.gent/id/concept/570024354> <http://www.w3.org/2004/02/skos/core#prefLabel> "Blansko"@nl.
+<https://stad.gent/id/concept/570010359> <http://www.w3.org/2004/02/skos/core#prefLabel> "Praag"@nl.
+_:df_1171_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010345"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/570010345> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tsjechië"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010345/2022-09-24T05:43:20.895Z>.
+<https://stad.gent/id/concept/550008808/2022-09-24T03:48:19.420Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008808>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:48:19.420Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1001780>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1990_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tsjechië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005045>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550006149>, <https://stad.gent/id/concept/550006694>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006694> <http://www.w3.org/2004/02/skos/core#prefLabel> "Praag"@nl.
+<https://stad.gent/id/concept/550006149> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bohemen"@nl.
+<https://stad.gent/id/concept/550005045> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl.
+_:df_1990_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008808"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008808/2022-09-24T03:48:19.420Z>.
+<https://stad.gent/id/concept/550003596/2022-09-24T00:50:04.102Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003596>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:50:04.102Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000065>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3259_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tsjechoslowakije"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005045>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005045> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl.
+_:df_3259_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003596"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003596/2022-09-24T00:50:04.102Z>.
+<https://stad.gent/id/concept/670007571/2022-09-09T09:33:52.709Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670007571>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:33:52.709Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q213>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3706_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tsjechië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3706_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670007571"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670007571/2022-09-09T09:33:52.709Z>.
+<https://stad.gent/id/concept/670006763/2022-09-09T09:04:16.481Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006763>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:04:16.481Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q33946>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3919_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tsjechoslowakije"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3919_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006763"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006763/2022-09-09T09:04:16.481Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/ts.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ts.ttl>.

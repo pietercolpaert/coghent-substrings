@@ -1,0 +1,38 @@
+<https://stad.gent/id/concept/570007817/2022-09-24T04:43:00.060Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007817>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:43:00.060Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024609>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1600_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "motor"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "inscriptie positie"@nl, "inscription position"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1600_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007817"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007817/2022-09-24T04:43:00.060Z>.
+<https://stad.gent/id/concept/570000016/2022-09-24T04:04:42.831Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000016>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:04:42.831Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024609>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1873_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Ronddraaiende machines die elektrische energie omzetten in mechanische energie. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "motoren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1873_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000016"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000016/2022-09-24T04:04:42.831Z>.
+<https://stad.gent/id/concept/550006244/2022-09-24T02:09:35.263Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006244>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:09:35.263Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7015322>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2692_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Motovun"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008938>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008938> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kroatië"@nl, "Kroatië"@nl.
+_:df_2692_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006244"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006244/2022-09-24T02:09:35.263Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/moto.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/moto.ttl>.

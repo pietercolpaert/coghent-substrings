@@ -10,3 +10,39 @@ _:df_1588_10 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570019923"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019923/2021-11-01T01:20:06.921Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/onderg.ttl>.
+<https://stad.gent/id/concept/550008211/2022-09-24T03:15:51.747Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008211>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:15:51.747Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209268>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2221_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ondergoed en accessoires voor vorming en ondersteuning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007787>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005310>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005310> <http://www.w3.org/2004/02/skos/core#prefLabel> "korset"@nl.
+<https://stad.gent/id/concept/550007787> <http://www.w3.org/2004/02/skos/core#prefLabel> "ondergoed"@nl.
+_:df_2221_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008211"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008211/2022-09-24T03:15:51.747Z>.
+<https://stad.gent/id/concept/550007787/2022-09-24T02:40:48.313Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007787>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:40:48.313Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209267>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2470_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kledingstukken die onder de bovenkleding worden gedragen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ondergoed"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007850>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005333>, <https://stad.gent/id/concept/550008211>, <https://stad.gent/id/concept/550007786>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007786> <http://www.w3.org/2004/02/skos/core#prefLabel> "onderrok"@nl.
+<https://stad.gent/id/concept/550008211> <http://www.w3.org/2004/02/skos/core#prefLabel> "ondergoed en accessoires voor vorming en ondersteuning"@nl.
+<https://stad.gent/id/concept/550005333> <http://www.w3.org/2004/02/skos/core#prefLabel> "hemd"@nl.
+<https://stad.gent/id/concept/550007850> <http://www.w3.org/2004/02/skos/core#prefLabel> "kleding"@nl.
+_:df_2470_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007787"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007787> <http://www.w3.org/2004/02/skos/core#prefLabel> "ondergoed"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007787/2022-09-24T02:40:48.313Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/onderg.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/onderg.ttl>.

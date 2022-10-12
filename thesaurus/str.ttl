@@ -224,3 +224,267 @@ _:df_1_1148 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/stro.ttl>;
     <https://w3id.org/tree#value> "stro".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/str.ttl>.
+<https://stad.gent/id/concept/570014650/2022-09-24T06:53:48.102Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014650>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:53:48.102Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411609>;
+    <http://www.w3.org/ns/adms#identifier> _:df_673_5;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "strohoeden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_673_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014650"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014650/2022-09-24T06:53:48.102Z>.
+<https://stad.gent/id/concept/570014562/2022-09-24T06:50:41.661Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014562>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:50:41.661Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2409535>;
+    <http://www.w3.org/ns/adms#identifier> _:df_697_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "straalkachel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_697_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014562"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014562/2022-09-24T06:50:41.661Z>.
+<https://stad.gent/id/concept/570012894/2022-09-24T06:15:43.768Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012894>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:15:43.768Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_940_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "strijkdoek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_940_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012894"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012894/2022-09-24T06:15:43.768Z>.
+<https://stad.gent/id/concept/570011920/2022-09-24T06:00:21.029Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011920>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:00:21.029Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7252964>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1051_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Strombeek-Bever"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570019573>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570019573> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams-Brabant (provincie)"@nl.
+_:df_1051_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011920"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011920/2022-09-24T06:00:21.029Z>.
+<https://stad.gent/id/concept/570010058/2022-09-24T05:36:47.335Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010058>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:36:47.335Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027033>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1219_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "strooibiljet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1219_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010058"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010058/2022-09-24T05:36:47.335Z>.
+<https://stad.gent/id/concept/570009435/2022-09-24T05:21:11.880Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009435>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:21:11.880Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011908>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1330_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stro"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1330_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009435"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009435/2022-09-24T05:21:11.880Z>.
+<https://stad.gent/id/concept/570003217/2022-09-24T04:24:07.998Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570003217>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:24:07.998Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300003900>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1735_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Banken, wegwijzers, verlichtingsinstallaties en houders, die deel uitmaken van het ontwerp van een weg.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "straatmeubilair"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570010508>, <https://stad.gent/id/concept/570019738>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570019738> <http://www.w3.org/2004/02/skos/core#prefLabel> "straatnaambord"@nl.
+<https://stad.gent/id/concept/570010508> <http://www.w3.org/2004/02/skos/core#prefLabel> "lantaarnpaal"@nl.
+_:df_1735_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570003217"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570003217/2022-09-24T04:24:07.998Z>.
+<https://stad.gent/id/concept/550008632/2022-09-24T03:39:03.165Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008632>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:39:03.165Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2056_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "strowerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008084>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008084> <http://www.w3.org/2004/02/skos/core#prefLabel> "objectgenres naar materiaal"@nl.
+_:df_2056_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008632"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008632/2022-09-24T03:39:03.165Z>.
+<https://stad.gent/id/concept/550008295/2022-09-24T03:22:41.065Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008295>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:22:41.065Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043027>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2173_31;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine geperforeerde vaatjes in verschillende grootten, vormen en materialen, met afneembaar geperforeerd deksel of gemaakt uit één stuk met gaatjes in de bovenkant en vulbaar door een gekurkt of anderszins afsluitbaar gat in de bodem, of samengesteld uit twee delen met een stop met schroefdraad of draaideksel; wordt gebruikt voor het strooien van suiker, zout, mosterd of andere kruiden, met name aan tafel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "strooibus (tafel)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008254>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550004987>, <https://stad.gent/id/concept/550002699>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002699> <http://www.w3.org/2004/02/skos/core#prefLabel> "suikerstrooier"@nl.
+<https://stad.gent/id/concept/550004987> <http://www.w3.org/2004/02/skos/core#prefLabel> "peperstrooier"@nl.
+<https://stad.gent/id/concept/550008254> <http://www.w3.org/2004/02/skos/core#prefLabel> "specerijvaten"@nl.
+_:df_2173_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008295"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008295/2022-09-24T03:22:41.065Z>.
+<https://stad.gent/id/concept/550007945/2022-09-24T02:53:55.833Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007945>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:53:55.833Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300210068>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2377_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vrij lange, smalle stukken zacht materiaal, zoals zijde of wol, die om de hals onder de boord worden gedragen en met een knoop, lus of strik aan de voorkant worden vastgemaakt, waarbij de twee uiteinden meestal verticaal los naar beneden hangen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stropdas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005315>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007944>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007944> <http://www.w3.org/2004/02/skos/core#prefLabel> "vlinderdas"@nl.
+<https://stad.gent/id/concept/550005315> <http://www.w3.org/2004/02/skos/core#prefLabel> "boorden en dassen"@nl, "boorden en dassen"@nl.
+_:df_2377_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007945"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007945> <http://www.w3.org/2004/02/skos/core#prefLabel> "stropdas"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007945/2022-09-24T02:53:55.833Z>.
+<https://stad.gent/id/concept/550007862/2022-09-24T02:46:57.075Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007862>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:46:57.075Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300078046>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2425_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "structurele bouwelementen en onderdelen van structurele bouwelementen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007810>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008102>, <https://stad.gent/id/concept/550007861>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007861> <http://www.w3.org/2004/02/skos/core#prefLabel> "structurele bouwelementen"@nl.
+<https://stad.gent/id/concept/550008102> <http://www.w3.org/2004/02/skos/core#prefLabel> "onderdelen van structurele bouwelementen"@nl.
+<https://stad.gent/id/concept/550007810> <http://www.w3.org/2004/02/skos/core#prefLabel> "architecturaal element"@nl, "architecturaal element"@nl.
+_:df_2425_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007862"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007862/2022-09-24T02:46:57.075Z>.
+<https://stad.gent/id/concept/550007861/2022-09-24T02:46:52.072Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007861>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:46:52.072Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300078048>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2428_33;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "structurele bouwelementen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007862>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008193>, <https://stad.gent/id/concept/550008086>, <https://stad.gent/id/concept/550007860>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007860> <http://www.w3.org/2004/02/skos/core#prefLabel> "overspannende en uitkragende bouwelementen"@nl.
+<https://stad.gent/id/concept/550008086> <http://www.w3.org/2004/02/skos/core#prefLabel> "omsluitende structurele elementen"@nl.
+<https://stad.gent/id/concept/550008193> <http://www.w3.org/2004/02/skos/core#prefLabel> "dragende en weerstandbiedende elementen"@nl.
+<https://stad.gent/id/concept/550007862> <http://www.w3.org/2004/02/skos/core#prefLabel> "structurele bouwelementen en onderdelen van structurele bouwelementen"@nl.
+_:df_2428_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007861"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007861> <http://www.w3.org/2004/02/skos/core#prefLabel> "structurele bouwelementen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007861/2022-09-24T02:46:52.072Z>.
+<https://stad.gent/id/concept/550006813/2022-09-24T02:28:16.305Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006813>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:28:16.305Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7011158>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2560_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Stroud"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006140>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006140> <http://www.w3.org/2004/02/skos/core#prefLabel> "Engeland"@nl, "Engeland"@nl.
+_:df_2560_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006813"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006813/2022-09-24T02:28:16.305Z>.
+<https://stad.gent/id/concept/550006101/2022-09-24T02:03:16.752Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006101>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:03:16.752Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7252972>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2737_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Strijpen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004313>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004313> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen"@nl.
+_:df_2737_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006101"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006101/2022-09-24T02:03:16.752Z>.
+<https://stad.gent/id/concept/550004875/2022-09-24T01:22:50.161Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004875>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:22:50.161Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7012346>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3025_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Straatsburg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004704>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004704> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_3025_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004875"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004875/2022-09-24T01:22:50.161Z>.
+<https://stad.gent/id/concept/550003712/2022-09-24T00:53:11.673Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003712>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:53:11.673Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3238_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "inhuldigingspenning die uitgestrooid werd onder het volk, meetsal kleiner en van ander metaal dan de inhuldigingspenningen die uitgedeeld werden aan genodigden";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "strooipenning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005245>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005245> <http://www.w3.org/2004/02/skos/core#prefLabel> "inhuldigingspenning"@nl.
+_:df_3238_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003712"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003712/2022-09-24T00:53:11.673Z>.
+<https://stad.gent/id/concept/550001472/2022-09-24T00:20:45.877Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001472>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:20:45.877Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300201648>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3469_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt met name gebruikt voor Europese slagwapens met een zware kop, meestal met een stompe of puntige kant en met tenminste één blad of pin aan de andere kant van de kop of bovenop de staf; ze kwamen voor in verschillende typen van de 13e tot de 17e eeuw. Wordt ook meer algemeen gebruikt voor hamers die als gevechtswapens werden gebruikt in bijna alle delen van de wereld sinds de steentijd.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "strijdhamer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008112>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008112> <http://www.w3.org/2004/02/skos/core#prefLabel> "slagwapens"@nl.
+_:df_3469_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001472"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001472/2022-09-24T00:20:45.877Z>.
+<https://stad.gent/id/concept/550000535/2022-09-24T00:07:23.428Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000535>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:07:23.428Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011908>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3565_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gedroogde stengels van graangewassen of andere grassen, die worden gebruikt bij het vlechten en weven.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stro"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008437>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008437> <http://www.w3.org/2004/02/skos/core#prefLabel> "plantaardig materiaal"@nl.
+_:df_3565_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000535"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000535/2022-09-24T00:07:23.428Z>.
+<https://stad.gent/id/concept/670006966/2022-09-09T09:20:30.445Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006966>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:20:30.445Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3802_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Strandlaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3802_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006966"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006966/2022-09-09T09:20:30.445Z>.
+<https://stad.gent/id/concept/670006771/2022-09-09T09:04:58.108Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006771>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:04:58.108Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q6602>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3913_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Strasbourg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3913_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006771"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006771/2022-09-09T09:04:58.108Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/str.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/str.ttl>.

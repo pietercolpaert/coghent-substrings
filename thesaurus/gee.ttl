@@ -9,3 +9,51 @@ _:df_532_12 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "670000289"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000289/2021-11-01T03:50:49.826Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/gee.ttl>.
+<https://stad.gent/id/concept/570001605/2022-09-24T04:17:37.264Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001605>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:17:37.264Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007884>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1783_40;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Geel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020234>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020234> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl.
+_:df_1783_40 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001605"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001605/2022-09-24T04:17:37.264Z>.
+<https://stad.gent/id/concept/550004741/2022-09-24T01:18:01.251Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004741>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:18:01.251Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3061_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "geelgieter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en, "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3061_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004741"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004741/2022-09-24T01:18:01.251Z>.
+<https://stad.gent/id/concept/550001757/2022-09-24T00:25:44.888Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001757>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:25:44.888Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007884>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3433_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Geel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005392>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005392> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl.
+_:df_3433_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001757"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001757/2022-09-24T00:25:44.888Z>.
+<https://stad.gent/id/concept/530010834/2022-09-23T00:00:15.701Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010834>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-23T00:00:15.701Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3616_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "geen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3616_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010834"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010834/2022-09-23T00:00:15.701Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/gee.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/gee.ttl>.

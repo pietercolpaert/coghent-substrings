@@ -147,3 +147,265 @@ _:df_3229_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009620"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009620/2021-10-31T21:28:25.337Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/wer.ttl>.
+<https://stad.gent/id/concept/570010825/2022-09-24T05:50:05.735Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010825>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:50:05.735Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300004531>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1123_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar openbare of particuliere ruimten die bedoeld zijn voor de uitvoering van handwerk of lichte industriële arbeid. De term kan verwijzen naar ruimten waarin kunst werd vervaardigd, met name in relatie tot kunstvoorwerpen van voor de 16de eeuw. Ook kan de term verwijzen naar ruimten waarin houtbewerkers, schrijnwerkers, pottenbakkers, glasblazers en andere ambachtslieden werkzaam zijn. In de meest algemene betekenis verwijst de term naar ruimten waarin goederen van allerlei aard worden vervaardigd, voor verkoop worden gereedgemaakt of verkocht. In het moderne taalgebruik wordt doorgaans de term 'ateliers' gebruikt om te verwijzen naar ruimten waarin kunst wordt vervaardigd, in de periode vanaf de 16de eeuw tot heden. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "werkplaats"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1123_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010825"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010825/2022-09-24T05:50:05.735Z>.
+<https://stad.gent/id/concept/570009667/2022-09-24T05:27:32.755Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009667>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:27:32.755Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1345539>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1285_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wereldtentoonstelling Parijs 1878"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570004888>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "gebeurtenis"@nl, "event"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570004888> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wereldtentoonstelling"@nl.
+_:df_1285_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009667"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009667/2022-09-24T05:27:32.755Z>.
+<https://stad.gent/id/concept/570009620/2022-09-24T05:25:57.031Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009620>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:25:57.031Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1297_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "werkomstandigheden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1297_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009620"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009620/2022-09-24T05:25:57.031Z>.
+<https://stad.gent/id/concept/570009363/2022-09-24T05:20:16.464Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009363>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:20:16.464Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028442>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1336_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wereldkaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1336_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009363"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009363/2022-09-24T05:20:16.464Z>.
+<https://stad.gent/id/concept/570009337/2022-09-24T05:19:25.947Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009337>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:19:25.947Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1342_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "werkhuisreglement"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1342_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009337"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009337/2022-09-24T05:19:25.947Z>.
+<https://stad.gent/id/concept/570009053/2022-09-24T05:06:51.672Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009053>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:06:51.672Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027503>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1432_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "werkboekje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1432_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009053"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009053/2022-09-24T05:06:51.672Z>.
+<https://stad.gent/id/concept/570008878/2022-09-24T05:00:53.653Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008878>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:00:53.653Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300161823>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1474_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "werkbank"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1474_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008878"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008878/2022-09-24T05:00:53.653Z>.
+<https://stad.gent/id/concept/570008626/2022-09-24T04:52:16.974Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008626>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:52:16.974Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q3053337>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1534_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "werkgevers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1534_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008626"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008626/2022-09-24T04:52:16.974Z>.
+<https://stad.gent/id/concept/570008218/2022-09-24T04:45:32.728Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008218>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:45:32.728Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q39546>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1582_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "werktuigen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1582_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008218"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008218/2022-09-24T04:45:32.728Z>.
+<https://stad.gent/id/concept/570004888/2022-09-24T04:28:51.465Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570004888>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:28:51.465Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054778>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1702_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wereldtentoonstelling"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570011255>, <https://stad.gent/id/concept/570025311>, <https://stad.gent/id/concept/570025305>, <https://stad.gent/id/concept/570025314>, <https://stad.gent/id/concept/570025308>, <https://stad.gent/id/concept/570025313>, <https://stad.gent/id/concept/570025309>, <https://stad.gent/id/concept/570025069>, <https://stad.gent/id/concept/570025306>, <https://stad.gent/id/concept/570024835>, <https://stad.gent/id/concept/570025165>, <https://stad.gent/id/concept/570025310>, <https://stad.gent/id/concept/570025307>, <https://stad.gent/id/concept/570009667>, <https://stad.gent/id/concept/570025304>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en, "gebeurtenis"@nl, "event"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570025304> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wereldtentoonstelling Parijs 1900"@nl.
+<https://stad.gent/id/concept/570009667> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wereldtentoonstelling Parijs 1878"@nl.
+<https://stad.gent/id/concept/570025307> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wereldtentoonstelling Parijs 1867"@nl.
+<https://stad.gent/id/concept/570025310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wereldtentoonstelling Luik 1930"@nl.
+<https://stad.gent/id/concept/570025165> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wereldtentoonstelling Luik 1905"@nl.
+<https://stad.gent/id/concept/570024835> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wereldtentoonstelling Gent 1913"@nl.
+<https://stad.gent/id/concept/570025306> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wereldtentoonstelling Brussel 1935"@nl.
+<https://stad.gent/id/concept/570025069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wereldtentoonstelling Brussel 1910"@nl.
+<https://stad.gent/id/concept/570025309> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wereldtentoonstelling Brussel 1897"@nl.
+<https://stad.gent/id/concept/570025313> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wereldtentoonstelling Antwerpen 1930"@nl.
+<https://stad.gent/id/concept/570025308> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wereldtentoonstelling Antwerpen 1894"@nl.
+<https://stad.gent/id/concept/570025314> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wereldtentoonstelling Antwerpen 1885"@nl.
+<https://stad.gent/id/concept/570025305> <http://www.w3.org/2004/02/skos/core#prefLabel> "Internationale Tentoonstelling Luik 1939"@nl.
+<https://stad.gent/id/concept/570025311> <http://www.w3.org/2004/02/skos/core#prefLabel> "Internationale Tentoonstelling Charleroi 1911"@nl.
+<https://stad.gent/id/concept/570011255> <http://www.w3.org/2004/02/skos/core#prefLabel> "Expo 58"@nl.
+_:df_1702_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570004888"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570004888/2022-09-24T04:28:51.465Z>.
+<https://stad.gent/id/concept/570003673/2022-09-24T04:25:38.847Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570003673>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:25:38.847Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q101333>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1726_116;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "werktuigkunde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1726_116 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570003673"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570003673/2022-09-24T04:25:38.847Z>.
+<https://stad.gent/id/concept/570000949/2022-09-24T04:12:57.830Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000949>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:12:57.830Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026806>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1816_204;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wervik"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018081>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018081> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen (provincie)"@nl.
+_:df_1816_204 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000949"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000949/2022-09-24T04:12:57.830Z>.
+<https://stad.gent/id/concept/570000046/2022-09-24T04:05:38.328Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000046>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:05:38.328Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054504>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1867_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "werktuigbouwkunde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1867_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000046"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000046/2022-09-24T04:05:38.328Z>.
+<https://stad.gent/id/concept/550008699/2022-09-24T03:42:41.340Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008699>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:42:41.340Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026806>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2029_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wervik"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004834>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004834> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen"@nl.
+_:df_2029_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008699"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008699/2022-09-24T03:42:41.340Z>.
+<https://stad.gent/id/concept/550008594/2022-09-24T03:36:11.025Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008594>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:36:11.025Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/6006468>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2077_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wéris"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008924>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008924> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luxemburg (provincie)"@nl.
+_:df_2077_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008594"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008594/2022-09-24T03:36:11.025Z>.
+<https://stad.gent/id/concept/550008340/2022-09-24T03:26:17.937Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008340>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:26:17.937Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300255535>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2146_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "werkuitrusting van dieren voor berijden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008286>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001525>, <https://stad.gent/id/concept/550006055>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006055> <http://www.w3.org/2004/02/skos/core#prefLabel> "zadeldeken"@nl.
+<https://stad.gent/id/concept/550001525> <http://www.w3.org/2004/02/skos/core#prefLabel> "stijgbeugel"@nl.
+<https://stad.gent/id/concept/550008286> <http://www.w3.org/2004/02/skos/core#prefLabel> "werkuitrusting van dieren"@nl.
+_:df_2146_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008340"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008340/2022-09-24T03:26:17.937Z>.
+<https://stad.gent/id/concept/550008286/2022-09-24T03:21:54.898Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008286>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:21:54.898Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300255533>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2176_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "werkuitrusting van dieren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008151>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550000959>, <https://stad.gent/id/concept/550008340>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008340> <http://www.w3.org/2004/02/skos/core#prefLabel> "werkuitrusting van dieren voor berijden"@nl.
+<https://stad.gent/id/concept/550000959> <http://www.w3.org/2004/02/skos/core#prefLabel> "tuig"@nl.
+<https://stad.gent/id/concept/550008151> <http://www.w3.org/2004/02/skos/core#prefLabel> "dierenuitrusting"@nl.
+_:df_2176_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008286"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008286/2022-09-24T03:21:54.898Z>.
+<https://stad.gent/id/concept/670006595/2022-09-09T08:50:10.029Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006595>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:50:10.029Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4018_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "We're Going to Be Rich"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4018_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006595"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006595/2022-09-09T08:50:10.029Z>.
+<https://stad.gent/id/concept/670006596/2022-09-09T08:50:15.032Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006596>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:50:15.032Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4018_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "We're No Angels"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4018_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006596"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006596/2022-09-09T08:50:15.032Z>.
+<https://stad.gent/id/concept/670006597/2022-09-09T08:50:20.034Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006597>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:50:20.034Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4018_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "We're Not Married"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4018_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006597"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006597/2022-09-09T08:50:20.034Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/wer.ttl> <https://w3id.org/tree#relation> _:df_1_1403.
+_:df_1_1403 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/wer+k.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "wer", "k".
+<https://www.pieter.pm/coghent-substrings/thesaurus/wer.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/wer.ttl>.

@@ -130,3 +130,236 @@ _:df_3226_36 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009643"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009643/2021-10-31T21:29:11.049Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/koo.ttl>.
+<https://stad.gent/id/concept/570016085/2022-09-24T07:26:33.751Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016085>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:26:33.751Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007052>;
+    <http://www.w3.org/ns/adms#identifier> _:df_439_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Koog aan de Zaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_439_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016085"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016085/2022-09-24T07:26:33.751Z>.
+<https://stad.gent/id/concept/570016005/2022-09-24T07:24:57.824Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016005>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:24:57.824Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300127475>;
+    <http://www.w3.org/ns/adms#identifier> _:df_451_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kooi"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_451_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016005"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016005/2022-09-24T07:24:57.824Z>.
+<https://stad.gent/id/concept/570014952/2022-09-24T07:03:12.457Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014952>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:03:12.457Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300001946>;
+    <http://www.w3.org/ns/adms#identifier> _:df_607_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koorden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_607_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014952"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014952/2022-09-24T07:03:12.457Z>.
+<https://stad.gent/id/concept/570014839/2022-09-24T06:59:30.925Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014839>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:59:30.925Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026109>;
+    <http://www.w3.org/ns/adms#identifier> _:df_634_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kookboek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_634_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014839"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014839/2022-09-24T06:59:30.925Z>.
+<https://stad.gent/id/concept/570014679/2022-09-24T06:54:43.527Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014679>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:54:43.527Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025245>;
+    <http://www.w3.org/ns/adms#identifier> _:df_667_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koopman"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_667_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014679"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014679/2022-09-24T06:54:43.527Z>.
+<https://stad.gent/id/concept/570012822/2022-09-24T06:14:33.193Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012822>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:14:33.193Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300200832>;
+    <http://www.w3.org/ns/adms#identifier> _:df_949_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwarmde platen, voornamelijk bovenop stoven, die bij het koken worden gebruikt. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kookplaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_949_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012822"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012822/2022-09-24T06:14:33.193Z>.
+<https://stad.gent/id/concept/570010051/2022-09-24T05:36:32.328Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010051>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:36:32.328Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q104334>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1222_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koolzuur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1222_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010051"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010051/2022-09-24T05:36:32.328Z>.
+<https://stad.gent/id/concept/570009643/2022-09-24T05:26:42.392Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009643>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:26:42.392Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q959309>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1291_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koolmijn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1291_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009643"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009643/2022-09-24T05:26:42.392Z>.
+<https://stad.gent/id/concept/570009368/2022-09-24T05:20:21.467Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009368>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:20:21.467Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1336_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kookfornuis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1336_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009368"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009368/2022-09-24T05:20:21.467Z>.
+<https://stad.gent/id/concept/570008589/2022-09-24T04:51:06.557Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008589>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:51:06.557Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300196395>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1543_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Grote, open vaten, vooral die welke boven een open vuur worden gehangen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kookpot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1543_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008589"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008589/2022-09-24T04:51:06.557Z>.
+<https://stad.gent/id/concept/550008624/2022-09-24T03:38:33.148Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008624>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:38:33.148Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2059_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koord (object)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2059_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008624"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008624/2022-09-24T03:38:33.148Z>.
+<https://stad.gent/id/concept/550008208/2022-09-24T03:15:36.737Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008208>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:15:36.737Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300210429>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2221_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Lange, halfronde cape-achtige kledingstukken die bij de hals worden gesloten met een gesp en met een rijkversierde kap; gedragen door geestelijken bij processies en andere ceremoniële gelegenheden. Ook soortgelijke kleding die wordt gedragen door leken als kronings- of processiegewaad.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koorkap"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008209>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008209> <http://www.w3.org/2004/02/skos/core#prefLabel> "liturigisch gewaad"@nl.
+_:df_2221_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008208"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008208> <http://www.w3.org/2004/02/skos/core#prefLabel> "koorkap"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008208/2022-09-24T03:15:36.737Z>.
+<https://stad.gent/id/concept/550007954/2022-09-24T02:54:36.367Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007954>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:54:36.367Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300207589>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2371_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kookgereedschap en uitrusting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007956>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007955>, <https://stad.gent/id/concept/550002592>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002592> <http://www.w3.org/2004/02/skos/core#prefLabel> "veilleuse"@nl.
+<https://stad.gent/id/concept/550007955> <http://www.w3.org/2004/02/skos/core#prefLabel> "kook- en verhittingsapparaten"@nl.
+<https://stad.gent/id/concept/550007956> <http://www.w3.org/2004/02/skos/core#prefLabel> "keukengerei voor het bereiden en koken van voedsel"@nl.
+_:df_2371_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007954"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007954> <http://www.w3.org/2004/02/skos/core#prefLabel> "kookgereedschap en uitrusting"@nl, "kookgereedschap en uitrusting"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007954/2022-09-24T02:54:36.367Z>.
+<https://stad.gent/id/concept/550007955/2022-09-24T02:54:41.370Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007955>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:54:41.370Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300200422>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2371_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kook- en verhittingsapparaten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007954>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001889>, <https://stad.gent/id/concept/550002993>, <https://stad.gent/id/concept/550002880>, <https://stad.gent/id/concept/550001887>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001887> <http://www.w3.org/2004/02/skos/core#prefLabel> "wafelijzer"@nl.
+<https://stad.gent/id/concept/550002880> <http://www.w3.org/2004/02/skos/core#prefLabel> "schotelwarmer"@nl.
+<https://stad.gent/id/concept/550002993> <http://www.w3.org/2004/02/skos/core#prefLabel> "komfoor"@nl.
+<https://stad.gent/id/concept/550001889> <http://www.w3.org/2004/02/skos/core#prefLabel> "braadrooster"@nl.
+<https://stad.gent/id/concept/550007954> <http://www.w3.org/2004/02/skos/core#prefLabel> "kookgereedschap en uitrusting"@nl, "kookgereedschap en uitrusting"@nl.
+_:df_2371_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007955"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007955> <http://www.w3.org/2004/02/skos/core#prefLabel> "kook- en verhittingsapparaten"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007955/2022-09-24T02:54:41.370Z>.
+<https://stad.gent/id/concept/550006215/2022-09-24T02:08:39.871Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006215>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:08:39.871Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2698_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Groep aaneengesloten zitplaatsen bestemd voor kanunniken of koormonniken. Staan tegenover elkaar tegen de zijwanden van het koor in kathedrale kerken, kloosterkerken en collegiale kerken. De ruime zitplaatsen kunnen door forse leuningen gescheiden zijn en voorzien zijn van een doorlopend dorsaal en een doorlopende luifel. Zijn de stalles of zitplaatsen opklapbaar, dan kan aan de onderzijde een (gebeeldhouwd) zitblokje zijn aangebracht, misericorde genaamd.  (SKKN)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koorgestoelte"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008205>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008205> <http://www.w3.org/2004/02/skos/core#prefLabel> "kerkgestoelte"@nl.
+_:df_2698_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006215"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006215/2022-09-24T02:08:39.871Z>.
+<https://stad.gent/id/concept/550005903/2022-09-24T01:57:13.500Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005903>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:57:13.500Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300196395>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2782_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Grote, open vaten, vooral die welke boven een open vuur worden gehangen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kookpot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007852>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007852> <http://www.w3.org/2004/02/skos/core#prefLabel> "vaatwerk (houder)"@nl.
+_:df_2782_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005903"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005903/2022-09-24T01:57:13.500Z>.
+<https://stad.gent/id/concept/550001923/2022-09-24T00:28:36.149Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001923>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:28:36.149Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014247>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3412_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een lange, dunne, buigzame, ietwat cilindervormige constructie van vezelachtig materiaal, meestal gemaakt van meerdere strengen die zijn samengevlochten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koord (vezelproduct)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008561>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550003233>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003233> <http://www.w3.org/2004/02/skos/core#prefLabel> "touw (materiaal)"@nl.
+<https://stad.gent/id/concept/550008561> <http://www.w3.org/2004/02/skos/core#prefLabel> "vezelproducten"@nl.
+_:df_3412_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001923"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001923/2022-09-24T00:28:36.149Z>.
+<https://stad.gent/id/concept/530009252/2022-09-09T09:34:13.246Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009252>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:34:13.246Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300207589>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3706_196;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kookgereedschap en uitrusting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530001486>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530010848>, <https://stad.gent/id/concept/530008781>, <https://stad.gent/id/concept/530008728>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008728> <http://www.w3.org/2004/02/skos/core#prefLabel> "kookgereedschap"@nl.
+<https://stad.gent/id/concept/530008781> <http://www.w3.org/2004/02/skos/core#prefLabel> "kook- en verhittingsapparaat"@nl.
+<https://stad.gent/id/concept/530010848> <http://www.w3.org/2004/02/skos/core#prefLabel> "blikopener"@nl.
+<https://stad.gent/id/concept/530001486> <http://www.w3.org/2004/02/skos/core#prefLabel> "keukengerei (objectnaam)"@nl.
+_:df_3706_196 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009252"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009252/2022-09-09T09:34:13.246Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/koo.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/koo.ttl>.

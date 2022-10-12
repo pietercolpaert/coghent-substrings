@@ -120,3 +120,146 @@ _:df_1_984 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/techno.ttl>;
     <https://w3id.org/tree#value> "techno".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/techn.ttl>.
+<https://stad.gent/id/concept/570012269/2022-09-24T06:04:27.950Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012269>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:04:27.950Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q721587>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1021_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "telegrafie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570024278>, <https://stad.gent/id/concept/570024280>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectcategorie"@nl, "object category"@en, "techniek"@nl, "technique"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570024280> <http://www.w3.org/2004/02/skos/core#prefLabel> "optische telegrafie"@nl.
+<https://stad.gent/id/concept/570024278> <http://www.w3.org/2004/02/skos/core#prefLabel> "elektrische telegrafie"@nl.
+_:df_1021_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012269"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012269/2022-09-24T06:04:27.950Z>.
+<https://stad.gent/id/concept/570011618/2022-09-24T05:57:39.603Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011618>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:57:39.603Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300178688>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1069_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Prenten die alleen met behulp van het zeefdrukprocedé zijn gemaakt, handmatig of fotografisch. Het drukken vindt plaats door inkt of verf door een zeef te duwen waarin een ontwerp is aangebracht door bepaalde gedeelten af te sluiten. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zeefdruk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en, "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1069_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011618"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011618/2022-09-24T05:57:39.603Z>.
+<https://stad.gent/id/concept/570011553/2022-09-24T05:56:54.232Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011553>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:56:54.232Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300015050>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1075_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "olieverf"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en, "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1075_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011553"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011553/2022-09-24T05:56:54.232Z>.
+<https://stad.gent/id/concept/570011003/2022-09-24T05:51:21.203Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011003>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:51:21.203Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2207288>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1114_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "handwerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570008836>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008836> <http://www.w3.org/2004/02/skos/core#prefLabel> "borduren"@nl.
+_:df_1114_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011003"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011003/2022-09-24T05:51:21.203Z>.
+<https://stad.gent/id/concept/570010542/2022-09-24T05:47:03.922Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010542>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:47:03.922Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041573>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1147_41;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "uurwerken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "objectnaam"@nl, "object name"@en, "techniek"@nl, "technique"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1147_41 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010542"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010542/2022-09-24T05:47:03.922Z>.
+<https://stad.gent/id/concept/570009252/2022-09-24T05:15:27.162Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009252>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:15:27.162Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300257688>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1372_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Exemplaren van een bepaald geschreven of gedrukt werk; als het document in veelvoud wordt uitgegeven, is er sprake van een druk.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kopie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1372_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009252"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009252/2022-09-24T05:15:27.162Z>.
+<https://stad.gent/id/concept/570009237/2022-09-24T05:14:55.267Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009237>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:14:55.267Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300393160>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1375_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Glasplaten met een lichtgevoelige emulsie die zijn blootgesteld en ontwikkeld, en die bedoeld zijn als matrijzen om positieve fotoafdrukken op een andere drager te maken. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "glasplaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1375_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009237"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009237/2022-09-24T05:14:55.267Z>.
+<https://stad.gent/id/concept/570009181/2022-09-24T05:12:32.881Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009181>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:12:32.881Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053773>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1390_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het aanbrengen van een glasachtige glazuurlaag op metaal of aardewerk, waarna het in een pottenbakkersoven of smeltoven wordt samengesmolten tot een glad, hard oppervlak. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "emailleren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1390_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009181"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009181/2022-09-24T05:12:32.881Z>.
+<https://stad.gent/id/concept/570009184/2022-09-24T05:12:37.883Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009184>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:12:37.883Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041340>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1390_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gravure"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "techniek"@nl, "technique"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1390_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009184"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009184/2022-09-24T05:12:37.883Z>.
+<https://stad.gent/id/concept/570009148/2022-09-24T05:11:12.444Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009148>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:11:12.444Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q259059>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1402_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "huishouden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1402_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009148"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009148/2022-09-24T05:11:12.444Z>.
+<https://stad.gent/id/concept/570009039/2022-09-24T05:06:26.662Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009039>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:06:26.662Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027323>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1435_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Rapporten die details en resultaten geven van een specifiek onderzoek naar een wetenschappelijk of technisch probleem.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "technische nota"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1435_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009039"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009039/2022-09-24T05:06:26.662Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/techn.ttl> <https://w3id.org/tree#relation> _:df_1_863.
+_:df_1_863 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/techni.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "techni".
+<https://www.pieter.pm/coghent-substrings/thesaurus/techn.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/techn.ttl>.

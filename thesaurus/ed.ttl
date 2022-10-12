@@ -44,3 +44,110 @@ _:df_2971_24 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570012158"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012158/2021-10-31T22:05:02.009Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ed.ttl>.
+<https://stad.gent/id/concept/570012158/2022-09-24T06:02:16.799Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012158>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:02:16.799Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008834>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1036_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Edingen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012866>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012866> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen (provincie)"@nl.
+_:df_1036_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012158"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012158/2022-09-24T06:02:16.799Z>.
+<https://stad.gent/id/concept/570009361/2022-09-24T05:20:06.459Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009361>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:20:06.459Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7009546>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1339_35;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Edinburgh"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000533>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000533> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schotland"@nl.
+_:df_1339_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009361"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009361/2022-09-24T05:20:06.459Z>.
+<https://stad.gent/id/concept/570005582/2022-09-24T04:30:42.890Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570005582>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:30:42.890Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011172>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1690_37;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "edelstenen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1690_37 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570005582"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570005582/2022-09-24T04:30:42.890Z>.
+<https://stad.gent/id/concept/570000035/2022-09-24T04:05:17.845Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000035>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:05:17.845Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011054>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1870_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "edele metalen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1870_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000035"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000035/2022-09-24T04:05:17.845Z>.
+<https://stad.gent/id/concept/550007620/2022-09-24T02:36:05.921Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007620>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:36:05.921Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2503_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "edelsmid"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2503_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007620"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007620/2022-09-24T02:36:05.921Z>.
+<https://stad.gent/id/concept/550005596/2022-09-24T01:47:02.688Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005596>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:47:02.688Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300133732>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2854_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor edelstenen waaraan men een grotere waarde toekent dan aan andere soorten, vooral diamant, saffier, smaragd, robijn en soms parel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "edelsteen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008728>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550009245>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550009245> <http://www.w3.org/2004/02/skos/core#prefLabel> "meerschuim"@nl.
+<https://stad.gent/id/concept/550008728> <http://www.w3.org/2004/02/skos/core#prefLabel> "ruwe (half)edelsteen"@nl.
+_:df_2854_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005596"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005596/2022-09-24T01:47:02.688Z>.
+<https://stad.gent/id/concept/670007030/2022-09-09T09:25:44.379Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670007030>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:25:44.379Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3766_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Edmond van Beverenplein"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3766_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670007030"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670007030/2022-09-09T09:25:44.379Z>.
+<https://stad.gent/id/concept/670007031/2022-09-09T09:25:49.380Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670007031>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:25:49.380Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3766_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Eduard Pêcherstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3766_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670007031"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670007031/2022-09-09T09:25:49.380Z>.
+<https://stad.gent/id/concept/670006934/2022-09-09T09:17:54.231Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006934>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:17:54.231Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q724238>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3820_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Edegem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3820_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006934"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006934/2022-09-09T09:17:54.231Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/ed.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ed.ttl>.

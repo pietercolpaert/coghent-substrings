@@ -9,3 +9,26 @@ _:df_2842_5 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570013105"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013105/2021-10-31T22:23:03.570Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bez.ttl>.
+<https://stad.gent/id/concept/570013105/2022-09-24T06:20:21.210Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013105>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:20:21.210Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q194489>;
+    <http://www.w3.org/ns/adms#identifier> _:df_907_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bezoldiging"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_907_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013105"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013105/2022-09-24T06:20:21.210Z>.
+<https://stad.gent/id/concept/670006837/2022-09-09T09:10:10.513Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006837>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:10:10.513Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q630159>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3877_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Béziers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3877_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006837"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006837/2022-09-09T09:10:10.513Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/bez.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bez.ttl>.

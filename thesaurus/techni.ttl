@@ -133,3 +133,140 @@ _:df_1_1021 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/technic.ttl>;
     <https://w3id.org/tree#value> "technic".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/techni.ttl>.
+<https://stad.gent/id/concept/570008836/2022-09-24T04:59:53.249Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008836>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:59:53.249Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053653>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1480_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar het procedé waarbij een naald en een draad of een dunne metaaldraad worden gebruikt voor het stikken van decoratieve patronen in stof, leer, papier of ander materiaal.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "borduren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570011003>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en, "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570011003> <http://www.w3.org/2004/02/skos/core#prefLabel> "handwerk"@nl.
+_:df_1480_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008836"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008836/2022-09-24T04:59:53.249Z>.
+<https://stad.gent/id/concept/570008511/2022-09-24T04:49:15.792Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008511>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:49:15.792Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300132861>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1558_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kant"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "materiaal"@nl, "material"@en, "techniek"@nl, "technique"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1558_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008511"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008511/2022-09-24T04:49:15.792Z>.
+<https://stad.gent/id/concept/570008218/2022-09-24T04:45:32.728Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008218>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:45:32.728Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q39546>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1582_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "werktuigen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1582_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008218"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008218/2022-09-24T04:45:32.728Z>.
+<https://stad.gent/id/concept/570007812/2022-09-24T04:42:55.057Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007812>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:42:55.057Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q394>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1603_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "metrologie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectcategorie"@nl, "object category"@en, "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1603_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007812"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007812/2022-09-24T04:42:55.057Z>.
+<https://stad.gent/id/concept/570007644/2022-09-24T04:41:59.647Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007644>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:41:59.647Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006259>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1609_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor plaatsen waar touw wordt gemaakt. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "touwslagerij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "collectie"@nl, "collection"@en, "techniek"@nl, "technique"@en, "onderwerp"@nl, "subject"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1609_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007644"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007644/2022-09-24T04:41:59.647Z>.
+<https://stad.gent/id/concept/570007136/2022-09-24T04:40:23.842Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007136>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:40:23.842Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q204867>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1621_34;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zincografie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1621_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007136"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007136/2022-09-24T04:40:23.842Z>.
+<https://stad.gent/id/concept/570006742/2022-09-24T04:37:52.017Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006742>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:37:52.017Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300311594>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1639_34;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "velours"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1639_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006742"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006742/2022-09-24T04:37:52.017Z>.
+<https://stad.gent/id/concept/570006702/2022-09-24T04:37:27.006Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006702>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:37:27.006Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300162872>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1642_32;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar een tweetal afbeeldingen van hetzelfde onderwerp die, bekeken door een stereoscoop, de illusie van driedimensionaliteit geven. De Engelse natuurkundige Charles Wheatstone was in 1832 de eerste die op dit idee kwam. Hij beschreef stereofotografie als een unieke fotografische kunstvorm. Het is voor een tekenaar immers niet mogelijk twee onderwerpen in het juiste perspectief te tekenen vanaf gezichtspunten die ongeveer 65 mm van elkaar zijn verwijderd, de gemiddelde afstand tussen de ogen van een mens die nodig is om het driedimensionale effect te bereiken. De spiegelstereoscoop van Wheatstone was niet erg geschikt voor foto's. De uitvinding werd pas populair in de jaren 50 van de 19de eeuw, toen Sir David Brewster, een Schotse wetenschapper, een eenvoudiger kijkinstrument ontwierp. De introductie van het collodiumprocedé maakte het belichten en afdrukken van foto's technisch eenvoudiger, waardoor driedimensionale foto's een ware rage werden. Stereofoto's kunnen daguerreotypieën, negatieven of andere fotovormen zijn. Gebruik de specifiekere term 'stereokaarten' voor fotografische afdrukken die op kartonnen kaarten zijn bevestigd. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stereofoto"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1642_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006702"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006702/2022-09-24T04:37:27.006Z>.
+<https://stad.gent/id/concept/570006081/2022-09-24T04:33:54.933Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006081>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:33:54.933Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041575>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1666_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten die het verstrijken van de tijd meten en dat aangeven met wijzers of cijfers. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "klok (uurwerk)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "objectcategorie"@nl, "object category"@en, "techniek"@nl, "technique"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1666_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006081"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006081/2022-09-24T04:33:54.933Z>.
+<https://stad.gent/id/concept/570002213/2022-09-24T04:21:11.011Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570002213>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:21:11.011Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1756_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kantoormachines"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectcategorie"@nl, "object category"@en, "techniek"@nl, "technique"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1756_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570002213"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570002213/2022-09-24T04:21:11.011Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/techni.ttl> <https://w3id.org/tree#relation> _:df_1_1014.
+_:df_1_1014 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/technie.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "technie".
+<https://www.pieter.pm/coghent-substrings/thesaurus/techni.ttl> <https://w3id.org/tree#relation> _:df_1_1015.
+_:df_1_1015 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/techniq.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "techniq".
+<https://www.pieter.pm/coghent-substrings/thesaurus/techni.ttl> <https://w3id.org/tree#relation> _:df_1_1016.
+_:df_1_1016 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/technis.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "technis".
+<https://www.pieter.pm/coghent-substrings/thesaurus/techni.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/techni.ttl>.

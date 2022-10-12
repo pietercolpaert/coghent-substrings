@@ -9,3 +9,28 @@ _:df_2674_24 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570014317"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014317/2021-10-31T22:47:19.297Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/soc.ttl>.
+<https://stad.gent/id/concept/570003432/2022-09-24T04:24:43.014Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570003432>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:24:43.014Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055533>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1732_33;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Politieke en economische ideologie die voorstander is van collectief- of staatseigendom als ook beheer van productiemiddelen en distributie van goederen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "socialisme"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "concept"@nl, "concept"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1732_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570003432"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570003432/2022-09-24T04:24:43.014Z>.
+<https://stad.gent/id/concept/570001380/2022-09-24T04:16:14.562Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001380>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:16:14.562Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054453>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1792_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sociologie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1792_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001380"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001380/2022-09-24T04:16:14.562Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/soc.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/soc.ttl>.

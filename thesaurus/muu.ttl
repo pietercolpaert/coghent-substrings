@@ -8,3 +8,119 @@ _:df_2782_17 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570013465"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013465/2021-10-31T22:31:48.844Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/muu.ttl>.
+<https://stad.gent/id/concept/550008843/2022-09-24T03:50:15.966Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008843>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:50:15.966Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1975_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muurkapel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1975_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008843"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008843/2022-09-24T03:50:15.966Z>.
+<https://stad.gent/id/concept/550008346/2022-09-24T03:26:43.496Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008346>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:26:43.496Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300165507>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2143_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muuronderdelen naar locatie of context"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008347>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550002465>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002465> <http://www.w3.org/2004/02/skos/core#prefLabel> "timpaan"@nl.
+<https://stad.gent/id/concept/550008347> <http://www.w3.org/2004/02/skos/core#prefLabel> "muuronderdelen"@nl.
+_:df_2143_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008346"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008346> <http://www.w3.org/2004/02/skos/core#prefLabel> "muuronderdelen naar locatie of context"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008346/2022-09-24T03:26:43.496Z>.
+<https://stad.gent/id/concept/550008347/2022-09-24T03:26:48.499Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008347>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:26:48.499Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300002573>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2143_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muuronderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008085>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008346>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008346> <http://www.w3.org/2004/02/skos/core#prefLabel> "muuronderdelen naar locatie of context"@nl.
+<https://stad.gent/id/concept/550008085> <http://www.w3.org/2004/02/skos/core#prefLabel> "muren en muuronderdelen"@nl.
+_:df_2143_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008347"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008347> <http://www.w3.org/2004/02/skos/core#prefLabel> "muuronderdelen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008347/2022-09-24T03:26:48.499Z>.
+<https://stad.gent/id/concept/550007892/2022-09-24T02:49:28.439Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007892>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:49:28.439Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037353>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2407_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Bedekkingen vaak van buigzame materialen, gebruikt om muren en andere oppervlakken te versieren en beschermen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muurbedekking"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007893>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007891>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007891> <http://www.w3.org/2004/02/skos/core#prefLabel> "muurbedekkingen naar vorm"@nl.
+<https://stad.gent/id/concept/550007893> <http://www.w3.org/2004/02/skos/core#prefLabel> "bedekkingen en voorhangen voor oppervlakte-elementen"@nl.
+_:df_2407_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007892"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007892> <http://www.w3.org/2004/02/skos/core#prefLabel> "muurbedekking"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007892/2022-09-24T02:49:28.439Z>.
+<https://stad.gent/id/concept/550007891/2022-09-24T02:49:23.435Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007891>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:49:23.435Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300204142>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2410_33;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muurbedekkingen naar vorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007892>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550003240>, <https://stad.gent/id/concept/550002936>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002936> <http://www.w3.org/2004/02/skos/core#prefLabel> "goudleer (behang)"@nl.
+<https://stad.gent/id/concept/550003240> <http://www.w3.org/2004/02/skos/core#prefLabel> "behang"@nl.
+<https://stad.gent/id/concept/550007892> <http://www.w3.org/2004/02/skos/core#prefLabel> "muurbedekking"@nl.
+_:df_2410_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007891"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007891/2022-09-24T02:49:23.435Z>.
+<https://stad.gent/id/concept/550004272/2022-09-24T01:01:21.518Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004272>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:01:21.518Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300033644>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3178_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muurschilderingen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3178_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004272"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004272/2022-09-24T01:01:21.518Z>.
+<https://stad.gent/id/concept/550002709/2022-09-24T00:39:27.120Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002709>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:39:27.120Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300002469>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3334_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Zware rechtopstaande afsluitende afscheidingen van steenachtig materiaal die meestal een dragende functie hebben. Gebruik 'wanden' voor lichte afscheidingen die geen dragende functie hebben.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008085>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008085> <http://www.w3.org/2004/02/skos/core#prefLabel> "muren en muuronderdelen"@nl.
+_:df_3334_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002709"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002709/2022-09-24T00:39:27.120Z>.
+<https://stad.gent/id/concept/550001894/2022-09-24T00:27:25.702Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001894>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:27:25.702Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300051923>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3421_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Bevestigingsmiddelen die gebruikt worden om delen van een muur vast te maken aan een stabiel object, zoals een andere muur.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muuranker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008258>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008258> <http://www.w3.org/2004/02/skos/core#prefLabel> "anker (bevestigingsmiddel)"@nl.
+_:df_3421_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001894"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001894/2022-09-24T00:27:25.702Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/muu.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/muu.ttl>.

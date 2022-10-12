@@ -29,3 +29,61 @@ _:df_2653_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570014420"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014420/2021-10-31T22:49:56.363Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/roz.ttl>.
+<https://stad.gent/id/concept/570014420/2022-09-24T06:47:13.893Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014420>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:47:13.893Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1825802>;
+    <http://www.w3.org/ns/adms#identifier> _:df_721_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Roza de Guchtenaere"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_721_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014420"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014420/2022-09-24T06:47:13.893Z>.
+<https://stad.gent/id/concept/570000200/2022-09-24T04:08:04.788Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000200>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:08:04.788Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300262831>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1849_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "rozenkrans"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003200>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003200> <http://www.w3.org/2004/02/skos/core#prefLabel> "bidsnoer"@nl.
+_:df_1849_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000200"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000200/2022-09-24T04:08:04.788Z>.
+<https://stad.gent/id/concept/550004235/2022-09-24T01:00:36.032Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004235>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:00:36.032Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3184_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Bidsnoer. Het behoort in de rooms-katholieke kerk tot de sacramentaliën, zaken die worden gezegend tot een hulpmiddel van geestelijke aard. Het rozenkransgebed bestaat uit vijftien maal tien weesgegroeten, totaal honderdvijftig, evenveel als het aantal psalmen. Het weesgegroet is het gebed ter ere van de heilige maagd Maria. Volgens overgeleverd gebruik bidt men dagelijks een derde gedeelte van de rozenkrans, het rozenhoedje. De vijftig weesgegroeten worden verdeeld in vijf maal tien weesgegroeten, waarna de doxologie wordt gebeden zoals aan het eind van de psalmen. Na elke tien kralen volgt een grotere kraal, waarbij de geloofsbelijdenis wordt gebeden. Aan de krans zit een staart van twee grote en drie kleine kralen, die verwijzen naar de relatie van de Drie-eenheid met Maria. Aan het uiteinde van de staart hangt een kruis waarmee de biddende persoon aan het begin van het gebed zichzelf bekruist waarna de geloofsbelijdenis wordt gebeden. Binnen sommige orden en congregaties hangt/hing een grote rozenkrans aan de riem of het koord om het middel. RT bidsnoer; deugdenteller; verstervingsteller; rits. (SKKN)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "rozenkrans"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550002645>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002645> <http://www.w3.org/2004/02/skos/core#prefLabel> "bidsnoer"@nl.
+_:df_3184_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004235"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004235/2022-09-24T01:00:36.032Z>.
+<https://stad.gent/id/concept/670001484/2022-09-13T00:00:54.611Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001484>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-13T00:00:54.611Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3697_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rozemarijnbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3697_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001484"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001484/2022-09-13T00:00:54.611Z>.
+<https://stad.gent/id/concept/670007095/2022-09-09T09:30:01.485Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670007095>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:30:01.485Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3736_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rozebroekslag"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3736_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670007095"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670007095/2022-09-09T09:30:01.485Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/roz.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/roz.ttl>.

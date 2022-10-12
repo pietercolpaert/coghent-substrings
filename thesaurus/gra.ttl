@@ -225,3 +225,282 @@ _:df_1_1152 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/gram.ttl>;
     <https://w3id.org/tree#value> "gram".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/gra.ttl>.
+<https://stad.gent/id/concept/570013467/2022-09-24T06:29:06.663Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013467>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:29:06.663Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011183>;
+    <http://www.w3.org/ns/adms#identifier> _:df_847_18;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het meest voorkomende intrusieve zure stollingsgesteente van de aardkorst. Het heeft een zichtbaar kristallijnen textuur, is meestal rood, witachtig of grijs van kleur, zeer hard en duurzaam, en kan fijn gepolijst worden. Het bestaat voornamelijk uit kwarts, orthoklaas of microklien, met een kleine hoeveelheid zuur plagioklaas. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "graniet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570016697>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570016697> <http://www.w3.org/2004/02/skos/core#prefLabel> "natuursteen"@nl.
+_:df_847_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013467"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013467/2022-09-24T06:29:06.663Z>.
+<https://stad.gent/id/concept/570013225/2022-09-24T06:23:22.272Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013225>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:23:22.272Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1479546>;
+    <http://www.w3.org/ns/adms#identifier> _:df_886_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "graanjenever"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_886_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013225"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013225/2022-09-24T06:23:22.272Z>.
+<https://stad.gent/id/concept/570009894/2022-09-24T05:31:54.892Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009894>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:31:54.892Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300263250>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1255_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "grammatica"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1255_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009894"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009894/2022-09-24T05:31:54.892Z>.
+<https://stad.gent/id/concept/570009184/2022-09-24T05:12:37.883Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009184>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:12:37.883Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041340>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1390_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gravure"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "techniek"@nl, "technique"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1390_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009184"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009184/2022-09-24T05:12:37.883Z>.
+<https://stad.gent/id/concept/570008902/2022-09-24T05:01:49.092Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008902>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:01:49.092Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2088410>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1468_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Graslei"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1468_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008902"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008902/2022-09-24T05:01:49.092Z>.
+<https://stad.gent/id/concept/570005778/2022-09-24T04:31:17.912Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570005778>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:31:17.912Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024292>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1684_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "grasmachines"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1684_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570005778"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570005778/2022-09-24T04:31:17.912Z>.
+<https://stad.gent/id/concept/570004189/2022-09-24T04:27:09.280Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570004189>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:27:09.280Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1543972>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1714_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gravensteen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1714_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570004189"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570004189/2022-09-24T04:27:09.280Z>.
+<https://stad.gent/id/concept/570000598/2022-09-24T04:11:06.299Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000598>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:11:06.299Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025165>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1828_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "graveur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1828_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000598"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000598/2022-09-24T04:11:06.299Z>.
+<https://stad.gent/id/concept/550008731/2022-09-24T03:44:01.911Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008731>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:44:01.911Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011872>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2020_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Plant van het genus Gramineae, met stengels met knopen, schedevormige bladeren en een aartje met zaadachtige korrels.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gras"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008437>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008606>, <https://stad.gent/id/concept/550008626>, <https://stad.gent/id/concept/550003919>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003919> <http://www.w3.org/2004/02/skos/core#prefLabel> "riet"@nl.
+<https://stad.gent/id/concept/550008626> <http://www.w3.org/2004/02/skos/core#prefLabel> "hooi"@nl.
+<https://stad.gent/id/concept/550008606> <http://www.w3.org/2004/02/skos/core#prefLabel> "bamboe"@nl.
+<https://stad.gent/id/concept/550008437> <http://www.w3.org/2004/02/skos/core#prefLabel> "plantaardig materiaal"@nl.
+_:df_2020_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008731"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008731/2022-09-24T03:44:01.911Z>.
+<https://stad.gent/id/concept/550008168/2022-09-24T03:12:19.874Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008168>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:12:19.874Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2245_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "graanmaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008167>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008167> <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van hoeveelheid: stoffen"@nl, "meetinstrumenten voor het meten van hoeveelheid: stoffen"@nl.
+_:df_2245_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008168"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008168> <http://www.w3.org/2004/02/skos/core#prefLabel> "graanmaat"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008168/2022-09-24T03:12:19.874Z>.
+<https://stad.gent/id/concept/550008117/2022-09-24T03:08:06.776Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008117>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:08:06.776Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300184644>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2275_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Beeldhouwwerken die (onderdeel van) grafmonumenten zijn.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "grafsculptuur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008118>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001136>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001136> <http://www.w3.org/2004/02/skos/core#prefLabel> "grafplaat"@nl.
+<https://stad.gent/id/concept/550008118> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldhouwwerken naar functie"@nl.
+_:df_2275_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008117"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008117> <http://www.w3.org/2004/02/skos/core#prefLabel> "grafsculptuur"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008117/2022-09-24T03:08:06.776Z>.
+<https://stad.gent/id/concept/550008119/2022-09-24T03:08:16.781Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008119>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:08:16.781Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300005923>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2275_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "grafsteen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550002865>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002865> <http://www.w3.org/2004/02/skos/core#prefLabel> "grafmonument"@nl, "grafmonument"@nl.
+_:df_2275_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008119"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008119/2022-09-24T03:08:16.781Z>.
+<https://stad.gent/id/concept/550006276/2022-09-24T02:11:21.096Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006276>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:11:21.096Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003097>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2680_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Graz"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004669>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004669> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oostenrijk"@nl.
+_:df_2680_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006276"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006276/2022-09-24T02:11:21.096Z>.
+<https://stad.gent/id/concept/550005768/2022-09-24T01:52:35.975Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005768>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:52:35.975Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2815_34;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "granaat (mineraal)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2815_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005768"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005768/2022-09-24T01:52:35.975Z>.
+<https://stad.gent/id/concept/550004855/2022-09-24T01:22:29.742Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004855>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:22:29.742Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041340>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3028_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Diepdrukken gemaakt door lijnen direct in een metalen plaat te steken met behulp van een burijn.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gravure"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008061>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550006094>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "objectnaam"@nl, "object name"@en, "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006094> <http://www.w3.org/2004/02/skos/core#prefLabel> "kopergravure (prent)"@nl.
+<https://stad.gent/id/concept/550008061> <http://www.w3.org/2004/02/skos/core#prefLabel> "intagliodruk"@nl.
+_:df_3028_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004855"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004855/2022-09-24T01:22:29.742Z>.
+<https://stad.gent/id/concept/550004718/2022-09-24T01:17:20.781Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004718>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:17:20.781Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3064_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "graveur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3064_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004718"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004718/2022-09-24T01:17:20.781Z>.
+<https://stad.gent/id/concept/550004676/2022-09-24T01:15:49.799Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004676>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:15:49.799Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053829>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3076_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het aanbrengen van tekens op het oppervlak van een hard materiaal, zoals metaal of glas, door er met een scherp stuk gereedschap in te krassen, met dien verstande dat de figuren of patronen zelf het eindproduct moeten zijn en niet een model moeten vormen voor naderhand te maken afdrukken. Gebruik 'graveren (drukprocédé)' voor de drukprocédés die met deze techniek gecombineerd met het diepdrukken van het oppervlak worden toegepast.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "graveren (inkerven)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3076_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004676"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004676/2022-09-24T01:15:49.799Z>.
+<https://stad.gent/id/concept/550002865/2022-09-24T00:41:53.401Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002865>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:41:53.401Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300005909>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3319_35;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Constructies die graven markeren of aanduiden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "grafmonument"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008116>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008119>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008119> <http://www.w3.org/2004/02/skos/core#prefLabel> "grafsteen"@nl.
+<https://stad.gent/id/concept/550008116> <http://www.w3.org/2004/02/skos/core#prefLabel> "funeraire bouwconstructies"@nl.
+_:df_3319_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002865"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002865/2022-09-24T00:41:53.401Z>.
+<https://stad.gent/id/concept/550001743/2022-09-24T00:25:23.273Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001743>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:25:23.273Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300391173>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3436_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kruis op een graf, al dan niet voorzien van de data van de overledene";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "grafkruis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007811>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007811> <http://www.w3.org/2004/02/skos/core#prefLabel> "kruis (beeldend werk)"@nl.
+_:df_3436_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001743"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001743/2022-09-24T00:25:23.273Z>.
+<https://stad.gent/id/concept/550001342/2022-09-24T00:17:59.694Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001342>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:17:59.694Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022525>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3487_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten die worden gebruikt voor het uitzetten of meten van hoeken, vaak ontworpen als bogen met schaalverdelingen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gradenboog"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008115>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008115> <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van horizontale hoeken"@nl.
+_:df_3487_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001342"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001342/2022-09-24T00:17:59.694Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/gra.ttl> <https://w3id.org/tree#relation> _:df_1_1329.
+_:df_1_1329 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/graf.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "graf".
+<https://www.pieter.pm/coghent-substrings/thesaurus/gra.ttl> <https://w3id.org/tree#relation> _:df_1_1330.
+_:df_1_1330 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/grav.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "grav".
+<https://www.pieter.pm/coghent-substrings/thesaurus/gra.ttl> <https://w3id.org/tree#relation> _:df_1_1331.
+_:df_1_1331 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/gran.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gran".
+<https://www.pieter.pm/coghent-substrings/thesaurus/gra.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/gra.ttl>.

@@ -268,3 +268,318 @@ _:df_1_843 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/pom.ttl>;
     <https://w3id.org/tree#value> "pom".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/po.ttl>.
+<https://stad.gent/id/concept/570014992/2022-10-04T00:02:23.500Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014992>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-04T00:02:23.500Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q996818>;
+    <http://www.w3.org/ns/adms#identifier> _:df_70_43;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "polyvinyl"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_70_43 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014992"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014992/2022-10-04T00:02:23.500Z>.
+<https://stad.gent/id/concept/570009387/2022-10-04T00:01:33.204Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009387>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-04T00:01:33.204Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300379829>;
+    <http://www.w3.org/ns/adms#identifier> _:df_76_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "polyester"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "trefwoord"@nl, "keyword"@en, "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_76_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009387"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009387/2022-10-04T00:01:33.204Z>.
+<https://stad.gent/id/concept/470000635/2022-10-04T00:00:07.890Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000635>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-04T00:00:07.890Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300248147>;
+    <http://www.w3.org/ns/adms#identifier> _:df_85_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De kunst van het poppenkast spelen of optreden met behulp van poppen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "poppenspel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470008797>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470008797> <http://www.w3.org/2004/02/skos/core#prefLabel> "schimmenspel"@nl.
+_:df_85_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000635"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000635/2022-10-04T00:00:07.890Z>.
+<https://stad.gent/id/concept/470001975/2022-10-04T00:00:12.893Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001975>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-04T00:00:12.893Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300138750>;
+    <http://www.w3.org/ns/adms#identifier> _:df_85_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor levenloze figuren die in beweging worden gebracht door menselijke inspanning, bijvoorbeeld met touwtjes, ijzerdraad, stokken of direct met de hand, meestal voor een publiek.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "poppenkastpop"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470005292>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470011074>, <https://stad.gent/id/concept/470011080>, <https://stad.gent/id/concept/470007862>, <https://stad.gent/id/concept/470003902>, <https://stad.gent/id/concept/470011066>, <https://stad.gent/id/concept/470004327>, <https://stad.gent/id/concept/470007861>, <https://stad.gent/id/concept/470011129>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "UDC"@nl, "UDC"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470011129> <http://www.w3.org/2004/02/skos/core#prefLabel> "wajangpop"@nl.
+<https://stad.gent/id/concept/470007861> <http://www.w3.org/2004/02/skos/core#prefLabel> "stokpop"@nl.
+<https://stad.gent/id/concept/470004327> <http://www.w3.org/2004/02/skos/core#prefLabel> "stangpop"@nl.
+<https://stad.gent/id/concept/470011066> <http://www.w3.org/2004/02/skos/core#prefLabel> "staafpop"@nl.
+<https://stad.gent/id/concept/470003902> <http://www.w3.org/2004/02/skos/core#prefLabel> "marionet"@nl.
+<https://stad.gent/id/concept/470007862> <http://www.w3.org/2004/02/skos/core#prefLabel> "handpop"@nl.
+<https://stad.gent/id/concept/470011080> <http://www.w3.org/2004/02/skos/core#prefLabel> "handgreeppop"@nl.
+<https://stad.gent/id/concept/470011074> <http://www.w3.org/2004/02/skos/core#prefLabel> "bekpop"@nl.
+<https://stad.gent/id/concept/470005292> <http://www.w3.org/2004/02/skos/core#prefLabel> "pop"@nl.
+_:df_85_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001975"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/470001975> <http://www.w3.org/2004/02/skos/core#prefLabel> "poppenkastpop"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001975/2022-10-04T00:00:12.893Z>.
+<https://stad.gent/id/concept/470003015/2022-10-04T00:00:17.895Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003015>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-04T00:00:17.895Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300237377>;
+    <http://www.w3.org/ns/adms#identifier> _:df_85_32;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Zij die voorstellingen met poppen geven.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "poppenspeler"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_85_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003015"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003015/2022-10-04T00:00:17.895Z>.
+<https://stad.gent/id/concept/530004681/2022-09-29T00:01:55.035Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004681>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-29T00:01:55.035Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300038607>;
+    <http://www.w3.org/ns/adms#identifier> _:df_103_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Beklede zitmeubelen zonder rugleuning die groot genoeg zijn voor meerdere personen en meestal een ronde vorm hebben.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "poef"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000068>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000068> <http://www.w3.org/2004/02/skos/core#prefLabel> "zitmeubel"@nl.
+_:df_103_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004681"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004681/2022-09-29T00:01:55.035Z>.
+<https://stad.gent/id/concept/530000426/2022-09-29T00:00:19.339Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000426>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-29T00:00:19.339Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046266>;
+    <http://www.w3.org/ns/adms#identifier> _:df_115_41;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Accessoires voor het op het lichaam dragen van cosmetica. Meestal zijn ze gemaakt van metaal of plastic, en ze kunnen vrij decoratief zijn. De binnenkant bevat meestal een spiegel in het deksel van de ene helft en gezichtspoeder in de andere helft, maar kan ook vakjes hebben voor rouge of lippenstift, of een onderdeel voor de bevestiging van een lippenstiftkoker.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "poederdoos"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009244>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009244> <http://www.w3.org/2004/02/skos/core#prefLabel> "houder voor persoonlijk gebruik"@nl.
+_:df_115_41 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000426"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000426/2022-09-29T00:00:19.339Z>.
+<https://stad.gent/id/concept/530000339/2022-09-28T00:00:22.001Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000339>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-28T00:00:22.001Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006366>;
+    <http://www.w3.org/ns/adms#identifier> _:df_121_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Polen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002310>, <https://stad.gent/id/concept/530008417>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530010856>, <https://stad.gent/id/concept/530010516>, <https://stad.gent/id/concept/530006295>, <https://stad.gent/id/concept/530010601>, <https://stad.gent/id/concept/530010030>, <https://stad.gent/id/concept/530006982>, <https://stad.gent/id/concept/530004809>, <https://stad.gent/id/concept/530009564>, <https://stad.gent/id/concept/530007246>, <https://stad.gent/id/concept/530009856>, <https://stad.gent/id/concept/530009895>, <https://stad.gent/id/concept/530000356>, <https://stad.gent/id/concept/530009772>, <https://stad.gent/id/concept/530007295>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "land"@nl, "country"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530007295> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wroclaw"@nl.
+<https://stad.gent/id/concept/530009772> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sosnowiec"@nl.
+<https://stad.gent/id/concept/530000356> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sopot"@nl.
+<https://stad.gent/id/concept/530009895> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ścinawa"@nl.
+<https://stad.gent/id/concept/530009856> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schreiberhau"@nl.
+<https://stad.gent/id/concept/530007246> <http://www.w3.org/2004/02/skos/core#prefLabel> "Poznan"@nl.
+<https://stad.gent/id/concept/530009564> <http://www.w3.org/2004/02/skos/core#prefLabel> "Olsztyn"@nl.
+<https://stad.gent/id/concept/530004809> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lodz"@nl.
+<https://stad.gent/id/concept/530006982> <http://www.w3.org/2004/02/skos/core#prefLabel> "Krakow"@nl.
+<https://stad.gent/id/concept/530010030> <http://www.w3.org/2004/02/skos/core#prefLabel> "Koszalin"@nl.
+<https://stad.gent/id/concept/530010601> <http://www.w3.org/2004/02/skos/core#prefLabel> "Katowice"@nl.
+<https://stad.gent/id/concept/530006295> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gdansk"@nl.
+<https://stad.gent/id/concept/530010516> <http://www.w3.org/2004/02/skos/core#prefLabel> "Elbląg"@nl.
+<https://stad.gent/id/concept/530010856> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bunzlau"@nl.
+<https://stad.gent/id/concept/530008417> <http://www.w3.org/2004/02/skos/core#prefLabel> "Midden-Europa"@nl.
+<https://stad.gent/id/concept/530002310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl.
+_:df_121_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000339"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000339/2022-09-28T00:00:22.001Z>.
+<https://stad.gent/id/concept/570017383/2022-09-24T08:06:53.519Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017383>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T08:06:53.519Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_151_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "polijstpoeder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_151_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017383"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017383/2022-09-24T08:06:53.519Z>.
+<https://stad.gent/id/concept/570017365/2022-09-24T08:05:42.803Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017365>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T08:05:42.803Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014647>;
+    <http://www.w3.org/ns/adms#identifier> _:df_160_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "poeder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_160_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017365"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017365/2022-09-24T08:05:42.803Z>.
+<https://stad.gent/id/concept/570017242/2022-09-24T08:02:11.174Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017242>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T08:02:11.174Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300298928>;
+    <http://www.w3.org/ns/adms#identifier> _:df_184_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pook"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_184_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017242"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017242/2022-09-24T08:02:11.174Z>.
+<https://stad.gent/id/concept/570017047/2022-09-24T07:59:04.468Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017047>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:59:04.468Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300422660>;
+    <http://www.w3.org/ns/adms#identifier> _:df_208_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ponskaartmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_208_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017047"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017047/2022-09-24T07:59:04.468Z>.
+<https://stad.gent/id/concept/570014992/2022-09-24T07:03:57.812Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014992>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:03:57.812Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q996818>;
+    <http://www.w3.org/ns/adms#identifier> _:df_601_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "polyvinyl"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_601_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014992"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014992/2022-09-24T07:03:57.812Z>.
+<https://stad.gent/id/concept/570014542/2022-09-24T06:50:00.059Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014542>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:50:00.059Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000090>;
+    <http://www.w3.org/ns/adms#identifier> _:df_700_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Portugal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570020333>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020333> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sacavém"@nl.
+_:df_700_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014542"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014542/2022-09-24T06:50:00.059Z>.
+<https://stad.gent/id/concept/570014551/2022-09-24T06:50:16.644Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014551>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:50:16.644Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300045697>;
+    <http://www.w3.org/ns/adms#identifier> _:df_700_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_700_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014551"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014551/2022-09-24T06:50:16.644Z>.
+<https://stad.gent/id/concept/570014269/2022-09-24T06:43:37.164Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014269>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:43:37.164Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q146174>;
+    <http://www.w3.org/ns/adms#identifier> _:df_745_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "polypropyleen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_745_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014269"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014269/2022-09-24T06:43:37.164Z>.
+<https://stad.gent/id/concept/570013365/2022-09-24T06:26:30.257Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013365>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:26:30.257Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q12195>;
+    <http://www.w3.org/ns/adms#identifier> _:df_865_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "polio"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_865_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013365"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013365/2022-09-24T06:26:30.257Z>.
+<https://stad.gent/id/concept/570011645/2022-09-24T05:58:30.103Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011645>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:58:30.103Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/7007975>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1063_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Poperinge"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018081>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018081> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen (provincie)"@nl.
+_:df_1063_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011645"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011645/2022-09-24T05:58:30.103Z>.
+<https://stad.gent/id/concept/570011051/2022-09-24T05:51:51.638Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011051>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:51:51.638Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026821>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1111_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "postkaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1111_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011051"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011051/2022-09-24T05:51:51.638Z>.
+<https://stad.gent/id/concept/570010814/2022-09-24T05:50:00.722Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010814>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:50:00.722Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300211087>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1126_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Beeldjes die mensen of dieren voorstellen, inclusief maar niet uitsluitend de figuurtjes die bedoeld zijn als speelgoed voor kinderen, vooral meisjes, of als verzamelobjecten voor volwassenen. Poppen stellen vaak een baby of vrouw voor en hebben soms beweegbare armen en benen. Dikwijls is het mogelijk ze andere kleding aan te trekken. Een pop kan gemaakt zijn van stof (lappenpoppen), hout, klei, porselein, was, papier, plastic, celluloid, maïsvliezen of andere materialen. Poppen kunnen ook figuurtjes zijn die worden gebruikt voor ceremoniële, religieuze of decoratieve doeleinden. Er is archeologisch bewijs dat poppen de eerste speeltjes waren; ze zijn aangetroffen in Babylonische en Egyptische graftomben uit circa 3000 v. Chr. In het oude Griekenland en Rome wijdden meisjes als ze volwassen werden de poppen uit hun kindertijd aan de godinnen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pop"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1126_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010814"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010814/2022-09-24T05:50:00.722Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/po.ttl> <https://w3id.org/tree#relation> _:df_1_763.
+_:df_1_763 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/por.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "por".
+<https://www.pieter.pm/coghent-substrings/thesaurus/po.ttl> <https://w3id.org/tree#relation> _:df_1_764.
+_:df_1_764 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/pom.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "pom".
+<https://www.pieter.pm/coghent-substrings/thesaurus/po.ttl> <https://w3id.org/tree#relation> _:df_1_765.
+_:df_1_765 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/pol.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "pol".
+<https://www.pieter.pm/coghent-substrings/thesaurus/po.ttl> <https://w3id.org/tree#relation> _:df_1_766.
+_:df_1_766 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/pos.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "pos".
+<https://www.pieter.pm/coghent-substrings/thesaurus/po.ttl> <https://w3id.org/tree#relation> _:df_1_767.
+_:df_1_767 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/pot.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "pot".
+<https://www.pieter.pm/coghent-substrings/thesaurus/po.ttl> <https://w3id.org/tree#relation> _:df_1_768.
+_:df_1_768 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/poo.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "poo".
+<https://www.pieter.pm/coghent-substrings/thesaurus/po.ttl> <https://w3id.org/tree#relation> _:df_1_769.
+_:df_1_769 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/pon.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "pon".
+<https://www.pieter.pm/coghent-substrings/thesaurus/po.ttl> <https://w3id.org/tree#relation> _:df_1_770.
+_:df_1_770 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/pop.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "pop".
+<https://www.pieter.pm/coghent-substrings/thesaurus/po.ttl> <https://w3id.org/tree#relation> _:df_1_771.
+_:df_1_771 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/poi.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "poi".
+<https://www.pieter.pm/coghent-substrings/thesaurus/po.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/po.ttl>.

@@ -31,3 +31,19 @@ _:df_2623_19 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570014597"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014597/2021-10-31T22:54:25.129Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/toi.ttl>.
+<https://stad.gent/id/concept/550005378/2022-09-24T01:40:34.500Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005378>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:40:34.500Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300052638>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2899_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Sanitaire voorziening,waar men zijn of haar behoeften op kan doen. Bestaande meestal uit een bak met toiletzitting die met water gespoeld wordt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toilet (sanitair)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008352>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008352> <http://www.w3.org/2004/02/skos/core#prefLabel> "sanitaire installatie"@nl.
+_:df_2899_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005378"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005378/2022-09-24T01:40:34.500Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/toi.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/toi.ttl>.

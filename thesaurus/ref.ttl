@@ -31,3 +31,18 @@ _:df_2548_15 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570014945"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014945/2021-10-31T23:04:59.729Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ref.ttl>.
+<https://stad.gent/id/concept/550005291/2022-09-24T01:37:02.864Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005291>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:37:02.864Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300180572>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2926_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reflector"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008070>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008070> <http://www.w3.org/2004/02/skos/core#prefLabel> "onderdelen van verlichtingsmiddelen"@nl.
+_:df_2926_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005291"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005291/2022-09-24T01:37:02.864Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/ref.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ref.ttl>.

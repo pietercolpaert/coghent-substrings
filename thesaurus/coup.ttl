@@ -10,3 +10,18 @@ _:df_2590_8 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570014731"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014731/2021-10-31T22:58:59.219Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/coup.ttl>.
+<https://stad.gent/id/concept/570008925/2022-09-24T05:03:04.979Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008925>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:03:04.979Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3024>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1459_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Coupure"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570014484>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570014484> <http://www.w3.org/2004/02/skos/core#prefLabel> "Maison de Maître Brasseur"@nl.
+_:df_1459_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008925"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008925/2022-09-24T05:03:04.979Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/coup.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/coup.ttl>.

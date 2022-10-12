@@ -1,0 +1,18 @@
+<https://stad.gent/id/concept/550005666/2022-09-24T01:49:34.071Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005666>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:49:34.071Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037050>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2836_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Degens met een relatief brede kling zowel geschikt om mee te houwen als te steken, met een min of meer ingewikkeld gevest.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "houwdegen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007932>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005677>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005677> <http://www.w3.org/2004/02/skos/core#prefLabel> "schiavona"@nl.
+<https://stad.gent/id/concept/550007932> <http://www.w3.org/2004/02/skos/core#prefLabel> "blanke gevestwapens naar vorm"@nl.
+_:df_2836_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005666"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005666/2022-09-24T01:49:34.071Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/houw.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/houw.ttl>.

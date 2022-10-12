@@ -87,3 +87,97 @@ _:df_3211_25 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009709"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009709/2021-10-31T21:31:12.676Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/pas.ttl>.
+<https://stad.gent/id/concept/570001133/2022-09-24T04:14:39.077Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001133>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:14:39.077Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300232151>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1804_73;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Fraai garneersel dat wordt gebruikt op bekleding en kostuums, zoals tressen, koord, franje, passementkoord of kwasten, vaak in combinaties. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "passementerie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectcategorie"@nl, "object category"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en, "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1804_73 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001133"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001133/2022-09-24T04:14:39.077Z>.
+<https://stad.gent/id/concept/570000589/2022-09-24T04:10:56.294Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000589>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:10:56.294Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1430265>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1828_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "passe-vite"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1828_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000589"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000589/2022-09-24T04:10:56.294Z>.
+<https://stad.gent/id/concept/550009272/2022-09-24T04:03:51.565Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009272>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:03:51.565Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1879_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Pasbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550001540>;
+    <http://www.w3.org/2004/02/skos/core#note> "Vindplaats"@nl, "Collection place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gent"@nl.
+_:df_1879_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009272"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009272/2022-09-24T04:03:51.565Z>.
+<https://stad.gent/id/concept/550004253/2022-09-24T01:01:06.511Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004253>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:01:06.511Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004407>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3181_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Passau"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004734>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_3181_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004253"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004253/2022-09-24T01:01:06.511Z>.
+<https://stad.gent/id/concept/550003693/2022-09-24T00:52:26.661Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003693>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:52:26.661Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3244_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pasmunt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007977>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007977> <http://www.w3.org/2004/02/skos/core#prefLabel> "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl.
+_:df_3244_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003693"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003693/2022-09-24T00:52:26.661Z>.
+<https://stad.gent/id/concept/550001969/2022-09-24T00:30:07.165Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001969>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:30:07.165Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022488>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3403_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten waarmee cirkels worden getekend en de afstand tussen twee punten wordt gemeten. Ze bestaan uit twee puntige benen, die bewegen door middel van een scharnier of draaipen. Meestal zijn ze zo gemaakt dat één deel kan worden losgemaakt om er een pen of verlengstuk in te zetten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "passer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008170>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001340>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001340> <http://www.w3.org/2004/02/skos/core#prefLabel> "proportiepasser"@nl.
+<https://stad.gent/id/concept/550008170> <http://www.w3.org/2004/02/skos/core#prefLabel> "schets-teken-en schrijfbenodigdheden naar specifiek type"@nl.
+_:df_3403_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001969"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001969/2022-09-24T00:30:07.165Z>.
+<https://stad.gent/id/concept/550000679/2022-09-24T00:08:28.880Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000679>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:08:28.880Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300232186>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3556_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een smal garneersel dat op verschillende manieren kan worden gemaakt, zoals kaartweven of vlechten. Het komt voor met diverse vezels en in verschillende gewichten, maar het is zwaarder dan lint en platter dan koord.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "passement"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008746>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550003140>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003140> <http://www.w3.org/2004/02/skos/core#prefLabel> "galon"@nl.
+<https://stad.gent/id/concept/550008746> <http://www.w3.org/2004/02/skos/core#prefLabel> "garneersel (materiaal)"@nl.
+_:df_3556_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000679"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000679/2022-09-24T00:08:28.880Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/pas.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/pas.ttl>.

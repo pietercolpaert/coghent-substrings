@@ -10,3 +10,29 @@ _:df_2815_22 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570013262"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013262/2021-10-31T22:27:06.171Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bef.ttl>.
+<https://stad.gent/id/concept/570013262/2022-09-24T06:24:22.666Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013262>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:24:22.666Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411714>;
+    <http://www.w3.org/ns/adms#identifier> _:df_880_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bef"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_880_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013262"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013262/2022-09-24T06:24:22.666Z>.
+<https://stad.gent/id/concept/550009129/2022-09-24T04:01:14.315Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009129>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:01:14.315Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411714>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1897_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bef"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005315>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005315> <http://www.w3.org/2004/02/skos/core#prefLabel> "boorden en dassen"@nl.
+_:df_1897_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009129"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009129/2022-09-24T04:01:14.315Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/bef.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bef.ttl>.

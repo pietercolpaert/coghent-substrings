@@ -10,3 +10,39 @@ _:df_2983_17 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570011928"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011928/2021-10-31T22:03:15.559Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/kau.ttl>.
+<https://stad.gent/id/concept/570011928/2022-09-24T06:00:31.033Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011928>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:00:31.033Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q130878>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1051_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kauwgom"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "materiaal"@nl, "material"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1051_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011928"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011928/2022-09-24T06:00:31.033Z>.
+<https://stad.gent/id/concept/550001841/2022-09-24T00:26:45.309Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001841>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:26:45.309Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7016642>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3427_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kaukasus"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550003505>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003505> <http://www.w3.org/2004/02/skos/core#prefLabel> "Azië"@nl.
+_:df_3427_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001841"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001841/2022-09-24T00:26:45.309Z>.
+<https://stad.gent/id/concept/670007076/2022-09-09T09:29:11.077Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670007076>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:29:11.077Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3742_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kauwplein"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3742_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670007076"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670007076/2022-09-09T09:29:11.077Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/kau.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/kau.ttl>.

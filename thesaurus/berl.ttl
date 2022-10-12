@@ -25,3 +25,44 @@ _:df_2881_23 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570012860"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012860/2021-10-31T22:17:42.683Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/berl.ttl>.
+<https://stad.gent/id/concept/550006293/2022-09-24T02:12:11.565Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006293>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:12:11.565Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003712>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2674_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Berlijn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004734>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005624>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005624> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spandau"@nl.
+<https://stad.gent/id/concept/550004734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_2674_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006293"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006293/2022-09-24T02:12:11.565Z>.
+<https://stad.gent/id/concept/550000904/2022-09-24T00:11:30.941Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000904>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:11:30.941Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7248354>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3535_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Berlare"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004313>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "Vindplaats"@nl, "Collection place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004313> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen"@nl.
+_:df_3535_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000904"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000904/2022-09-24T00:11:30.941Z>.
+<https://stad.gent/id/concept/670006768/2022-09-09T09:04:43.102Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006768>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:04:43.102Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q64>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3916_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Berlijn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3916_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006768"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006768/2022-09-09T09:04:43.102Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/berl.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/berl.ttl>.

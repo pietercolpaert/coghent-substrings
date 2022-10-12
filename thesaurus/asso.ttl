@@ -146,3 +146,139 @@ _:df_1_908 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/assoc.ttl>;
     <https://w3id.org/tree#value> "assoc".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/asso.ttl>.
+<https://stad.gent/id/concept/570008654/2022-09-24T04:53:17.480Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008654>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:53:17.480Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300138173>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1528_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Niet met werken of andere verplichte activiteiten belast.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vrije tijd"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1528_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008654"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008654/2022-09-24T04:53:17.480Z>.
+<https://stad.gent/id/concept/570008617/2022-09-24T04:51:56.965Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008617>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:51:56.965Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053277>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1537_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "monotype"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1537_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008617"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008617/2022-09-24T04:51:56.965Z>.
+<https://stad.gent/id/concept/570008459/2022-09-24T04:48:14.981Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008459>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:48:14.981Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1564_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boekbinderij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en, "trefwoord"@nl, "keyword"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1564_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008459"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008459/2022-09-24T04:48:14.981Z>.
+<https://stad.gent/id/concept/570008310/2022-09-24T04:46:34.184Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008310>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:46:34.184Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300234646>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1576_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Drukpersen die met de hand moeten worden bediend.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "handpers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018042>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "associatie"@nl, "association"@en, "inscriptie positie"@nl, "inscription position"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018042> <http://www.w3.org/2004/02/skos/core#prefLabel> "drukpersen"@nl.
+_:df_1576_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008310"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008310/2022-09-24T04:46:34.184Z>.
+<https://stad.gent/id/concept/570008071/2022-09-24T04:44:42.319Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008071>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:44:42.319Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q5467169>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1588_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "personeelsbeleid"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1588_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008071"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008071/2022-09-24T04:44:42.319Z>.
+<https://stad.gent/id/concept/570007931/2022-09-24T04:43:56.778Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007931>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:43:56.778Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q637816>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1594_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beroepsziektes"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570019475>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570019475> <http://www.w3.org/2004/02/skos/core#prefLabel> "ziektes"@nl.
+_:df_1594_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007931"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007931/2022-09-24T04:43:56.778Z>.
+<https://stad.gent/id/concept/570007949/2022-09-24T04:44:06.783Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007949>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:44:06.783Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/26205>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1594_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Lucasinstituut (Gent)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1594_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007949"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007949/2022-09-24T04:44:06.783Z>.
+<https://stad.gent/id/concept/570007022/2022-09-24T04:39:38.328Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007022>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:39:38.328Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007873>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1624_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Destelbergen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl.
+_:df_1624_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007022"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/570007022> <http://www.w3.org/2004/02/skos/core#prefLabel> "Destelbergen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007022/2022-09-24T04:39:38.328Z>.
+<https://stad.gent/id/concept/570007023/2022-09-24T04:39:43.330Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007023>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:39:43.330Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006247>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1624_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drukkerij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570024457>, <https://stad.gent/id/concept/570002830>, <https://stad.gent/id/concept/570024534>, <https://stad.gent/id/concept/570019954>, <https://stad.gent/id/concept/570024456>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en, "motief"@nl, "motif"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570024456> <http://www.w3.org/2004/02/skos/core#prefLabel> "zetten"@nl.
+<https://stad.gent/id/concept/570019954> <http://www.w3.org/2004/02/skos/core#prefLabel> "reprografie"@nl.
+<https://stad.gent/id/concept/570024534> <http://www.w3.org/2004/02/skos/core#prefLabel> "letters en drukvormen"@nl.
+<https://stad.gent/id/concept/570002830> <http://www.w3.org/2004/02/skos/core#prefLabel> "drukken"@nl.
+<https://stad.gent/id/concept/570024457> <http://www.w3.org/2004/02/skos/core#prefLabel> "afwerking"@nl.
+_:df_1624_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007023"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007023/2022-09-24T04:39:43.330Z>.
+<https://stad.gent/id/concept/570006095/2022-09-24T04:34:10.289Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006095>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:34:10.289Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054146>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1663_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muziek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1663_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006095"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006095/2022-09-24T04:34:10.289Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/asso.ttl> <https://w3id.org/tree#relation> _:df_1_946.
+_:df_1_946 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/assoc.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "assoc".
+<https://www.pieter.pm/coghent-substrings/thesaurus/asso.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/asso.ttl>.

@@ -12,3 +12,48 @@ _:df_3019_24 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570011393"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011393/2021-10-31T21:58:15.861Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/vic.ttl>.
+<https://stad.gent/id/concept/550000575/2022-09-24T00:07:43.438Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000575>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:07:43.438Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7254795>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3562_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vichte"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004834>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004834> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen"@nl.
+_:df_3562_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000575"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000575/2022-09-24T00:07:43.438Z>.
+<https://stad.gent/id/concept/670006520/2022-09-09T08:43:51.151Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006520>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:43:51.151Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4063_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Victoria et son hussard"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4063_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006520"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006520/2022-09-09T08:43:51.151Z>.
+<https://stad.gent/id/concept/670006518/2022-09-09T08:43:41.148Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006518>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:43:41.148Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4066_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vice Raid"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4066_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006518"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006518/2022-09-09T08:43:41.148Z>.
+<https://stad.gent/id/concept/670006519/2022-09-09T08:43:46.149Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006519>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:43:46.149Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4066_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Victoire sur l'Everest"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4066_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006519"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006519/2022-09-09T08:43:46.149Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/vic.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/vic.ttl>.

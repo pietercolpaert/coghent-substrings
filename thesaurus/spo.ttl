@@ -97,3 +97,88 @@ _:df_3217_17 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009683"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009683/2021-10-31T21:30:21.988Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/spo.ttl>.
+<https://stad.gent/id/concept/570009703/2022-09-24T05:28:28.227Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009703>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:28:28.227Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411848>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1279_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spoel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "inscriptie positie"@nl, "inscription position"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1279_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009703"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009703/2022-09-24T05:28:28.227Z>.
+<https://stad.gent/id/concept/570009683/2022-09-24T05:27:52.763Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009683>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:27:52.763Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300123430>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1282_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Getekende afbeeldingen, die gewoonlijk met scherpzinnigheid en humor en kritiek leveren op actuele gebeurtenissen, maatschappelijke gewoonten of politieke tendensen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spotprent"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1282_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009683"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009683/2022-09-24T05:27:52.763Z>.
+<https://stad.gent/id/concept/570008807/2022-09-24T04:58:47.879Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008807>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:58:47.879Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q847017>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1489_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sportvereniging"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1489_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008807"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008807/2022-09-24T04:58:47.879Z>.
+<https://stad.gent/id/concept/570007948/2022-09-24T04:44:01.781Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007948>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:44:01.781Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300008591>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1594_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spoorwegen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1594_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007948"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007948/2022-09-24T04:44:01.781Z>.
+<https://stad.gent/id/concept/550008678/2022-09-24T03:41:55.884Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008678>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:41:55.884Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2035_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spotpenning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2035_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008678"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008678/2022-09-24T03:41:55.884Z>.
+<https://stad.gent/id/concept/550004732/2022-09-24T01:17:35.787Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004732>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:17:35.787Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300123430>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3064_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Getekende afbeeldingen, die gewoonlijk met scherpzinnigheid en humor en kritiek leveren op actuele gebeurtenissen, maatschappelijke gewoonten of politieke tendensen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spotprent"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007813>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007813> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldmateriaal naar functie"@nl.
+_:df_3064_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004732"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004732/2022-09-24T01:17:35.787Z>.
+<https://stad.gent/id/concept/550001596/2022-09-24T00:23:27.289Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001596>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:23:27.289Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300036923>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3448_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Metalen drijvers die zijn bevestigd aan de hielen van de laarzen van de rijder en die worden gebruikt om het paard aan te drijven.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spoor (gedragen accessoire)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008213>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008213> <http://www.w3.org/2004/02/skos/core#prefLabel> "been- of voetaccessoires"@nl.
+_:df_3448_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001596"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001596/2022-09-24T00:23:27.289Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/spo.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/spo.ttl>.

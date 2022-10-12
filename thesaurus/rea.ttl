@@ -12,3 +12,19 @@ _:df_1318_23 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570023151"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023151/2021-11-01T01:58:21.167Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/rea.ttl>.
+<https://stad.gent/id/concept/550003674/2022-09-24T00:51:20.736Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003674>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:51:20.736Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037275>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3250_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Zilveren munten die in Spanje en Spaans-Amerika halverwege de 14e eeuw voor het eerst werden geslagen. De uitgifte werd stopgezet in de 19e eeuw behalve in Guatemala, waar de munt tot in de 20e eeuw werd gehandhaafd in een koper-nikkellegering.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007977>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007977> <http://www.w3.org/2004/02/skos/core#prefLabel> "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl.
+_:df_3250_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003674"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003674/2022-09-24T00:51:20.736Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/rea.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/rea.ttl>.

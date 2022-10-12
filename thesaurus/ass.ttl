@@ -136,3 +136,151 @@ _:df_1_725 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/asse.ttl>;
     <https://w3id.org/tree#value> "asse".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ass.ttl>.
+<https://stad.gent/id/concept/570011401/2022-09-24T05:55:38.394Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011401>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:55:38.394Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300234682>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1084_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Drukpersen waarin het papier en het drukvlak beide plat liggen en met elkaar in contact komen door als een oesterschelp te openen en sluiten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "degelpers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018042>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "associatie"@nl, "association"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018042> <http://www.w3.org/2004/02/skos/core#prefLabel> "drukpersen"@nl.
+_:df_1084_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011401"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011401/2022-09-24T05:55:38.394Z>.
+<https://stad.gent/id/concept/570010863/2022-09-24T05:50:25.744Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010863>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:50:25.744Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q123655>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1123_33;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "handzetten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1123_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010863"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010863/2022-09-24T05:50:25.744Z>.
+<https://stad.gent/id/concept/570010540/2022-09-24T05:46:58.917Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010540>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:46:58.917Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026023>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1147_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vrijwillige verenigingen van werkers, georganiseerd met als doel de behartiging van hun gemeenschappelijke belangen met betrekking tot lonen, werktijden, uitkeringen en andere arbeidsvoorwaarden. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vakbond"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020163>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020163> <http://www.w3.org/2004/02/skos/core#prefLabel> "arbeidersverenigingen"@nl.
+_:df_1147_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010540"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010540/2022-09-24T05:46:58.917Z>.
+<https://stad.gent/id/concept/570009652/2022-09-24T05:27:02.400Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009652>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:27:02.400Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300167846>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1288_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "machine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1288_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009652"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009652/2022-09-24T05:27:02.400Z>.
+<https://stad.gent/id/concept/570009636/2022-09-24T05:26:37.389Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009636>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:26:37.389Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300254496>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1291_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor elke stof die kan worden verteerd of geabsorbeerd door een menselijk of dierlijk lichaam. Dient als bron voor energie of een essentiële voedingsstof, om weefsel aan te maken of te vervangen of om de honger te stillen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "voeding"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570009525>, <https://stad.gent/id/concept/570024494>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en, "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en, "collectie"@nl, "collection"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570024494> <http://www.w3.org/2004/02/skos/core#prefLabel> "dranken"@nl.
+<https://stad.gent/id/concept/570009525> <http://www.w3.org/2004/02/skos/core#prefLabel> "limonade"@nl.
+_:df_1291_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009636"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009636/2022-09-24T05:26:37.389Z>.
+<https://stad.gent/id/concept/570009616/2022-09-24T05:25:47.026Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009616>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:25:47.026Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2693423>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1297_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "groep van meestal kleine arbeiderswoningen";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beluik"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1297_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009616"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009616/2022-09-24T05:25:47.026Z>.
+<https://stad.gent/id/concept/570009570/2022-09-24T05:24:11.106Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009570>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:24:11.106Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300061886>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1309_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "handel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1309_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009570"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009570/2022-09-24T05:24:11.106Z>.
+<https://stad.gent/id/concept/570009083/2022-09-24T05:08:12.555Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009083>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:08:12.555Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300419451>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1423_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drank"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1423_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009083"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009083/2022-09-24T05:08:12.555Z>.
+<https://stad.gent/id/concept/570009053/2022-09-24T05:06:51.672Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009053>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:06:51.672Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027503>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1432_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "werkboekje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1432_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009053"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009053/2022-09-24T05:06:51.672Z>.
+<https://stad.gent/id/concept/570008664/2022-09-24T04:53:42.889Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008664>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:53:42.889Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006323>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1525_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "katoenfabriek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1525_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008664"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008664/2022-09-24T04:53:42.889Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/ass.ttl> <https://w3id.org/tree#relation> _:df_1_884.
+_:df_1_884 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/asso.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "asso".
+<https://www.pieter.pm/coghent-substrings/thesaurus/ass.ttl> <https://w3id.org/tree#relation> _:df_1_885.
+_:df_1_885 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/asse.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "asse".
+<https://www.pieter.pm/coghent-substrings/thesaurus/ass.ttl> <https://w3id.org/tree#relation> _:df_1_886.
+_:df_1_886 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/assc.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "assc".
+<https://www.pieter.pm/coghent-substrings/thesaurus/ass.ttl> <https://w3id.org/tree#relation> _:df_1_887.
+_:df_1_887 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/assi.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "assi".
+<https://www.pieter.pm/coghent-substrings/thesaurus/ass.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ass.ttl>.

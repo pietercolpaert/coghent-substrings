@@ -73,3 +73,87 @@ _:df_3172_25 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009983"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009983/2021-10-31T21:36:47.943Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/tab.ttl>.
+<https://stad.gent/id/concept/570010029/2022-09-24T05:35:46.926Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010029>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:35:46.926Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300418044>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1225_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Pot, meestal van aardewerk, waarin tabak bewaard wordt ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tabakspot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1225_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010029"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010029/2022-09-24T05:35:46.926Z>.
+<https://stad.gent/id/concept/570009982/2022-09-24T05:34:06.159Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009982>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:34:06.159Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1237_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tabaksgebruik"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1237_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009982"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009982/2022-09-24T05:34:06.159Z>.
+<https://stad.gent/id/concept/570009983/2022-09-24T05:34:11.160Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009983>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:34:11.160Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1237_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tabaksfabriek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1237_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009983"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009983/2022-09-24T05:34:11.160Z>.
+<https://stad.gent/id/concept/570009979/2022-09-24T05:33:55.764Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009979>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:33:55.764Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1240_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tabakssoorten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1240_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009979"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009979/2022-09-24T05:33:55.764Z>.
+<https://stad.gent/id/concept/570008832/2022-09-24T04:59:33.241Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008832>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:59:33.241Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300254286>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1483_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor winkels waar de belangrijkste koopwaren tabaks- en rookproducten zijn.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tabakswinkel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1483_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008832"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008832/2022-09-24T04:59:33.241Z>.
+<https://stad.gent/id/concept/550004996/2022-09-24T01:25:36.605Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004996>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:25:36.605Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300198954>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3007_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine dozen om rook- of pruimtabak in mee te nemen, met name doosjes met losse sluitende deksels. Gebruik 'snuifdozen' voor gelijksoortige dozen met een scharnierend deksel in plaats van een los sluitend deksel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tabaksdoos"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007840>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007840> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders voor roken en tabakgebruik"@nl.
+_:df_3007_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004996"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004996/2022-09-24T01:25:36.605Z>.
+<https://stad.gent/id/concept/550001970/2022-09-24T00:30:12.167Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001970>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:30:12.167Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300263467>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3400_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vijzels die speciaal zijn gemaakt voor het vermalen van tabak of snuifpoeder.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tabaksvijzel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005417>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005417> <http://www.w3.org/2004/02/skos/core#prefLabel> "vijzel"@nl.
+_:df_3400_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001970"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001970/2022-09-24T00:30:12.167Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/tab.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/tab.ttl>.

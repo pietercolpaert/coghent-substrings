@@ -12,3 +12,85 @@ _:df_2764_18 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570013626"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013626/2021-10-31T22:34:28.107Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/tok.ttl>.
+<https://stad.gent/id/concept/550008253/2022-09-24T03:19:08.500Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008253>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:19:08.500Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041649>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2197_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten met flexibele tongen of lamellen aan één eind vastzittend; bespeeld met de vingers of met een trilmechaniek.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tokkelinstrument"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007821>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008252>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008252> <http://www.w3.org/2004/02/skos/core#prefLabel> "lamellofoon"@nl, "lamellofoon"@nl.
+<https://stad.gent/id/concept/550007821> <http://www.w3.org/2004/02/skos/core#prefLabel> "idiofoon"@nl.
+_:df_2197_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008253"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008253> <http://www.w3.org/2004/02/skos/core#prefLabel> "tokkelinstrument"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008253/2022-09-24T03:19:08.500Z>.
+<https://stad.gent/id/concept/550006320/2022-09-24T02:13:17.486Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006320>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:13:17.486Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004472>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2665_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tokyo"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005009>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005009> <http://www.w3.org/2004/02/skos/core#prefLabel> "Japan"@nl.
+_:df_2665_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006320"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006320/2022-09-24T02:13:17.486Z>.
+<https://stad.gent/id/concept/550003748/2022-09-24T00:54:52.446Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003748>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:54:52.446Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3226_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "token"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3226_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003748"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003748/2022-09-24T00:54:52.446Z>.
+<https://stad.gent/id/concept/670006316/2022-09-09T08:26:34.624Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006316>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:26:34.624Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4186_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tokio dossier 212"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4186_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006316"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006316/2022-09-09T08:26:34.624Z>.
+<https://stad.gent/id/concept/670006317/2022-09-09T08:26:39.627Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006317>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:26:39.627Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4186_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tokyo after Dark"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4186_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006317"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006317/2022-09-09T08:26:39.627Z>.
+<https://stad.gent/id/concept/670006318/2022-09-09T08:26:45.089Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006318>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:26:45.089Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4186_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tokyo Joe"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4186_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006318"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006318/2022-09-09T08:26:45.089Z>.
+<https://stad.gent/id/concept/670006319/2022-09-09T08:26:50.092Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006319>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:26:50.092Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4186_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tokyo Rose"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4186_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006319"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006319/2022-09-09T08:26:50.092Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/tok.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/tok.ttl>.

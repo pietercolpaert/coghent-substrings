@@ -242,3 +242,282 @@ _:df_1_1078 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/stat.ttl>;
     <https://w3id.org/tree#value> "stat".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/sta.ttl>.
+<https://stad.gent/id/concept/570015555/2022-09-24T07:15:58.385Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015555>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:15:58.385Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300418022>;
+    <http://www.w3.org/ns/adms#identifier> _:df_514_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Thematische kaart op grote schaal van een stad of stadsgedeelte.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stadskaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_514_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015555"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015555/2022-09-24T07:15:58.385Z>.
+<https://stad.gent/id/concept/570014531/2022-09-24T06:49:30.048Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014531>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:49:30.048Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300164679>;
+    <http://www.w3.org/ns/adms#identifier> _:df_703_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "statief"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_703_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014531"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014531/2022-09-24T06:49:30.048Z>.
+<https://stad.gent/id/concept/570014404/2022-09-24T06:46:38.586Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014404>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:46:38.586Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2084563>;
+    <http://www.w3.org/ns/adms#identifier> _:df_724_5;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stadhuis van Gent"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_724_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014404"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014404/2022-09-24T06:46:38.586Z>.
+<https://stad.gent/id/concept/570010674/2022-09-24T05:48:34.760Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010674>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:48:34.760Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026748>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1135_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Staden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018081>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018081> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen (provincie)"@nl, "West-Vlaanderen (provincie)"@nl, "West-Vlaanderen (provincie)"@nl.
+_:df_1135_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010674"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010674/2022-09-24T05:48:34.760Z>.
+<https://stad.gent/id/concept/570010610/2022-09-24T05:47:49.349Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010610>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:47:49.349Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1141_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stageverslag"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaalsoort"@nl, "document type"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1141_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010610"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010610/2022-09-24T05:47:49.349Z>.
+<https://stad.gent/id/concept/570010044/2022-09-24T05:36:16.947Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010044>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:36:16.947Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1222_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "staalontleding"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1222_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010044"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010044/2022-09-24T05:36:16.947Z>.
+<https://stad.gent/id/concept/570009912/2022-09-24T05:32:14.900Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009912>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:32:14.900Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300418022>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1252_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stadsplan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1252_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009912"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009912/2022-09-24T05:32:14.900Z>.
+<https://stad.gent/id/concept/570009316/2022-09-24T05:18:15.511Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009316>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:18:15.511Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/q2065227>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1351_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "staatsblad"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1351_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009316"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009316/2022-09-24T05:18:15.511Z>.
+<https://stad.gent/id/concept/570009280/2022-09-24T05:16:39.647Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009280>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:16:39.647Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1363_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stadsgids"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1363_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009280"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009280/2022-09-24T05:16:39.647Z>.
+<https://stad.gent/id/concept/570009234/2022-09-24T05:14:45.265Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009234>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:14:45.265Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q3154693>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1375_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stadsbestuur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1375_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009234"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009234/2022-09-24T05:14:45.265Z>.
+<https://stad.gent/id/concept/570009154/2022-09-24T05:11:27.448Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009154>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:11:27.448Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300249430>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1399_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stalen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1399_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009154"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009154/2022-09-24T05:11:27.448Z>.
+<https://stad.gent/id/concept/570009045/2022-09-24T05:06:41.668Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009045>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:06:41.668Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300079206>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1432_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "staaf"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1432_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009045"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009045/2022-09-24T05:06:41.668Z>.
+<https://stad.gent/id/concept/570008912/2022-09-24T05:02:24.455Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008912>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:02:24.455Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q88673501>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1462_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Standbeeld Lieven Bauwens"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1462_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008912"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008912/2022-09-24T05:02:24.455Z>.
+<https://stad.gent/id/concept/570008716/2022-09-24T04:55:49.857Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008716>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:55:49.857Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300007746>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1510_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "station"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1510_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008716"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008716/2022-09-24T04:55:49.857Z>.
+<https://stad.gent/id/concept/570008685/2022-09-24T04:54:43.261Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008685>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:54:43.261Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300015571>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1519_31;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Beeldende werken waarvan de hoofdvoorstelling een stad is. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stadsgezicht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1519_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008685"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008685/2022-09-24T04:54:43.261Z>.
+<https://stad.gent/id/concept/570008616/2022-09-24T04:51:51.962Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008616>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:51:51.962Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300137885>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1537_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "staking"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1537_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008616"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008616/2022-09-24T04:51:51.962Z>.
+<https://stad.gent/id/concept/570008526/2022-09-24T04:49:25.797Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008526>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:49:25.797Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7010544>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1555_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Stalybridge"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_1555_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008526"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008526/2022-09-24T04:49:25.797Z>.
+<https://stad.gent/id/concept/570001415/2022-09-24T04:16:49.957Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001415>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:16:49.957Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q920600>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1786_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "renovatie, sanering van veelal oude stadskernen";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stadsvernieuwing"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1786_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001415"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001415/2022-09-24T04:16:49.957Z>.
+<https://stad.gent/id/concept/570001267/2022-09-24T04:15:34.539Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001267>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:15:34.539Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/thesauri/materialen/17>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1795_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Alle harde, sterke, duurzame, plooibare legeringen van ijzer en koolstof, vaak met andere materialen zoals mangaan, chroom, nikkel, molybdeen, koper, wolfraam, kobalt of silicium. Wordt algemeen gebruikt als constructiemateriaal. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "staal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "materiaal"@nl, "material"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1795_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001267"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001267/2022-09-24T04:15:34.539Z>.
+<https://stad.gent/id/concept/550009127/2022-09-24T04:01:09.312Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009127>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:01:09.312Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300194696>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1900_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Stempels die meestal zijn gegraveerd en worden gebruikt om een ontwerp in een zachter materiaal te drukken, bijvoorbeeld bij het munten van geld.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stan (gereedschap)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005043>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005043> <http://www.w3.org/2004/02/skos/core#prefLabel> "stempel"@nl.
+_:df_1900_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009127"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009127/2022-09-24T04:01:09.312Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/sta.ttl> <https://w3id.org/tree#relation> _:df_1_1112.
+_:df_1_1112 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/stal.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "stal".
+<https://www.pieter.pm/coghent-substrings/thesaurus/sta.ttl> <https://w3id.org/tree#relation> _:df_1_1113.
+_:df_1_1113 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/staf.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "staf".
+<https://www.pieter.pm/coghent-substrings/thesaurus/sta.ttl> <https://w3id.org/tree#relation> _:df_1_1114.
+_:df_1_1114 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/stan.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "stan".
+<https://www.pieter.pm/coghent-substrings/thesaurus/sta.ttl> <https://w3id.org/tree#relation> _:df_1_1115.
+_:df_1_1115 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/stam.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "stam".
+<https://www.pieter.pm/coghent-substrings/thesaurus/sta.ttl> <https://w3id.org/tree#relation> _:df_1_1116.
+_:df_1_1116 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/staa.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "staa".
+<https://www.pieter.pm/coghent-substrings/thesaurus/sta.ttl> <https://w3id.org/tree#relation> _:df_1_1117.
+_:df_1_1117 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/stad.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "stad".
+<https://www.pieter.pm/coghent-substrings/thesaurus/sta.ttl> <https://w3id.org/tree#relation> _:df_1_1118.
+_:df_1_1118 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/stav.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "stav".
+<https://www.pieter.pm/coghent-substrings/thesaurus/sta.ttl> <https://w3id.org/tree#relation> _:df_1_1119.
+_:df_1_1119 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/stat.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "stat".
+<https://www.pieter.pm/coghent-substrings/thesaurus/sta.ttl> <https://w3id.org/tree#relation> _:df_1_1120.
+_:df_1_1120 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/stap.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "stap".
+<https://www.pieter.pm/coghent-substrings/thesaurus/sta.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/sta.ttl>.

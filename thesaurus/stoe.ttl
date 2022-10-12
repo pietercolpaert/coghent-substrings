@@ -1,0 +1,50 @@
+<https://stad.gent/id/concept/550007915/2022-09-24T02:51:24.434Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007915>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:51:24.434Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300038131>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2395_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stoelen naar functie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550002357>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550006214>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006214> <http://www.w3.org/2004/02/skos/core#prefLabel> "bidstoel"@nl.
+<https://stad.gent/id/concept/550002357> <http://www.w3.org/2004/02/skos/core#prefLabel> "stoel"@nl.
+_:df_2395_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007915"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007915/2022-09-24T02:51:24.434Z>.
+<https://stad.gent/id/concept/550007834/2022-09-24T02:44:35.656Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007834>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:44:35.656Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037775>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2443_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stoelen naar vorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550002357>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007833>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007833> <http://www.w3.org/2004/02/skos/core#prefLabel> "leunstoel"@nl.
+<https://stad.gent/id/concept/550002357> <http://www.w3.org/2004/02/skos/core#prefLabel> "stoel"@nl, "stoel"@nl.
+_:df_2443_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007834"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007834> <http://www.w3.org/2004/02/skos/core#prefLabel> "stoelen naar vorm"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007834/2022-09-24T02:44:35.656Z>.
+<https://stad.gent/id/concept/550002357/2022-09-24T00:35:24.807Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002357>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:35:24.807Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037772>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3364_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Zitplaats voor één persoon met een rugleuning of een rug- en armleuning. Ze verschillen van 'krukken' die geen rug hebben.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stoel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007835>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007915>, <https://stad.gent/id/concept/550007834>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007834> <http://www.w3.org/2004/02/skos/core#prefLabel> "stoelen naar vorm"@nl.
+<https://stad.gent/id/concept/550007915> <http://www.w3.org/2004/02/skos/core#prefLabel> "stoelen naar functie"@nl.
+<https://stad.gent/id/concept/550007835> <http://www.w3.org/2004/02/skos/core#prefLabel> "eenpersoonszitmeubels"@nl.
+_:df_3364_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002357"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002357/2022-09-24T00:35:24.807Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/stoe.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/stoe.ttl>.

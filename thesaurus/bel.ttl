@@ -130,3 +130,213 @@ _:df_3232_19 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009616"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009616/2021-10-31T21:28:15.335Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bel.ttl>.
+<https://stad.gent/id/concept/570015663/2022-09-24T07:17:59.610Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015663>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:17:59.610Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q815545>;
+    <http://www.w3.org/ns/adms#identifier> _:df_502_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Belgisch Staatsblad"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_502_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015663"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015663/2022-09-24T07:17:59.610Z>.
+<https://stad.gent/id/concept/570013678/2022-09-24T06:33:41.022Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013678>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:33:41.022Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1047642>;
+    <http://www.w3.org/ns/adms#identifier> _:df_817_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bellingwolde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_817_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013678"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013678/2022-09-24T06:33:41.022Z>.
+<https://stad.gent/id/concept/570012468/2022-09-24T06:08:19.706Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012468>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:08:19.706Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000063>;
+    <http://www.w3.org/ns/adms#identifier> _:df_994_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "België"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570023204>, <https://stad.gent/id/concept/570000154>, <https://stad.gent/id/concept/570007402>;
+    <http://www.w3.org/2004/02/skos/core#note> "land"@nl, "country"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "motief"@nl, "motif"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007402> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wallonië"@nl.
+<https://stad.gent/id/concept/570000154> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaanderen"@nl.
+<https://stad.gent/id/concept/570023204> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brussel Hoofdstedelijk Gewest"@nl.
+_:df_994_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012468"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012468/2022-09-24T06:08:19.706Z>.
+<https://stad.gent/id/concept/570010631/2022-09-24T05:47:59.352Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010631>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:47:59.352Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026324>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1138_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Belsele (Sint-Niklaas)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_1138_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010631"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010631/2022-09-24T05:47:59.352Z>.
+<https://stad.gent/id/concept/570010020/2022-09-24T05:35:36.597Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010020>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:35:36.597Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q8161>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1228_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "belasting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1228_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010020"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010020/2022-09-24T05:35:36.597Z>.
+<https://stad.gent/id/concept/570009616/2022-09-24T05:25:47.026Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009616>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:25:47.026Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2693423>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1297_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "groep van meestal kleine arbeiderswoningen";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beluik"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1297_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009616"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009616/2022-09-24T05:25:47.026Z>.
+<https://stad.gent/id/concept/550007935/2022-09-24T02:53:05.352Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007935>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:53:05.352Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300247513>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2383_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "belemmeringsbenodigdheden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007772>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007934>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007934> <http://www.w3.org/2004/02/skos/core#prefLabel> "keten"@nl.
+<https://stad.gent/id/concept/550007772> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting naar proces"@nl.
+_:df_2383_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007935"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007935> <http://www.w3.org/2004/02/skos/core#prefLabel> "belemmeringsbenodigdheden"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007935/2022-09-24T02:53:05.352Z>.
+<https://stad.gent/id/concept/550006267/2022-09-24T02:11:01.085Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006267>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:11:01.085Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026324>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2683_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Belsele"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004313>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004313> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen"@nl.
+_:df_2683_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006267"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006267/2022-09-24T02:11:01.085Z>.
+<https://stad.gent/id/concept/550005249/2022-09-24T01:35:01.336Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005249>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:35:01.336Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2938_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Penning verkregen ter beloning buiten de context van een wedstrijd";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beloningspenning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008058>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008058> <http://www.w3.org/2004/02/skos/core#prefLabel> "gelegenheidspenning"@nl.
+_:df_2938_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005249"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005249/2022-09-24T01:35:01.336Z>.
+<https://stad.gent/id/concept/550004770/2022-09-24T01:18:36.666Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004770>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:18:36.666Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3055_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bellenboom"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007815>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007815> <http://www.w3.org/2004/02/skos/core#prefLabel> "klok (idiofoon)"@nl.
+_:df_3055_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004770"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004770/2022-09-24T01:18:36.666Z>.
+<https://stad.gent/id/concept/550004592/2022-09-24T01:11:37.562Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004592>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:11:37.562Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7016816>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3106_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Belgrado"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006900>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006900> <http://www.w3.org/2004/02/skos/core#prefLabel> "Servië"@nl.
+_:df_3106_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004592"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004592/2022-09-24T01:11:37.562Z>.
+<https://stad.gent/id/concept/550001085/2022-09-24T00:14:47.711Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001085>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:14:47.711Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000063>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3511_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "België"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005045>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008923>, <https://stad.gent/id/concept/550004497>, <https://stad.gent/id/concept/550005683>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "land"@nl, "country"@en, "nationaliteit"@nl, "nationality"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005683> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wallonië"@nl.
+<https://stad.gent/id/concept/550004497> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaanderen"@nl.
+<https://stad.gent/id/concept/550008923> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brussels Hoofdstedelijk Gewest"@nl.
+<https://stad.gent/id/concept/550005045> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl.
+_:df_3511_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001085"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001085/2022-09-24T00:14:47.711Z>.
+<https://stad.gent/id/concept/530004544/2022-09-15T00:02:05.249Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004544>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-15T00:02:05.249Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300224429>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3655_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Voering die aan de rand van een kledingstuk is aangebracht als versiering of versteviging. \r\n\r\nHet beleg van een kledingstuk is een onderdeel waarmee de binnenkant van het kledingstuk deels wordt afgewerkt.[1]  Het beleg wordt vaak toegepast bij gekromde halslijnen en armsgaten,[2] waar een simpele zoom niet tot een aanvaardbaar resultaat zou leiden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beleg (kleding)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008775>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008775> <http://www.w3.org/2004/02/skos/core#prefLabel> "kledingonderdeel"@nl.
+_:df_3655_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004544"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004544/2022-09-15T00:02:05.249Z>.
+<https://stad.gent/id/concept/530004544/2022-09-14T00:00:59.572Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004544>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-14T00:00:59.572Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300224429>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3691_47;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Voering die aan de rand van een kledingstuk is aangebracht als versiering of versteviging. \r\n\r\nHet beleg van een kledingstuk is een onderdeel waarmee de binnenkant van het kledingstuk deels wordt afgewerkt.[1]  Het beleg wordt vaak toegepast bij gekromde halslijnen en armsgaten,[2] waar een simpele zoom niet tot een aanvaardbaar resultaat zou leiden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beleg (kleding)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008775>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008775> <http://www.w3.org/2004/02/skos/core#prefLabel> "kledingonderdeel"@nl, "kledingonderdeel"@nl, "kledingonderdeel"@nl.
+_:df_3691_47 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004544"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004544/2022-09-14T00:00:59.572Z>.
+<https://stad.gent/id/concept/670001319/2022-09-13T00:00:24.597Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001319>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-13T00:00:24.597Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q815443>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3700_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Belfort"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en, "trefwoord"@nl, "keyword"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3700_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001319"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001319/2022-09-13T00:00:24.597Z>.
+<https://stad.gent/id/concept/670006996/2022-09-09T09:22:57.810Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006996>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:22:57.810Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3155>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3784_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bellefleurstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3784_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006996"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006996/2022-09-09T09:22:57.810Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/bel.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bel.ttl>.

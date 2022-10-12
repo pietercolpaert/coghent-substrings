@@ -100,3 +100,124 @@ _:df_2911_42 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570012572"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012572/2021-10-31T22:13:34.101Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ink.ttl>.
+<https://stad.gent/id/concept/570015824/2022-09-24T07:20:35.769Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015824>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:20:35.769Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053313>;
+    <http://www.w3.org/ns/adms#identifier> _:df_481_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het aanbrengen van inkt op een drukplaat of blok of in een sjabloon met behulp van een roller.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "inkten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_481_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015824"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015824/2022-09-24T07:20:35.769Z>.
+<https://stad.gent/id/concept/570012572/2022-09-24T06:10:51.189Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012572>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:10:51.189Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300196797>;
+    <http://www.w3.org/ns/adms#identifier> _:df_976_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine houders voor inkt waarin een pen kan worden gedoopt. Zie 'inktflessen' voor flessen met inkt bedoeld voor de verkoop.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "inktpot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_976_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012572"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012572/2022-09-24T06:10:51.189Z>.
+<https://stad.gent/id/concept/550008855/2022-09-24T03:51:06.379Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008855>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:51:06.379Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300187729>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1969_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "inkt naar samenstelling of herkomst"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550000129>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007612>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007612> <http://www.w3.org/2004/02/skos/core#prefLabel> "sepia"@nl.
+<https://stad.gent/id/concept/550000129> <http://www.w3.org/2004/02/skos/core#prefLabel> "inkt"@nl.
+_:df_1969_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008855"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008855/2022-09-24T03:51:06.379Z>.
+<https://stad.gent/id/concept/550006188/2022-09-24T02:07:29.422Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006188>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:07:29.422Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300196797>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2707_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine houders voor inkt waarin een pen kan worden gedoopt. Zie 'inktflessen' voor flessen met inkt bedoeld voor de verkoop.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "inktpot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005621>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005621> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders voor schrijfbenodigheden"@nl.
+_:df_2707_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006188"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006188/2022-09-24T02:07:29.422Z>.
+<https://stad.gent/id/concept/550006189/2022-09-24T02:07:34.424Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006189>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:07:34.424Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022517>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2707_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gereedschappen om kalligrafeerinkt mee te maken; met aan één kant een uitholling.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "inktsteen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008170>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008170> <http://www.w3.org/2004/02/skos/core#prefLabel> "schets-teken-en schrijfbenodigdheden naar specifiek type"@nl.
+_:df_2707_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006189"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006189/2022-09-24T02:07:34.424Z>.
+<https://stad.gent/id/concept/550006080/2022-09-24T02:02:26.328Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006080>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:02:26.328Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2743_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "inkttekening"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007970>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007970> <http://www.w3.org/2004/02/skos/core#prefLabel> "tekeningen naar materiaal of techniek"@nl.
+_:df_2743_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006080"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006080/2022-09-24T02:02:26.328Z>.
+<https://stad.gent/id/concept/550004681/2022-09-24T01:16:10.256Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004681>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:16:10.256Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3073_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "inkleuren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3073_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004681"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004681/2022-09-24T01:16:10.256Z>.
+<https://stad.gent/id/concept/550002472/2022-09-24T00:36:30.920Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002472>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:36:30.920Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300196804>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3355_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Standaarden voor inktpotten en schrijfgerei.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "inktstel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005621>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005621> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders voor schrijfbenodigheden"@nl.
+_:df_3355_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002472"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002472/2022-09-24T00:36:30.920Z>.
+<https://stad.gent/id/concept/550000129/2022-09-24T00:02:45.997Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000129>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:02:45.997Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300015012>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3598_39;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een vloeibare stof die wordt gebruikt voor tekeningenof overtrektekeningen. Een ondoorzichtig, doorgaans zwart pigment wordt vermengd met een oplosmiddel, zoals water, om een vloeistof te verkrijgen die met een pen of inkt kan worden aangebracht. Tot het eind van de 19de eeuw werd inkt droog aangeleverd, in de vorm van een tablet of staafje dat naar behoeven werd vermalen en opgelost in water. Aan het begin van de 20ste eeuw ging men over op bereide inkt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "inkt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008776>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008855>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008855> <http://www.w3.org/2004/02/skos/core#prefLabel> "inkt naar samenstelling of herkomst"@nl.
+<https://stad.gent/id/concept/550008776> <http://www.w3.org/2004/02/skos/core#prefLabel> "deklaag naar vorm"@nl.
+_:df_3598_39 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000129"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000129/2022-09-24T00:02:45.997Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/ink.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ink.ttl>.

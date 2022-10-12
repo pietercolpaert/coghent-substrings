@@ -23,3 +23,30 @@ _:df_3112_20 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010260"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010260/2021-10-31T21:45:04.142Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/stol.ttl>.
+<https://stad.gent/id/concept/550005459/2022-09-24T01:43:46.322Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005459>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:43:46.322Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300395601>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2878_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stolp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2878_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005459"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005459/2022-09-24T01:43:46.322Z>.
+<https://stad.gent/id/concept/550000978/2022-09-24T00:12:46.414Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000978>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:12:46.414Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300221756>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3526_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Liturgische kleding die door bisschoppen en priesters worden gedragen, bestaande uit een lange, smalle reep stof die om de hals wordt gedragen en van de schouders naar beneden hangt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stola"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007999>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007999> <http://www.w3.org/2004/02/skos/core#prefLabel> "liturgisch gewaad"@nl.
+_:df_3526_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000978"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000978/2022-09-24T00:12:46.414Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/stol.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/stol.ttl>.

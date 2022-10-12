@@ -47,3 +47,76 @@ _:df_3208_17 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009718"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009718/2021-10-31T21:31:38.312Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/leu.ttl>.
+<https://stad.gent/id/concept/570009718/2022-09-24T05:29:08.629Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009718>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:29:08.629Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007949>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1273_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Leuven"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570019573>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570019573> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams-Brabant (provincie)"@nl.
+_:df_1273_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009718"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009718/2022-09-24T05:29:08.629Z>.
+<https://stad.gent/id/concept/570008793/2022-09-24T04:58:02.424Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008793>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:58:02.424Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1136645>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1495_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Leuze"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012866>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012866> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen (provincie)"@nl.
+_:df_1495_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008793"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008793/2022-09-24T04:58:02.424Z>.
+<https://stad.gent/id/concept/550007833/2022-09-24T02:44:30.655Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007833>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:44:30.655Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037776>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2443_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Term die wordt gebruikt voor een groot assortiment stoelen met armleuningen om ze te onderscheiden van 'stoelen zonder armleuningen' die geen armleuningen hebben.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "leunstoel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007834>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005254>, <https://stad.gent/id/concept/550008596>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008596> <http://www.w3.org/2004/02/skos/core#prefLabel> "bergère (stoel)"@nl.
+<https://stad.gent/id/concept/550005254> <http://www.w3.org/2004/02/skos/core#prefLabel> "armstoel"@nl.
+<https://stad.gent/id/concept/550007834> <http://www.w3.org/2004/02/skos/core#prefLabel> "stoelen naar vorm"@nl.
+_:df_2443_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007833"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007833> <http://www.w3.org/2004/02/skos/core#prefLabel> "leunstoel"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007833/2022-09-24T02:44:30.655Z>.
+<https://stad.gent/id/concept/550005585/2022-09-24T01:46:47.681Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005585>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:46:47.681Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300002018>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2854_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kapmuurtjes of balustrades met een gedeeltelijk opengewerkte, lichtgewicht, houten of metalen constructie.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "leuning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007863>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007863> <http://www.w3.org/2004/02/skos/core#prefLabel> "balustrades, leuningen en hun onderdelen"@nl.
+_:df_2854_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005585"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005585/2022-09-24T01:46:47.681Z>.
+<https://stad.gent/id/concept/550001378/2022-09-24T00:18:29.706Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001378>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:18:29.706Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007949>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3484_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Leuven"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008920>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008920> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams-Brabant"@nl.
+_:df_3484_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001378"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001378/2022-09-24T00:18:29.706Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/leu.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/leu.ttl>.

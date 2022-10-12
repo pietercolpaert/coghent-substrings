@@ -11,3 +11,106 @@ _:df_2563_20 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570014898"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014898/2021-10-31T23:02:57.650Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/stee.ttl>.
+<https://stad.gent/id/concept/550006553/2022-09-24T02:20:46.638Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006553>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:20:46.638Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7254661>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2614_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Steenbrugge"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004834>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004834> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen"@nl.
+_:df_2614_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006553"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006553/2022-09-24T02:20:46.638Z>.
+<https://stad.gent/id/concept/550005955/2022-09-24T01:58:39.017Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005955>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:58:39.017Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2770_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "steenhouwer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en, "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2770_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005955"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005955/2022-09-24T01:58:39.017Z>.
+<https://stad.gent/id/concept/550005297/2022-09-24T01:37:17.872Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005297>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:37:17.872Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300210734>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2923_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Meestal vilten, stevige, ronde herenhoeden waarvan de grote rand omhoog staat of tegen de kruin aan is gerold; werden gedragen vanaf de 17e eeuw.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "steek (hoed)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005139>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007903>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007903> <http://www.w3.org/2004/02/skos/core#prefLabel> "bicorne"@nl.
+<https://stad.gent/id/concept/550005139> <http://www.w3.org/2004/02/skos/core#prefLabel> "hoed"@nl.
+_:df_2923_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005297"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005297/2022-09-24T01:37:17.872Z>.
+<https://stad.gent/id/concept/550004909/2022-09-24T01:23:45.620Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004909>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:23:45.620Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010672>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3019_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een soort pottenbakkersgoed dat tussen aardewerk en porselein in zit doordat het is gemaakt van klei en een smeltbaar gesteente. De potten worden zolang gebakken tot er gedeeltelijke verglazing optreedt waardoor het materiaal waterdicht wordt. In tegenstelling tot porselein is het materiaal slechts zelden meer dan lichtelijk doorschijnend. Door de verglazing hoeft er geen glazuur te worden gebruikt, maar voor het gebruiksgemak en het uiterlijk worden toch soms sierglazuren aangebracht, zoals zout- of loodglazuur.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "steengoed"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008724>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550003282>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003282> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jasperware"@nl.
+<https://stad.gent/id/concept/550008724> <http://www.w3.org/2004/02/skos/core#prefLabel> "keramisch materiaal"@nl, "keramisch materiaal"@nl.
+_:df_3019_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004909"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004909/2022-09-24T01:23:45.620Z>.
+<https://stad.gent/id/concept/550001437/2022-09-24T00:19:35.459Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001437>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:19:35.459Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300106724>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3478_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Steentijd"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3478_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001437"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001437/2022-09-24T00:19:35.459Z>.
+<https://stad.gent/id/concept/550000948/2022-09-24T00:11:55.953Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000948>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:11:55.953Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300042987>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3532_18;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders meestal gebruikt om in te koken; ook om er sauzen in te maken, boter in te smelten; metaal, ca. 1 tot 2 liter, platte bodem, lange rechte steel, soms met deksel, soms met schenktuit. Ook benaming van pannen met verticale, bollende of ojiefvorrmige zijden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "steelpan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005455>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005455> <http://www.w3.org/2004/02/skos/core#prefLabel> "pan"@nl.
+_:df_3532_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000948"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000948/2022-09-24T00:11:55.953Z>.
+<https://stad.gent/id/concept/670007128/2022-09-09T09:31:47.117Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670007128>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:31:47.117Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3721_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Steenstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3721_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670007128"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670007128/2022-09-09T09:31:47.117Z>.
+<https://stad.gent/id/concept/670006936/2022-09-09T09:18:04.235Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006936>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:18:04.235Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q984888>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3820_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Steenokkerzeel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3820_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006936"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006936/2022-09-09T09:18:04.235Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/stee.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/stee.ttl>.

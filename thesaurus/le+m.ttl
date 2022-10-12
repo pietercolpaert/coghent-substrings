@@ -1,0 +1,28 @@
+<https://stad.gent/id/concept/570005651/2022-09-24T04:30:52.895Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570005651>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:30:52.895Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008494>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1687_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Le Mans"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_1687_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570005651"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570005651/2022-09-24T04:30:52.895Z>.
+<https://stad.gent/id/concept/550006456/2022-09-24T02:18:15.286Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006456>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:18:15.286Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/4006197>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2632_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Le Mans"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004704>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004704> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl, "Frankrijk"@nl.
+_:df_2632_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006456"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006456/2022-09-24T02:18:15.286Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/le+m.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/le+m.ttl>.

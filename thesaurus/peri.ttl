@@ -133,3 +133,171 @@ _:df_1_1088 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/perio.ttl>;
     <https://w3id.org/tree#value> "perio".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/peri.ttl>.
+<https://stad.gent/id/concept/570012473/2022-09-24T06:08:24.710Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012473>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:08:24.710Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300404514>;
+    <http://www.w3.org/ns/adms#identifier> _:df_994_30;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Eeuw in de proleptische gregoriaanse kalender, van het jaar 1900 tot en met 1999 (of 1901 tot en met 2000). ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "20ste eeuw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570017261>, <https://stad.gent/id/concept/570017323>, <https://stad.gent/id/concept/570012612>, <https://stad.gent/id/concept/570014674>, <https://stad.gent/id/concept/570012884>, <https://stad.gent/id/concept/570016226>, <https://stad.gent/id/concept/570012461>;
+    <http://www.w3.org/2004/02/skos/core#note> "periode"@nl, "period"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012461> <http://www.w3.org/2004/02/skos/core#prefLabel> "midden 20ste eeuw"@nl.
+<https://stad.gent/id/concept/570016226> <http://www.w3.org/2004/02/skos/core#prefLabel> "einde 20ste eeuw"@nl.
+<https://stad.gent/id/concept/570012884> <http://www.w3.org/2004/02/skos/core#prefLabel> "begin 20ste eeuw"@nl.
+<https://stad.gent/id/concept/570014674> <http://www.w3.org/2004/02/skos/core#prefLabel> "3de kwart 20ste eeuw"@nl.
+<https://stad.gent/id/concept/570012612> <http://www.w3.org/2004/02/skos/core#prefLabel> "2de kwart 20ste eeuw"@nl.
+<https://stad.gent/id/concept/570017323> <http://www.w3.org/2004/02/skos/core#prefLabel> "2de helft 20ste eeuw"@nl.
+<https://stad.gent/id/concept/570017261> <http://www.w3.org/2004/02/skos/core#prefLabel> "1ste helft 20ste eeuw"@nl.
+_:df_994_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012473"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/570012473> <http://www.w3.org/2004/02/skos/core#prefLabel> "20ste eeuw"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012473/2022-09-24T06:08:24.710Z>.
+<https://stad.gent/id/concept/570012216/2022-09-24T06:03:42.524Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012216>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:03:42.524Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1027_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "midden 19de eeuw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003720>;
+    <http://www.w3.org/2004/02/skos/core#note> "periode"@nl, "period"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003720> <http://www.w3.org/2004/02/skos/core#prefLabel> "19de eeuw"@nl.
+_:df_1027_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012216"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012216/2022-09-24T06:03:42.524Z>.
+<https://stad.gent/id/concept/570003720/2022-09-24T04:25:48.853Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570003720>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:25:48.853Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/thesauri/dateringen/19>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1723_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "19de eeuw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570012879>, <https://stad.gent/id/concept/570016122>, <https://stad.gent/id/concept/570016080>, <https://stad.gent/id/concept/570023225>, <https://stad.gent/id/concept/570000697>, <https://stad.gent/id/concept/570012216>;
+    <http://www.w3.org/2004/02/skos/core#note> "periode"@nl, "period"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012216> <http://www.w3.org/2004/02/skos/core#prefLabel> "midden 19de eeuw"@nl.
+<https://stad.gent/id/concept/570000697> <http://www.w3.org/2004/02/skos/core#prefLabel> "einde 19de eeuw"@nl.
+<https://stad.gent/id/concept/570023225> <http://www.w3.org/2004/02/skos/core#prefLabel> "begin 19de eeuw"@nl.
+<https://stad.gent/id/concept/570016080> <http://www.w3.org/2004/02/skos/core#prefLabel> "3de kwart 19de eeuw"@nl.
+<https://stad.gent/id/concept/570016122> <http://www.w3.org/2004/02/skos/core#prefLabel> "2de kwart 19de eeuw"@nl.
+<https://stad.gent/id/concept/570012879> <http://www.w3.org/2004/02/skos/core#prefLabel> "1ste helft 19de eeuw"@nl.
+_:df_1723_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570003720"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570003720/2022-09-24T04:25:48.853Z>.
+<https://stad.gent/id/concept/570003288/2022-09-24T04:24:28.007Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570003288>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:24:28.007Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/thesauri/dateringen/18>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1732_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "18de eeuw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570023229>, <https://stad.gent/id/concept/570023230>, <https://stad.gent/id/concept/570023232>, <https://stad.gent/id/concept/570023235>, <https://stad.gent/id/concept/570023228>, <https://stad.gent/id/concept/570023234>, <https://stad.gent/id/concept/570023264>, <https://stad.gent/id/concept/570023265>, <https://stad.gent/id/concept/570023266>, <https://stad.gent/id/concept/570023267>, <https://stad.gent/id/concept/570023268>, <https://stad.gent/id/concept/570023269>, <https://stad.gent/id/concept/570023270>, <https://stad.gent/id/concept/570023271>, <https://stad.gent/id/concept/570023272>, <https://stad.gent/id/concept/570023227>;
+    <http://www.w3.org/2004/02/skos/core#note> "periode"@nl, "period"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023227> <http://www.w3.org/2004/02/skos/core#prefLabel> "midden 18de eeuw"@nl.
+<https://stad.gent/id/concept/570023272> <http://www.w3.org/2004/02/skos/core#prefLabel> "jaren 1890"@nl.
+<https://stad.gent/id/concept/570023271> <http://www.w3.org/2004/02/skos/core#prefLabel> "jaren 1880"@nl.
+<https://stad.gent/id/concept/570023270> <http://www.w3.org/2004/02/skos/core#prefLabel> "jaren 1870"@nl.
+<https://stad.gent/id/concept/570023269> <http://www.w3.org/2004/02/skos/core#prefLabel> "jaren 1860"@nl.
+<https://stad.gent/id/concept/570023268> <http://www.w3.org/2004/02/skos/core#prefLabel> "jaren 1850"@nl.
+<https://stad.gent/id/concept/570023267> <http://www.w3.org/2004/02/skos/core#prefLabel> "jaren 1840"@nl.
+<https://stad.gent/id/concept/570023266> <http://www.w3.org/2004/02/skos/core#prefLabel> "jaren 1830"@nl.
+<https://stad.gent/id/concept/570023265> <http://www.w3.org/2004/02/skos/core#prefLabel> "jaren 1820"@nl.
+<https://stad.gent/id/concept/570023264> <http://www.w3.org/2004/02/skos/core#prefLabel> "jaren 1810"@nl.
+<https://stad.gent/id/concept/570023234> <http://www.w3.org/2004/02/skos/core#prefLabel> "einde 18de eeuw"@nl.
+<https://stad.gent/id/concept/570023228> <http://www.w3.org/2004/02/skos/core#prefLabel> "begin 18de eeuw"@nl.
+<https://stad.gent/id/concept/570023235> <http://www.w3.org/2004/02/skos/core#prefLabel> "3de kwart 18de eeuw"@nl.
+<https://stad.gent/id/concept/570023232> <http://www.w3.org/2004/02/skos/core#prefLabel> "2de kwart 18de eeuw"@nl.
+<https://stad.gent/id/concept/570023230> <http://www.w3.org/2004/02/skos/core#prefLabel> "2de helft 18de eeuw"@nl.
+<https://stad.gent/id/concept/570023229> <http://www.w3.org/2004/02/skos/core#prefLabel> "1ste helft 18de eeuw"@nl.
+_:df_1732_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570003288"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570003288/2022-09-24T04:24:28.007Z>.
+<https://stad.gent/id/concept/570000697/2022-09-24T04:11:36.716Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000697>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:11:36.716Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1825_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "einde 19de eeuw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003720>;
+    <http://www.w3.org/2004/02/skos/core#note> "periode"@nl, "period"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003720> <http://www.w3.org/2004/02/skos/core#prefLabel> "19de eeuw"@nl.
+_:df_1825_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000697"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000697/2022-09-24T04:11:36.716Z>.
+<https://stad.gent/id/concept/570000149/2022-09-24T04:07:34.393Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000149>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:07:34.393Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q12554>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1852_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "middeleeuwen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "periode"@nl, "period"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1852_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000149"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000149/2022-09-24T04:07:34.393Z>.
+<https://stad.gent/id/concept/550000114/2022-09-24T00:02:35.624Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000114>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:02:35.624Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3598_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "onbekend"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "verwervingsmethode"@nl, "acquisition method"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "inscriptie positie"@nl, "inscription position"@en, "periode"@nl, "period"@en, "objectnaam"@nl, "object name"@en, "materiaal"@nl, "material"@en, "Vindplaats"@nl, "Collection place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3598_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000114"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000114/2022-09-24T00:02:35.624Z>.
+<https://stad.gent/id/concept/670007566/2022-09-09T09:33:27.696Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670007566>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:33:27.696Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q36574>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3709_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "jaren 1900"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "periode"@nl, "period"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3709_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670007566"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670007566/2022-09-09T09:33:27.696Z>.
+<https://stad.gent/id/concept/670007567/2022-09-09T09:33:32.698Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670007567>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:33:32.698Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q38971>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3709_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "jaren 1890"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "periode"@nl, "period"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3709_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670007567"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670007567/2022-09-09T09:33:32.698Z>.
+<https://stad.gent/id/concept/670007568/2022-09-09T09:33:37.702Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670007568>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:33:37.702Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q38674>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3709_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "jaren 1880"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "periode"@nl, "period"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3709_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670007568"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670007568/2022-09-09T09:33:37.702Z>.
+<https://stad.gent/id/concept/670007561/2022-09-09T09:33:02.411Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670007561>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:33:02.411Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q35724>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3712_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "jaren 1960"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "periode"@nl, "period"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3712_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670007561"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670007561/2022-09-09T09:33:02.411Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/peri.ttl> <https://w3id.org/tree#relation> _:df_1_1372.
+_:df_1_1372 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/perio.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "perio".
+<https://www.pieter.pm/coghent-substrings/thesaurus/peri.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/peri.ttl>.

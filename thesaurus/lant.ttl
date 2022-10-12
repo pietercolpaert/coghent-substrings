@@ -11,3 +11,31 @@ _:df_3082_18 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010508"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010508/2021-10-31T21:49:18.038Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/lant.ttl>.
+<https://stad.gent/id/concept/570006069/2022-09-24T04:33:34.925Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006069>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:33:34.925Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037647>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1669_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vast of draagbaar, beschermend en lichtdoorlatend omhulsel van een lichtbron; stevig geraamte, zijkanten van transparant glas, hoorn of opengewerkt materiaal. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lantaarn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1669_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006069"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006069/2022-09-24T04:33:34.925Z>.
+<https://stad.gent/id/concept/550005242/2022-09-24T01:34:25.927Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005242>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:34:25.927Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037647>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2944_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vast of draagbaar, beschermend en lichtdoorlatend omhulsel van een lichtbron; stevig geraamte, zijkanten van transparant glas, hoorn of opengewerkt materiaal.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lantaarn (verlichtingsmiddel)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007930>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007930> <http://www.w3.org/2004/02/skos/core#prefLabel> "verlichtingsmiddelen naar vorm"@nl.
+_:df_2944_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005242"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005242/2022-09-24T01:34:25.927Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/lant.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/lant.ttl>.

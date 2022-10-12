@@ -1,0 +1,27 @@
+<https://stad.gent/id/concept/550000744/2022-09-24T00:09:24.381Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000744>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:09:24.381Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011162>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3550_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een aluminiumsilicaat dat fluor bevat dat is gevormd door fluorhoudende dampen die zijn afgegeven tijdens de laatste fasen van het kristalliseren van stollingsgesteente. De topaas, die als edelsteen zeer geliefd is, komt voor in prismatische kristallen die transparant en glanzend zijn en een witte (kleurloze), gele, bruine, lichtblauwe, roze, rode of lichtgroene kleur hebben. Onder meer aangetroffen in Brazilië, Mexico, Saksen, Schotland, Japan en de Oeral. Kleurloos topaas kan worden aangezien voor diamant wanneer het is geslepen. Gekleurd topaas kan onstabiel zijn en verbleken door zonlicht. Men meent dat het mineraal dat moderne mineralogen met 'topaas' aanduiden, niet bekend was in het oude Griekenland en Rome en bij de schrijvers van het Oude Testament; de steen die door deze oude beschavingen 'topazos' werd genoemd, was waarschijnlijk het mineraal chrysoliet, ofwel peridot of gele saffier.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "topaas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550002710>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002710> <http://www.w3.org/2004/02/skos/core#prefLabel> "mineraal"@nl.
+_:df_3550_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000744"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000744/2022-09-24T00:09:24.381Z>.
+<https://stad.gent/id/concept/670006337/2022-09-09T08:28:21.902Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006337>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:28:21.902Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.imdb.com/title/tt0033197>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4174_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tóparti látomás"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4174_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006337"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006337/2022-09-09T08:28:21.902Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/topa.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/topa.ttl>.

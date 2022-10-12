@@ -1,0 +1,28 @@
+<https://stad.gent/id/concept/550003720/2022-09-24T00:53:27.024Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003720>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:53:27.024Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3235_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "guenard"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007977>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007977> <http://www.w3.org/2004/02/skos/core#prefLabel> "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl.
+_:df_3235_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003720"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003720/2022-09-24T00:53:27.024Z>.
+<https://stad.gent/id/concept/550000617/2022-09-24T00:08:13.869Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000617>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:08:13.869Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300140253>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3559_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Franse benaming, waarvan de herkomst niet vast staat, voor decoratieve kaarshouders. Het oorspronkelijke type had een rond blad met een standaard in het midden. Ze hadden vaak de vorm van een Moor of, naarmate de interesse in exotica toenam, een negerin of Indiaan. In de periode van Louis XV en Louis XVI werden guéridons kleine, verplaatsbare tafels.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gueridon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008124>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008124> <http://www.w3.org/2004/02/skos/core#prefLabel> "kaarshouder (meubilair)"@nl.
+_:df_3559_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000617"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000617/2022-09-24T00:08:13.869Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/gue.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/gue.ttl>.

@@ -246,3 +246,262 @@ _:df_1_1064 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/bul.ttl>;
     <https://w3id.org/tree#value> "bul".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bu.ttl>.
+<https://stad.gent/id/concept/570016526/2022-09-24T07:39:00.018Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016526>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:39:00.018Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300182550>;
+    <http://www.w3.org/ns/adms#identifier> _:df_352_32;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Lampen die op een bureau worden gebruikt en waarvan de lichtbron meestal op een of andere manier kan worden versteld. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bureaulamp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_352_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016526"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016526/2022-09-24T07:39:00.018Z>.
+<https://stad.gent/id/concept/570016405/2022-09-24T07:34:42.561Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016405>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:34:42.561Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_382_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "buizenklem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_382_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016405"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016405/2022-09-24T07:34:42.561Z>.
+<https://stad.gent/id/concept/570015899/2022-09-24T07:22:16.651Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015899>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:22:16.651Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7207158>;
+    <http://www.w3.org/ns/adms#identifier> _:df_469_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Buchholz (Saksen)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_469_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015899"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015899/2022-09-24T07:22:16.651Z>.
+<https://stad.gent/id/concept/570014932/2022-09-24T07:01:51.756Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014932>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:01:51.756Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300185661>;
+    <http://www.w3.org/ns/adms#identifier> _:df_616_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "buskruitfabriek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_616_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014932"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014932/2022-09-24T07:01:51.756Z>.
+<https://stad.gent/id/concept/570014907/2022-09-24T07:00:51.389Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014907>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:00:51.389Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025468>;
+    <http://www.w3.org/ns/adms#identifier> _:df_622_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "burgemeester"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_622_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014907"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014907/2022-09-24T07:00:51.389Z>.
+<https://stad.gent/id/concept/570014532/2022-09-24T06:49:35.050Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014532>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:49:35.050Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411584>;
+    <http://www.w3.org/ns/adms#identifier> _:df_703_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bunsenbrander"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_703_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014532"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014532/2022-09-24T06:49:35.050Z>.
+<https://stad.gent/id/concept/570013171/2022-09-24T06:22:06.902Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013171>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:22:06.902Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q740996>;
+    <http://www.w3.org/ns/adms#identifier> _:df_895_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bustier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_895_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013171"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013171/2022-09-24T06:22:06.902Z>.
+<https://stad.gent/id/concept/570010419/2022-09-24T05:45:18.067Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010419>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:45:18.067Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006413>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1159_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bulgarije"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570023105>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023105> <http://www.w3.org/2004/02/skos/core#prefLabel> "Philippopolis"@nl.
+_:df_1159_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010419"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010419/2022-09-24T05:45:18.067Z>.
+<https://stad.gent/id/concept/570010403/2022-09-24T05:44:32.553Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010403>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:44:32.553Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7010428>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1165_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Burnley (Lancashire)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl, "Groot-Brittannië"@nl.
+_:df_1165_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010403"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010403/2022-09-24T05:44:32.553Z>.
+<https://stad.gent/id/concept/570010296/2022-09-24T05:42:40.463Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010296>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:42:40.463Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014687>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1177_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "buizen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1177_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010296"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010296/2022-09-24T05:42:40.463Z>.
+<https://stad.gent/id/concept/570010133/2022-09-24T05:39:18.637Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010133>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:39:18.637Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300311679>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1201_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bulletin"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1201_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010133"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010133/2022-09-24T05:39:18.637Z>.
+<https://stad.gent/id/concept/570010088/2022-09-24T05:37:47.708Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010088>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:37:47.708Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300167570>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1213_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bureau"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1213_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010088"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010088/2022-09-24T05:37:47.708Z>.
+<https://stad.gent/id/concept/570009210/2022-09-24T05:13:28.268Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009210>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:13:28.268Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1384_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bundel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1384_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009210"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009210/2022-09-24T05:13:28.268Z>.
+<https://stad.gent/id/concept/570007759/2022-09-24T04:42:30.047Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007759>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:42:30.047Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006048>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1606_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Busto Arsizio"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020612>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020612> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_1606_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007759"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007759/2022-09-24T04:42:30.047Z>.
+<https://stad.gent/id/concept/570002237/2022-09-24T04:21:26.611Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570002237>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:21:26.611Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q649572>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1756_38;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "buchnertrechter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1756_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570002237"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570002237/2022-09-24T04:21:26.611Z>.
+<https://stad.gent/id/concept/570000110/2022-09-24T04:06:53.856Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000110>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:06:53.856Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014687>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1858_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "buis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1858_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000110"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000110/2022-09-24T04:06:53.856Z>.
+<https://stad.gent/id/concept/550008650/2022-09-24T03:40:33.975Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008650>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:40:33.975Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300207332>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2044_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Versieringen of insignes die worden gedragen, bijvoorbeeld op revers, en waarop een bepaalde leus of een bepaald patroon is gedrukt of geperst.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "button (informatiedrager)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005710>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005710> <http://www.w3.org/2004/02/skos/core#prefLabel> "informatiedragers naar fysieke vorm"@nl.
+_:df_2044_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008650"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008650/2022-09-24T03:40:33.975Z>.
+<https://stad.gent/id/concept/550008369/2022-09-24T03:28:39.350Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008369>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:28:39.350Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300165810>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2128_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "buitenhuismeubilair"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008370>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550006185>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006185> <http://www.w3.org/2004/02/skos/core#prefLabel> "tuinstoel"@nl.
+<https://stad.gent/id/concept/550008370> <http://www.w3.org/2004/02/skos/core#prefLabel> "meubilair naar locatie of context"@nl.
+_:df_2128_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008369"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008369> <http://www.w3.org/2004/02/skos/core#prefLabel> "buitenhuismeubilair"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008369/2022-09-24T03:28:39.350Z>.
+<https://stad.gent/id/concept/550006576/2022-09-24T02:21:26.658Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006576>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:21:26.658Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007510>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2608_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Burgos"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004687>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004687> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spanje"@nl.
+_:df_2608_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006576"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006576/2022-09-24T02:21:26.658Z>.
+<https://stad.gent/id/concept/550006330/2022-09-24T02:13:37.495Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006330>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:13:37.495Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006287>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2665_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Buenos Aires"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008928>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008928> <http://www.w3.org/2004/02/skos/core#prefLabel> "Argentinië"@nl.
+_:df_2665_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006330"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006330/2022-09-24T02:13:37.495Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/bu.ttl> <https://w3id.org/tree#relation> _:df_1_1233.
+_:df_1_1233 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/bus.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "bus".
+<https://www.pieter.pm/coghent-substrings/thesaurus/bu.ttl> <https://w3id.org/tree#relation> _:df_1_1234.
+_:df_1_1234 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/bur.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "bur".
+<https://www.pieter.pm/coghent-substrings/thesaurus/bu.ttl> <https://w3id.org/tree#relation> _:df_1_1235.
+_:df_1_1235 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/bui.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "bui".
+<https://www.pieter.pm/coghent-substrings/thesaurus/bu.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bu.ttl>.

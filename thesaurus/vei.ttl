@@ -8,3 +8,60 @@ _:df_2515_20 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570015156"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015156/2021-10-31T23:09:43.249Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/vei.ttl>.
+<https://stad.gent/id/concept/570009073/2022-09-24T05:07:52.545Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009073>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:07:52.545Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055282>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1423_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "veiligheid"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1423_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009073"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009073/2022-09-24T05:07:52.545Z>.
+<https://stad.gent/id/concept/570001792/2022-09-24T04:18:47.703Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001792>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:18:47.703Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209266>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1774_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kledingstukken die worden gedragen ter bescherming tegen vuil of gevaar. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "veiligheidskledij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1774_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001792"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001792/2022-09-24T04:18:47.703Z>.
+<https://stad.gent/id/concept/550002592/2022-09-24T00:38:16.727Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002592>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:38:16.727Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3343_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "veilleuse"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007954>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007954> <http://www.w3.org/2004/02/skos/core#prefLabel> "kookgereedschap en uitrusting"@nl.
+_:df_3343_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002592"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002592/2022-09-24T00:38:16.727Z>.
+<https://stad.gent/id/concept/670006495/2022-09-09T08:41:45.005Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006495>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:41:45.005Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4078_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Veils of Bagdad"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4078_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006495"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006495/2022-09-09T08:41:45.005Z>.
+<https://stad.gent/id/concept/670006494/2022-09-09T08:41:40.003Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006494>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:41:40.003Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4081_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Veille d'armes"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4081_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006494"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006494/2022-09-09T08:41:40.003Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/vei.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/vei.ttl>.

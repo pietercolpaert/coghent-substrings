@@ -68,3 +68,43 @@ _:df_3070_26 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010672"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010672/2021-10-31T21:51:04.481Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/lic.ttl>.
+<https://stad.gent/id/concept/570006733/2022-09-24T04:37:42.013Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006733>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:37:42.013Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q9292190>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1639_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lichaamsverzorging"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1639_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006733"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006733/2022-09-24T04:37:42.013Z>.
+<https://stad.gent/id/concept/550009261/2022-09-24T04:03:11.086Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009261>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:03:11.086Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1037199>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1885_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lichte"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004734>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_1885_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009261"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009261/2022-09-24T04:03:11.086Z>.
+<https://stad.gent/id/concept/550008323/2022-09-24T03:25:02.497Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008323>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:25:02.497Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300257169>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2155_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Lanceerinrichtingen waarmee signaallichten worden ontstoken en afgeschoten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lichtpistool"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007772>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007772> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting naar proces"@nl, "uitrusting naar proces"@nl.
+_:df_2155_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008323"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008323/2022-09-24T03:25:02.497Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/lic.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/lic.ttl>.

@@ -34,3 +34,56 @@ _:df_1525_49 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570020496"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020496/2021-11-01T01:29:14.393Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/pep.ttl>.
+<https://stad.gent/id/concept/570009247/2022-09-24T05:15:10.276Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009247>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:15:10.276Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q13136717>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1372_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "peperkoek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1372_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009247"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009247/2022-09-24T05:15:10.276Z>.
+<https://stad.gent/id/concept/570009194/2022-09-24T05:12:53.252Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009194>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:12:53.252Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300389824>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1390_39;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De vrucht van Piper nigrum, de peperplant, gedroogd en meestal vermalen tot poeder om als kruiderij te gebruiken. Het heeft een hete, scherpe smaak en wordt meestal gecombineerd met een of andere vorm van zout. De gemalen specerij verschijnt in twee vormen, de meer scherpe zwarte peper, gemaakt van zwarte peperkorrels, en de zachtere witte peper, geproduceerd uit witte peperkorrels. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "peper"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1390_39 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009194"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009194/2022-09-24T05:12:53.252Z>.
+<https://stad.gent/id/concept/550004987/2022-09-24T01:25:26.602Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004987>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:25:26.602Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043030>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3007_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Strooiers die met name bedoeld zijn voor het serveren van gemalen peper, meestal cilindervormig met een fijn geperforeerd deksel, dat soms op het vat wordt geschroefd.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "peperstrooier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008295>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008295> <http://www.w3.org/2004/02/skos/core#prefLabel> "strooibus (tafel)"@nl.
+_:df_3007_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004987"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004987/2022-09-24T01:25:26.602Z>.
+<https://stad.gent/id/concept/550001036/2022-09-24T00:13:57.230Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001036>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:13:57.230Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043086>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3517_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vaten met een geperforeerde bovenkant voor het strooien van peper op voedsel. Worden gemaakt in een verscheidenheid van vormen en materialen en vormen vaak een paar met een zoutvaatje.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pepervaatje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008254>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008254> <http://www.w3.org/2004/02/skos/core#prefLabel> "specerijvaten"@nl.
+_:df_3517_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001036"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001036/2022-09-24T00:13:57.230Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/pep.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/pep.ttl>.

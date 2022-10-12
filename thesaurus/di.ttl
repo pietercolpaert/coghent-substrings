@@ -245,3 +245,297 @@ _:df_1_789 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/dim.ttl>;
     <https://w3id.org/tree#value> "dim".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/di.ttl>.
+<https://stad.gent/id/concept/570016858/2022-09-24T07:50:25.452Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016858>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:50:25.452Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_268_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "diktemeter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_268_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016858"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016858/2022-09-24T07:50:25.452Z>.
+<https://stad.gent/id/concept/570016760/2022-09-24T07:46:13.415Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016760>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:46:13.415Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007875>;
+    <http://www.w3.org/ns/adms#identifier> _:df_298_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Dinant"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570001129>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570001129> <http://www.w3.org/2004/02/skos/core#prefLabel> "Namen (provincie)"@nl.
+_:df_298_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016760"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016760/2022-09-24T07:46:13.415Z>.
+<https://stad.gent/id/concept/570016060/2022-09-24T07:26:13.261Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016060>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:26:13.261Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7246628>;
+    <http://www.w3.org/ns/adms#identifier> _:df_442_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Dikkele (Zwalm)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_442_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016060"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016060/2022-09-24T07:26:13.261Z>.
+<https://stad.gent/id/concept/570014142/2022-09-24T06:41:46.054Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014142>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:41:46.054Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q926871>;
+    <http://www.w3.org/ns/adms#identifier> _:df_760_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "directe belastingen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_760_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014142"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014142/2022-09-24T06:41:46.054Z>.
+<https://stad.gent/id/concept/570013248/2022-09-24T06:24:07.658Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013248>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:24:07.658Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046021>;
+    <http://www.w3.org/ns/adms#identifier> _:df_880_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Sierhoofdbanden van metaal of stof; wordt vooral gebruikt voor het soort dat gedragen wordt als symbool van koninklijke waardigheid.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "diadeem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_880_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013248"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013248/2022-09-24T06:24:07.658Z>.
+<https://stad.gent/id/concept/570012443/2022-09-24T06:07:19.257Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012443>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:07:19.257Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q956263>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1000_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dictafoon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1000_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012443"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012443/2022-09-24T06:07:19.257Z>.
+<https://stad.gent/id/concept/570012444/2022-09-24T06:07:24.259Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012444>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:07:24.259Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411362>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1000_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Optisch toestelletje om dia's en afzonderlijke filmbeelden te bekijken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "diakijker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1000_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012444"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012444/2022-09-24T06:07:24.259Z>.
+<https://stad.gent/id/concept/570012302/2022-09-24T06:04:47.961Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012302>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:04:47.961Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300311986>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1018_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "diaprojector"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1018_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012302"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012302/2022-09-24T06:04:47.961Z>.
+<https://stad.gent/id/concept/570012295/2022-09-24T06:04:32.953Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012295>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:04:32.953Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7030250>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1021_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Diegem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570019573>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570019573> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams-Brabant (provincie)"@nl.
+_:df_1021_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012295"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012295/2022-09-24T06:04:32.953Z>.
+<https://stad.gent/id/concept/570012211/2022-09-24T06:03:32.520Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012211>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:03:32.520Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q35059>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1027_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "breedte"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "afmeting"@nl, "dimension"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1027_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012211"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012211/2022-09-24T06:03:32.520Z>.
+<https://stad.gent/id/concept/570011919/2022-09-24T06:00:16.028Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011919>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:00:16.028Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q581246>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1051_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Dilsen-Stokkem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570001061>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570001061> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburg (provincie)"@nl.
+_:df_1051_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011919"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011919/2022-09-24T06:00:16.028Z>.
+<https://stad.gent/id/concept/570010506/2022-09-24T05:46:23.463Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010506>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:46:23.463Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053218>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1150_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor drukprocédés waarbij het beeld wordt gedrukt met inkt die in de uitsparingen is achtergebleven die in de plaat of het blok zijn gekerfd of geëtst. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "diepdruk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570019124>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570019124> <http://www.w3.org/2004/02/skos/core#prefLabel> "grafische technieken"@nl.
+_:df_1150_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010506"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010506/2022-09-24T05:46:23.463Z>.
+<https://stad.gent/id/concept/570010294/2022-09-24T05:42:35.458Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010294>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:42:35.458Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7246601>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1177_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Dison"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570023203>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023203> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luik (provincie)"@nl.
+_:df_1177_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010294"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010294/2022-09-24T05:42:35.458Z>.
+<https://stad.gent/id/concept/570010178/2022-09-24T05:40:44.602Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010178>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:40:44.602Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300262910>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1192_35;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Interne verbrandingsmotoren waarin een in lucht ingespoten olienevel, samengedrukt tot een temperatuur van ongeveer 538 graden Celsius, ontbrandt bij een vrijwel constante druk. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dieselmotor"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1192_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010178"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010178/2022-09-24T05:40:44.602Z>.
+<https://stad.gent/id/concept/570010118/2022-09-24T05:38:43.245Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010118>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:38:43.245Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055624>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1204_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De maat, overdwars genomen bij een voorwerp, of langs een rechte lijn die door het middelpunt gaat van de ene naar de andere kant van een cirkel of bol.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "diameter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "afmeting"@nl, "dimension"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1204_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010118"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010118/2022-09-24T05:38:43.245Z>.
+<https://stad.gent/id/concept/570009027/2022-09-24T05:06:16.653Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009027>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:06:16.653Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028011>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1435_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Officiële documenten die een zekere eer, graad of privilege toekennen, vooral wanneer het het behalen van een diploma of een graad aan een onderwijsinstelling betreft. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "diploma"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1435_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009027"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009027/2022-09-24T05:06:16.653Z>.
+<https://stad.gent/id/concept/570009042/2022-09-24T05:06:31.665Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009042>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:06:31.665Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026394>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1435_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Diepenbeek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570001061>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570001061> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburg (provincie)"@nl.
+_:df_1435_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009042"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009042/2022-09-24T05:06:31.665Z>.
+<https://stad.gent/id/concept/570008973/2022-09-24T05:04:25.768Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008973>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:04:25.768Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q38423>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1450_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "diesel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1450_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008973"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008973/2022-09-24T05:04:25.768Z>.
+<https://stad.gent/id/concept/570008578/2022-09-24T04:50:46.212Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008578>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:50:46.212Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300072633>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1546_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "diepte"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "afmeting"@nl, "dimension"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1546_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008578"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008578/2022-09-24T04:50:46.212Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/di.ttl> <https://w3id.org/tree#relation> _:df_1_901.
+_:df_1_901 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/dim.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "dim".
+<https://www.pieter.pm/coghent-substrings/thesaurus/di.ttl> <https://w3id.org/tree#relation> _:df_1_902.
+_:df_1_902 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/dis.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "dis".
+<https://www.pieter.pm/coghent-substrings/thesaurus/di.ttl> <https://w3id.org/tree#relation> _:df_1_903.
+_:df_1_903 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/die.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "die".
+<https://www.pieter.pm/coghent-substrings/thesaurus/di.ttl> <https://w3id.org/tree#relation> _:df_1_904.
+_:df_1_904 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/dig.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "dig".
+<https://www.pieter.pm/coghent-substrings/thesaurus/di.ttl> <https://w3id.org/tree#relation> _:df_1_905.
+_:df_1_905 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/dir.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "dir".
+<https://www.pieter.pm/coghent-substrings/thesaurus/di.ttl> <https://w3id.org/tree#relation> _:df_1_906.
+_:df_1_906 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/dia.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "dia".
+<https://www.pieter.pm/coghent-substrings/thesaurus/di.ttl> <https://w3id.org/tree#relation> _:df_1_907.
+_:df_1_907 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/din.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "din".
+<https://www.pieter.pm/coghent-substrings/thesaurus/di.ttl> <https://w3id.org/tree#relation> _:df_1_908.
+_:df_1_908 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/dik.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "dik".
+<https://www.pieter.pm/coghent-substrings/thesaurus/di.ttl> <https://w3id.org/tree#relation> _:df_1_909.
+_:df_1_909 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/dij.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "dij".
+<https://www.pieter.pm/coghent-substrings/thesaurus/di.ttl> <https://w3id.org/tree#relation> _:df_1_910.
+_:df_1_910 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/dip.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "dip".
+<https://www.pieter.pm/coghent-substrings/thesaurus/di.ttl> <https://w3id.org/tree#relation> _:df_1_911.
+_:df_1_911 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/dil.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "dil".
+<https://www.pieter.pm/coghent-substrings/thesaurus/di.ttl> <https://w3id.org/tree#relation> _:df_1_912.
+_:df_1_912 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/dio.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "dio".
+<https://www.pieter.pm/coghent-substrings/thesaurus/di.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/di.ttl>.

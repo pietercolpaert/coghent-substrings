@@ -9,3 +9,16 @@ _:df_2773_14 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570013561"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013561/2021-10-31T22:33:01.213Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/sof.ttl>.
+<https://stad.gent/id/concept/570009196/2022-09-24T05:13:03.257Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009196>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:13:03.257Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028566>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1387_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "software"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1387_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009196"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009196/2022-09-24T05:13:03.257Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/sof.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/sof.ttl>.

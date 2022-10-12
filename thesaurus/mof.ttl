@@ -10,3 +10,30 @@ _:df_2830_26 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570013174"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013174/2021-10-31T22:24:59.889Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/mof.ttl>.
+<https://stad.gent/id/concept/570013174/2022-09-24T06:22:16.905Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013174>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:22:16.905Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300210014>;
+    <http://www.w3.org/ns/adms#identifier> _:df_895_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mof"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_895_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013174"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013174/2022-09-24T06:22:16.905Z>.
+<https://stad.gent/id/concept/550007785/2022-09-24T02:40:38.309Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007785>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:40:38.309Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300210014>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2470_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kokervormige bedekkingen voor de handen die vaak aan beide uiteinden open zijn en die ter verwarming gedragen worden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mof"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008142>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008142> <http://www.w3.org/2004/02/skos/core#prefLabel> "handbedekking"@nl, "handbedekking"@nl.
+_:df_2470_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007785"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007785/2022-09-24T02:40:38.309Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/mof.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/mof.ttl>.

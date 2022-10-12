@@ -55,3 +55,160 @@ _:df_3193_17 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009851"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009851/2021-10-31T21:33:39.836Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/schoo.ttl>.
+<https://stad.gent/id/concept/550008421/2022-09-24T03:32:01.972Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008421>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:32:01.972Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300018436>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2104_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Yuan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2104_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008421"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008421/2022-09-24T03:32:01.972Z>.
+<https://stad.gent/id/concept/550008422/2022-09-24T03:32:06.977Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008422>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:32:06.977Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300018398>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2104_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Jin"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008949>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008949> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chinese dynastieke stijlen en perioden"@nl.
+_:df_2104_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008422"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008422/2022-09-24T03:32:06.977Z>.
+<https://stad.gent/id/concept/550008034/2022-09-24T03:01:10.037Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008034>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:01:10.037Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028004>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2326_33;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schooldocument"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008035>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550003286>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003286> <http://www.w3.org/2004/02/skos/core#prefLabel> "diploma"@nl.
+<https://stad.gent/id/concept/550008035> <http://www.w3.org/2004/02/skos/core#prefLabel> "registratie naar afkomst"@nl.
+_:df_2326_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008034"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008034/2022-09-24T03:01:10.037Z>.
+<https://stad.gent/id/concept/550006198/2022-09-24T02:07:59.434Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006198>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:07:59.434Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300018438>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2704_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ming"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008949>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008949> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chinese dynastieke stijlen en perioden"@nl, "Chinese dynastieke stijlen en perioden"@nl.
+_:df_2704_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006198"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006198/2022-09-24T02:07:59.434Z>.
+<https://stad.gent/id/concept/550006206/2022-09-24T02:08:09.857Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006206>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:08:09.857Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300018420>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2704_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tang"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008949>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008949> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chinese dynastieke stijlen en perioden"@nl, "Chinese dynastieke stijlen en perioden"@nl.
+_:df_2704_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006206"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006206/2022-09-24T02:08:09.857Z>.
+<https://stad.gent/id/concept/550006183/2022-09-24T02:07:13.816Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006183>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:07:13.816Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300018478>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2710_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Qing"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008949>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008949> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chinese dynastieke stijlen en perioden"@nl.
+_:df_2710_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006183"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006183/2022-09-24T02:07:13.816Z>.
+<https://stad.gent/id/concept/550006136/2022-09-24T02:04:57.608Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006136>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:04:57.608Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2725_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "latticino"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2725_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006136"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006136/2022-09-24T02:04:57.608Z>.
+<https://stad.gent/id/concept/550005991/2022-09-24T01:59:44.812Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005991>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:59:44.812Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300019278>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2764_34;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "late bronstijd"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550000731>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000731> <http://www.w3.org/2004/02/skos/core#prefLabel> "bronstijd"@nl.
+_:df_2764_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005991"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005991/2022-09-24T01:59:44.812Z>.
+<https://stad.gent/id/concept/550005869/2022-09-24T01:56:07.649Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005869>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:56:07.649Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7082316>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2788_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Westerwald"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004734>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_2788_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005869"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005869/2022-09-24T01:56:07.649Z>.
+<https://stad.gent/id/concept/550005860/2022-09-24T01:55:57.644Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005860>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:55:57.644Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300018432>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2791_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Noordelijke Song"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008949>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008949> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chinese dynastieke stijlen en perioden"@nl.
+_:df_2791_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005860"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005860/2022-09-24T01:55:57.644Z>.
+<https://stad.gent/id/concept/550005130/2022-09-24T01:29:53.736Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005130>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:29:53.736Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046131>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2977_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schootsvel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007824>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007824> <http://www.w3.org/2004/02/skos/core#prefLabel> "ceremoniële kledij"@nl.
+_:df_2977_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005130"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005130/2022-09-24T01:29:53.736Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/schoo.ttl> <https://w3id.org/tree#relation> _:df_1_1309.
+_:df_1_1309 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/school.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "school".
+<https://www.pieter.pm/coghent-substrings/thesaurus/schoo.ttl> <https://w3id.org/tree#relation> _:df_1_1310.
+_:df_1_1310 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/schoon.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "schoon".
+<https://www.pieter.pm/coghent-substrings/thesaurus/schoo.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/schoo.ttl>.

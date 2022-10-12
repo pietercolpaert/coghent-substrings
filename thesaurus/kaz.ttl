@@ -10,3 +10,30 @@ _:df_1762_15 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570019277"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019277/2021-11-01T00:55:39.383Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/kaz.ttl>.
+<https://stad.gent/id/concept/570008714/2022-09-24T04:55:39.852Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008714>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:55:39.852Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300002497>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1510_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kazematten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1510_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008714"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008714/2022-09-24T04:55:39.852Z>.
+<https://stad.gent/id/concept/550003893/2022-09-24T00:57:23.888Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003893>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:57:23.888Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300210424>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3208_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Mouwloze bovenkleding in de vorm van een wijde cape of mantel die door de drager over het hoofd wordt aangetrokken en aan de zijkanten open blijft; worden over de albe en stool gedragen door de voorganger tijdens de mis.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kazuifel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007999>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007999> <http://www.w3.org/2004/02/skos/core#prefLabel> "liturgisch gewaad"@nl.
+_:df_3208_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003893"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003893/2022-09-24T00:57:23.888Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/kaz.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/kaz.ttl>.

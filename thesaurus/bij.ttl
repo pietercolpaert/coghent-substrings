@@ -22,3 +22,43 @@ _:df_2722_12 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570013982"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013982/2021-10-31T22:40:23.732Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bij.ttl>.
+<https://stad.gent/id/concept/550008697/2022-09-24T03:42:30.903Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008697>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:42:30.903Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2032_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bijlokeklooster"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2032_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008697"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008697/2022-09-24T03:42:30.903Z>.
+<https://stad.gent/id/concept/550008336/2022-09-24T03:26:07.932Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008336>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:26:07.932Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300036982>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2146_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Slagwapens met een brede, zware, a-symmetrische kling die haaks op de steel geplaatst is. Kan ook gegooid worden. Gebruik 'bijlen (gereedschap)' voor bijlen voor ander doeleinden, die meestal smallere bladen hebben.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bijl (wapen)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550000676>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000676> <http://www.w3.org/2004/02/skos/core#prefLabel> "blank wapen"@nl.
+_:df_2146_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008336"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008336/2022-09-24T03:26:07.932Z>.
+<https://stad.gent/id/concept/550005483/2022-09-24T01:44:31.345Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005483>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:44:31.345Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024664>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2872_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor snijgereedschap dat bestaat uit een relatief zware kop met een snijkant die is bevestigd aan een handvat waarbij de snijkant(en) parallel lopen aan het handvat zodat het kan worden gebruikt voor hakken. Gebruik 'bijlen (wapens)' voor bijlen die worden gebruikt als wapens.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bijl (gereedschap)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007894>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007894> <http://www.w3.org/2004/02/skos/core#prefLabel> "snijgereedschap"@nl.
+_:df_2872_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005483"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005483/2022-09-24T01:44:31.345Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/bij.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bij.ttl>.

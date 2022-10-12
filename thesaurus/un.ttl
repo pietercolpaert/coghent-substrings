@@ -10,3 +10,299 @@ _:df_2989_35 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570011865"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011865/2021-10-31T22:02:34.845Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/un.ttl>.
+<https://stad.gent/id/concept/570008305/2022-09-24T04:46:19.177Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008305>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:46:19.177Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300379098>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1579_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "cm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eenheid"@nl, "unit"@en, "afmeting"@nl, "dimension"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1579_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008305"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008305/2022-09-24T04:46:19.177Z>.
+<https://stad.gent/id/concept/550005382/2022-09-24T01:40:54.515Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005382>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:40:54.515Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300212393>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2896_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Onderscheidende kleding gedragen door leden van een bepaalde beroepsgroep, organisatie of rang.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "uniform"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007832>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001902>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001902> <http://www.w3.org/2004/02/skos/core#prefLabel> "militair uniform"@nl.
+<https://stad.gent/id/concept/550007832> <http://www.w3.org/2004/02/skos/core#prefLabel> "kleding naar functie"@nl.
+_:df_2896_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005382"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005382/2022-09-24T01:40:54.515Z>.
+<https://stad.gent/id/concept/670006470/2022-09-09T08:39:39.261Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006470>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:39:39.261Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.imdb.com/title/tt0030445>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4093_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Unsere kleine Frau"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4093_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006470"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006470/2022-09-09T08:39:39.261Z>.
+<https://stad.gent/id/concept/670006471/2022-09-09T08:39:44.262Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006471>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:39:44.262Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4093_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Untamed"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4093_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006471"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006471/2022-09-09T08:39:44.262Z>.
+<https://stad.gent/id/concept/670006472/2022-09-09T08:39:49.264Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006472>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:39:49.264Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4093_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Until They Sail"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4093_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006472"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006472/2022-09-09T08:39:49.264Z>.
+<https://stad.gent/id/concept/670006465/2022-09-09T08:39:13.657Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006465>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:39:13.657Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4096_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Une si jolie petite plage"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4096_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006465"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006465/2022-09-09T08:39:13.657Z>.
+<https://stad.gent/id/concept/670006466/2022-09-09T08:39:18.660Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006466>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:39:18.660Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4096_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Une vie de garçon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4096_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006466"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006466/2022-09-09T08:39:18.660Z>.
+<https://stad.gent/id/concept/670006467/2022-09-09T08:39:23.662Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006467>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:39:23.662Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4096_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Unguarded Moment"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4096_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006467"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006467/2022-09-09T08:39:23.662Z>.
+<https://stad.gent/id/concept/670006468/2022-09-09T08:39:29.256Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006468>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:39:29.256Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4096_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Uniformes et grandes manoeuvres"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4096_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006468"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006468/2022-09-09T08:39:29.256Z>.
+<https://stad.gent/id/concept/670006469/2022-09-09T08:39:34.258Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006469>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:39:34.258Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4096_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Union Pacific"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4096_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006469"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006469/2022-09-09T08:39:34.258Z>.
+<https://stad.gent/id/concept/670006460/2022-09-09T08:38:48.645Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006460>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:38:48.645Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4099_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Une nuit à Venise"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4099_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006460"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006460/2022-09-09T08:38:48.645Z>.
+<https://stad.gent/id/concept/670006461/2022-09-09T08:38:53.647Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006461>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:38:53.647Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4099_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Une nuit aux folies"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4099_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006461"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006461/2022-09-09T08:38:53.647Z>.
+<https://stad.gent/id/concept/670006462/2022-09-09T08:38:58.649Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006462>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:38:58.649Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.imdb.com/title/tt0158306>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4099_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Une nuit de folies"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4099_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006462"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006462/2022-09-09T08:38:58.649Z>.
+<https://stad.gent/id/concept/670006463/2022-09-09T08:39:03.652Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006463>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:39:03.652Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4099_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Une poule sur un mur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4099_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006463"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006463/2022-09-09T08:39:03.652Z>.
+<https://stad.gent/id/concept/670006464/2022-09-09T08:39:08.655Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006464>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:39:08.655Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4099_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Une sacrée gamine de 16 ans"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4099_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006464"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006464/2022-09-09T08:39:08.655Z>.
+<https://stad.gent/id/concept/670006455/2022-09-09T08:38:23.293Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006455>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:38:23.293Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4102_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Une jeune fille savait"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4102_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006455"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006455/2022-09-09T08:38:23.293Z>.
+<https://stad.gent/id/concept/670006456/2022-09-09T08:38:28.296Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006456>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:38:28.296Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4102_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Une manche et la belle"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4102_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006456"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006456/2022-09-09T08:38:28.296Z>.
+<https://stad.gent/id/concept/670006457/2022-09-09T08:38:33.299Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006457>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:38:33.299Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4102_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Une mère"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4102_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006457"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006457/2022-09-09T08:38:33.299Z>.
+<https://stad.gent/id/concept/670006458/2022-09-09T08:38:38.640Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006458>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:38:38.640Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4102_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Une nuit a Megève"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4102_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006458"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006458/2022-09-09T08:38:38.640Z>.
+<https://stad.gent/id/concept/670006459/2022-09-09T08:38:43.643Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006459>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:38:43.643Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4102_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Une nuit à Tabarin"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4102_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006459"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006459/2022-09-09T08:38:43.643Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/un.ttl> <https://w3id.org/tree#relation> _:df_1_1406.
+_:df_1_1406 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/une.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "une".
+<https://www.pieter.pm/coghent-substrings/thesaurus/un.ttl> <https://w3id.org/tree#relation> _:df_1_1407.
+_:df_1_1407 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/und.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "und".
+<https://www.pieter.pm/coghent-substrings/thesaurus/un.ttl> <https://w3id.org/tree#relation> _:df_1_1408.
+_:df_1_1408 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/una.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "una".
+<https://www.pieter.pm/coghent-substrings/thesaurus/un.ttl> <https://w3id.org/tree#relation> _:df_1_1409.
+_:df_1_1409 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/unc.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "unc".
+<https://www.pieter.pm/coghent-substrings/thesaurus/un.ttl> <https://w3id.org/tree#relation> _:df_1_1410.
+_:df_1_1410 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/un+s.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "un", "s".
+<https://www.pieter.pm/coghent-substrings/thesaurus/un.ttl> <https://w3id.org/tree#relation> _:df_1_1411.
+_:df_1_1411 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/un+t.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "un", "t".
+<https://www.pieter.pm/coghent-substrings/thesaurus/un.ttl> <https://w3id.org/tree#relation> _:df_1_1412.
+_:df_1_1412 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/un+v.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "un", "v".
+<https://www.pieter.pm/coghent-substrings/thesaurus/un.ttl> <https://w3id.org/tree#relation> _:df_1_1413.
+_:df_1_1413 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/un+y.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "un", "y".
+<https://www.pieter.pm/coghent-substrings/thesaurus/un.ttl> <https://w3id.org/tree#relation> _:df_1_1414.
+_:df_1_1414 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/un+m.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "un", "m".
+<https://www.pieter.pm/coghent-substrings/thesaurus/un.ttl> <https://w3id.org/tree#relation> _:df_1_1415.
+_:df_1_1415 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/un+n.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "un", "n".
+<https://www.pieter.pm/coghent-substrings/thesaurus/un.ttl> <https://w3id.org/tree#relation> _:df_1_1416.
+_:df_1_1416 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/un+r.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "un", "r".
+<https://www.pieter.pm/coghent-substrings/thesaurus/un.ttl> <https://w3id.org/tree#relation> _:df_1_1417.
+_:df_1_1417 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/un+h.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "un", "h".
+<https://www.pieter.pm/coghent-substrings/thesaurus/un.ttl> <https://w3id.org/tree#relation> _:df_1_1418.
+_:df_1_1418 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/un+j.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "un", "j".
+<https://www.pieter.pm/coghent-substrings/thesaurus/un.ttl> <https://w3id.org/tree#relation> _:df_1_1419.
+_:df_1_1419 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/un+c.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "un", "c".
+<https://www.pieter.pm/coghent-substrings/thesaurus/un.ttl> <https://w3id.org/tree#relation> _:df_1_1420.
+_:df_1_1420 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/un+e.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "un", "e".
+<https://www.pieter.pm/coghent-substrings/thesaurus/un.ttl> <https://w3id.org/tree#relation> _:df_1_1421.
+_:df_1_1421 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/un+a.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "un", "a".
+<https://www.pieter.pm/coghent-substrings/thesaurus/un.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/un.ttl>.

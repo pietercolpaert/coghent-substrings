@@ -10,3 +10,55 @@ _:df_3133_28 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010136"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010136/2021-10-31T21:42:16.785Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/dam.ttl>.
+<https://stad.gent/id/concept/550005304/2022-09-24T01:37:42.887Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005304>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:37:42.887Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900025196>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2920_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dameshoed"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005139>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005139> <http://www.w3.org/2004/02/skos/core#prefLabel> "hoed"@nl.
+_:df_2920_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005304"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005304/2022-09-24T01:37:42.887Z>.
+<https://stad.gent/id/concept/550004523/2022-09-24T01:08:15.759Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004523>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:08:15.759Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007094>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3130_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Damme"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004834>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004834> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen"@nl.
+_:df_3130_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004523"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004523/2022-09-24T01:08:15.759Z>.
+<https://stad.gent/id/concept/550004390/2022-09-24T01:04:18.658Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004390>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:04:18.658Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300163295>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3157_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gefigureerd enkelvoudig weefsel waarin het patroon wordt gevormd door het contrast tussen twee bindingseffecten. In de meest voorkomende vorm wordt gebruik gemaakt van het ketting- en het inslageffect van dezelfde binding, meestal een satijnbinding. Hierdoor is de figurering van de achterzijde identiek aan die van de voorzijde.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "damast"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008740>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008740> <http://www.w3.org/2004/02/skos/core#prefLabel> "textielmaterialen naar weeftechniek"@nl.
+_:df_3157_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004390"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004390/2022-09-24T01:04:18.658Z>.
+<https://stad.gent/id/concept/670006736/2022-09-09T09:02:00.417Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006736>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:02:00.417Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3934_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Dampoortstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3934_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006736"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006736/2022-09-09T09:02:00.417Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/dam.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/dam.ttl>.

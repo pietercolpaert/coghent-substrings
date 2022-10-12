@@ -44,3 +44,29 @@ _:df_2200_25 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570016902"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016902/2021-10-31T23:54:02.732Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/mas.ttl>.
+<https://stad.gent/id/concept/570016902/2022-09-24T07:51:56.353Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016902>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:51:56.353Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_259_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "massagebad"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "behandeling"@nl, "method of check/assessment or conservation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_259_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016902"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016902/2022-09-24T07:51:56.353Z>.
+<https://stad.gent/id/concept/550002195/2022-09-24T00:33:54.231Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002195>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:33:54.231Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300138758>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3376_34;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Bedekkingen voor het hele gezicht of gedeelten ervan, meestal met openingen voor de ogen en soms de mond; worden gedragen om de identiteit van de drager te verbergen of te veranderen of ter bescherming.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "masker (kleding)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007832>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007832> <http://www.w3.org/2004/02/skos/core#prefLabel> "kleding naar functie"@nl.
+_:df_3376_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002195"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002195/2022-09-24T00:33:54.231Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/mas.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/mas.ttl>.

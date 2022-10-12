@@ -9,3 +9,64 @@ _:df_559_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "670000237"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000237/2021-11-01T03:46:47.417Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/az.ttl>.
+<https://stad.gent/id/concept/570008269/2022-09-24T04:45:59.168Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008269>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:45:59.168Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011755>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1579_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "azijn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1579_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008269"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008269/2022-09-24T04:45:59.168Z>.
+<https://stad.gent/id/concept/550003505/2022-09-24T00:49:38.719Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003505>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:49:38.719Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000004>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3262_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Azië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001678>, <https://stad.gent/id/concept/550005002>, <https://stad.gent/id/concept/550003594>, <https://stad.gent/id/concept/550006003>, <https://stad.gent/id/concept/550001640>, <https://stad.gent/id/concept/550004579>, <https://stad.gent/id/concept/550001689>, <https://stad.gent/id/concept/550002731>, <https://stad.gent/id/concept/550001658>, <https://stad.gent/id/concept/550000886>, <https://stad.gent/id/concept/550008934>, <https://stad.gent/id/concept/550005009>, <https://stad.gent/id/concept/550001841>, <https://stad.gent/id/concept/550001583>, <https://stad.gent/id/concept/550009259>, <https://stad.gent/id/concept/550003715>, <https://stad.gent/id/concept/550001844>, <https://stad.gent/id/concept/550008954>, <https://stad.gent/id/concept/550001661>, <https://stad.gent/id/concept/550004259>, <https://stad.gent/id/concept/550002835>, <https://stad.gent/id/concept/550001258>, <https://stad.gent/id/concept/550006266>, <https://stad.gent/id/concept/550001672>, <https://stad.gent/id/concept/550009077>, <https://stad.gent/id/concept/550001688>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001688> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zuid-Korea"@nl.
+<https://stad.gent/id/concept/550009077> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vietnam"@nl.
+<https://stad.gent/id/concept/550001672> <http://www.w3.org/2004/02/skos/core#prefLabel> "Turkije"@nl.
+<https://stad.gent/id/concept/550006266> <http://www.w3.org/2004/02/skos/core#prefLabel> "Taiwan"@nl.
+<https://stad.gent/id/concept/550001258> <http://www.w3.org/2004/02/skos/core#prefLabel> "Syrië"@nl.
+<https://stad.gent/id/concept/550002835> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sovjet-Unie"@nl.
+<https://stad.gent/id/concept/550004259> <http://www.w3.org/2004/02/skos/core#prefLabel> "Singapore"@nl.
+<https://stad.gent/id/concept/550001661> <http://www.w3.org/2004/02/skos/core#prefLabel> "Perzië"@nl.
+<https://stad.gent/id/concept/550008954> <http://www.w3.org/2004/02/skos/core#prefLabel> "Palestina"@nl.
+<https://stad.gent/id/concept/550001844> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nepal"@nl.
+<https://stad.gent/id/concept/550003715> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederlands Indië"@nl.
+<https://stad.gent/id/concept/550009259> <http://www.w3.org/2004/02/skos/core#prefLabel> "Midden-Oosten"@nl.
+<https://stad.gent/id/concept/550001583> <http://www.w3.org/2004/02/skos/core#prefLabel> "Maleisië"@nl.
+<https://stad.gent/id/concept/550001841> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kaukasus"@nl.
+<https://stad.gent/id/concept/550005009> <http://www.w3.org/2004/02/skos/core#prefLabel> "Japan"@nl.
+<https://stad.gent/id/concept/550008934> <http://www.w3.org/2004/02/skos/core#prefLabel> "Israel"@nl.
+<https://stad.gent/id/concept/550000886> <http://www.w3.org/2004/02/skos/core#prefLabel> "Iran"@nl.
+<https://stad.gent/id/concept/550001658> <http://www.w3.org/2004/02/skos/core#prefLabel> "Indonesië"@nl.
+<https://stad.gent/id/concept/550002731> <http://www.w3.org/2004/02/skos/core#prefLabel> "Indochina"@nl.
+<https://stad.gent/id/concept/550001689> <http://www.w3.org/2004/02/skos/core#prefLabel> "India"@nl.
+<https://stad.gent/id/concept/550004579> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hong Kong"@nl.
+<https://stad.gent/id/concept/550001640> <http://www.w3.org/2004/02/skos/core#prefLabel> "Georgië"@nl.
+<https://stad.gent/id/concept/550006003> <http://www.w3.org/2004/02/skos/core#prefLabel> "China"@nl.
+<https://stad.gent/id/concept/550003594> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cambodia"@nl.
+<https://stad.gent/id/concept/550005002> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brits-Indië"@nl.
+<https://stad.gent/id/concept/550001678> <http://www.w3.org/2004/02/skos/core#prefLabel> "Arabisch Schiereiland"@nl.
+_:df_3262_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003505"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003505/2022-09-24T00:49:38.719Z>.
+<https://stad.gent/id/concept/670006992/2022-09-09T09:22:37.801Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006992>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:22:37.801Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3787_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Azaleastraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3787_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006992"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006992/2022-09-09T09:22:37.801Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/az.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/az.ttl>.

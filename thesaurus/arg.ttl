@@ -10,3 +10,33 @@ _:df_3052_18 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010923"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010923/2021-10-31T21:53:32.271Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/arg.ttl>.
+<https://stad.gent/id/concept/550008928/2022-09-24T03:54:49.735Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008928>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:54:49.735Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006477>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1945_70;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Argentinië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550003316>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550006330>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006330> <http://www.w3.org/2004/02/skos/core#prefLabel> "Buenos Aires"@nl.
+<https://stad.gent/id/concept/550003316> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zuid-Amerika"@nl.
+_:df_1945_70 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008928"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008928/2022-09-24T03:54:49.735Z>.
+<https://stad.gent/id/concept/550006035/2022-09-24T02:01:05.409Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006035>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:01:05.409Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008656>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2752_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Argonne"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004704>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004704> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_2752_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006035"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006035/2022-09-24T02:01:05.409Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/arg.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/arg.ttl>.

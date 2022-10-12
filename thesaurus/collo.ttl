@@ -1,0 +1,30 @@
+<https://stad.gent/id/concept/570003775/2022-09-24T04:26:03.863Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570003775>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:26:03.863Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300311353>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1723_37;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "colloquium"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaalsoort"@nl, "document type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1723_37 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570003775"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570003775/2022-09-24T04:26:03.863Z>.
+<https://stad.gent/id/concept/550008859/2022-09-24T03:51:26.387Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008859>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:51:26.387Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300237901>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1969_29;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een materiaal bestaande uit zeer fijn verdeelde deeltjes die gelijkmatig zijn verspreid in een continu vloeibaar, gasvormig of vast medium.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "colloïde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008563>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008858>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008858> <http://www.w3.org/2004/02/skos/core#prefLabel> "gel"@nl.
+<https://stad.gent/id/concept/550008563> <http://www.w3.org/2004/02/skos/core#prefLabel> "materialen naar fysieke vorm"@nl.
+_:df_1969_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008859"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008859> <http://www.w3.org/2004/02/skos/core#prefLabel> "colloïde"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008859/2022-09-24T03:51:26.387Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/collo.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/collo.ttl>.

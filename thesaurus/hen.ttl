@@ -83,3 +83,45 @@ _:df_2992_33 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570011808"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011808/2021-10-31T22:02:09.839Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/hen.ttl>.
+<https://stad.gent/id/concept/550008011/2022-09-24T02:59:13.614Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008011>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:59:13.614Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300233926>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2338_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hendel (afwerkingsijzerwaar)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007904>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005897>, <https://stad.gent/id/concept/550005222>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005222> <http://www.w3.org/2004/02/skos/core#prefLabel> "handgreep"@nl.
+<https://stad.gent/id/concept/550005897> <http://www.w3.org/2004/02/skos/core#prefLabel> "deurkruk"@nl.
+<https://stad.gent/id/concept/550007904> <http://www.w3.org/2004/02/skos/core#prefLabel> "afwerkingsijzerwaar"@nl, "afwerkingsijzerwaar"@nl, "afwerkingsijzerwaar"@nl.
+_:df_2338_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008011"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008011/2022-09-24T02:59:13.614Z>.
+<https://stad.gent/id/concept/530010846/2022-09-24T00:00:29.760Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010846>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:00:29.760Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3613_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Henry van de Velde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3613_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010846"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010846/2022-09-24T00:00:29.760Z>.
+<https://stad.gent/id/concept/530003120/2022-09-15T00:01:24.936Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003120>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-15T00:01:24.936Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024422>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3661_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Lange, dunne taps toelopende stokken waaraan lijnen zijn bevestigd voor het vissen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hengel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008840>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008840> <http://www.w3.org/2004/02/skos/core#prefLabel> "vislijn"@nl.
+_:df_3661_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003120"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003120/2022-09-15T00:01:24.936Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/hen.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/hen.ttl>.

@@ -10,3 +10,63 @@ _:df_1759_7 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570019284"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019284/2021-11-01T00:55:59.390Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/sk.ttl>.
+<https://stad.gent/id/concept/550008852/2022-09-24T03:50:50.985Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008852>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:50:50.985Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300191781>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1972_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "skeletonderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008853>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001478>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001478> <http://www.w3.org/2004/02/skos/core#prefLabel> "schedel"@nl.
+<https://stad.gent/id/concept/550008853> <http://www.w3.org/2004/02/skos/core#prefLabel> "skelet en skeletdelen"@nl, "skelet en skeletdelen"@nl.
+_:df_1972_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008852"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008852> <http://www.w3.org/2004/02/skos/core#prefLabel> "skeletonderdelen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008852/2022-09-24T03:50:50.985Z>.
+<https://stad.gent/id/concept/550008853/2022-09-24T03:50:55.987Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008853>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:50:55.987Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300191777>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1972_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "skelet en skeletdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008854>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008852>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008852> <http://www.w3.org/2004/02/skos/core#prefLabel> "skeletonderdelen"@nl.
+<https://stad.gent/id/concept/550008854> <http://www.w3.org/2004/02/skos/core#prefLabel> "dierlijk materiaal naar vorm of functie"@nl.
+_:df_1972_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008853"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008853> <http://www.w3.org/2004/02/skos/core#prefLabel> "skelet en skeletdelen"@nl, "skelet en skeletdelen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008853/2022-09-24T03:50:55.987Z>.
+<https://stad.gent/id/concept/530003183/2022-09-15T00:01:39.943Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003183>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-15T00:01:39.943Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300432760>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3658_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "skihelm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003127>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003127> <http://www.w3.org/2004/02/skos/core#prefLabel> "helm"@nl.
+_:df_3658_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003183"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003183/2022-09-15T00:01:39.943Z>.
+<https://stad.gent/id/concept/530003183/2022-09-14T00:00:34.251Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003183>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-14T00:00:34.251Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300432760>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3694_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "skihelm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003127>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003127> <http://www.w3.org/2004/02/skos/core#prefLabel> "helm"@nl.
+_:df_3694_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003183"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003183/2022-09-14T00:00:34.251Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/sk.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/sk.ttl>.

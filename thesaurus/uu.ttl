@@ -10,3 +10,48 @@ _:df_3079_33 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010542"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010542/2021-10-31T21:49:48.050Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/uu.ttl>.
+<https://stad.gent/id/concept/550008158/2022-09-24T03:11:34.405Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008158>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:11:34.405Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300196327>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2251_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "uurwerken naar vorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004920>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550002036>, <https://stad.gent/id/concept/550005692>, <https://stad.gent/id/concept/550006190>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006190> <http://www.w3.org/2004/02/skos/core#prefLabel> "zonnewijzer"@nl.
+<https://stad.gent/id/concept/550005692> <http://www.w3.org/2004/02/skos/core#prefLabel> "klok (uurwerk)"@nl.
+<https://stad.gent/id/concept/550002036> <http://www.w3.org/2004/02/skos/core#prefLabel> "horloge"@nl.
+<https://stad.gent/id/concept/550004920> <http://www.w3.org/2004/02/skos/core#prefLabel> "uurwerk"@nl.
+_:df_2251_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008158"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008158/2022-09-24T03:11:34.405Z>.
+<https://stad.gent/id/concept/550005778/2022-09-24T01:52:50.984Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005778>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:52:50.984Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2812_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "uurwerkmaker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2812_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005778"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005778/2022-09-24T01:52:50.984Z>.
+<https://stad.gent/id/concept/550004920/2022-09-24T01:24:00.627Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004920>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:24:00.627Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041573>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3019_41;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten voor het meten en vastleggen van het verstrijken van tijd.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "uurwerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007846>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008158>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008158> <http://www.w3.org/2004/02/skos/core#prefLabel> "uurwerken naar vorm"@nl.
+<https://stad.gent/id/concept/550007846> <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van omvang"@nl.
+_:df_3019_41 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004920"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004920/2022-09-24T01:24:00.627Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/uu.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/uu.ttl>.

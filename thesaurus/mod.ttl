@@ -21,3 +21,75 @@ _:df_3214_15 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009695"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009695/2021-10-31T21:30:42.668Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/mod.ttl>.
+<https://stad.gent/id/concept/530003849/2022-09-29T00:01:44.703Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003849>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-29T00:01:44.703Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300138708>;
+    <http://www.w3.org/ns/adms#identifier> _:df_103_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het vormgeven van kleding, accessoires en ensembles voor individuen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mode (discipline)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "activiteit"@nl, "activity"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_103_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003849"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003849/2022-09-29T00:01:44.703Z>.
+<https://stad.gent/id/concept/570014569/2022-09-24T06:51:01.668Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014569>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:51:01.668Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/q9397629>;
+    <http://www.w3.org/ns/adms#identifier> _:df_694_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "modetijdschrift"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_694_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014569"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014569/2022-09-24T06:51:01.668Z>.
+<https://stad.gent/id/concept/570009695/2022-09-24T05:28:13.221Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009695>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:28:13.221Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300247279>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1279_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "model"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1279_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009695"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009695/2022-09-24T05:28:13.221Z>.
+<https://stad.gent/id/concept/570000047/2022-09-24T04:05:43.332Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000047>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:05:43.332Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055811>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1867_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mode"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1867_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000047"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000047/2022-09-24T04:05:43.332Z>.
+<https://stad.gent/id/concept/550005668/2022-09-24T01:49:39.501Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005668>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:49:39.501Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300100045>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2836_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine, vaak tot in details afgewerkte versies van grotere schilderijen of beeldhouwwerken, vervaardigd om aan de opdrachtgever het beoogde te tonen, of tot in details afgewerkte tekeningen met hetzelfde doel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "modello"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007813>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007813> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldmateriaal naar functie"@nl.
+_:df_2836_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005668"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005668/2022-09-24T01:49:39.501Z>.
+<https://stad.gent/id/concept/670006840/2022-09-09T09:10:25.521Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006840>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:10:25.521Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q277965>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3874_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mödling"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3874_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006840"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006840/2022-09-09T09:10:25.521Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/mod.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/mod.ttl>.

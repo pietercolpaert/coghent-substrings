@@ -1,0 +1,30 @@
+<https://stad.gent/id/concept/550005359/2022-09-24T01:39:49.099Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005359>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:39:49.099Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300263722>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2905_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar werken van gekleurd glas, over het algemeen in de vorm van een venster, zelfstandig paneel of lampenkap, waarvan het ontwerp bedoeld is om te worden bekeken door gebroken licht en de uitwerking in hoge mate afhangt van de hoedanigheid van het licht. De fasen van het productieproces zijn in een handboek uit de vroege twaalfde eeuw beschreven door de monnik Theofilus en het proces is sindsdien nauwelijks veranderd. Het glasobject wordt gemaakt door stukken gekleurd glas te snijden op basis van een karton op ware grootte en de stukken vervolgens te vatten in stroken lood. Op het glasoppervlak kunnen details worden geschilderd die worden gebrand in een oven voordat de glasstukken worden samengevoegd. De methode waarmee het glas waterdicht wordt gemaakt en wordt bevestigd in een raam is vaak zeer decoratief en vormt een belangrijk onderdeel van het ontwerp. Als hoogtepunten van gebrandschilderd glas worden de werken uit de Europese gotiek en de 19de-eeuwse neogotiek beschouwd.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gebrandschilderd glas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007769>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007769> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldmateriaal naar medium of techniek"@nl.
+_:df_2905_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005359"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005359/2022-09-24T01:39:49.099Z>.
+<https://stad.gent/id/concept/550000175/2022-09-24T00:03:16.015Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000175>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:03:16.015Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010853>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3592_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar gekleurd glas dat is vervaardigd door metaaloxiden toe te voegen aan het gesmolten glas, waardoor verschillende kleuren ontstaan. Deze term wordt soms gebruikt voor beschilderd glas, waarbij pigment op het oppervlak is gesmolten. Strikt genomen is de term alleen van toepassing op glas waaraan metaaloxiden zijn toegevoegd om gesmolten glas te kleuren.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gebrandschilderd glas (materiaal)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008748>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008748> <http://www.w3.org/2004/02/skos/core#prefLabel> "glas naar techniek"@nl.
+_:df_3592_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000175"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000175/2022-09-24T00:03:16.015Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/gebr.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/gebr.ttl>.

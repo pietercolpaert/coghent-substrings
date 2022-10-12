@@ -11,3 +11,41 @@ _:df_1417_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570022799"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022799/2021-11-01T01:44:08.839Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ae.ttl>.
+<https://stad.gent/id/concept/550009062/2022-09-24T03:57:42.240Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009062>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:57:42.240Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300190947>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1924_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "aerofoononderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008368>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550009061>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550009061> <http://www.w3.org/2004/02/skos/core#prefLabel> "mondstuk"@nl.
+<https://stad.gent/id/concept/550008368> <http://www.w3.org/2004/02/skos/core#prefLabel> "geluidsapparatuuronderdelen"@nl.
+_:df_1924_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009062"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550009062> <http://www.w3.org/2004/02/skos/core#prefLabel> "aerofoononderdelen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009062/2022-09-24T03:57:42.240Z>.
+<https://stad.gent/id/concept/550007873/2022-09-24T02:47:52.608Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007873>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:47:52.608Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041622>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2419_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Geluidsmiddelen die geluid voortbrengen door lucht in beweging te brengen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "aerofoon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007822>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007872>, <https://stad.gent/id/concept/550002882>, <https://stad.gent/id/concept/550006216>, <https://stad.gent/id/concept/550008069>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008069> <http://www.w3.org/2004/02/skos/core#prefLabel> "riet (aërofoon)"@nl.
+<https://stad.gent/id/concept/550006216> <http://www.w3.org/2004/02/skos/core#prefLabel> "orgel"@nl.
+<https://stad.gent/id/concept/550002882> <http://www.w3.org/2004/02/skos/core#prefLabel> "fluit (aërofoon)"@nl.
+<https://stad.gent/id/concept/550007872> <http://www.w3.org/2004/02/skos/core#prefLabel> "blaasinstrumenten, bespeeld door lipspanning"@nl.
+<https://stad.gent/id/concept/550007822> <http://www.w3.org/2004/02/skos/core#prefLabel> "geluidsmiddelen naar akoestische kenmerken"@nl.
+_:df_2419_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007873"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007873> <http://www.w3.org/2004/02/skos/core#prefLabel> "aerofoon"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007873/2022-09-24T02:47:52.608Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/ae.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ae.ttl>.

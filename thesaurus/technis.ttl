@@ -32,3 +32,19 @@ _:df_2830_17 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570013172"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013172/2021-10-31T22:24:54.886Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/technis.ttl>.
+<https://stad.gent/id/concept/550009097/2022-09-24T03:58:53.020Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009097>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:58:53.020Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026413>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1915_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "technische handboek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550009098>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550009098> <http://www.w3.org/2004/02/skos/core#prefLabel> "handboek"@nl, "handboek"@nl.
+_:df_1915_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009097"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550009097> <http://www.w3.org/2004/02/skos/core#prefLabel> "technische handboek"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009097/2022-09-24T03:58:53.020Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/technis.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/technis.ttl>.

@@ -10,3 +10,32 @@ _:df_1756_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570019294"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019294/2021-11-01T00:56:19.397Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ves.ttl>.
+<https://stad.gent/id/concept/550006693/2022-09-24T02:24:34.597Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006693>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:24:34.597Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7010527>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2587_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Veszprem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550002809>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002809> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hongarije"@nl.
+_:df_2587_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006693"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006693/2022-09-24T02:24:34.597Z>.
+<https://stad.gent/id/concept/550005269/2022-09-24T01:36:22.279Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005269>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:36:22.279Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209904>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2929_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Nauwsluitende bovenkledingstukken voor het bovenlichaam tot de taille of net daaronder. Meestal zonder mouwen en boord en vaak met knopen of zakken. Voor nauwsluitende bovenkleding die tot over de taille komt en meestal knopen aan de voorkant heeft, soms ook mouwen heeft, en worden gedragen over een overhemd en onder een jas, gebruik dan 'gilets'.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vest (kleding)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008375>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008375> <http://www.w3.org/2004/02/skos/core#prefLabel> "bovenkleding voor het bovenlijf"@nl.
+_:df_2929_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005269"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005269/2022-09-24T01:36:22.279Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/ves.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ves.ttl>.

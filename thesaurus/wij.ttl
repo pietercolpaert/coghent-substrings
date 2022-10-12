@@ -60,3 +60,128 @@ _:df_3109_23 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010305"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010305/2021-10-31T21:45:34.148Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/wij.ttl>.
+<https://stad.gent/id/concept/550006489/2022-09-24T02:18:55.303Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006489>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:18:55.303Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7017400>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2626_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wijk-bij-Duurstede"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006121>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006121> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_2626_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006489"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006489/2022-09-24T02:18:55.303Z>.
+<https://stad.gent/id/concept/550006260/2022-09-24T02:10:41.075Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006260>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:10:41.075Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7256672>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2686_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wijnegem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005392>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005392> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl.
+_:df_2686_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006260"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006260/2022-09-24T02:10:41.075Z>.
+<https://stad.gent/id/concept/550005404/2022-09-24T01:41:45.012Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005404>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:41:45.012Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300205038>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2890_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Karaffen met een schenktuit en een handvat, voor het serveren van wijn.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wijnkaraf"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008184>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008184> <http://www.w3.org/2004/02/skos/core#prefLabel> "vaten voor het serveren van dranken"@nl, "vaten voor het serveren van dranken"@nl.
+_:df_2890_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005404"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005404/2022-09-24T01:41:45.012Z>.
+<https://stad.gent/id/concept/550005165/2022-09-24T01:31:34.703Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005165>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:31:34.703Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2965_34;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine houder voor wijwater voor huiselijk gebruik, meestal opgehangen aan de muur.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wijwaterbakje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007828>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007828> <http://www.w3.org/2004/02/skos/core#prefLabel> "liturgische vaten"@nl.
+_:df_2965_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005165"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005165/2022-09-24T01:31:34.703Z>.
+<https://stad.gent/id/concept/550002191/2022-09-24T00:33:43.859Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002191>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:33:43.859Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300045639>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3376_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Flessen variërend van maat en vorm, die vooral zijn bestemd voor het bewaren of serveren van wijn. Vaak gemaakt van glas, dat wit of gekleurd kan zijn, en afgesloten met een kurk. Gebruik 'decanteerflessen' voor decoratieve flessen die worden afgesloten met een stop en worden gebruikt voor het bewaren en serveren van wijn.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wijnfles"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008075>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008075> <http://www.w3.org/2004/02/skos/core#prefLabel> "flessen naar functie"@nl, "flessen naar functie"@nl.
+_:df_3376_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002191"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002191/2022-09-24T00:33:43.859Z>.
+<https://stad.gent/id/concept/550001911/2022-09-24T00:28:16.138Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001911>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:28:16.138Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300111961>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3415_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Waterbekkens bij de ingang van een kerk, bedoeld om te worden gevuld met wijwater. Ze kunnen in een muur zijn ingebouwd of vrijstaand op een sokkel zijn geplaatst. Ze komen in allerlei vormen voor en zijn vaak rijk gedecoreerd.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wijwaterbak"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007910>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007910> <http://www.w3.org/2004/02/skos/core#prefLabel> "meubilair van christelijke religieuze gebouwen"@nl.
+_:df_3415_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001911"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001911/2022-09-24T00:28:16.138Z>.
+<https://stad.gent/id/concept/550001130/2022-09-24T00:15:17.730Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001130>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:15:17.730Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3508_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Op een emmer gelijkende houder voor wijwater. Wordt gebruikt bij de besprenkeling van personen en zaken met de in de wijwateremmer gedoopte wijwaterkwast. (SKKN)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wijwateremmer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007828>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007828> <http://www.w3.org/2004/02/skos/core#prefLabel> "liturgische vaten"@nl.
+_:df_3508_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001130"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001130/2022-09-24T00:15:17.730Z>.
+<https://stad.gent/id/concept/550000868/2022-09-24T00:10:40.344Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000868>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:10:40.344Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043246>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3541_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Drinkglazen voor wijn in verschillende vormen (meestal op een steel), grootte en stijlen. In de moderne tijd wordt een bepaalde vorm speciaal geschikt geacht voor een bepaalde soort wijn.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wijnglas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006133>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550002185>, <https://stad.gent/id/concept/550002160>, <https://stad.gent/id/concept/550002159>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002159> <http://www.w3.org/2004/02/skos/core#prefLabel> "roemer"@nl.
+<https://stad.gent/id/concept/550002160> <http://www.w3.org/2004/02/skos/core#prefLabel> "fluitglas"@nl.
+<https://stad.gent/id/concept/550002185> <http://www.w3.org/2004/02/skos/core#prefLabel> "champagneglas"@nl.
+<https://stad.gent/id/concept/550006133> <http://www.w3.org/2004/02/skos/core#prefLabel> "drinkglas"@nl.
+_:df_3541_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000868"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000868/2022-09-24T00:10:40.344Z>.
+<https://stad.gent/id/concept/670006914/2022-09-09T09:16:23.521Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006914>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:16:23.521Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300000762>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3832_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wijk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3832_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006914"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006914/2022-09-09T09:16:23.521Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/wij.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/wij.ttl>.

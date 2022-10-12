@@ -10,3 +10,19 @@ _:df_3181_19 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009943"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009943/2021-10-31T21:35:26.213Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/vad.ttl>.
+<https://stad.gent/id/concept/530010425/2022-09-16T00:00:30.445Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010425>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-16T00:00:30.445Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025931>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3637_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Mannen die ofwel biologische, ofwel geadopteerde kinderen hebben.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vader"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009707>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009707> <http://www.w3.org/2004/02/skos/core#prefLabel> "familie"@nl, "familie"@nl, "familie"@nl, "familie"@nl, "familie"@nl.
+_:df_3637_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010425"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010425/2022-09-16T00:00:30.445Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/vad.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/vad.ttl>.

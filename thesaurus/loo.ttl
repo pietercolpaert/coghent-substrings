@@ -73,3 +73,58 @@ _:df_3202_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009753"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009753/2021-10-31T21:32:13.326Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/loo.ttl>.
+<https://stad.gent/id/concept/550008674/2022-09-24T03:41:39.386Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008674>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:41:39.386Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010932>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2038_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "loodlegering"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008799>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008799> <http://www.w3.org/2004/02/skos/core#prefLabel> "lood en loodlegering"@nl.
+_:df_2038_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008674"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008674/2022-09-24T03:41:39.386Z>.
+<https://stad.gent/id/concept/550006138/2022-09-24T02:05:07.613Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006138>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:05:07.613Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300233430>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2725_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Doorzichtig glazuur met loodoxide als vloeimiddel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "loodglazuur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008801>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008801> <http://www.w3.org/2004/02/skos/core#prefLabel> "keramiekglazuur naar samenstelling of herkomst"@nl.
+_:df_2725_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006138"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006138/2022-09-24T02:05:07.613Z>.
+<https://stad.gent/id/concept/550004674/2022-09-24T01:15:39.794Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004674>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:15:39.794Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3076_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "loodgieter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3076_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004674"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004674/2022-09-24T01:15:39.794Z>.
+<https://stad.gent/id/concept/550002168/2022-09-24T00:33:13.845Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002168>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:33:13.845Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010811>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3379_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Glas met een hoog loodoxidegehalte en een relatief hoge brekingsindex. Verder heeft het een slechte zuurbestendigheid en een lage rigiditeit. Het wordt gebruikt in veel optische componenten, neonreclamebuizen en gloeilampen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "loodglas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008800>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550002155>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002155> <http://www.w3.org/2004/02/skos/core#prefLabel> "kristal (loodglas)"@nl.
+<https://stad.gent/id/concept/550008800> <http://www.w3.org/2004/02/skos/core#prefLabel> "glas naar samenstelling of herkomst"@nl.
+_:df_3379_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002168"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002168/2022-09-24T00:33:13.845Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/loo.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/loo.ttl>.

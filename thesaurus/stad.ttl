@@ -45,3 +45,29 @@ _:df_3184_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009912"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009912/2021-10-31T21:34:45.529Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/stad.ttl>.
+<https://stad.gent/id/concept/550004903/2022-09-24T01:23:35.616Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004903>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:23:35.616Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026748>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3022_34;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Staden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004834>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004834> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen"@nl.
+_:df_3022_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004903"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004903/2022-09-24T01:23:35.616Z>.
+<https://stad.gent/id/concept/670006913/2022-09-09T09:16:18.519Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006913>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:16:18.519Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300008389>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3832_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stad"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3832_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006913"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006913/2022-09-09T09:16:18.519Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/stad.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/stad.ttl>.

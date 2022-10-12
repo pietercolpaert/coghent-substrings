@@ -1,0 +1,19 @@
+<https://stad.gent/id/concept/550008760/2022-09-24T03:45:17.824Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008760>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:45:17.824Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300265629>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2011_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "biologische materialen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008761>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008759>, <https://stad.gent/id/concept/550008437>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008437> <http://www.w3.org/2004/02/skos/core#prefLabel> "plantaardig materiaal"@nl, "plantaardig materiaal"@nl.
+<https://stad.gent/id/concept/550008759> <http://www.w3.org/2004/02/skos/core#prefLabel> "dierlijk materiaal"@nl, "dierlijk materiaal"@nl, "dierlijk materiaal"@nl.
+<https://stad.gent/id/concept/550008761> <http://www.w3.org/2004/02/skos/core#prefLabel> "materialen naar herkomst"@nl.
+_:df_2011_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008760"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008760> <http://www.w3.org/2004/02/skos/core#prefLabel> "biologische materialen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008760/2022-09-24T03:45:17.824Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/bio.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bio.ttl>.

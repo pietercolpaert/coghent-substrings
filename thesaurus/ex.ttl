@@ -22,3 +22,84 @@ _:df_3028_26 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570011255"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011255/2021-10-31T21:57:00.128Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ex.ttl>.
+<https://stad.gent/id/concept/570013076/2022-09-24T06:19:45.761Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013076>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:19:45.761Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q464980>;
+    <http://www.w3.org/ns/adms#identifier> _:df_913_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "expo"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_913_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013076"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013076/2022-09-24T06:19:45.761Z>.
+<https://stad.gent/id/concept/570011255/2022-09-24T05:54:17.874Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011255>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:54:17.874Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q74035>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1093_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Expo 58"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570004888>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "gebeurtenis"@nl, "event"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570004888> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wereldtentoonstelling"@nl.
+_:df_1093_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011255"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011255/2022-09-24T05:54:17.874Z>.
+<https://stad.gent/id/concept/550008355/2022-09-24T03:27:28.924Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008355>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:27:28.924Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300002213>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2137_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "externe dakonderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008356>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008354>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008354> <http://www.w3.org/2004/02/skos/core#prefLabel> "daktoevoegsels"@nl.
+<https://stad.gent/id/concept/550008356> <http://www.w3.org/2004/02/skos/core#prefLabel> "dakonderdelen"@nl, "dakonderdelen"@nl.
+_:df_2137_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008355"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008355> <http://www.w3.org/2004/02/skos/core#prefLabel> "externe dakonderdelen"@nl, "externe dakonderdelen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008355/2022-09-24T03:27:28.924Z>.
+<https://stad.gent/id/concept/550006608/2022-09-24T02:22:33.652Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006608>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:22:33.652Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/2088300>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2599_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Exton (PA)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005607>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005607> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten"@nl.
+_:df_2599_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006608"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006608/2022-09-24T02:22:33.652Z>.
+<https://stad.gent/id/concept/550003090/2022-09-24T00:45:15.137Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003090>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:45:15.137Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3295_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gelofteoffer, votiefgeschenk. Ieder object dat veelal aan een heilige wordt geschonken c.q. in de nabijheid van een devotie- of heiligenbeeld wordt gezet of gehangen ter verkrijging van voorspraak, van een gunst, als dank voor een verkregen gunst of ter gelegenheid van een bijzondere gebeurtenis. Het kan een alledaags gebruiksvoorwerp zijn, zoals de kruk van een kreupele. Een morfologische ex voto heeft de vorm van het lichaamsdeel waarvoor genezing wordt gevraagd. Een votiefreliëf, votiefschilderij en votieftafel zijn uiting en weergave van de devotie van de opdrachtgever, die daarop veelal is weergegeven. Een scheepsmodel (zie aldaar) kan een ex voto zijn van een schippersgilde. Wordt ook votiefgeschenk genoemd (SKKN/MovE).";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ex voto"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007812>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007812> <http://www.w3.org/2004/02/skos/core#prefLabel> "religieus beeldmateriaal"@nl.
+_:df_3295_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003090"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003090/2022-09-24T00:45:15.137Z>.
+<https://stad.gent/id/concept/550000235/2022-09-24T00:04:16.409Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000235>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:04:16.409Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028731>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3586_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Labels die in boeken zijn geplakt om aan te geven van wie ze zijn, en soms om aan te geven waar ze horen te staan in een bibliotheek.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ex-libris"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008064>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008064> <http://www.w3.org/2004/02/skos/core#prefLabel> "label (identificatiedrager)"@nl.
+_:df_3586_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000235"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000235/2022-09-24T00:04:16.409Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/ex.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ex.ttl>.

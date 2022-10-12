@@ -32,3 +32,89 @@ _:df_2128_20 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570017242"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017242/2021-11-01T00:04:11.751Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/poo.ttl>.
+<https://stad.gent/id/concept/570000057/2022-09-24T04:05:53.337Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000057>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:05:53.337Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2010091>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1864_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De pootboor is ofwel een holle, al dan niet gesloten (1), metalen cilinder van verschillende diameter (ca. 4-18 cm) - soms boven iets wijder dan onder - met bovenaan een ijzeren, houten of plastic handvat, waartussen zich al dan niet een steel (ca. 20-40 cm) bevindt. Bij sommige modellen bestaat de cilinder uit twee helften die langs beide zijden door scharnieren met elkaar zijn verbonden. Langs één zijde heb je de mogelijkheid om een stalen pen uit de scharnier te verwijderen zodat de cilinder opendraait (2). Bij andere modellen, waar de snede door tandjes kan vervangen zijn, bestaat de cilinder uit twee helften die van elkaar verwijderd kunnen worden (3)(zie ook planttang). Aan de buitenzijde van de cilinder kan een maatverdeling aangebracht zijn. [M.O.T.]";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pootboor"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1864_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000057"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000057/2022-09-24T04:05:53.337Z>.
+<https://stad.gent/id/concept/550008743/2022-09-24T03:44:22.401Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008743>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:44:22.401Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300227872>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2017_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Stof, waarbij de grondweefsels naar buiten uitstekende lusjes of gareneindjes bevatten, gevormd door toepassing van een poolketting danwel een poolinslag.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "poolweefsel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008740>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005158>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005158> <http://www.w3.org/2004/02/skos/core#prefLabel> "fluweel"@nl.
+<https://stad.gent/id/concept/550008740> <http://www.w3.org/2004/02/skos/core#prefLabel> "textielmaterialen naar weeftechniek"@nl.
+_:df_2017_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008743"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008743/2022-09-24T03:44:22.401Z>.
+<https://stad.gent/id/concept/550008302/2022-09-24T03:23:16.594Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008302>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:23:16.594Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300069197>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2167_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "poorten en poortonderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007951>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550002419>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002419> <http://www.w3.org/2004/02/skos/core#prefLabel> "poort"@nl.
+<https://stad.gent/id/concept/550007951> <http://www.w3.org/2004/02/skos/core#prefLabel> "openingen naar vorm"@nl.
+_:df_2167_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008302"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008302/2022-09-24T03:23:16.594Z>.
+<https://stad.gent/id/concept/550004616/2022-09-24T01:13:08.472Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004616>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:13:08.472Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7011282>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3094_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Poole"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006140>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006140> <http://www.w3.org/2004/02/skos/core#prefLabel> "Engeland"@nl, "Engeland"@nl, "Engeland"@nl.
+_:df_3094_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004616"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004616/2022-09-24T01:13:08.472Z>.
+<https://stad.gent/id/concept/550002419/2022-09-24T00:35:50.315Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002419>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:35:50.315Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300069189>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3361_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Doorgangen door hekken of muren die twee aparte ruimten scheiden, of de bouwwerken of ornamentele constructies die zulke doorgangen afsluiten. Gebruik 'poortgebouwen' voor toegangsgebouwen die ook ruimte bieden aan een woning of stallen e.d.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "poort"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008302>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008302> <http://www.w3.org/2004/02/skos/core#prefLabel> "poorten en poortonderdelen"@nl.
+_:df_3361_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002419"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002419/2022-09-24T00:35:50.315Z>.
+<https://stad.gent/id/concept/550001895/2022-09-24T00:27:30.705Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001895>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:27:30.705Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024648>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3421_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Werktuigen die worden gebruikt om een vuur op te rakelen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pook"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007771>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007771> <http://www.w3.org/2004/02/skos/core#prefLabel> "vuurmakende en beheersende uitrusting"@nl.
+_:df_3421_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001895"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001895/2022-09-24T00:27:30.705Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/poo.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/poo.ttl>.

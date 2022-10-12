@@ -142,3 +142,166 @@ _:df_3187_29 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009909"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009909/2021-10-31T21:34:40.528Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/wee.ttl>.
+<https://stad.gent/id/concept/570009909/2022-09-24T05:32:09.898Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009909>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:32:09.898Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195708>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1252_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "weeginstrument"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1252_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009909"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009909/2022-09-24T05:32:09.898Z>.
+<https://stad.gent/id/concept/570009061/2022-09-24T05:07:12.041Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009061>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:07:12.041Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300312030>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1429_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "weekblad"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1429_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009061"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009061/2022-09-24T05:07:12.041Z>.
+<https://stad.gent/id/concept/570006093/2022-09-24T04:33:59.934Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006093>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:33:59.934Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300196293>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1666_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "weegschalen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1666_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006093"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006093/2022-09-24T04:33:59.934Z>.
+<https://stad.gent/id/concept/550008577/2022-09-24T03:35:09.356Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008577>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:35:09.356Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300247546>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2083_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Raamwerken of machines die worden gebruikt om twee of meer reeksen draden of garens onder een rechte hoek door elkaar heen te weven.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "weefgetouw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2083_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008577"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008577/2022-09-24T03:35:09.356Z>.
+<https://stad.gent/id/concept/550007857/2022-09-24T02:46:31.574Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007857>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:46:31.574Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300196294>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2428_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "weeginstrumenten naar vorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007858>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007856>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007856> <http://www.w3.org/2004/02/skos/core#prefLabel> "weegschaal"@nl.
+<https://stad.gent/id/concept/550007858> <http://www.w3.org/2004/02/skos/core#prefLabel> "weeginstrument"@nl, "weeginstrument"@nl.
+_:df_2428_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007857"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007857> <http://www.w3.org/2004/02/skos/core#prefLabel> "weeginstrumenten naar vorm"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007857/2022-09-24T02:46:31.574Z>.
+<https://stad.gent/id/concept/550007858/2022-09-24T02:46:36.579Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007858>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:46:36.579Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195708>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2428_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten, machines en andere toestellen die worden gebruikt bij het vaststellen van de hoeveelheid kracht die de zwaartekracht uitgeoefent op een voorwerp of een stof, of de hoeveelheid kracht die nodig is om een voorwerp of stof te dragen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "weeginstrument"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007859>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007857>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007857> <http://www.w3.org/2004/02/skos/core#prefLabel> "weeginstrumenten naar vorm"@nl.
+<https://stad.gent/id/concept/550007859> <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van krachten"@nl.
+_:df_2428_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007858"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007858> <http://www.w3.org/2004/02/skos/core#prefLabel> "weeginstrument"@nl, "weeginstrument"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007858/2022-09-24T02:46:36.579Z>.
+<https://stad.gent/id/concept/550007856/2022-09-24T02:46:26.571Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007856>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:46:26.571Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300196293>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2431_43;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten voor het vaststellen van het gewicht van voorwerpen of stoffen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "weegschaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007857>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005175>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005175> <http://www.w3.org/2004/02/skos/core#prefLabel> "balans (meetinstrument)"@nl.
+<https://stad.gent/id/concept/550007857> <http://www.w3.org/2004/02/skos/core#prefLabel> "weeginstrumenten naar vorm"@nl.
+_:df_2431_43 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007856"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007856/2022-09-24T02:46:26.571Z>.
+<https://stad.gent/id/concept/550006854/2022-09-24T02:30:32.590Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006854>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:30:32.590Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7013962>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2542_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Weesp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006121>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006121> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl, "Nederland"@nl, "Nederland"@nl.
+_:df_2542_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006854"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006854/2022-09-24T02:30:32.590Z>.
+<https://stad.gent/id/concept/550003218/2022-09-24T00:47:27.819Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003218>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:47:27.819Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300192069>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3277_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Windwijzers in de vorm van een haan.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "weerhaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005151>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005151> <http://www.w3.org/2004/02/skos/core#prefLabel> "windwijzer"@nl.
+_:df_3277_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003218"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003218/2022-09-24T00:47:27.819Z>.
+<https://stad.gent/id/concept/670006585/2022-09-09T08:49:19.555Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006585>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:49:19.555Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4024_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wee Willie Winkie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4024_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006585"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006585/2022-09-09T08:49:19.555Z>.
+<https://stad.gent/id/concept/670006586/2022-09-09T08:49:24.558Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006586>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:49:24.558Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4024_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Week-end in Havana"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4024_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006586"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006586/2022-09-09T08:49:24.558Z>.
+<https://stad.gent/id/concept/670006587/2022-09-09T08:49:29.560Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006587>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:49:29.560Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4024_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Week-end in Waldorf"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4024_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006587"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006587/2022-09-09T08:49:29.560Z>.
+<https://stad.gent/id/concept/670006588/2022-09-09T08:49:35.009Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006588>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:49:35.009Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4024_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Weener Melodie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4024_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006588"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006588/2022-09-09T08:49:35.009Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/wee.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/wee.ttl>.

@@ -10,3 +10,15 @@ _:df_1741_17 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570019342"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019342/2021-11-01T00:58:42.997Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/tru.ttl>.
+<https://stad.gent/id/concept/670006379/2022-09-09T08:32:00.164Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006379>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:32:00.164Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4150_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "True to Life"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4150_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006379"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006379/2022-09-09T08:32:00.164Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/tru.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/tru.ttl>.

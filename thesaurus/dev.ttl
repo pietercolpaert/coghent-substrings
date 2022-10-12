@@ -23,3 +23,99 @@ _:df_3082_10 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010507"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010507/2021-10-31T21:49:13.037Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/dev.ttl>.
+<https://stad.gent/id/concept/570012584/2022-09-24T06:11:06.528Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012584>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:11:06.528Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300234144>;
+    <http://www.w3.org/ns/adms#identifier> _:df_973_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "devotionalia"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_973_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012584"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012584/2022-09-24T06:11:06.528Z>.
+<https://stad.gent/id/concept/570010507/2022-09-24T05:46:28.465Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010507>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:46:28.465Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006940>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1150_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Deventer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_1150_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010507"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010507/2022-09-24T05:46:28.465Z>.
+<https://stad.gent/id/concept/550008237/2022-09-24T03:17:52.618Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008237>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:17:52.618Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300391129>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2206_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Algemene benaming voor geslagen, gegraveerde, gegoten, aan beide zijden versierde metalen penning of plaatje met een afbeelding van God, Christus, Maria, een heilige, een paus, een religieus object of een specifieke religieuze gebeurtenis.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "devotiepenning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550000346>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000346> <http://www.w3.org/2004/02/skos/core#prefLabel> "devotionalia"@nl.
+_:df_2206_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008237"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008237/2022-09-24T03:17:52.618Z>.
+<https://stad.gent/id/concept/550006818/2022-09-24T02:28:36.730Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006818>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:28:36.730Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7012077>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2557_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Devon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006140>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006140> <http://www.w3.org/2004/02/skos/core#prefLabel> "Engeland"@nl.
+_:df_2557_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006818"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006818/2022-09-24T02:28:36.730Z>.
+<https://stad.gent/id/concept/550005423/2022-09-24T01:42:15.546Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005423>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:42:15.546Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006940>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2887_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Deventer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006121>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006121> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_2887_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005423"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005423/2022-09-24T01:42:15.546Z>.
+<https://stad.gent/id/concept/550003582/2022-09-24T00:49:54.097Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003582>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:49:54.097Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300391128>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3262_51;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine medaille of penning met draagoog, voorzien van een voorstelling van God, Christus, Maria, een heilige, een paus, een religieus of devotioneel object of van een specifieke religieuze gebeurtenis.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "devotiemedaille"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008059>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008059> <http://www.w3.org/2004/02/skos/core#prefLabel> "penning (medaille)"@nl.
+_:df_3262_51 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003582"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003582/2022-09-24T00:49:54.097Z>.
+<https://stad.gent/id/concept/550000346/2022-09-24T00:05:11.798Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000346>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:05:11.798Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300234144>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3580_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt algemeen gebruikt voor voorwerpen die worden geassocieerd met of gebruikt bij particuliere godsdienstige verering.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "devotionalia"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008026>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008237>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008237> <http://www.w3.org/2004/02/skos/core#prefLabel> "devotiepenning"@nl.
+<https://stad.gent/id/concept/550008026> <http://www.w3.org/2004/02/skos/core#prefLabel> "religieus object"@nl.
+_:df_3580_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000346"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000346/2022-09-24T00:05:11.798Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/dev.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/dev.ttl>.

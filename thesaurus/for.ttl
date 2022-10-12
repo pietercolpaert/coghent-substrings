@@ -42,3 +42,33 @@ _:df_3034_25 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570011199"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011199/2021-10-31T21:56:09.391Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/for.ttl>.
+<https://stad.gent/id/concept/550006657/2022-09-24T02:23:54.043Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006657>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:23:54.043Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004912>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2590_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Forli"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550000038>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000038> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_2590_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006657"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006657/2022-09-24T02:23:54.043Z>.
+<https://stad.gent/id/concept/530008774/2022-09-15T00:03:35.845Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008774>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-15T00:03:35.845Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411465>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3646_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een toestel dat wordt gebruikt om op te koken. het fornuis ontwikkelde zich vanuit een kachel waarop eveneens kon worden gekookt. Later kwam de mogelijkheid om meerdere gerechten tegelijkertijd te koken. Tegenwoordig spreekt men in het algemeen over een fornuis als het een combinatie van een aantal kookpitten en een oven betreft. Er bestaan o.a. kolen-, gas- en elektrische fornuizen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fornuis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008781>, <https://stad.gent/id/concept/530006338>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006338> <http://www.w3.org/2004/02/skos/core#prefLabel> "verwarmingstoestel"@nl.
+<https://stad.gent/id/concept/530008781> <http://www.w3.org/2004/02/skos/core#prefLabel> "kook- en verhittingsapparaat"@nl.
+_:df_3646_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008774"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008774/2022-09-15T00:03:35.845Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/for.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/for.ttl>.

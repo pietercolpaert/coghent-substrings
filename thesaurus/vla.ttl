@@ -61,3 +61,101 @@ _:df_3130_23 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010147"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010147/2021-10-31T21:42:37.348Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/vla.ttl>.
+<https://stad.gent/id/concept/550008224/2022-09-24T03:16:52.158Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008224>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:16:52.158Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300178376>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2212_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Prenten waarbij in de drukvorm de lijnen en vlakken die afgedrukt moeten worden even hoog liggen als de niet-drukkende delen; gebaseerd op het elkaar afstoten van water en vet.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vlakdruk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008062>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550006063>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006063> <http://www.w3.org/2004/02/skos/core#prefLabel> "lithografie (prent)"@nl.
+<https://stad.gent/id/concept/550008062> <http://www.w3.org/2004/02/skos/core#prefLabel> "prenten naar procedé: overdrachtmethoden"@nl.
+_:df_2212_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008224"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008224/2022-09-24T03:16:52.158Z>.
+<https://stad.gent/id/concept/550004700/2022-09-24T01:16:55.764Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004700>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:16:55.764Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195678>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3067_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor stukken stof of ander buigzaam materiaal dat meestal langs één kant aan een paal of een koord is bevestigd, en die zijn bedoeld als symbool van een land of organisatie, of als een signaal.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vlag"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008050>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550006029>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006029> <http://www.w3.org/2004/02/skos/core#prefLabel> "wimpel"@nl.
+<https://stad.gent/id/concept/550008050> <http://www.w3.org/2004/02/skos/core#prefLabel> "identificatiedrager"@nl.
+_:df_3067_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004700"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004700/2022-09-24T01:16:55.764Z>.
+<https://stad.gent/id/concept/550004497/2022-09-24T01:07:25.357Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004497>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:07:25.357Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7018236>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3136_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaanderen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550001085>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005392>, <https://stad.gent/id/concept/550004370>, <https://stad.gent/id/concept/550004313>, <https://stad.gent/id/concept/550008920>, <https://stad.gent/id/concept/550004834>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "Vindplaats"@nl, "Collection place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004834> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen"@nl.
+<https://stad.gent/id/concept/550008920> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams-Brabant"@nl.
+<https://stad.gent/id/concept/550004313> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen"@nl.
+<https://stad.gent/id/concept/550004370> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburg (provincie)"@nl.
+<https://stad.gent/id/concept/550005392> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl.
+<https://stad.gent/id/concept/550001085> <http://www.w3.org/2004/02/skos/core#prefLabel> "België"@nl.
+_:df_3136_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004497"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004497/2022-09-24T01:07:25.357Z>.
+<https://stad.gent/id/concept/550004498/2022-09-24T01:07:30.359Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004498>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:07:30.359Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3136_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vlaggen en vaandels"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008627>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008627> <http://www.w3.org/2004/02/skos/core#prefLabel> "textiel (collectie)"@nl.
+_:df_3136_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004498"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004498/2022-09-24T01:07:30.359Z>.
+<https://stad.gent/id/concept/550003057/2022-09-24T00:44:55.124Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003057>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:44:55.124Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014041>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3295_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vlas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008783>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008783> <http://www.w3.org/2004/02/skos/core#prefLabel> "plantenvezel"@nl.
+_:df_3295_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003057"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003057/2022-09-24T00:44:55.124Z>.
+<https://stad.gent/id/concept/670006545/2022-09-09T08:45:58.332Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006545>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:45:58.332Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4048_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlammende harten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4048_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006545"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006545/2022-09-09T08:45:58.332Z>.
+<https://stad.gent/id/concept/670006544/2022-09-09T08:45:53.330Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006544>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:45:53.330Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4051_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlammen in de duisternis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4051_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006544"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006544/2022-09-09T08:45:53.330Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/vla.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/vla.ttl>.

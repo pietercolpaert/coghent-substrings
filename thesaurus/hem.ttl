@@ -33,3 +33,19 @@ _:df_2707_17 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570014062"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014062/2021-10-31T22:42:35.358Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/hem.ttl>.
+<https://stad.gent/id/concept/550005333/2022-09-24T01:39:08.736Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005333>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:39:08.736Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300210542>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2911_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Los, recht vallend ondergoed met of zonder mouwen, meestal doorlopend tot de heup of knie.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hemd"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007787>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007787> <http://www.w3.org/2004/02/skos/core#prefLabel> "ondergoed"@nl.
+_:df_2911_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005333"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005333/2022-09-24T01:39:08.736Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/hem.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/hem.ttl>.

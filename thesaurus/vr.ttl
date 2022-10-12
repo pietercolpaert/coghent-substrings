@@ -93,3 +93,227 @@ _:df_3133_16 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010134"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010134/2021-10-31T21:42:06.781Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/vr.ttl>.
+<https://stad.gent/id/concept/570015163/2022-09-24T07:07:49.504Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015163>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:07:49.504Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300201447>;
+    <http://www.w3.org/ns/adms#identifier> _:df_574_11;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Documenten, gebruikt bij het normale vrachtvervoer, met daarin de route van het voertuig, details over de vracht of de passagiers en ontvangen inkomsten. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vrachtbrief"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_574_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015163"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015163/2022-09-24T07:07:49.504Z>.
+<https://stad.gent/id/concept/570015164/2022-09-24T07:07:54.849Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015164>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:07:54.849Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300264210>;
+    <http://www.w3.org/ns/adms#identifier> _:df_574_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vracht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_574_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015164"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015164/2022-09-24T07:07:54.849Z>.
+<https://stad.gent/id/concept/570012156/2022-09-24T06:02:11.797Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012156>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:02:11.797Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300207687>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1039_34;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Persen met een harde en puntige kegel waarop de helft van een stuk fruit wordt gedrukt om het sap eruit te krijgen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vruchtenpers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1039_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012156"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012156/2022-09-24T06:02:11.797Z>.
+<https://stad.gent/id/concept/570010134/2022-09-24T05:39:23.639Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010134>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:39:23.639Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022371>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1201_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vrachtwagen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1201_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010134"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010134/2022-09-24T05:39:23.639Z>.
+<https://stad.gent/id/concept/570008654/2022-09-24T04:53:17.480Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008654>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:53:17.480Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300138173>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1528_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Niet met werken of andere verplichte activiteiten belast.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vrije tijd"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1528_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008654"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008654/2022-09-24T04:53:17.480Z>.
+<https://stad.gent/id/concept/570008129/2022-09-24T04:44:47.320Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008129>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:44:47.320Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025943>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1588_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vrouw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "inscriptie positie"@nl, "inscription position"@en, "onderwerp"@nl, "subject"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1588_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008129"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008129/2022-09-24T04:44:47.320Z>.
+<https://stad.gent/id/concept/570001734/2022-09-24T04:18:42.701Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001734>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:18:42.701Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q745312>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1774_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vrouwenarbeid"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1774_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001734"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001734/2022-09-24T04:18:42.701Z>.
+<https://stad.gent/id/concept/550009125/2022-09-24T04:00:58.925Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009125>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:00:58.925Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1900_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vroeg-neolithicum"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1900_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009125"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009125/2022-09-24T04:00:58.925Z>.
+<https://stad.gent/id/concept/550008813/2022-09-24T03:48:35.016Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008813>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:48:35.016Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011868>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1987_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het gedeelte van een plant dat bestaat uit het zaad met bijbehorend omhulsel, in het bijzonder wanneer dat omhulsel sappig en moesachtig is.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vrucht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008437>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008792>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008792> <http://www.w3.org/2004/02/skos/core#prefLabel> "noot"@nl.
+<https://stad.gent/id/concept/550008437> <http://www.w3.org/2004/02/skos/core#prefLabel> "plantaardig materiaal"@nl.
+_:df_1987_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008813"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008813/2022-09-24T03:48:35.016Z>.
+<https://stad.gent/id/concept/550008201/2022-09-24T03:15:01.256Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008201>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:15:01.256Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300042818>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2227_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vrijslaand riet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008069>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008200>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008200> <http://www.w3.org/2004/02/skos/core#prefLabel> "mondorgel"@nl.
+<https://stad.gent/id/concept/550008069> <http://www.w3.org/2004/02/skos/core#prefLabel> "riet (aërofoon)"@nl.
+_:df_2227_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008201"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008201> <http://www.w3.org/2004/02/skos/core#prefLabel> "vrijslaand riet"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008201/2022-09-24T03:15:01.256Z>.
+<https://stad.gent/id/concept/550008030/2022-09-24T03:00:49.396Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008030>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:00:49.396Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300204073>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2326_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vroeg-westerse wereldmunten naar coupure"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008032>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008031>, <https://stad.gent/id/concept/550003763>;
+    <http://www.w3.org/2004/02/skos/core#note> "gebeurtenis"@nl, "event"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003763> <http://www.w3.org/2004/02/skos/core#prefLabel> "stater"@nl.
+<https://stad.gent/id/concept/550008031> <http://www.w3.org/2004/02/skos/core#prefLabel> "as munten"@nl.
+<https://stad.gent/id/concept/550008032> <http://www.w3.org/2004/02/skos/core#prefLabel> "vroeg-westerse wereldmunten"@nl.
+_:df_2326_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008030"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008030> <http://www.w3.org/2004/02/skos/core#prefLabel> "vroeg-westerse wereldmunten naar coupure"@nl, "vroeg-westerse wereldmunten naar coupure"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008030/2022-09-24T03:00:49.396Z>.
+<https://stad.gent/id/concept/550008032/2022-09-24T03:00:59.400Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008032>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:00:59.400Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300194572>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2326_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Hoort bij beschrijvingen van munten uit de vroeg-westerse wereld vanaf de 6e eeuw v.C. tot de economische herstructurering in de 7e en de 8e eeuw n.C., ondernomen door de Franken en de Arabieren. Griekenland, Rome en het Nabije Oosten onder de Sassaniden maakten deel uit van deze vroeg-westerse wereld.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vroeg-westerse wereldmunten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007976>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550003731>, <https://stad.gent/id/concept/550008030>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008030> <http://www.w3.org/2004/02/skos/core#prefLabel> "vroeg-westerse wereldmunten naar coupure"@nl, "vroeg-westerse wereldmunten naar coupure"@nl.
+<https://stad.gent/id/concept/550003731> <http://www.w3.org/2004/02/skos/core#prefLabel> "scryphaat"@nl.
+<https://stad.gent/id/concept/550007976> <http://www.w3.org/2004/02/skos/core#prefLabel> "munten naar herkomst"@nl.
+_:df_2326_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008032"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008032> <http://www.w3.org/2004/02/skos/core#prefLabel> "vroeg-westerse wereldmunten"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008032/2022-09-24T03:00:59.400Z>.
+<https://stad.gent/id/concept/550004531/2022-09-24T01:08:31.181Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004531>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:08:31.181Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3127_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vrijmetselarij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3127_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004531"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004531/2022-09-24T01:08:31.181Z>.
+<https://stad.gent/id/concept/550000740/2022-09-24T00:09:19.377Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000740>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:09:19.377Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300106738>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3550_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vroege ijzertijd"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550000778>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000778> <http://www.w3.org/2004/02/skos/core#prefLabel> "ijzertijd"@nl.
+_:df_3550_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000740"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000740/2022-09-24T00:09:19.377Z>.
+<https://stad.gent/id/concept/550000698/2022-09-24T00:08:33.882Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000698>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:08:33.882Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300019276>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3556_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vroege bronstijd"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550000731>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000731> <http://www.w3.org/2004/02/skos/core#prefLabel> "bronstijd"@nl, "bronstijd"@nl.
+_:df_3556_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000698"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000698/2022-09-24T00:08:33.882Z>.
+<https://stad.gent/id/concept/670006715/2022-09-09T09:00:14.761Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006715>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:00:14.761Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3946_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vrouwenclub"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3946_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006715"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006715/2022-09-09T09:00:14.761Z>.
+<https://stad.gent/id/concept/670006717/2022-09-09T09:00:24.769Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006717>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:00:24.769Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3946_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vrouwen zijn geen engelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3946_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006717"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006717/2022-09-09T09:00:24.769Z>.
+<https://stad.gent/id/concept/670006555/2022-09-09T08:46:48.629Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006555>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:46:48.629Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4042_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vrouwenlot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4042_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006555"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006555/2022-09-09T08:46:48.629Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/vr.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/vr.ttl>.

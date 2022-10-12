@@ -1,0 +1,26 @@
+<https://stad.gent/id/concept/550001375/2022-09-24T00:18:24.704Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001375>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:18:24.704Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300033555>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3484_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gesmeed ijzeren element, tenminste aan één zijde voorzien van een langwerpig blad, waaraan een luik, raam of deur draait. (VWB)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "geheng"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005923>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005923> <http://www.w3.org/2004/02/skos/core#prefLabel> "scharnieronderdelen"@nl.
+_:df_3484_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001375"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001375/2022-09-24T00:18:24.704Z>.
+<https://stad.gent/id/concept/550001206/2022-09-24T00:16:13.731Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001206>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:16:13.731Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3502_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gehalte"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "afmeting"@nl, "dimension"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3502_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001206"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001206/2022-09-24T00:16:13.731Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/geh.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/geh.ttl>.

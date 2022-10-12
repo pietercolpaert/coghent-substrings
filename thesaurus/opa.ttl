@@ -1,0 +1,16 @@
+<https://stad.gent/id/concept/550006017/2022-09-24T02:00:40.394Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006017>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:00:40.394Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011129>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2755_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een mineraal of mineraalgel bestaande uit opgestapelde bolletjes van siliciumdioxide. Het wordt gebruikt als een halfedelsteen en wordt gekenmerkt door een flitsende mengeling van kleuren wanneer er licht op het oppervlak valt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "opaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550002710>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002710> <http://www.w3.org/2004/02/skos/core#prefLabel> "mineraal"@nl, "mineraal"@nl.
+_:df_2755_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006017"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006017/2022-09-24T02:00:40.394Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/opa.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/opa.ttl>.

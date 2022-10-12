@@ -14,3 +14,71 @@ _:df_2563_8 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570014885"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014885/2021-10-31T23:02:47.645Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/cal.ttl>.
+<https://stad.gent/id/concept/550005799/2022-09-24T01:53:16.364Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005799>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:53:16.364Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2809_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "calques"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550001526>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001526> <http://www.w3.org/2004/02/skos/core#prefLabel> "tekeningen en prenten"@nl.
+_:df_2809_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005799"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005799/2022-09-24T01:53:16.364Z>.
+<https://stad.gent/id/concept/550005800/2022-09-24T01:53:21.381Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005800>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:53:21.381Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300034736>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2809_18;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Afbeeldingen gemaakt door middel van calqueren, het kopiëren van een origineel door hiervan een overtrek te maken op een transparant of doorschijnend stuk papier, textiel of ander materiaal.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "calque"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007970>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007970> <http://www.w3.org/2004/02/skos/core#prefLabel> "tekeningen naar materiaal of techniek"@nl.
+_:df_2809_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005800"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005800/2022-09-24T01:53:21.381Z>.
+<https://stad.gent/id/concept/550004614/2022-09-24T01:12:58.466Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004614>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:12:58.466Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7009002>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3097_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Calais"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004704>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004704> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl, "Frankrijk"@nl, "Frankrijk"@nl, "Frankrijk"@nl.
+_:df_3097_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004614"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004614/2022-09-24T01:12:58.466Z>.
+<https://stad.gent/id/concept/550004301/2022-09-24T01:02:22.010Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004301>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:02:22.010Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1036537>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3172_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Calbe"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004734>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl.
+_:df_3172_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004301"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004301/2022-09-24T01:02:22.010Z>.
+<https://stad.gent/id/concept/550000159/2022-09-24T00:02:51.000Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000159>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:02:51.000Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014161>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3595_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Elk doorzichtig papier dat, wanneer het over een bestaande afbeelding wordt gelegd, het mogelijk maakt dat die afbeelding kan worden gezien en overgetrokken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "calqueerpapier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008738>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008738> <http://www.w3.org/2004/02/skos/core#prefLabel> "tekenpapier"@nl.
+_:df_3595_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000159"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000159/2022-09-24T00:02:51.000Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/cal.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/cal.ttl>.

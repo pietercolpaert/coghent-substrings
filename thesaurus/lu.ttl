@@ -280,3 +280,286 @@ _:df_1_1150 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/lud.ttl>;
     <https://w3id.org/tree#value> "lud".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/lu.ttl>.
+<https://stad.gent/id/concept/570016796/2022-09-24T07:48:04.298Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016796>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:48:04.298Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026578>;
+    <http://www.w3.org/ns/adms#identifier> _:df_286_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lustin (Profondeville)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570001129>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570001129> <http://www.w3.org/2004/02/skos/core#prefLabel> "Namen (provincie)"@nl, "Namen (provincie)"@nl.
+_:df_286_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016796"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016796/2022-09-24T07:48:04.298Z>.
+<https://stad.gent/id/concept/570016438/2022-09-24T07:35:18.024Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016438>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:35:18.024Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q175449>;
+    <http://www.w3.org/ns/adms#identifier> _:df_376_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "luchtpijp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_376_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016438"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016438/2022-09-24T07:35:18.024Z>.
+<https://stad.gent/id/concept/570014510/2022-09-24T06:49:04.713Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014510>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:49:04.713Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300056049>;
+    <http://www.w3.org/ns/adms#identifier> _:df_706_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "luchtdruk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_706_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014510"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014510/2022-09-24T06:49:04.713Z>.
+<https://stad.gent/id/concept/570013838/2022-09-24T06:35:52.062Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013838>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:35:52.062Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_802_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "luchtweefmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_802_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013838"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013838/2022-09-24T06:35:52.062Z>.
+<https://stad.gent/id/concept/570013452/2022-09-24T06:28:31.163Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013452>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:28:31.163Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300069732>;
+    <http://www.w3.org/ns/adms#identifier> _:df_850_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "luifels"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_850_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013452"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013452/2022-09-24T06:28:31.163Z>.
+<https://stad.gent/id/concept/570012267/2022-09-24T06:04:22.945Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012267>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:04:22.945Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300250653>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1021_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Toestel dat langs elektronische weg versterkt geluid verspreidt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "luidspreker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1021_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012267"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012267/2022-09-24T06:04:22.945Z>.
+<https://stad.gent/id/concept/570010982/2022-09-24T05:51:06.192Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010982>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:51:06.192Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7012327>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1117_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lübeck"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl.
+_:df_1117_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010982"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010982/2022-09-24T05:51:06.192Z>.
+<https://stad.gent/id/concept/570010022/2022-09-24T05:35:41.923Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010022>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:35:41.923Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1228_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kunstvezel met reflecterende eigenschappen, vervaardigd uit aluminium draadjes met een plastic coating. Deze industrieel vervaardigde vezel werd in de 20e eeuw ontwikkeld en wordt vooral toegepast in de kledingindustrie.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lurex"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1228_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010022"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010022/2022-09-24T05:35:41.923Z>.
+<https://stad.gent/id/concept/570009832/2022-09-24T05:30:49.405Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009832>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:30:49.405Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7012586>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1261_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ludwigshafen am Rhein"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_1261_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009832"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009832/2022-09-24T05:30:49.405Z>.
+<https://stad.gent/id/concept/570009479/2022-09-24T05:21:32.294Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009479>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:21:32.294Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300193782>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1327_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "luchtvaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570014123>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570014123> <http://www.w3.org/2004/02/skos/core#prefLabel> "zeppelin"@nl.
+_:df_1327_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009479"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009479/2022-09-24T05:21:32.294Z>.
+<https://stad.gent/id/concept/570009321/2022-09-24T05:18:40.525Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009321>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:18:40.525Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/q42926502>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1348_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lucifersdoos"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1348_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009321"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009321/2022-09-24T05:18:40.525Z>.
+<https://stad.gent/id/concept/570008630/2022-09-24T04:52:26.978Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008630>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:52:26.978Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300128222>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1534_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "oto's van de aarde gemaakt vanuit een luchtvaartuig. Gebruik 'luchtaanzichten' wanneer de nadruk ligt op het onderwerp dat in beeld gebracht is vanuit een luchtvaartuig of een ander hoog gezichtspunt. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "luchtfoto"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1534_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008630"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008630/2022-09-24T04:52:26.978Z>.
+<https://stad.gent/id/concept/570006379/2022-09-24T04:36:56.539Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006379>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:36:56.539Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024649>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1645_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lucifer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1645_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006379"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006379/2022-09-24T04:36:56.539Z>.
+<https://stad.gent/id/concept/570002170/2022-09-24T04:20:50.997Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570002170>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:20:50.997Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300312277>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1759_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Babykledingstukken die men over de luier aantrekt, meestal driehoekige doeken van flanel, gekookte wol of dicht gebreide wol, gebruikt in westerse landen tot de jaren negentig van de negentiende eeuw, toen er materiaal beschikbaar kwam dat vocht beter tegenhield, zoals met rubber beklede stof. Tegenwoordig wordt de term soms gebruikt voor kleurrijke broekjes gevoerd met plastic of een ander waterdicht materiaal.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "luierbroekje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1759_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570002170"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570002170/2022-09-24T04:20:50.997Z>.
+<https://stad.gent/id/concept/570001410/2022-09-24T04:16:44.954Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001410>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:16:44.954Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007945>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1789_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Luik (stad)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570023203>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023203> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luik (provincie)"@nl.
+_:df_1789_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001410"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001410/2022-09-24T04:16:44.954Z>.
+<https://stad.gent/id/concept/570001120/2022-09-24T04:14:28.512Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001120>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:14:28.512Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006254>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1804_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Luxemburg (stad)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570010990>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570010990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groothertogdom Luxemburg"@nl.
+_:df_1804_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001120"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001120/2022-09-24T04:14:28.512Z>.
+<https://stad.gent/id/concept/570000287/2022-09-24T04:08:50.440Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000287>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:08:50.440Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026577>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1843_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lummen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570001061>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570001061> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburg (provincie)"@nl.
+_:df_1843_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000287"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000287/2022-09-24T04:08:50.440Z>.
+<https://stad.gent/id/concept/570000297/2022-09-24T04:09:05.449Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000297>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:09:05.449Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300196609>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1843_31;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders voor het bevatten van lucifers. Wordt vooral gebruikt met betrekking tot houten of metalen houders, die soms van binnen bekleed zijn met onbrandbaar, gipsachtig materiaal en die aan een kant een strijkvlak hebben. Ze worden vaak gemaakt om aan de wand te hangen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lucifershouder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1843_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000297"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000297/2022-09-24T04:09:05.449Z>.
+<https://stad.gent/id/concept/550009105/2022-09-24T03:59:33.396Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009105>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:59:33.396Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1039976>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1909_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lüdenscheid"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004734>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_1909_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009105"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009105/2022-09-24T03:59:33.396Z>.
+<https://stad.gent/id/concept/550008930/2022-09-24T03:54:59.739Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008930>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:54:59.739Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/4012014>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1942_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Luik (provincie)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005683>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550006442>, <https://stad.gent/id/concept/550004569>, <https://stad.gent/id/concept/550007533>, <https://stad.gent/id/concept/550004995>, <https://stad.gent/id/concept/550005817>, <https://stad.gent/id/concept/550002319>, <https://stad.gent/id/concept/550006626>, <https://stad.gent/id/concept/550004274>, <https://stad.gent/id/concept/550008956>, <https://stad.gent/id/concept/550005282>, <https://stad.gent/id/concept/550006820>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006820> <http://www.w3.org/2004/02/skos/core#prefLabel> "Welkenraedt"@nl.
+<https://stad.gent/id/concept/550005282> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verviers"@nl.
+<https://stad.gent/id/concept/550008956> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vaux-et-Borset"@nl.
+<https://stad.gent/id/concept/550004274> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stavelot"@nl.
+<https://stad.gent/id/concept/550006626> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spa"@nl.
+<https://stad.gent/id/concept/550002319> <http://www.w3.org/2004/02/skos/core#prefLabel> "Raeren"@nl.
+<https://stad.gent/id/concept/550005817> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luik (stad)"@nl.
+<https://stad.gent/id/concept/550004995> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hoei"@nl.
+<https://stad.gent/id/concept/550007533> <http://www.w3.org/2004/02/skos/core#prefLabel> "Heure-le-Romain"@nl.
+<https://stad.gent/id/concept/550004569> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eupen"@nl.
+<https://stad.gent/id/concept/550006442> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chênee"@nl.
+<https://stad.gent/id/concept/550005683> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wallonië"@nl.
+_:df_1942_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008930"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008930/2022-09-24T03:54:59.739Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/lu.ttl> <https://w3id.org/tree#relation> _:df_1_1220.
+_:df_1_1220 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/luz.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "luz".
+<https://www.pieter.pm/coghent-substrings/thesaurus/lu.ttl> <https://w3id.org/tree#relation> _:df_1_1221.
+_:df_1_1221 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/lub.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "lub".
+<https://www.pieter.pm/coghent-substrings/thesaurus/lu.ttl> <https://w3id.org/tree#relation> _:df_1_1222.
+_:df_1_1222 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/lun.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "lun".
+<https://www.pieter.pm/coghent-substrings/thesaurus/lu.ttl> <https://w3id.org/tree#relation> _:df_1_1223.
+_:df_1_1223 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/lui.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "lui".
+<https://www.pieter.pm/coghent-substrings/thesaurus/lu.ttl> <https://w3id.org/tree#relation> _:df_1_1224.
+_:df_1_1224 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/luc.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "luc".
+<https://www.pieter.pm/coghent-substrings/thesaurus/lu.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/lu.ttl>.

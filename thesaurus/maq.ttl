@@ -10,3 +10,42 @@ _:df_2881_16 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570012852"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012852/2021-10-31T22:17:37.682Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/maq.ttl>.
+<https://stad.gent/id/concept/570012852/2022-09-24T06:14:53.198Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012852>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:14:53.198Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300047837>;
+    <http://www.w3.org/ns/adms#identifier> _:df_946_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "maquette"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_946_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012852"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012852/2022-09-24T06:14:53.198Z>.
+<https://stad.gent/id/concept/550005899/2022-09-24T01:56:58.099Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005899>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:56:58.099Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2782_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "maquettes"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2782_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005899"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005899/2022-09-24T01:56:58.099Z>.
+<https://stad.gent/id/concept/550002751/2022-09-24T00:40:27.491Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002751>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:40:27.491Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300047837>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3328_13;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine, grove, driedimensionale schetsen voor beeldhouwwerken. Gebruik 'bozzetti' voor meer gedetailleerde ontwerpen voor beeldhouwwerken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "maquette"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008118>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008574>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008574> <http://www.w3.org/2004/02/skos/core#prefLabel> "bozzetto"@nl.
+<https://stad.gent/id/concept/550008118> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldhouwwerken naar functie"@nl.
+_:df_3328_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002751"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002751/2022-09-24T00:40:27.491Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/maq.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/maq.ttl>.

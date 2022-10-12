@@ -12,3 +12,29 @@ _:df_2488_18 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570015324"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015324/2021-10-31T23:13:31.707Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/fon.ttl>.
+<https://stad.gent/id/concept/550002471/2022-09-24T00:36:25.919Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002471>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:36:25.919Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006179>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3358_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor bouwwerken met openingen die zijn bedoeld om af en toe of voortdurend water te laten spuiten of stromen, bijvoorbeeld voor openbaar gemak of gebruik.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fontein"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008076>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008076> <http://www.w3.org/2004/02/skos/core#prefLabel> "constructies voor waterdistributie"@nl.
+_:df_3358_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002471"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002471/2022-09-24T00:36:25.919Z>.
+<https://stad.gent/id/concept/670007042/2022-09-09T09:26:39.727Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670007042>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:26:39.727Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3760_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fonteineplein"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3760_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670007042"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670007042/2022-09-09T09:26:39.727Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/fon.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/fon.ttl>.

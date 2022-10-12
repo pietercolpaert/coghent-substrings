@@ -11,3 +11,43 @@ _:df_1336_22 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570023093"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023093/2021-11-01T01:55:54.251Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bok.ttl>.
+<https://stad.gent/id/concept/570004699/2022-09-24T04:28:21.451Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570004699>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:28:21.451Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7248839>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1705_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bokrijk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570001061>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570001061> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburg (provincie)"@nl.
+_:df_1705_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570004699"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570004699/2022-09-24T04:28:21.451Z>.
+<https://stad.gent/id/concept/570000772/2022-09-24T04:12:22.310Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000772>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:12:22.310Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q895679>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1819_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bokshandschoen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1819_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000772"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000772/2022-09-24T04:12:22.310Z>.
+<https://stad.gent/id/concept/550006137/2022-09-24T02:05:02.610Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006137>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:05:02.610Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043236>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2725_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Drinkglazen van uiteenlopende vorm, met grote cuppa, op voet met stam.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bokaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006133>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006133> <http://www.w3.org/2004/02/skos/core#prefLabel> "drinkglas"@nl.
+_:df_2725_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006137"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006137/2022-09-24T02:05:02.610Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/bok.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bok.ttl>.

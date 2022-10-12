@@ -23,3 +23,30 @@ _:df_2833_10 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570013162"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013162/2021-10-31T22:24:24.267Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ast.ttl>.
+<https://stad.gent/id/concept/570013162/2022-09-24T06:21:41.562Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013162>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:21:41.562Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300417874>;
+    <http://www.w3.org/ns/adms#identifier> _:df_898_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "astrakan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_898_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013162"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013162/2022-09-24T06:21:41.562Z>.
+<https://stad.gent/id/concept/550003804/2022-09-24T00:56:08.309Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003804>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:56:08.309Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195790>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3217_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor instrumenten die zijn ontworpen om de posities waar te nemen en de horizonshoogte te meten van hemellichamen; gebruikt sinds de 2e eeuw v. Chr, totdat ze werden vervangen door sextanten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "astrolabium"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007843>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007843> <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van verticale hoeken"@nl.
+_:df_3217_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003804"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003804/2022-09-24T00:56:08.309Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/ast.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ast.ttl>.

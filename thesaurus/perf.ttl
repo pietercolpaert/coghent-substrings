@@ -10,3 +10,15 @@ _:df_2344_22 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570016301"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016301/2021-10-31T23:33:45.028Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/perf.ttl>.
+<https://stad.gent/id/concept/570008958/2022-09-24T05:04:00.390Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008958>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:04:00.390Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1453_36;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "perforatiemachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1453_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008958"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008958/2022-09-24T05:04:00.390Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/perf.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/perf.ttl>.

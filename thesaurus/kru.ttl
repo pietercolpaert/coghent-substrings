@@ -139,3 +139,157 @@ _:df_3187_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009893"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009893/2021-10-31T21:34:20.524Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/kru.ttl>.
+<https://stad.gent/id/concept/570008883/2022-09-24T05:01:09.069Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008883>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:01:09.069Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300379119>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1471_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kruidenier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1471_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008883"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008883/2022-09-24T05:01:09.069Z>.
+<https://stad.gent/id/concept/550008453/2022-09-24T03:33:28.448Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008453>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:33:28.448Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2095_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kruitkamer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2095_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008453"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008453/2022-09-24T03:33:28.448Z>.
+<https://stad.gent/id/concept/550007811/2022-09-24T02:42:39.783Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007811>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:42:39.783Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300235443>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2458_36;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor beeldende werken of voorwerpen die bestaan uit twee elkaar kruisende staven, meestal een staande gekruist door een horizontale, vooral zoals die gebruikt worden als Christelijke symbolen. Gebruik de term 'kruisen (motieven)' voor motieven die bestaan uit twee elkaar kruisende lijnen, met vele variaties in de vorm van de armen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kruis (beeldend werk)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007812>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005832>, <https://stad.gent/id/concept/550001743>, <https://stad.gent/id/concept/550001064>, <https://stad.gent/id/concept/550005134>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005134> <http://www.w3.org/2004/02/skos/core#prefLabel> "processiekruis"@nl.
+<https://stad.gent/id/concept/550001064> <http://www.w3.org/2004/02/skos/core#prefLabel> "kruisbeeld"@nl.
+<https://stad.gent/id/concept/550001743> <http://www.w3.org/2004/02/skos/core#prefLabel> "grafkruis"@nl.
+<https://stad.gent/id/concept/550005832> <http://www.w3.org/2004/02/skos/core#prefLabel> "altaarkruis"@nl.
+<https://stad.gent/id/concept/550007812> <http://www.w3.org/2004/02/skos/core#prefLabel> "religieus beeldmateriaal"@nl.
+_:df_2458_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007811"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007811/2022-09-24T02:42:39.783Z>.
+<https://stad.gent/id/concept/550006010/2022-09-24T02:00:24.831Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006010>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:00:24.831Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300204665>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2758_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Draagbare houders gemaakt van hout, hoorn, metaal, leer of keramiek, die worden gebruikt om kruit of buskruit voor vuurwapens in te bewaren. Ze eindigen meestal in een metalen tuit, die ook dienst doet als kruitmaat, en die is afgesloten door een stop of een deksel met een veer, en vaak rijkelijk is versierd. Prefereer 'kruithoorns' voor de variant die gemaakt is van de hoorn van een koe of os.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kruitbusje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008215>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005653>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005653> <http://www.w3.org/2004/02/skos/core#prefLabel> "kruithoorn"@nl.
+<https://stad.gent/id/concept/550008215> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders voor kruit en buskruit"@nl.
+_:df_2758_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006010"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006010/2022-09-24T02:00:24.831Z>.
+<https://stad.gent/id/concept/550005950/2022-09-24T01:58:29.011Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005950>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:58:29.011Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037000>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2773_30;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Bogen die voornamelijk bestaan uit een gebogen staaf die kruislings op een middenschacht is geplaatst door middel van een systeem van bindingen van touw of darm of door metalen banden. De pees wordt teruggetrokken, vastgehouden en losgelaten door een mechaniek als een windas of een draaibare moer. Ze waren zeker al in de 11de eeuw in gebruik en worden nog altijd gebruikt voor de jacht en recreatie.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kruisboog (wapen)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007543>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007543> <http://www.w3.org/2004/02/skos/core#prefLabel> "boog (wapen)"@nl.
+_:df_2773_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005950"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005950/2022-09-24T01:58:29.011Z>.
+<https://stad.gent/id/concept/550005653/2022-09-24T01:49:04.054Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005653>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:49:04.054Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300225671>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2839_13;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Hoornvormige draagbare houders voor het meenemen van kruit of buskruit, met name diegene die gemaakt zijn van de hoorn van een koe of os.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kruithoorn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006010>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006010> <http://www.w3.org/2004/02/skos/core#prefLabel> "kruitbusje"@nl.
+_:df_2839_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005653"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005653/2022-09-24T01:49:04.054Z>.
+<https://stad.gent/id/concept/550004336/2022-09-24T01:02:57.693Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004336>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:02:57.693Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007939>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3169_112;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kruishoutem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004313>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004313> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen"@nl, "Oost-Vlaanderen"@nl.
+_:df_3169_112 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004336"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550004336> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kruishoutem"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004336/2022-09-24T01:02:57.693Z>.
+<https://stad.gent/id/concept/550003937/2022-09-24T00:57:59.554Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003937>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:57:59.554Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300045685>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3202_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders, meestal van aardewerk, steengoed of porselein, smalle hals, handvat gekruld of als verticale beugel, soms met schenktuit; inhoud tot 10 liter.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kruik"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007852>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550002884>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002884> <http://www.w3.org/2004/02/skos/core#prefLabel> "veldfleskruik"@nl.
+<https://stad.gent/id/concept/550007852> <http://www.w3.org/2004/02/skos/core#prefLabel> "vaatwerk (houder)"@nl.
+_:df_3202_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003937"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003937/2022-09-24T00:57:59.554Z>.
+<https://stad.gent/id/concept/550002687/2022-09-24T00:39:07.101Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002687>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:39:07.101Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3337_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kruisboogrol"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3337_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002687"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002687/2022-09-24T00:39:07.101Z>.
+<https://stad.gent/id/concept/550001972/2022-09-24T00:30:22.177Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001972>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:30:22.177Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300236312>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3400_13;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Staafachtige, vaak van metaal gemaakte voorwerpen waar haar omheen wordt gewonden om het door middel van warmte te krullen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "krulijzer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008180>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008180> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting voor persoonlijk gebruik: kappen, hygiëne en gezondheidszorg"@nl.
+_:df_3400_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001972"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001972/2022-09-24T00:30:22.177Z>.
+<https://stad.gent/id/concept/550001064/2022-09-24T00:14:22.242Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001064>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:14:22.242Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300248835>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3514_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor beeldmateriaal in de vorm van een kruis met de gestalte van de gekruisigde Christus.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kruisbeeld"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007811>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007811> <http://www.w3.org/2004/02/skos/core#prefLabel> "kruis (beeldend werk)"@nl.
+_:df_3514_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001064"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001064/2022-09-24T00:14:22.242Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/kru.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/kru.ttl>.

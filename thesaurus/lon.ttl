@@ -12,3 +12,53 @@ _:df_2296_15 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570016519"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016519/2021-10-31T23:40:25.801Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/lon.ttl>.
+<https://stad.gent/id/concept/550005833/2022-09-24T01:54:47.116Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005833>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:54:47.116Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7011781>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2797_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Londen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006140>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006140> <http://www.w3.org/2004/02/skos/core#prefLabel> "Engeland"@nl.
+_:df_2797_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005833"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005833/2022-09-24T01:54:47.116Z>.
+<https://stad.gent/id/concept/550005403/2022-09-24T01:41:40.009Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005403>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:41:40.009Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300428644>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2893_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lontslotwapen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008225>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008225> <http://www.w3.org/2004/02/skos/core#prefLabel> "draagbare vuurwapens naar ontstekingsmechanisme"@nl, "draagbare vuurwapens naar ontstekingsmechanisme"@nl, "draagbare vuurwapens naar ontstekingsmechanisme"@nl.
+_:df_2893_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005403"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005403/2022-09-24T01:41:40.009Z>.
+<https://stad.gent/id/concept/670006830/2022-09-09T09:09:35.204Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006830>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:09:35.204Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q151048>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3880_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "London Borough of Barnet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3880_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006830"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006830/2022-09-09T09:09:35.204Z>.
+<https://stad.gent/id/concept/670006787/2022-09-09T09:06:18.758Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006787>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:06:18.758Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/wiki/q84>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3904_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Londen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3904_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006787"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006787/2022-09-09T09:06:18.758Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/lon.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/lon.ttl>.

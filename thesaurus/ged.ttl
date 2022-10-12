@@ -20,3 +20,75 @@ _:df_2524_5 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570015101"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015101/2021-10-31T23:08:12.564Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ged.ttl>.
+<https://stad.gent/id/concept/570015101/2022-09-24T07:05:58.752Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015101>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:05:58.752Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q234901>;
+    <http://www.w3.org/ns/adms#identifier> _:df_586_5;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gedroogd fruit"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_586_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015101"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015101/2022-09-24T07:05:58.752Z>.
+<https://stad.gent/id/concept/550006217/2022-09-24T02:08:49.876Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006217>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:08:49.876Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026451>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2698_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Schriftelijke of mondelinge composities die worden gekenmerkt door gecomprimeerde formuleringen, door woorden die zowel omwille van hun klank en suggestieve kracht als hun betekenis zijn gekozen, en door het gebruik van literaire technieken zoals gestructureerd metrum, natuurlijke cadansen, rijm of beeldspraak.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gedicht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008094>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008094> <http://www.w3.org/2004/02/skos/core#prefLabel> "soorten literaire documenten"@nl.
+_:df_2698_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006217"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006217/2022-09-24T02:08:49.876Z>.
+<https://stad.gent/id/concept/550005620/2022-09-24T01:47:53.244Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005620>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:47:53.244Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006956>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2848_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Bouwconstructies of aard- en nagelvaste voorwerpen die zijn opgericht als herinnering aan personen of gebeurtenissen. Gebruik 'aandenkens' voor andere voorwerpen die worden gemaakt, uitgebracht of gedragen om personen of gebeurtenissen te herdenken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gedenkteken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008093>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550004069>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004069> <http://www.w3.org/2004/02/skos/core#prefLabel> "gedenksteen"@nl.
+<https://stad.gent/id/concept/550008093> <http://www.w3.org/2004/02/skos/core#prefLabel> "ceremoniële bouwconstructies"@nl.
+_:df_2848_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005620"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005620/2022-09-24T01:47:53.244Z>.
+<https://stad.gent/id/concept/550004364/2022-09-24T01:03:38.235Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004364>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:03:38.235Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300391160>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3163_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Algemene benaming voor een penning, geslagen ter gelegenheid van een bijzondere gebeurtenis";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gedenkpenning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008059>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005245>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005245> <http://www.w3.org/2004/02/skos/core#prefLabel> "inhuldigingspenning"@nl.
+<https://stad.gent/id/concept/550008059> <http://www.w3.org/2004/02/skos/core#prefLabel> "penning (medaille)"@nl.
+_:df_3163_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004364"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004364/2022-09-24T01:03:38.235Z>.
+<https://stad.gent/id/concept/550004069/2022-09-24T00:58:55.065Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004069>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:58:55.065Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900031529>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3196_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Min of meer kunstig bewerkte stenen, aangebracht of opgesteld ter nagedachtenis van hetzij een persoon, m.n. een afgestorvene, hetzij een merkwaardige gebeurtenis.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gedenksteen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005620>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005620> <http://www.w3.org/2004/02/skos/core#prefLabel> "gedenkteken"@nl.
+_:df_3196_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004069"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004069/2022-09-24T00:58:55.065Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/ged.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ged.ttl>.

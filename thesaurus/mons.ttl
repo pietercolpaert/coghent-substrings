@@ -1,0 +1,42 @@
+<https://stad.gent/id/concept/550006339/2022-09-24T02:14:03.019Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006339>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:14:03.019Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007961>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2662_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mons"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008925>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008925> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen"@nl, "Henegouwen"@nl.
+_:df_2662_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006339"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006339/2022-09-24T02:14:03.019Z>.
+<https://stad.gent/id/concept/550005931/2022-09-24T01:58:03.998Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005931>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:58:03.998Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7621755>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2776_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mons-en-Baroeul"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004704>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004704> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_2776_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005931"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005931/2022-09-24T01:58:03.998Z>.
+<https://stad.gent/id/concept/550005146/2022-09-24T01:30:44.233Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005146>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:30:44.233Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300083005>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2971_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders waarin de geconsacreerde hostie wordt uitgestald op een altaar of tijdens een processie. In de regel (deels) van edelmetaal en op voet met stam. Te onderscheiden van 'pyxides'; dit zijn houders zonder stam gebruikt voor de grote hostie op het altaar of om de geconsacreerde hosties naar de zieken buiten de kerk te dragen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "monstrans"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007829>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007829> <http://www.w3.org/2004/02/skos/core#prefLabel> "liturgische houders"@nl.
+_:df_2971_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005146"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005146/2022-09-24T01:30:44.233Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/mons.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/mons.ttl>.

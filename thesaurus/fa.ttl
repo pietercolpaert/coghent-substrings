@@ -62,3 +62,223 @@ _:df_3163_7 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010013"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010013/2021-10-31T21:37:48.489Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/fa.ttl>.
+<https://stad.gent/id/concept/570015911/2022-09-24T07:22:56.678Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015911>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:22:56.678Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025230>;
+    <http://www.w3.org/ns/adms#identifier> _:df_466_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fabrikanten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_466_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015911"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015911/2022-09-24T07:22:56.678Z>.
+<https://stad.gent/id/concept/570012212/2022-09-24T06:03:37.522Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012212>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:03:37.522Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025230>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1027_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fabrikant"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1027_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012212"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012212/2022-09-24T06:03:37.522Z>.
+<https://stad.gent/id/concept/570010013/2022-09-24T05:35:06.584Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010013>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:35:06.584Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1231_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "factuurboek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1231_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010013"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010013/2022-09-24T05:35:06.584Z>.
+<https://stad.gent/id/concept/570009125/2022-09-24T05:10:05.088Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009125>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:10:05.088Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027568>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1408_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "factuur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1408_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009125"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009125/2022-09-24T05:10:05.088Z>.
+<https://stad.gent/id/concept/570008647/2022-09-24T04:53:07.475Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008647>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:53:07.475Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300379421>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1528_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Bedrijven, instellingen of andere administratieve organisaties die het proces van goederen maken regelen, met name dergelijke instellingen na de Industriële Revolutie van het midden van de 19e eeuw. Vaak maken ze gebruik van mechanische productiemethoden en werken ze niet alleen met de hand. Moderne fabrieken organiseren hun activiteiten zodanig dat productie op grote schaal mogelijk is, meestal met machines die door elektriciteit worden aangedreven. Gebruik 'manufacturen' voor organisaties die met de hand dingen maakten. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fabriek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570008677>, <https://stad.gent/id/concept/570025282>, <https://stad.gent/id/concept/570008838>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008838> <http://www.w3.org/2004/02/skos/core#prefLabel> "ammoniakfabriek"@nl.
+<https://stad.gent/id/concept/570025282> <http://www.w3.org/2004/02/skos/core#prefLabel> "cokesfabriek"@nl.
+<https://stad.gent/id/concept/570008677> <http://www.w3.org/2004/02/skos/core#prefLabel> "textielfabriek"@nl.
+_:df_1528_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008647"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008647/2022-09-24T04:53:07.475Z>.
+<https://stad.gent/id/concept/570008643/2022-09-24T04:52:52.470Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008643>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:52:52.470Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300418028>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1531_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "familieportret"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008622>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008622> <http://www.w3.org/2004/02/skos/core#prefLabel> "portret"@nl.
+_:df_1531_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008643"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008643/2022-09-24T04:52:52.470Z>.
+<https://stad.gent/id/concept/570008627/2022-09-24T04:52:21.975Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008627>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:52:21.975Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006232>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1534_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar een gebouw of groep gebouwen bedoeld als behuizing van activiteiten of processen die leiden tot de fabricage of productie van goederen of andere zaken, vóór of na de Industriële Revolutie die halverwege de 19de eeuw plaatsvond. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fabrieksgebouw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570008677>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008677> <http://www.w3.org/2004/02/skos/core#prefLabel> "textielfabriek"@nl.
+_:df_1534_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008627"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008627/2022-09-24T04:52:21.975Z>.
+<https://stad.gent/id/concept/570008546/2022-09-24T04:49:50.809Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008546>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:49:50.809Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1033079>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1552_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Faverges"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_1552_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008546"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008546/2022-09-24T04:49:50.809Z>.
+<https://stad.gent/id/concept/550008263/2022-09-24T03:19:58.977Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008263>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:19:58.977Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037652>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2191_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Lichten die meestal in de hand worden gedragen. Ze bestaan uit een stuk harshoudend hout of bundels van vezels die met pek, was, hars, talk of een andere brandbare stof worden doordrenkt. De naam wordt ook gebruikt voor lampen op stokken die als fakkels worden gedragen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fakkel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008264>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008262>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008262> <http://www.w3.org/2004/02/skos/core#prefLabel> "toorts"@nl.
+<https://stad.gent/id/concept/550008264> <http://www.w3.org/2004/02/skos/core#prefLabel> "fakkels en fakkelhouders"@nl.
+_:df_2191_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008263"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008263> <http://www.w3.org/2004/02/skos/core#prefLabel> "fakkel"@nl, "fakkel"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008263/2022-09-24T03:19:58.977Z>.
+<https://stad.gent/id/concept/550008264/2022-09-24T03:20:03.978Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008264>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:20:03.978Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300179875>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2191_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fakkels en fakkelhouders"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007930>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008263>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008263> <http://www.w3.org/2004/02/skos/core#prefLabel> "fakkel"@nl, "fakkel"@nl.
+<https://stad.gent/id/concept/550007930> <http://www.w3.org/2004/02/skos/core#prefLabel> "verlichtingsmiddelen naar vorm"@nl.
+_:df_2191_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008264"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008264> <http://www.w3.org/2004/02/skos/core#prefLabel> "fakkels en fakkelhouders"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008264/2022-09-24T03:20:03.978Z>.
+<https://stad.gent/id/concept/550006087/2022-09-24T02:02:46.342Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006087>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:02:46.342Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2740_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fabrikant"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2740_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006087"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006087/2022-09-24T02:02:46.342Z>.
+<https://stad.gent/id/concept/550005246/2022-09-24T01:34:46.328Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005246>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:34:46.328Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2941_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Penning uitgegeven door een familie, met familiewapen. Werd vaak uitgedeeld als bewijs van aanwezigheid in (gedenk)mis of in te ruilen tegen goederen";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "familiepenning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007965>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550003497>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003497> <http://www.w3.org/2004/02/skos/core#prefLabel> "begrafenispenning"@nl.
+<https://stad.gent/id/concept/550007965> <http://www.w3.org/2004/02/skos/core#prefLabel> "gebruikspenningen zonder betaalwaarde"@nl.
+_:df_2941_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005246"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005246/2022-09-24T01:34:46.328Z>.
+<https://stad.gent/id/concept/550004795/2022-09-24T01:19:57.095Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004795>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:19:57.095Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300042442>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3046_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houten dubbelrietinstrumenten met een conische boring die als een haarspeld op zichzelf is teruggevouwen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fagot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008065>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008065> <http://www.w3.org/2004/02/skos/core#prefLabel> "rietpijpen met een dubbel riet: met gevouwen conische boring"@nl.
+_:df_3046_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004795"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004795/2022-09-24T01:19:57.095Z>.
+<https://stad.gent/id/concept/550003737/2022-09-24T00:54:27.432Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003737>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:54:27.432Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300193635>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3229_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Britse koperen, bronzen of tinnen munten die gelijk zijn aan een kwart van een Britse penny; ze werden sinds de 13e eeuw aangemunt en in 1961 aan de circulatie onttrokken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "farthing"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007977>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007977> <http://www.w3.org/2004/02/skos/core#prefLabel> "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl.
+_:df_3229_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003737"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003737/2022-09-24T00:54:27.432Z>.
+<https://stad.gent/id/concept/530009707/2022-09-16T00:00:15.438Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009707>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-16T00:00:15.438Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3640_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "familie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530009734>, <https://stad.gent/id/concept/530010581>, <https://stad.gent/id/concept/530009659>, <https://stad.gent/id/concept/530010646>, <https://stad.gent/id/concept/530010784>, <https://stad.gent/id/concept/530010850>, <https://stad.gent/id/concept/530010851>, <https://stad.gent/id/concept/530010852>, <https://stad.gent/id/concept/530010853>, <https://stad.gent/id/concept/530010835>, <https://stad.gent/id/concept/530010854>, <https://stad.gent/id/concept/530010855>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010855> <http://www.w3.org/2004/02/skos/core#prefLabel> "tante"@nl.
+<https://stad.gent/id/concept/530010854> <http://www.w3.org/2004/02/skos/core#prefLabel> "oom"@nl.
+<https://stad.gent/id/concept/530010835> <http://www.w3.org/2004/02/skos/core#prefLabel> "zus"@nl.
+<https://stad.gent/id/concept/530010853> <http://www.w3.org/2004/02/skos/core#prefLabel> "kleindochter"@nl.
+<https://stad.gent/id/concept/530010852> <http://www.w3.org/2004/02/skos/core#prefLabel> "kleinzoon"@nl.
+<https://stad.gent/id/concept/530010851> <http://www.w3.org/2004/02/skos/core#prefLabel> "grootmoeder"@nl.
+<https://stad.gent/id/concept/530010850> <http://www.w3.org/2004/02/skos/core#prefLabel> "grootvader"@nl.
+<https://stad.gent/id/concept/530010784> <http://www.w3.org/2004/02/skos/core#prefLabel> "zoon"@nl.
+<https://stad.gent/id/concept/530010646> <http://www.w3.org/2004/02/skos/core#prefLabel> "echtgenote"@nl.
+<https://stad.gent/id/concept/530009659> <http://www.w3.org/2004/02/skos/core#prefLabel> "echtgenoot"@nl.
+<https://stad.gent/id/concept/530010581> <http://www.w3.org/2004/02/skos/core#prefLabel> "dochter"@nl.
+<https://stad.gent/id/concept/530009734> <http://www.w3.org/2004/02/skos/core#prefLabel> "broer"@nl.
+_:df_3640_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009707"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530009707> <http://www.w3.org/2004/02/skos/core#prefLabel> "familie"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009707/2022-09-16T00:00:15.438Z>.
+<https://stad.gent/id/concept/670007039/2022-09-09T09:26:24.397Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670007039>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:26:24.397Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3760_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fazantstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3760_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670007039"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670007039/2022-09-09T09:26:24.397Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/fa.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/fa.ttl>.

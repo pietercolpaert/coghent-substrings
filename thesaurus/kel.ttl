@@ -20,3 +20,58 @@ _:df_1414_12 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570022825"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022825/2021-11-01T01:44:44.741Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/kel.ttl>.
+<https://stad.gent/id/concept/550008917/2022-09-24T03:54:09.152Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008917>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:54:09.152Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1948_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kelklepel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1948_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008917"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008917/2022-09-24T03:54:09.152Z>.
+<https://stad.gent/id/concept/550005257/2022-09-24T01:35:41.871Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005257>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:35:41.871Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2935_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Liturgische wijnbeker met aan de binnenzijde vergulde cuppa. Vanwege het contact van dit vaatwerk met de H. Eucharistie wordt de kelk, evenals de pateen, geconsacreerd of gezegend door de bisschop of een daartoe bevoegd persoon. Tegenwoordig door iedere priester tijdens de eucharistieviering.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kelk (liturgisch)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007829>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007829> <http://www.w3.org/2004/02/skos/core#prefLabel> "liturgische houders"@nl.
+_:df_2935_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005257"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005257/2022-09-24T01:35:41.871Z>.
+<https://stad.gent/id/concept/550002174/2022-09-24T00:33:18.848Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002174>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:33:18.848Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043236>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3379_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Drinkglazen van uiteenlopende vorm, met grote cuppa, op voet met stam.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kelkglas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006133>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550004324>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004324> <http://www.w3.org/2004/02/skos/core#prefLabel> "vleugelglas"@nl.
+<https://stad.gent/id/concept/550006133> <http://www.w3.org/2004/02/skos/core#prefLabel> "drinkglas"@nl.
+_:df_3379_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002174"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002174/2022-09-24T00:33:18.848Z>.
+<https://stad.gent/id/concept/550000983/2022-09-24T00:12:56.798Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000983>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:12:56.798Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300204872>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3523_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vierkante doeken (ca. 60 x 60 cm) ter bedekking van kelk en pateen vóór en na de communie. Gebruik 'palla's (bedekkingen voor kelken)' voor de vierkante kartons overtrokken met linnen of stijve linnen doeken ter bedekking van de kelk tijdens de mis.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kelkvelum"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008194>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008194> <http://www.w3.org/2004/02/skos/core#prefLabel> "bedekkingen voor liturgische vaten"@nl.
+_:df_3523_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000983"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000983/2022-09-24T00:12:56.798Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/kel.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/kel.ttl>.

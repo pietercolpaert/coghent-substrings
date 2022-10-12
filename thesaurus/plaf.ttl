@@ -19,3 +19,47 @@ _:df_2257_17 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570016688"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016688/2021-10-31T23:45:59.782Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/plaf.ttl>.
+<https://stad.gent/id/concept/570016688/2022-09-24T07:43:57.178Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016688>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:43:57.178Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_316_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "plafondkap"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_316_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016688"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016688/2022-09-24T07:43:57.178Z>.
+<https://stad.gent/id/concept/550008818/2022-09-24T03:48:55.026Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008818>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:48:55.026Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300002031>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1987_33;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De oppervlakken boven binnenruimten, soms gemaakt om bouwsystemen of bouwelementen te verbergen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "plafond"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008819>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008819> <http://www.w3.org/2004/02/skos/core#prefLabel> "oppervlakte-elementen"@nl.
+_:df_1987_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008818"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008818/2022-09-24T03:48:55.026Z>.
+<https://stad.gent/id/concept/550008226/2022-09-24T03:16:57.160Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008226>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:16:57.160Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300181215>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2212_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verlichtingsarmaturen die aan het plafond hangen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "plafondarmatuur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008227>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550009130>, <https://stad.gent/id/concept/550005237>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005237> <http://www.w3.org/2004/02/skos/core#prefLabel> "luchter (verlichtingsmiddel)"@nl.
+<https://stad.gent/id/concept/550009130> <http://www.w3.org/2004/02/skos/core#prefLabel> "kaarsenkroon"@nl.
+<https://stad.gent/id/concept/550008227> <http://www.w3.org/2004/02/skos/core#prefLabel> "verlichtingsarmaturen naar locatie of context"@nl, "verlichtingsarmaturen naar locatie of context"@nl.
+_:df_2212_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008226"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008226> <http://www.w3.org/2004/02/skos/core#prefLabel> "plafondarmatuur"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008226/2022-09-24T03:16:57.160Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/plaf.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/plaf.ttl>.

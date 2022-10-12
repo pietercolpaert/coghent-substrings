@@ -75,3 +75,49 @@ _:df_2860_10 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570012996"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012996/2021-10-31T22:20:31.501Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/hei.ttl>.
+<https://stad.gent/id/concept/550006245/2022-09-24T02:09:40.265Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006245>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:09:40.265Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005177>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2692_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Heidelberg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004734>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_2692_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006245"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006245/2022-09-24T02:09:40.265Z>.
+<https://stad.gent/id/concept/670007104/2022-09-09T09:30:11.494Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670007104>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:30:11.494Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3733_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Heilig-Sacramentenstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3733_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670007104"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670007104/2022-09-09T09:30:11.494Z>.
+<https://stad.gent/id/concept/670007059/2022-09-09T09:28:05.150Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670007059>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:28:05.150Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3748_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Heiveldstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3748_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670007059"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670007059/2022-09-09T09:28:05.150Z>.
+<https://stad.gent/id/concept/670006777/2022-09-09T09:05:28.122Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006777>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:05:28.122Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2966>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3910_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Heidelberg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3910_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006777"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006777/2022-09-09T09:05:28.122Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/hei.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/hei.ttl>.

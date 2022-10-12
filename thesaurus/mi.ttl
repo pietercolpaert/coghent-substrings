@@ -254,3 +254,285 @@ _:df_1_1112 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/mic.ttl>;
     <https://w3id.org/tree#value> "mic".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/mi.ttl>.
+<https://stad.gent/id/concept/570016331/2022-09-24T07:33:22.160Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016331>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:33:22.160Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300427498>;
+    <http://www.w3.org/ns/adms#identifier> _:df_391_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "microfilmapparaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_391_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016331"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016331/2022-09-24T07:33:22.160Z>.
+<https://stad.gent/id/concept/570014762/2022-09-24T06:57:29.756Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014762>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:57:29.756Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300000390>;
+    <http://www.w3.org/ns/adms#identifier> _:df_646_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mijn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_646_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014762"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014762/2022-09-24T06:57:29.756Z>.
+<https://stad.gent/id/concept/570014122/2022-09-24T06:41:16.030Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014122>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:41:16.030Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q192350>;
+    <http://www.w3.org/ns/adms#identifier> _:df_763_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ministerie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_763_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014122"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014122/2022-09-24T06:41:16.030Z>.
+<https://stad.gent/id/concept/570013825/2022-09-24T06:35:32.054Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013825>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:35:32.054Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007521>;
+    <http://www.w3.org/ns/adms#identifier> _:df_805_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Minnesota"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_805_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013825"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013825/2022-09-24T06:35:32.054Z>.
+<https://stad.gent/id/concept/570012461/2022-09-24T06:08:09.701Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012461>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:08:09.701Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_994_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "midden 20ste eeuw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012473>;
+    <http://www.w3.org/2004/02/skos/core#note> "periode"@nl, "period"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012473> <http://www.w3.org/2004/02/skos/core#prefLabel> "20ste eeuw"@nl.
+_:df_994_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012461"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/570012461> <http://www.w3.org/2004/02/skos/core#prefLabel> "midden 20ste eeuw"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012461/2022-09-24T06:08:09.701Z>.
+<https://stad.gent/id/concept/570012402/2022-09-24T06:06:28.900Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012402>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:06:28.900Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7010446>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1006_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mirfield"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_1006_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012402"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012402/2022-09-24T06:06:28.900Z>.
+<https://stad.gent/id/concept/570012413/2022-09-24T06:06:38.905Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012413>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:06:38.905Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7129549>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1006_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Miehlen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl.
+_:df_1006_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012413"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012413/2022-09-24T06:06:38.905Z>.
+<https://stad.gent/id/concept/570012216/2022-09-24T06:03:42.524Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012216>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:03:42.524Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1027_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "midden 19de eeuw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003720>;
+    <http://www.w3.org/2004/02/skos/core#note> "periode"@nl, "period"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003720> <http://www.w3.org/2004/02/skos/core#prefLabel> "19de eeuw"@nl.
+_:df_1027_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012216"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012216/2022-09-24T06:03:42.524Z>.
+<https://stad.gent/id/concept/570010115/2022-09-24T05:38:38.243Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010115>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:38:38.243Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300120590>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1207_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "militair"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1207_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010115"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010115/2022-09-24T05:38:38.243Z>.
+<https://stad.gent/id/concept/570010100/2022-09-24T05:38:07.716Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010100>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:38:07.716Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300250737>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1210_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "militie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1210_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010100"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010100/2022-09-24T05:38:07.716Z>.
+<https://stad.gent/id/concept/570009873/2022-09-24T05:31:34.881Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009873>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:31:34.881Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028598>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1255_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Fijnkorrelige film van een hoge resolutie die in een rol is gewikkeld, met afbeeldingen van documenten, die kleiner zijn dan het origineel. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "microfilm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1255_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009873"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009873/2022-09-24T05:31:34.881Z>.
+<https://stad.gent/id/concept/570009874/2022-09-24T05:31:39.884Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009874>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:31:39.884Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028591>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1255_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "microfiche"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1255_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009874"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009874/2022-09-24T05:31:39.884Z>.
+<https://stad.gent/id/concept/570009175/2022-09-24T05:12:07.864Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009175>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:12:07.864Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024594>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1393_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "microscoop"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1393_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009175"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009175/2022-09-24T05:12:07.864Z>.
+<https://stad.gent/id/concept/570009062/2022-09-24T05:07:17.047Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009062>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:07:17.047Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300208278>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1429_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Keukengerei of apparaten met één of meerdere kloppers die worden gebruikt voor het mengen, kloppen of pureren van voedsel. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mixer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1429_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009062"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009062/2022-09-24T05:07:17.047Z>.
+<https://stad.gent/id/concept/570008644/2022-09-24T04:52:57.472Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008644>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:52:57.472Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q241588>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1531_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "middenklasse"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1531_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008644"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008644/2022-09-24T04:52:57.472Z>.
+<https://stad.gent/id/concept/570002433/2022-09-24T04:22:17.046Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570002433>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:22:17.046Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054552>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1750_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mineralogie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1750_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570002433"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570002433/2022-09-24T04:22:17.046Z>.
+<https://stad.gent/id/concept/570001404/2022-09-24T04:16:34.949Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001404>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:16:34.949Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055325>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1789_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "milieu"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1789_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001404"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001404/2022-09-24T04:16:34.949Z>.
+<https://stad.gent/id/concept/570000288/2022-09-24T04:08:55.443Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000288>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:08:55.443Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054710>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1843_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mijnbouw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1843_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000288"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000288/2022-09-24T04:08:55.443Z>.
+<https://stad.gent/id/concept/570000149/2022-09-24T04:07:34.393Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000149>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:07:34.393Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q12554>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1852_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "middeleeuwen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "periode"@nl, "period"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1852_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000149"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000149/2022-09-24T04:07:34.393Z>.
+<https://stad.gent/id/concept/570000115/2022-09-24T04:06:58.859Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000115>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:06:58.859Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2245203>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1858_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "MIAT"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1858_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000115"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000115/2022-09-24T04:06:58.859Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/mi.ttl> <https://w3id.org/tree#relation> _:df_1_1040.
+_:df_1_1040 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/mis.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "mis".
+<https://www.pieter.pm/coghent-substrings/thesaurus/mi.ttl> <https://w3id.org/tree#relation> _:df_1_1041.
+_:df_1_1041 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/mil.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "mil".
+<https://www.pieter.pm/coghent-substrings/thesaurus/mi.ttl> <https://w3id.org/tree#relation> _:df_1_1042.
+_:df_1_1042 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/mid.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "mid".
+<https://www.pieter.pm/coghent-substrings/thesaurus/mi.ttl> <https://w3id.org/tree#relation> _:df_1_1043.
+_:df_1_1043 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/mit.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "mit".
+<https://www.pieter.pm/coghent-substrings/thesaurus/mi.ttl> <https://w3id.org/tree#relation> _:df_1_1044.
+_:df_1_1044 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/mie.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "mie".
+<https://www.pieter.pm/coghent-substrings/thesaurus/mi.ttl> <https://w3id.org/tree#relation> _:df_1_1045.
+_:df_1_1045 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/min.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "min".
+<https://www.pieter.pm/coghent-substrings/thesaurus/mi.ttl> <https://w3id.org/tree#relation> _:df_1_1046.
+_:df_1_1046 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/miq.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "miq".
+<https://www.pieter.pm/coghent-substrings/thesaurus/mi.ttl> <https://w3id.org/tree#relation> _:df_1_1047.
+_:df_1_1047 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/mic.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "mic".
+<https://www.pieter.pm/coghent-substrings/thesaurus/mi.ttl> <https://w3id.org/tree#relation> _:df_1_1048.
+_:df_1_1048 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/mij.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "mij".
+<https://www.pieter.pm/coghent-substrings/thesaurus/mi.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/mi.ttl>.

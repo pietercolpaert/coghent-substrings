@@ -221,3 +221,295 @@ _:df_1_608 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/objectnaam.ttl>;
     <https://w3id.org/tree#value> "objectnaam".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/objectnaa.ttl>.
+<https://stad.gent/id/concept/530001970/2022-09-29T00:01:19.689Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001970>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-29T00:01:19.689Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300429077>;
+    <http://www.w3.org/ns/adms#identifier> _:df_106_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Bottles fitted with a pump or bulb that can deliver liquids such as scent in the form of a fine spray.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "parfumverstuiver"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005163>, <https://stad.gent/id/concept/530001503>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530001503> <http://www.w3.org/2004/02/skos/core#prefLabel> "verstuiver"@nl.
+<https://stad.gent/id/concept/530005163> <http://www.w3.org/2004/02/skos/core#prefLabel> "parfumfles"@nl.
+_:df_106_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001970"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001970/2022-09-29T00:01:19.689Z>.
+<https://stad.gent/id/concept/530003009/2022-09-29T00:01:24.694Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003009>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-29T00:01:24.694Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300200179>;
+    <http://www.w3.org/ns/adms#identifier> _:df_106_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine handbediende apparaatjes die worden gebruikt voor het opslaan en vermalen van peperkorrels.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pepermolen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008885>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008885> <http://www.w3.org/2004/02/skos/core#prefLabel> "keukenmolen"@nl.
+_:df_106_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003009"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003009/2022-09-29T00:01:24.694Z>.
+<https://stad.gent/id/concept/530003070/2022-09-29T00:01:29.696Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003070>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-29T00:01:29.696Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300034787>;
+    <http://www.w3.org/ns/adms#identifier> _:df_106_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "architectuurtekening"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000703>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000703> <http://www.w3.org/2004/02/skos/core#prefLabel> "tekening"@nl.
+_:df_106_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003070"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003070/2022-09-29T00:01:29.696Z>.
+<https://stad.gent/id/concept/530003071/2022-09-29T00:01:34.698Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003071>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-29T00:01:34.698Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300424100>;
+    <http://www.w3.org/ns/adms#identifier> _:df_106_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "langlaufski"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008906>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008906> <http://www.w3.org/2004/02/skos/core#prefLabel> "ski"@nl.
+_:df_106_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003071"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003071/2022-09-29T00:01:34.698Z>.
+<https://stad.gent/id/concept/530001236/2022-09-29T00:00:49.358Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001236>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-29T00:00:49.358Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300266577>;
+    <http://www.w3.org/ns/adms#identifier> _:df_109_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Apparaten, in allerlei uitvoeringen, meest piramidevormig, met een hoorbaar heen en weer bewegende wijzer, in het juiste tempo van een muziekstuk verstelbaar, aangedreven door een opwindmechaniek.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "metronoom"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008844>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008844> <http://www.w3.org/2004/02/skos/core#prefLabel> "geluidsmiddel"@nl.
+_:df_109_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001236"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001236/2022-09-29T00:00:49.358Z>.
+<https://stad.gent/id/concept/530001262/2022-09-29T00:00:54.359Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001262>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-29T00:00:54.359Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041341>;
+    <http://www.w3.org/ns/adms#identifier> _:df_109_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gravures waarbij de afbeelding is gesneden in een koperen plaat.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kopergravure"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005497>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005497> <http://www.w3.org/2004/02/skos/core#prefLabel> "gravure"@nl.
+_:df_109_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001262"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001262/2022-09-29T00:00:54.359Z>.
+<https://stad.gent/id/concept/530001799/2022-09-29T00:01:04.683Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001799>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-29T00:01:04.683Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300427564>;
+    <http://www.w3.org/ns/adms#identifier> _:df_109_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Devices of various designs used to automatically milk cows via physical and vacuum pressure.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "melkmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008780>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008780> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting (objectnaam)"@nl.
+_:df_109_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001799"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001799/2022-09-29T00:01:04.683Z>.
+<https://stad.gent/id/concept/530001896/2022-09-29T00:01:09.685Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001896>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-29T00:01:09.685Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300386587>;
+    <http://www.w3.org/ns/adms#identifier> _:df_109_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine wijnglazen met een specifieke vorm en grootte waaruit sherry (een versterkte Spaanse wijn) wordt gedronken. Sherryglazen hebben een ronde voet, een steel en een kleine kelk. Vaak loopt de kelk de kelk taps toe, is gekleurd bij de rand en wordt geleidelijk lichter, zodat hij een lichte kleur heeft of kleurloos is bij de bovenkant van de steel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sherryglas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002703>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530002703> <http://www.w3.org/2004/02/skos/core#prefLabel> "wijnglas"@nl.
+_:df_109_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001896"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001896/2022-09-29T00:01:09.685Z>.
+<https://stad.gent/id/concept/530000469/2022-09-29T00:00:24.346Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000469>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-29T00:00:24.346Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300221555>;
+    <http://www.w3.org/ns/adms#identifier> _:df_112_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een kleine vork, meestal met drie tanden, die wordt gebruikt voor het vasthouden van een stuk fruit terwijl het met een fruitmes wordt geschild of gesneden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fruitvork"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002989>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530002989> <http://www.w3.org/2004/02/skos/core#prefLabel> "vork behorend bij een couvert"@nl.
+_:df_112_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000469"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000469/2022-09-29T00:00:24.346Z>.
+<https://stad.gent/id/concept/530000479/2022-09-29T00:00:29.351Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000479>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-29T00:00:29.351Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300400898>;
+    <http://www.w3.org/ns/adms#identifier> _:df_112_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Twee of meer beeldhouwwerken die gemaakt zijn om samen te worden getoond.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldengroep"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004716>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004716> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldhouwwerk"@nl.
+_:df_112_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000479"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000479/2022-09-29T00:00:29.351Z>.
+<https://stad.gent/id/concept/530000650/2022-09-29T00:00:34.353Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000650>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-29T00:00:34.353Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300241913>;
+    <http://www.w3.org/ns/adms#identifier> _:df_112_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Worden gebruikt voor kleine, vaak compacte verrekijkers die binnen worden gebruikt, bijvoorbeeld in het theater of bij concerten. Omvat ook kijkers waaraan een afneembare stok of handvat zit om ze vast te houden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toneelkijker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008830>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008830> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting voor persoonlijk gebruik"@nl.
+_:df_112_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000650"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000650/2022-09-29T00:00:34.353Z>.
+<https://stad.gent/id/concept/530000709/2022-09-29T00:00:39.354Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000709>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-29T00:00:39.354Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300430448>;
+    <http://www.w3.org/ns/adms#identifier> _:df_112_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bordenrek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008714>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008714> <http://www.w3.org/2004/02/skos/core#prefLabel> "standaard (ondersteunend meubilair)"@nl.
+_:df_112_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000709"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000709/2022-09-29T00:00:39.354Z>.
+<https://stad.gent/id/concept/530001002/2022-09-29T00:00:44.356Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001002>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-29T00:00:44.356Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300431893>;
+    <http://www.w3.org/ns/adms#identifier> _:df_112_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Tafels voor naaiwerk.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "naaitafel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006175>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006175> <http://www.w3.org/2004/02/skos/core#prefLabel> "tafel (dragend meubilair)"@nl.
+_:df_112_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001002"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001002/2022-09-29T00:00:44.356Z>.
+<https://stad.gent/id/concept/530000418/2022-09-29T00:00:14.336Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000418>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-29T00:00:14.336Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300261032>;
+    <http://www.w3.org/ns/adms#identifier> _:df_115_35;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor kleine standaarden, vaak versierd, waarin een horloge rechtop kan staan zodat het uurwerk te zien is, of om het horloge vast te zetten tijdens montage, reparatie of testen. Ook te gebruiken voor kleine standaarden met een voet en een ronde glazen of plastic top, sinds de 20ste eeuw in gebruik om zakhorloges tentoon te stellen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "horlogestandaard"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009489>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009489> <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten (ok)"@nl.
+_:df_115_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000418"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000418/2022-09-29T00:00:14.336Z>.
+<https://stad.gent/id/concept/530000426/2022-09-29T00:00:19.339Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000426>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-29T00:00:19.339Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046266>;
+    <http://www.w3.org/ns/adms#identifier> _:df_115_41;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Accessoires voor het op het lichaam dragen van cosmetica. Meestal zijn ze gemaakt van metaal of plastic, en ze kunnen vrij decoratief zijn. De binnenkant bevat meestal een spiegel in het deksel van de ene helft en gezichtspoeder in de andere helft, maar kan ook vakjes hebben voor rouge of lippenstift, of een onderdeel voor de bevestiging van een lippenstiftkoker.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "poederdoos"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009244>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009244> <http://www.w3.org/2004/02/skos/core#prefLabel> "houder voor persoonlijk gebruik"@nl.
+_:df_115_41 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000426"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000426/2022-09-29T00:00:19.339Z>.
+<https://stad.gent/id/concept/530001529/2022-09-28T00:00:42.013Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001529>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-28T00:00:42.013Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300145852>;
+    <http://www.w3.org/ns/adms#identifier> _:df_118_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kannen, in vorm vaak gelijkend op koffiekannen, met verschuifbare of uitneembare dekselknop voor een roerstaaf en soms met een horizontaal handvat.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "chocoladekan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008268>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008268> <http://www.w3.org/2004/02/skos/core#prefLabel> "vaatwerk (culinaire houder)"@nl.
+_:df_118_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001529"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001529/2022-09-28T00:00:42.013Z>.
+<https://stad.gent/id/concept/530001635/2022-09-28T00:00:47.016Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001635>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-28T00:00:47.016Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300121340>;
+    <http://www.w3.org/ns/adms#identifier> _:df_118_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Lange, lage, gestoffeerde stoelen van Turkse afkomst, meestal zonder rug- of armleuningen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "divan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006561>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006561> <http://www.w3.org/2004/02/skos/core#prefLabel> "sofa"@nl.
+_:df_118_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001635"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001635/2022-09-28T00:00:47.016Z>.
+<https://stad.gent/id/concept/530003731/2022-09-28T00:00:52.023Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003731>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-28T00:00:52.023Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027221>;
+    <http://www.w3.org/ns/adms#identifier> _:df_118_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Aankondigingen die zijn bedoeld om te worden opgeplakt als advertentie, reclame of als kennisgeving van een activiteit, doeleinde, product of dienst. Wordt ook gebruikt voor in grote hoeveelheden geproduceerde decoratieve afdrukken die zijn bedoeld om te worden opgehangen. Voor kleine gedrukte aankondigingen die zijn bedoeld om handmatig te worden uitgedeeld wordt 'strooibiljetten' gebruikt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "affiche"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008576>, <https://stad.gent/id/concept/530008574>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008574> <http://www.w3.org/2004/02/skos/core#prefLabel> "informatiedrager"@nl.
+<https://stad.gent/id/concept/530008576> <http://www.w3.org/2004/02/skos/core#prefLabel> "drukwerk"@nl.
+_:df_118_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003731"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003731/2022-09-28T00:00:52.023Z>.
+<https://stad.gent/id/concept/530000261/2022-09-28T00:00:16.995Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000261>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-28T00:00:16.995Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300199807>;
+    <http://www.w3.org/ns/adms#identifier> _:df_121_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gereedschap dat wordt gebruikt om van druiventrossen kleinere trossen te knippen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "druivenschaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008614>, <https://stad.gent/id/concept/530000401>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000401> <http://www.w3.org/2004/02/skos/core#prefLabel> "schaar"@nl.
+<https://stad.gent/id/concept/530008614> <http://www.w3.org/2004/02/skos/core#prefLabel> "culinaire uitrusting"@nl.
+_:df_121_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000261"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000261/2022-09-28T00:00:16.995Z>.
+<https://stad.gent/id/concept/530000366/2022-09-28T00:00:27.004Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000366>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-28T00:00:27.004Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300199837>;
+    <http://www.w3.org/ns/adms#identifier> _:df_121_34;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar een algemeen type standaardlepel waarmee wordt gegeten, evenals naar alle lepels die deel uitmaken van een couvert, of eigenlijk naar alle lepels die bedoeld zijn om mee te eten, en dus niet om eten mee op te dienen. Tafellepels zijn iets groter dan theelepels.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bouillonlepel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006317>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006317> <http://www.w3.org/2004/02/skos/core#prefLabel> "tafellepel"@nl.
+_:df_121_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000366"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000366/2022-09-28T00:00:27.004Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/objectnaa.ttl> <https://w3id.org/tree#relation> _:df_1_221.
+_:df_1_221 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/objectnaam.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "objectnaam".
+<https://www.pieter.pm/coghent-substrings/thesaurus/objectnaa.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/objectnaa.ttl>.

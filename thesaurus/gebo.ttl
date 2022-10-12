@@ -1,0 +1,29 @@
+<https://stad.gent/id/concept/570017675/2022-09-20T00:00:54.408Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017675>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-20T00:00:54.408Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053653>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3622_36;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "erwijst naar het procedé waarbij een naald en een draad of een dunne metaaldraad worden gebruikt voor het stikken van decoratieve patronen in stof, leer, papier of ander materiaal. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "geborduurd"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en, "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3622_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017675"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017675/2022-09-20T00:00:54.408Z>.
+<https://stad.gent/id/concept/530001568/2022-09-15T00:00:49.615Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001568>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-15T00:00:49.615Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411588>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3664_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Zilveren lepels met toepasselijke versiering die vroeger vaak aan een jonggeborene (resp. zijn moeder) ten geschenke werden gegeven.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "geboortelepel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008800>, <https://stad.gent/id/concept/530007905>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530007905> <http://www.w3.org/2004/02/skos/core#prefLabel> "lepel"@nl.
+<https://stad.gent/id/concept/530008800> <http://www.w3.org/2004/02/skos/core#prefLabel> "aandenken"@nl.
+_:df_3664_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001568"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001568/2022-09-15T00:00:49.615Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/gebo.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/gebo.ttl>.

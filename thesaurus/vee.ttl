@@ -23,3 +23,60 @@ _:df_1474_25 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570021784"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570021784/2021-11-01T01:36:21.522Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/vee.ttl>.
+<https://stad.gent/id/concept/570006122/2022-09-24T04:34:20.295Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006122>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:34:20.295Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q80962>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1663_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "veehouderij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1663_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006122"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006122/2022-09-24T04:34:20.295Z>.
+<https://stad.gent/id/concept/550008399/2022-09-24T03:30:41.517Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008399>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:30:41.517Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011809>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2116_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een van de lichte, hoornachtige uitgroeiïngen van de opperhuid, die de buitenste bedekking van een vogellichaam vormen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "veer (materiaal)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008758>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550006196>, <https://stad.gent/id/concept/550005031>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005031> <http://www.w3.org/2004/02/skos/core#prefLabel> "struisvogelveer"@nl.
+<https://stad.gent/id/concept/550006196> <http://www.w3.org/2004/02/skos/core#prefLabel> "ijsvogelveer"@nl.
+<https://stad.gent/id/concept/550008758> <http://www.w3.org/2004/02/skos/core#prefLabel> "keratinisch materiaal"@nl.
+_:df_2116_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008399"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008399/2022-09-24T03:30:41.517Z>.
+<https://stad.gent/id/concept/550008385/2022-09-24T03:30:00.395Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008385>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:30:00.395Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900027590>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2119_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Objecten die worden gebruikt bij het fokken, verzorgen en bestuderen van dieren. Waaronder: instrumenten voor diergeneeskunde en gereedschap van de hoefsmederij.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "veeteeltuitrusting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007772>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001979>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001979> <http://www.w3.org/2004/02/skos/core#prefLabel> "schapenschaar"@nl.
+<https://stad.gent/id/concept/550007772> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting naar proces"@nl.
+_:df_2119_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008385"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008385/2022-09-24T03:30:00.395Z>.
+<https://stad.gent/id/concept/670006869/2022-09-09T09:12:36.708Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006869>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:12:36.708Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/5849>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3859_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Veerdreef"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3859_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006869"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006869/2022-09-09T09:12:36.708Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/vee.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/vee.ttl>.

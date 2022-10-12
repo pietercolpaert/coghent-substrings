@@ -12,3 +12,31 @@ _:df_2926_33 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570012485"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012485/2021-10-31T22:11:27.645Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/tai.ttl>.
+<https://stad.gent/id/concept/570012485/2022-09-24T06:08:45.125Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012485>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:08:45.125Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000141>;
+    <http://www.w3.org/ns/adms#identifier> _:df_991_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Taiwan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570016879>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570016879> <http://www.w3.org/2004/02/skos/core#prefLabel> "China"@nl.
+_:df_991_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012485"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012485/2022-09-24T06:08:45.125Z>.
+<https://stad.gent/id/concept/550006266/2022-09-24T02:10:56.083Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006266>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:10:56.083Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000141>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2683_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Taiwan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550003505>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003505> <http://www.w3.org/2004/02/skos/core#prefLabel> "Azië"@nl.
+_:df_2683_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006266"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006266/2022-09-24T02:10:56.083Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/tai.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/tai.ttl>.

@@ -34,3 +34,75 @@ _:df_2647_15 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570014438"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014438/2021-10-31T22:50:57.043Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/san.ttl>.
+<https://stad.gent/id/concept/550008584/2022-09-24T03:35:24.364Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008584>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:35:24.364Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046077>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2080_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Schoenen die voornamelijk bestaan uit een zool die aan de voet is bevestigd door middel van riempjes, banden of koorden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sandaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008317>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008317> <http://www.w3.org/2004/02/skos/core#prefLabel> "schoeisel naar vorm"@nl.
+_:df_2080_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008584"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008584/2022-09-24T03:35:24.364Z>.
+<https://stad.gent/id/concept/550008352/2022-09-24T03:27:13.511Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008352>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:27:13.511Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300052575>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2140_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor de vergaarbakken van afvoersystemen (geen sifons) die bedoeld zijn om water op te vangen en weg te laten spoelen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sanitaire installatie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007804>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005378>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005378> <http://www.w3.org/2004/02/skos/core#prefLabel> "toilet (sanitair)"@nl.
+<https://stad.gent/id/concept/550007804> <http://www.w3.org/2004/02/skos/core#prefLabel> "onderdelen van loodgieterswerk en afvoersystemen voor regenwater"@nl.
+_:df_2140_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008352"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008352/2022-09-24T03:27:13.511Z>.
+<https://stad.gent/id/concept/550006436/2022-09-24T02:17:09.403Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006436>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:17:09.403Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7014456>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2638_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "San Francisco"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005607>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005607> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten"@nl.
+_:df_2638_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006436"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006436/2022-09-24T02:17:09.403Z>.
+<https://stad.gent/id/concept/550004310/2022-09-24T01:02:37.686Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004310>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:02:37.686Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1046532>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3169_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "San Giovanni Lupatoto"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550000038>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000038> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_3169_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004310"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004310/2022-09-24T01:02:37.686Z>.
+<https://stad.gent/id/concept/550003111/2022-09-24T00:45:25.142Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003111>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:45:25.142Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300012724>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3292_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een compact, dicht generfd, geurig en geelachtig hout, dat het kernhout is van een Indomaleise parasitaire boom.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sandelhout"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008734>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008734> <http://www.w3.org/2004/02/skos/core#prefLabel> "hout naar samenstelling of herkomst"@nl.
+_:df_3292_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003111"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003111/2022-09-24T00:45:25.142Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/san.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/san.ttl>.

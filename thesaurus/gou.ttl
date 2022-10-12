@@ -20,3 +20,86 @@ _:df_2755_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570013658"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013658/2021-10-31T22:35:31.315Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/gou.ttl>.
+<https://stad.gent/id/concept/550005748/2022-09-24T01:52:00.428Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005748>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:52:00.428Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300070114>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2818_18;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Ondoorzichtige verf op waterbasis, meestal samengesteld uit pigment in Arabische gom met een witte stof die dekking bevordert; kan worden gebruikt voor accenten in aquarellen of voor hele schilderijen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gouache (waterverf)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550000205>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000205> <http://www.w3.org/2004/02/skos/core#prefLabel> "waterverf"@nl.
+_:df_2818_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005748"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005748/2022-09-24T01:52:00.428Z>.
+<https://stad.gent/id/concept/550004938/2022-09-24T01:24:26.007Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004938>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:24:26.007Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3016_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gouden rijder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007977>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007977> <http://www.w3.org/2004/02/skos/core#prefLabel> "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl.
+_:df_3016_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004938"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004938/2022-09-24T01:24:26.007Z>.
+<https://stad.gent/id/concept/550004294/2022-09-24T01:02:07.004Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004294>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:02:07.004Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006805>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3175_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gouda"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006121>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006121> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_3175_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004294"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004294/2022-09-24T01:02:07.004Z>.
+<https://stad.gent/id/concept/550002936/2022-09-24T00:43:39.346Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002936>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:43:39.346Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900030666>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3304_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Goudleer, ook wel Cordoba-leer of Cuir de Cordoue, is een wanddecoratie van fijn leer (meestal van gelooide kalfshuiden), waarop afbeeldingen van bladzilver werden bevestigd, afgedekt met een goudkleurige vernis. Goudleerbehang diende tot het behangen van vertrekken in plaats van wandtapijten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "goudleer (behang)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007891>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007891> <http://www.w3.org/2004/02/skos/core#prefLabel> "muurbedekkingen naar vorm"@nl.
+_:df_3304_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002936"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002936/2022-09-24T00:43:39.346Z>.
+<https://stad.gent/id/concept/550002053/2022-09-24T00:32:23.474Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002053>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:32:23.474Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011021>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3385_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor het zuivere metaalelement met het symbool Au en het atoomnummer 79. Het is een zacht, zwaar, chemisch inactief en geel metaal en wordt al sinds de oudheid als edel beschouwd. Het dient in vele culturen als de basis voor materiële handelswaarden. Ook te gebruiken voor het metaal wanneer het wordt bewerkt en vervormd om, meestal in combinatie met andere stoffen, verschillende voorwerpen en materialen te maken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "goud"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008753>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008753> <http://www.w3.org/2004/02/skos/core#prefLabel> "goud en goudlegering"@nl.
+_:df_3385_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002053"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002053/2022-09-24T00:32:23.474Z>.
+<https://stad.gent/id/concept/530008720/2022-09-14T00:02:14.977Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008720>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-14T00:02:14.977Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411562>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3682_44;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Goudleer, ook wel Cordoba-leer of Cuir de Cordoue, is een wanddecoratie van fijn leer (meestal van gelooide kalfshuiden), waarop afbeeldingen van bladzilver werden bevestigd, afgedekt met een goudkleurige vernis. Goudleerbehang diende tot het behangen van vertrekken in plaats van wandtapijten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "goudleerbehang"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008649>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008649> <http://www.w3.org/2004/02/skos/core#prefLabel> "muurbedekking"@nl.
+_:df_3682_44 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008720"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008720/2022-09-14T00:02:14.977Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/gou.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/gou.ttl>.

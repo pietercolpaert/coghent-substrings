@@ -42,3 +42,69 @@ _:df_2683_15 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570014239"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014239/2021-10-31T22:45:52.799Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/paa.ttl>.
+<https://stad.gent/id/concept/570008668/2022-09-24T04:53:57.894Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008668>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:53:57.894Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q61961639>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1522_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "paarden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1522_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008668"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008668/2022-09-24T04:53:57.894Z>.
+<https://stad.gent/id/concept/570008667/2022-09-24T04:53:52.893Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008667>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:53:52.893Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q235356>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1525_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "paardenrijtuig"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1525_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008667"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008667/2022-09-24T04:53:52.893Z>.
+<https://stad.gent/id/concept/550008285/2022-09-24T03:21:49.894Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008285>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:21:49.894Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300036900>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2179_30;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt in het algemeen gebruikt voor harnasstukken die door een paard worden gedragen. Gebruik 'paardenharnas' voor het gehele harnas van een paard.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "paardeharnasstuk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008151>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008151> <http://www.w3.org/2004/02/skos/core#prefLabel> "dierenuitrusting"@nl.
+_:df_2179_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008285"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008285/2022-09-24T03:21:49.894Z>.
+<https://stad.gent/id/concept/550003098/2022-09-24T00:45:20.139Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003098>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:45:20.139Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011835>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3292_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Harde, parelachtige, regenboogkleurige binnenlaag van verscheidene soorten weekdierschelpen; wordt veel gebruikt voor het maken van kleine voorwerpen en inlegsels.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "paarlemoer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008832>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008832> <http://www.w3.org/2004/02/skos/core#prefLabel> "schelp en schelpmateriaal"@nl.
+_:df_3292_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003098"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003098/2022-09-24T00:45:20.139Z>.
+<https://stad.gent/id/concept/550001517/2022-09-24T00:21:41.420Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001517>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:21:41.420Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300257363>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3463_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Dekens in verschillende materialen om paarden te bedekken; ter bescherming of ter voorkoming van sterke vachtgroei.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "paardedeken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008280>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008280> <http://www.w3.org/2004/02/skos/core#prefLabel> "dekens naar locatie of context"@nl.
+_:df_3463_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001517"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001517/2022-09-24T00:21:41.420Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/paa.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/paa.ttl>.

@@ -52,3 +52,27 @@ _:df_2821_15 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570013226"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013226/2021-10-31T22:26:10.568Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/prod.ttl>.
+<https://stad.gent/id/concept/670006803/2022-09-09T09:07:29.503Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006803>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:07:29.503Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q3282637>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3895_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "producent"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3895_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006803"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006803/2022-09-09T09:07:29.503Z>.
+<https://stad.gent/id/concept/670006769/2022-09-09T09:04:48.103Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006769>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:04:48.103Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q11396960>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3916_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "productiehuis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3916_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006769"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006769/2022-09-09T09:04:48.103Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/prod.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/prod.ttl>.

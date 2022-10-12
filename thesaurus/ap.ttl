@@ -148,3 +148,88 @@ _:df_2788_10 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570013433"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013433/2021-10-31T22:30:46.195Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ap.ttl>.
+<https://stad.gent/id/concept/570017363/2022-09-24T08:05:37.801Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017363>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T08:05:37.801Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300188530>;
+    <http://www.w3.org/ns/adms#identifier> _:df_160_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Personen die onderzoek of werkzaamheden verrichten met betrekking tot het prepareren, conserveren, samenstellen en verspreiden van geneesmiddelen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "apotheker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_160_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017363"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017363/2022-09-24T08:05:37.801Z>.
+<https://stad.gent/id/concept/570015889/2022-09-24T07:21:51.255Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015889>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:21:51.255Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q312>;
+    <http://www.w3.org/ns/adms#identifier> _:df_472_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Apple"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_472_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015889"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015889/2022-09-24T07:21:51.255Z>.
+<https://stad.gent/id/concept/570014900/2022-09-24T07:00:46.387Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014900>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:00:46.387Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300419295>;
+    <http://www.w3.org/ns/adms#identifier> _:df_625_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "apotheek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_625_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014900"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014900/2022-09-24T07:00:46.387Z>.
+<https://stad.gent/id/concept/570013433/2022-09-24T06:27:56.141Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013433>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:27:56.141Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7244706>;
+    <http://www.w3.org/ns/adms#identifier> _:df_853_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Appelterre-Eichem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl.
+_:df_853_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013433"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013433/2022-09-24T06:27:56.141Z>.
+<https://stad.gent/id/concept/570009336/2022-09-24T05:19:20.945Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009336>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:19:20.945Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300378929>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1342_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Flessen, gewoonlijk van glas, om medicijnen in te bewaren in apotheken, vaak met bijbehorende stoppen van glas of kurk. De naam van de inhoud stond op de fles op labels of in reliëfletters op het glas. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "apothekersfles"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1342_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009336"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009336/2022-09-24T05:19:20.945Z>.
+<https://stad.gent/id/concept/550006250/2022-09-24T02:10:00.660Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006250>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:10:00.660Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006898>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2689_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Apeldoorn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006121>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006121> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl, "Nederland"@nl.
+_:df_2689_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006250"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006250/2022-09-24T02:10:00.660Z>.
+<https://stad.gent/id/concept/550000166/2022-09-24T00:02:56.005Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000166>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:02:56.005Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053646>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3595_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het uitvoeren van een ontwerp door middel van het aanbrengen van uitgesneden stukken materiaal of voorwerpen, zoals dekschilden van insecten of kralen op een basismateriaal. Wordt meestal geassocieerd met naaldwerk, maar ook wel gebruikt in keramiek, leer-, hout- en metaalbewerking.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "appliqué"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3595_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000166"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000166/2022-09-24T00:02:56.005Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/ap.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ap.ttl>.

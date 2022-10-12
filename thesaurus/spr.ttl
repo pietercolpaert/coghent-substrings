@@ -31,3 +31,76 @@ _:df_2446_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570015634"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015634/2021-10-31T23:19:06.038Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/spr.ttl>.
+<https://stad.gent/id/concept/570006973/2022-09-24T04:38:57.695Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006973>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:38:57.695Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7014533>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1630_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Springfield"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_1630_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006973"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006973/2022-09-24T04:38:57.695Z>.
+<https://stad.gent/id/concept/550007881/2022-09-24T02:48:33.019Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007881>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:48:33.019Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300197889>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2416_44;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Term die voorheen werd gebruikt voor verschillende bedovertrekken, voornamelijk wanneer ze van katoen of van wol zijn geweven; vanaf het midden van de 19e eeuw werd de term doorgaans vervangen door 'spreien'.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sprei"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007882>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007882> <http://www.w3.org/2004/02/skos/core#prefLabel> "beddenkleed"@nl.
+_:df_2416_44 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007881"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007881/2022-09-24T02:48:33.019Z>.
+<https://stad.gent/id/concept/550005637/2022-09-24T01:48:38.677Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005637>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:48:38.677Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300201505>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2842_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Jachtgeweren met een korte loop en een groot kaliber die langzaam wijder wordt in de lengte, om meestal uit te monden in een verwijde of verdikte monding.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spreidloopgeweer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008332>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008332> <http://www.w3.org/2004/02/skos/core#prefLabel> "hagelgeweer"@nl.
+_:df_2842_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005637"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005637/2022-09-24T01:48:38.677Z>.
+<https://stad.gent/id/concept/530005545/2022-09-15T00:02:35.262Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005545>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-15T00:02:35.262Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300380569>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3652_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een techniek uit de oudheid voor de productie van stof, van voor de ontwikkeling van breien en haken. In deze techniek worden parallelle draden vervlochten met andere, op een frame vastgebonden draden. De term verwijst ook naar de netachtige stof die met deze techniek geproduceerd wordt. Hoofddeksels, riemen en andere voorwerpen van sprang uit de bronstijd en later zijn gevonden op archeologische vindplaatsen in Scandinavië, Europa en Egypte. \r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sprangtechniek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530007960>, <https://stad.gent/id/concept/530004454>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004454> <http://www.w3.org/2004/02/skos/core#prefLabel> "weven"@nl.
+<https://stad.gent/id/concept/530007960> <http://www.w3.org/2004/02/skos/core#prefLabel> "vlechten"@nl.
+_:df_3652_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005545"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005545/2022-09-15T00:02:35.262Z>.
+<https://stad.gent/id/concept/530005545/2022-09-14T00:01:34.591Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005545>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-14T00:01:34.591Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300380569>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3685_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een techniek uit de oudheid voor de productie van stof, van voor de ontwikkeling van breien en haken. In deze techniek worden parallelle draden vervlochten met andere, op een frame vastgebonden draden. De term verwijst ook naar de netachtige stof die met deze techniek geproduceerd wordt. Hoofddeksels, riemen en andere voorwerpen van sprang uit de bronstijd en later zijn gevonden op archeologische vindplaatsen in Scandinavië, Europa en Egypte. \r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sprangtechniek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530007960>, <https://stad.gent/id/concept/530004454>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004454> <http://www.w3.org/2004/02/skos/core#prefLabel> "weven"@nl.
+<https://stad.gent/id/concept/530007960> <http://www.w3.org/2004/02/skos/core#prefLabel> "vlechten"@nl.
+_:df_3685_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005545"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005545/2022-09-14T00:01:34.591Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/spr.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/spr.ttl>.

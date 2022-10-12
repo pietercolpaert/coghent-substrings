@@ -9,3 +9,20 @@ _:df_2812_15 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570013296"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013296/2021-10-31T22:27:27.028Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bit.ttl>.
+<https://stad.gent/id/concept/550008283/2022-09-24T03:21:39.889Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008283>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:21:39.889Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300248085>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2179_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Mondstukken van het hoofdstel, met aan elke kant hulpstukken waaraan de teugels zijn bevestigd";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bit"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008284>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008284> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrustingsonderdelen voor landvoertuigen"@nl.
+_:df_2179_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008283"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008283> <http://www.w3.org/2004/02/skos/core#prefLabel> "bit"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008283/2022-09-24T03:21:39.889Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/bit.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bit.ttl>.

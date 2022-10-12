@@ -115,3 +115,99 @@ _:df_3136_26 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010129"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010129/2021-10-31T21:41:51.777Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/naa.ttl>.
+<https://stad.gent/id/concept/550007948/2022-09-24T02:54:05.841Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007948>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:54:05.841Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300264072>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2374_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar werken die worden uitgevoerd met een of meer naalden en draad, garen of koord. De term verwijst in het algemeen naar handwerk. Naaldwerk omvat naaiwerk, borduurwerk, breiwerk, en andere vormen van handwerken. Tot de 20ste eeuw was ‘naaien’ de meest beoefende vorm van naaldwerk in westerse culturen. De meeste meisjes en vrouwen leerden de basisbeginselen van naaien en breien, die zij gebruikten voor het maken van kleding en de afwerking van huishoudtextiel. Sinds de opkomst van het machinaal naaien beperkt het handnaaldwerk zich vaak tot decoratief werk.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "naaldwerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007769>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005003>, <https://stad.gent/id/concept/550003229>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003229> <http://www.w3.org/2004/02/skos/core#prefLabel> "kant (naaldwerk)"@nl.
+<https://stad.gent/id/concept/550005003> <http://www.w3.org/2004/02/skos/core#prefLabel> "borduurwerk"@nl.
+<https://stad.gent/id/concept/550007769> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldmateriaal naar medium of techniek"@nl.
+_:df_2374_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007948"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007948/2022-09-24T02:54:05.841Z>.
+<https://stad.gent/id/concept/550006858/2022-09-24T02:30:47.597Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006858>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:30:47.597Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007045>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2542_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Naarden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006121>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006121> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl, "Nederland"@nl, "Nederland"@nl.
+_:df_2542_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006858"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006858/2022-09-24T02:30:47.597Z>.
+<https://stad.gent/id/concept/550005867/2022-09-24T01:56:02.646Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005867>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:56:02.646Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2788_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "aanslaglijst van een deur of raam (ook tegen tocht). bij een tweedelige deur of raam ook de middenstijl waartegen de vleugels sluiten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "naald (deur)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008229>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008229> <http://www.w3.org/2004/02/skos/core#prefLabel> "deuronderdelen"@nl.
+_:df_2788_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005867"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005867/2022-09-24T01:56:02.646Z>.
+<https://stad.gent/id/concept/550005759/2022-09-24T01:52:25.969Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005759>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:52:25.969Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2815_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "naaldenkoker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550002064>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002064> <http://www.w3.org/2004/02/skos/core#prefLabel> "koker"@nl.
+_:df_2815_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005759"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005759/2022-09-24T01:52:25.969Z>.
+<https://stad.gent/id/concept/550005199/2022-09-24T01:32:20.138Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005199>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:32:20.138Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024789>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2959_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "naald"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008259>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008259> <http://www.w3.org/2004/02/skos/core#prefLabel> "pons (gereedschap)"@nl.
+_:df_2959_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005199"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005199/2022-09-24T01:32:20.138Z>.
+<https://stad.gent/id/concept/550005040/2022-09-24T01:26:47.004Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005040>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:26:47.004Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053658>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2998_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "In het algemeen te gebruiken voor het samenvoegen van materialen met draad, touw of andere fijne draad met een naald of een priem. De betekenis overlapt met 'stikken'.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "naaien"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2998_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005040"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005040/2022-09-24T01:26:47.004Z>.
+<https://stad.gent/id/concept/550004973/2022-09-24T01:25:11.033Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004973>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:25:11.033Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300231662>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3010_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kanttechniek waarbij op een tijdelijke drager (meestal) een tekening wordt aangebracht, omtrekdraden worden gelegd en vastgemaakt . Met feston-en knoopgatsteken worden de motieven opgevuld. Als het werk af is wordt het kantwerk van de ondergrond losgemaakt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "naaldkant"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008404>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en, "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008404> <http://www.w3.org/2004/02/skos/core#prefLabel> "kant (materiaal)"@nl.
+_:df_3010_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004973"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004973/2022-09-24T01:25:11.033Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/naa.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/naa.ttl>.

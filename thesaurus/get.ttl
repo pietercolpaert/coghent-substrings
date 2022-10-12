@@ -31,3 +31,51 @@ _:df_2776_11 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570013502"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013502/2021-10-31T22:32:41.208Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/get.ttl>.
+<https://stad.gent/id/concept/570016573/2022-09-24T07:40:25.435Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016573>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:40:25.435Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026676>;
+    <http://www.w3.org/ns/adms#identifier> _:df_340_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "getuigschrift"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_340_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016573"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016573/2022-09-24T07:40:25.435Z>.
+<https://stad.gent/id/concept/570015910/2022-09-24T07:22:51.675Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015910>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:22:51.675Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300247546>;
+    <http://www.w3.org/ns/adms#identifier> _:df_466_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "getouwen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_466_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015910"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015910/2022-09-24T07:22:51.675Z>.
+<https://stad.gent/id/concept/570013502/2022-09-24T06:30:19.420Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013502>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:30:19.420Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300068836>;
+    <http://www.w3.org/ns/adms#identifier> _:df_841_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "getijden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_841_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013502"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013502/2022-09-24T06:30:19.420Z>.
+<https://stad.gent/id/concept/550005266/2022-09-24T01:36:06.882Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005266>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:36:06.882Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026676>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2932_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Documenten die het karakter van een persoon of de waarde van een object bevestigen. In specifieke zin, geschreven verklaringen van de prestaties van een individu of het nut van een product of dienst, zoals een endossement.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "getuigschrift"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008097>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008097> <http://www.w3.org/2004/02/skos/core#prefLabel> "verkondigende documenten"@nl.
+_:df_2932_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005266"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005266/2022-09-24T01:36:06.882Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/get.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/get.ttl>.

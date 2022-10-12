@@ -1,0 +1,26 @@
+<https://stad.gent/id/concept/570002099/2022-09-24T04:20:19.794Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570002099>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:20:19.794Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055527>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1762_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "liberalisme"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1762_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570002099"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570002099/2022-09-24T04:20:19.794Z>.
+<https://stad.gent/id/concept/550001456/2022-09-24T00:20:30.871Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001456>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:20:30.871Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1103397>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3469_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Libische woestijn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008921>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008921> <http://www.w3.org/2004/02/skos/core#prefLabel> "Afrika"@nl.
+_:df_3469_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001456"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001456/2022-09-24T00:20:30.871Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/lib.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/lib.ttl>.

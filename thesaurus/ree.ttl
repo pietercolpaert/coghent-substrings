@@ -1,0 +1,14 @@
+<https://stad.gent/id/concept/570008913/2022-09-24T05:02:29.456Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008913>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:02:29.456Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1462_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Reep"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000757>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000757> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gent"@nl.
+_:df_1462_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008913"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008913/2022-09-24T05:02:29.456Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/ree.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ree.ttl>.

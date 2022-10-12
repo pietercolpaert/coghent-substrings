@@ -38,3 +38,41 @@ _:df_1714_28 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570019415"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019415/2021-11-01T01:02:31.603Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/mai.ttl>.
+<https://stad.gent/id/concept/570014484/2022-09-24T06:48:49.707Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014484>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:48:49.707Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/20267>;
+    <http://www.w3.org/ns/adms#identifier> _:df_709_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Maison de Maître Brasseur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008925>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008925> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coupure"@nl.
+_:df_709_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014484"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014484/2022-09-24T06:48:49.707Z>.
+<https://stad.gent/id/concept/550006349/2022-09-24T02:14:18.026Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006349>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:14:18.026Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2659_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mainz"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004734>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl, "Duitsland"@nl.
+_:df_2659_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006349"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006349/2022-09-24T02:14:18.026Z>.
+<https://stad.gent/id/concept/670006822/2022-09-09T09:08:55.184Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006822>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:08:55.184Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1720>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3886_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mainz"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3886_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006822"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006822/2022-09-09T09:08:55.184Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/mai.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/mai.ttl>.

@@ -19,3 +19,19 @@ _:df_2491_13 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570015304"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015304/2021-10-31T23:13:01.109Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/kla.ttl>.
+<https://stad.gent/id/concept/550004775/2022-09-24T01:18:51.672Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004775>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:18:51.672Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300042447>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3055_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Algemeen te gebruiken voor alle rietinstrumenten met een enkel riet en doorgaans een cilindrische boring. Specifiek te gebruiken voor die rietinstrumenten met een enkel riet die als solo- en orkestinstrumenten worden gebruikt in westerse klassieke, jazz-, volks- en fanfaremuziek.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "klarinet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008198>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008198> <http://www.w3.org/2004/02/skos/core#prefLabel> "rietinstrumenten met enkel riet: met cylindrische boring"@nl.
+_:df_3055_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004775"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004775/2022-09-24T01:18:51.672Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/kla.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/kla.ttl>.

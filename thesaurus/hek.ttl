@@ -9,3 +9,51 @@ _:df_1627_14 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570019746"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019746/2021-11-01T01:14:41.902Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/hek.ttl>.
+<https://stad.gent/id/concept/550008653/2022-09-24T03:40:48.987Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008653>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:40:48.987Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300005052>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2044_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Hekken of palen meestal met twee of drie gesplitste latten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hek (afscheiding)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2044_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008653"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008653/2022-09-24T03:40:48.987Z>.
+<https://stad.gent/id/concept/550007864/2022-09-24T02:47:07.079Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007864>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:47:07.079Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300001988>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2425_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hekwerkelementen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007865>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007863>, <https://stad.gent/id/concept/550008373>, <https://stad.gent/id/concept/550005878>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005878> <http://www.w3.org/2004/02/skos/core#prefLabel> "traliewerk"@nl.
+<https://stad.gent/id/concept/550008373> <http://www.w3.org/2004/02/skos/core#prefLabel> "rasterwerk (hekwerkelement)"@nl.
+<https://stad.gent/id/concept/550007863> <http://www.w3.org/2004/02/skos/core#prefLabel> "balustrades, leuningen en hun onderdelen"@nl.
+<https://stad.gent/id/concept/550007865> <http://www.w3.org/2004/02/skos/core#prefLabel> "hekwerken en hekwerkonderdelen"@nl.
+_:df_2425_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007864"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007864> <http://www.w3.org/2004/02/skos/core#prefLabel> "hekwerkelementen"@nl, "hekwerkelementen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007864/2022-09-24T02:47:07.079Z>.
+<https://stad.gent/id/concept/550007865/2022-09-24T02:47:12.080Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007865>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:47:12.080Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300163880>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2425_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hekwerken en hekwerkonderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007810>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007864>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007864> <http://www.w3.org/2004/02/skos/core#prefLabel> "hekwerkelementen"@nl, "hekwerkelementen"@nl.
+<https://stad.gent/id/concept/550007810> <http://www.w3.org/2004/02/skos/core#prefLabel> "architecturaal element"@nl, "architecturaal element"@nl.
+_:df_2425_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007865"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007865> <http://www.w3.org/2004/02/skos/core#prefLabel> "hekwerken en hekwerkonderdelen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007865/2022-09-24T02:47:12.080Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/hek.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/hek.ttl>.

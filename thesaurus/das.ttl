@@ -1,0 +1,30 @@
+<https://stad.gent/id/concept/550005335/2022-09-24T01:39:18.740Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005335>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:39:18.740Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300210069>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2908_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Algemene term voor doeken in diverse vormen die om de hals worden gedragen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "das"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005315>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005315> <http://www.w3.org/2004/02/skos/core#prefLabel> "boorden en dassen"@nl, "boorden en dassen"@nl.
+_:df_2908_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005335"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005335/2022-09-24T01:39:18.740Z>.
+<https://stad.gent/id/concept/550002747/2022-09-24T00:40:17.486Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002747>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:40:17.486Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209308>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3328_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Sierspelden die met een grote verscheidenheid aan decoratieve knoppen worden gemaakt; de punt steekt door een stropdas en een overhemd, zodat ze aan elkaar vast zitten, en wordt aan de achterzijde gesloten met een sluiting of knoop.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dasspeld (sieraad op kleding)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007962>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007962> <http://www.w3.org/2004/02/skos/core#prefLabel> "sieraden gedragen op kleding"@nl.
+_:df_3328_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002747"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002747/2022-09-24T00:40:17.486Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/das.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/das.ttl>.

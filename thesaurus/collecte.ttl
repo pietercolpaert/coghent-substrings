@@ -1,0 +1,30 @@
+<https://stad.gent/id/concept/550005023/2022-09-24T01:26:26.997Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005023>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:26:26.997Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300198819>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3001_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Schalen, meestal rond, gebruikt bij het collecteren tijdens de eredienst.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "collecteschaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007828>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007828> <http://www.w3.org/2004/02/skos/core#prefLabel> "liturgische vaten"@nl.
+_:df_3001_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005023"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005023/2022-09-24T01:26:26.997Z>.
+<https://stad.gent/id/concept/550000016/2022-09-24T00:01:20.193Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000016>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:01:20.193Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300263336>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3607_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kistjes met een inwerpgleuf, of andere houders, die, meestal in kerken, worden gebruikt om offergaven of giften in te ontvangen. Ze kunnen draagbaar zijn of bevestigd aan een deel van het gebouw of het interieur.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "collectebus"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007981>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007981> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders voor ruilmiddelen"@nl.
+_:df_3607_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000016"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000016/2022-09-24T00:01:20.193Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/collecte.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/collecte.ttl>.

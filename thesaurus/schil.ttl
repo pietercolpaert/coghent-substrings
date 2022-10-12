@@ -1,0 +1,37 @@
+<https://stad.gent/id/concept/550000871/2022-09-24T00:10:45.346Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000871>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:10:45.346Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3541_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schilddoorn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3541_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000871"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000871/2022-09-24T00:10:45.346Z>.
+<https://stad.gent/id/concept/550000437/2022-09-24T00:06:17.986Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000437>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:06:17.986Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300177435>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3571_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Geschilderde voorstellingen op panelen of opgespannen doek, meestal van draagbaar formaat. Vooral te onderscheiden van 'muurschilderingen' en 'verluchtingen' in manuscripten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schilderij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008246>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008246> <http://www.w3.org/2004/02/skos/core#prefLabel> "schilderingen naar vorm"@nl.
+_:df_3571_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000437"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000437/2022-09-24T00:06:17.986Z>.
+<https://stad.gent/id/concept/670001237/2022-09-15T00:04:10.861Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001237>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-15T00:04:10.861Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1028181>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3640_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schilder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en, "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3640_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001237"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001237/2022-09-15T00:04:10.861Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/schil.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/schil.ttl>.

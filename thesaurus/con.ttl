@@ -171,3 +171,140 @@ _:df_3208_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009713"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009713/2021-10-31T21:31:22.678Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/con.ttl>.
+<https://stad.gent/id/concept/570012929/2022-09-24T06:16:24.166Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012929>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:16:24.166Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q385378>;
+    <http://www.w3.org/ns/adms#identifier> _:df_937_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "constructie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_937_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012929"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012929/2022-09-24T06:16:24.166Z>.
+<https://stad.gent/id/concept/570011698/2022-09-24T05:58:45.109Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011698>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:58:45.109Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2682038>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1063_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "conserven"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1063_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011698"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011698/2022-09-24T05:58:45.109Z>.
+<https://stad.gent/id/concept/570010490/2022-09-24T05:46:03.453Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010490>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:46:03.453Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000158>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1153_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Congo"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "motief"@nl, "motif"@en, "plaats"@nl, "place"@en, "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1153_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010490"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010490/2022-09-24T05:46:03.453Z>.
+<https://stad.gent/id/concept/570009713/2022-09-24T05:28:53.239Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009713>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:28:53.239Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1049476>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1276_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "constructeur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1276_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009713"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009713/2022-09-24T05:28:53.239Z>.
+<https://stad.gent/id/concept/570009015/2022-09-24T05:05:56.234Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009015>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:05:56.234Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1028924>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1438_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Congleton"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl, "Groot-Brittannië"@nl.
+_:df_1438_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009015"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009015/2022-09-24T05:05:56.234Z>.
+<https://stad.gent/id/concept/570008484/2022-09-24T04:48:40.387Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008484>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:48:40.387Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300227765>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1561_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken om kledingstukken te beschrijven die van te voren zijn gemaakt, voor verkoop aan welke koper ook. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "confectie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570022693>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "trefwoord"@nl, "keyword"@en, "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570022693> <http://www.w3.org/2004/02/skos/core#prefLabel> "textiel"@nl.
+_:df_1561_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008484"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008484/2022-09-24T04:48:40.387Z>.
+<https://stad.gent/id/concept/570003432/2022-09-24T04:24:43.014Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570003432>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:24:43.014Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055533>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1732_33;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Politieke en economische ideologie die voorstander is van collectief- of staatseigendom als ook beheer van productiemiddelen en distributie van goederen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "socialisme"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "concept"@nl, "concept"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1732_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570003432"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570003432/2022-09-24T04:24:43.014Z>.
+<https://stad.gent/id/concept/570001051/2022-09-24T04:14:03.500Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001051>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:14:03.500Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q11828862>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1807_18;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het stikken van (kleding)stoffen";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "confectie-industrie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1807_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001051"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001051/2022-09-24T04:14:03.500Z>.
+<https://stad.gent/id/concept/550008076/2022-09-24T03:04:43.133Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008076>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:04:43.133Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006164>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2299_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "constructies voor waterdistributie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008077>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550002471>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002471> <http://www.w3.org/2004/02/skos/core#prefLabel> "fontein"@nl.
+<https://stad.gent/id/concept/550008077> <http://www.w3.org/2004/02/skos/core#prefLabel> "hydraulische bouwconstructies naar functie"@nl, "hydraulische bouwconstructies naar functie"@nl.
+_:df_2299_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008076"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008076> <http://www.w3.org/2004/02/skos/core#prefLabel> "constructies voor waterdistributie"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008076/2022-09-24T03:04:43.133Z>.
+<https://stad.gent/id/concept/550002529/2022-09-24T00:37:26.292Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002529>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:37:26.292Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300075330>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3349_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kraagsteen of houten kraagstuk, dat dient om een balk, kroonlijst, boog e.d. te ondersteunen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "console (korbeel)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007984>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007984> <http://www.w3.org/2004/02/skos/core#prefLabel> "korbeel"@nl.
+_:df_3349_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002529"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002529/2022-09-24T00:37:26.292Z>.
+<https://stad.gent/id/concept/670007017/2022-09-09T09:24:43.545Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670007017>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:24:43.545Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3165>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3772_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Congreslaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3772_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670007017"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670007017/2022-09-09T09:24:43.545Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/con.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/con.ttl>.

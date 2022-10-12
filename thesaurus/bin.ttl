@@ -64,3 +64,39 @@ _:df_3058_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010792"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010792/2021-10-31T21:52:30.960Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bin.ttl>.
+<https://stad.gent/id/concept/570001436/2022-09-24T04:17:22.255Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001436>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:17:22.255Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007863>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1783_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Binche"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012866>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012866> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen (provincie)"@nl.
+_:df_1783_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001436"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001436/2022-09-24T04:17:22.255Z>.
+<https://stad.gent/id/concept/670007077/2022-09-09T09:29:16.079Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670007077>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:29:16.079Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3739_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Binnenstad"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3739_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670007077"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670007077/2022-09-09T09:29:16.079Z>.
+<https://stad.gent/id/concept/670007000/2022-09-09T09:23:18.166Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670007000>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:23:18.166Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3322>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3784_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Binnenweg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3784_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670007000"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670007000/2022-09-09T09:23:18.166Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/bin.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bin.ttl>.

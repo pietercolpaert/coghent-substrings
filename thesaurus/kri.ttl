@@ -34,3 +34,33 @@ _:df_3079_44 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010545"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010545/2021-10-31T21:49:53.052Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/kri.ttl>.
+<https://stad.gent/id/concept/550008398/2022-09-24T03:30:35.419Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008398>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:30:35.419Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011727>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2116_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een fijnkorrelige kalksteen of zachte, aarde-achtige vorm van calciumcarbonaat die voornamelijk wordt gebruikt in stopverf, kleurkrijten, verf, rubberproducten en linoleum. Verder wordt het ook gebruikt als pigment en schuurmiddel.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "krijt (materiaal)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008751>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008751> <http://www.w3.org/2004/02/skos/core#prefLabel> "anorganisch materiaal"@nl.
+_:df_2116_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008398"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008398/2022-09-24T03:30:35.419Z>.
+<https://stad.gent/id/concept/550002155/2022-09-24T00:32:58.488Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002155>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:32:58.488Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010814>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3382_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Fijngesneden glas met een hoge mate van doorzichtigheid en een hoog loodoxidegehalte";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kristal (loodglas)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550002168>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002168> <http://www.w3.org/2004/02/skos/core#prefLabel> "loodglas"@nl.
+_:df_3382_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002155"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002155/2022-09-24T00:32:58.488Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/kri.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/kri.ttl>.

@@ -24,3 +24,91 @@ _:df_1957_30 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570017935"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017935/2021-11-01T00:28:21.407Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ham.ttl>.
+<https://stad.gent/id/concept/570008932/2022-09-24T05:03:24.990Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008932>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:03:24.990Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026464>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1456_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hamme"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_1456_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008932"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008932/2022-09-24T05:03:24.990Z>.
+<https://stad.gent/id/concept/570005838/2022-09-24T04:31:27.917Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570005838>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:31:27.917Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/q34503943>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1684_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hamerkop"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1684_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570005838"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570005838/2022-09-24T04:31:27.917Z>.
+<https://stad.gent/id/concept/550006692/2022-09-24T02:24:29.594Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006692>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:24:29.594Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7237959>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2587_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hamme"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004313>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004313> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen"@nl.
+_:df_2587_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006692"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006692/2022-09-24T02:24:29.594Z>.
+<https://stad.gent/id/concept/550006370/2022-09-24T02:14:38.042Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006370>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:14:38.042Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005289>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2656_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hamburg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004734>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl, "Duitsland"@nl.
+_:df_2656_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006370"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006370/2022-09-24T02:14:38.042Z>.
+<https://stad.gent/id/concept/550004451/2022-09-24T01:05:39.217Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004451>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:05:39.217Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008139>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3148_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hampshire"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006140>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006140> <http://www.w3.org/2004/02/skos/core#prefLabel> "Engeland"@nl.
+_:df_3148_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004451"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004451/2022-09-24T01:05:39.217Z>.
+<https://stad.gent/id/concept/550000880/2022-09-24T00:11:05.353Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000880>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:11:05.353Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054098>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3538_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar het procedé van met een hamer of ander gereedschap op metaal slaan om een vat of ander voorwerp te maken, of om versiering aan te brengen. De oudste techniek hierbij was mogelijk het maken van een dunne schijf van metaal door het metaal in een holte in een blok hout te hameren. Een vat kan langzaam worden gevormd doordat op het buitenste oppervlak wordt geslagen met behulp van een speciaal gevormde hamer en aambeeld. Bij bosseleren of repousséwerk wordt gebruikgemaakt van hameren om een dessin of patroon aan te brengen in een metalen voorwerp, gewoonlijk door op de achterkant van het voorwerp te hameren.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hameren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3538_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000880"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000880/2022-09-24T00:11:05.353Z>.
+<https://stad.gent/id/concept/670006778/2022-09-09T09:05:33.740Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006778>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:05:33.740Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1055>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3910_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hamburg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3910_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006778"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006778/2022-09-09T09:05:33.740Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/ham.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ham.ttl>.

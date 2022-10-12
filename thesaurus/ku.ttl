@@ -203,3 +203,209 @@ _:df_2869_20 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570012943"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012943/2021-10-31T22:19:24.230Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ku.ttl>.
+<https://stad.gent/id/concept/570014353/2022-10-06T00:03:06.983Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014353>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-06T00:03:06.983Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q11474>;
+    <http://www.w3.org/ns/adms#identifier> _:df_37_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kunststof"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570016416>, <https://stad.gent/id/concept/570019489>, <https://stad.gent/id/concept/570009096>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570009096> <http://www.w3.org/2004/02/skos/core#prefLabel> "plastic"@nl.
+<https://stad.gent/id/concept/570019489> <http://www.w3.org/2004/02/skos/core#prefLabel> "celluloid"@nl.
+<https://stad.gent/id/concept/570016416> <http://www.w3.org/2004/02/skos/core#prefLabel> "bakeliet"@nl.
+_:df_37_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014353"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014353/2022-10-06T00:03:06.983Z>.
+<https://stad.gent/id/concept/530010859/2022-10-06T00:00:35.902Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010859>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-06T00:00:35.902Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/tgn/7007384>;
+    <http://www.w3.org/ns/adms#identifier> _:df_55_34;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Küsnacht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003380>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003380> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zwitserland"@nl.
+_:df_55_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010859"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010859/2022-10-06T00:00:35.902Z>.
+<https://stad.gent/id/concept/570014353/2022-10-04T00:02:08.494Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014353>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-04T00:02:08.494Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q11474>;
+    <http://www.w3.org/ns/adms#identifier> _:df_70_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kunststof"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570016416>, <https://stad.gent/id/concept/570019489>, <https://stad.gent/id/concept/570009096>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "techniek"@nl, "technique"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570009096> <http://www.w3.org/2004/02/skos/core#prefLabel> "plastic"@nl.
+<https://stad.gent/id/concept/570019489> <http://www.w3.org/2004/02/skos/core#prefLabel> "celluloid"@nl.
+<https://stad.gent/id/concept/570016416> <http://www.w3.org/2004/02/skos/core#prefLabel> "bakeliet"@nl.
+_:df_70_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014353"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014353/2022-10-04T00:02:08.494Z>.
+<https://stad.gent/id/concept/570016737/2022-09-24T07:45:37.979Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016737>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:45:37.979Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300252783>;
+    <http://www.w3.org/ns/adms#identifier> _:df_304_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een materiaal, zoals stof, papier, plastic of rubber dat vaak met een speciale laag is bedekt of verwerkt om op echt leer te lijken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kunstleer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_304_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016737"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016737/2022-09-24T07:45:37.979Z>.
+<https://stad.gent/id/concept/570016068/2022-09-24T07:26:23.747Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016068>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:26:23.747Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025103>;
+    <http://www.w3.org/ns/adms#identifier> _:df_442_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kunstenaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_442_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016068"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016068/2022-09-24T07:26:23.747Z>.
+<https://stad.gent/id/concept/570015585/2022-09-24T07:16:03.386Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015585>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:16:03.386Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300051955>;
+    <http://www.w3.org/ns/adms#identifier> _:df_514_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kunstlicht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_514_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015585"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015585/2022-09-24T07:16:03.386Z>.
+<https://stad.gent/id/concept/570014353/2022-09-24T06:45:27.963Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014353>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:45:27.963Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q11474>;
+    <http://www.w3.org/ns/adms#identifier> _:df_733_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kunststof"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570016416>, <https://stad.gent/id/concept/570019489>, <https://stad.gent/id/concept/570009096>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "techniek"@nl, "technique"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570009096> <http://www.w3.org/2004/02/skos/core#prefLabel> "plastic"@nl.
+<https://stad.gent/id/concept/570019489> <http://www.w3.org/2004/02/skos/core#prefLabel> "celluloid"@nl.
+<https://stad.gent/id/concept/570016416> <http://www.w3.org/2004/02/skos/core#prefLabel> "bakeliet"@nl.
+_:df_733_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014353"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014353/2022-09-24T06:45:27.963Z>.
+<https://stad.gent/id/concept/570013304/2022-09-24T06:25:04.334Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013304>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:25:04.334Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300236073>;
+    <http://www.w3.org/ns/adms#identifier> _:df_874_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kussen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_874_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013304"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013304/2022-09-24T06:25:04.334Z>.
+<https://stad.gent/id/concept/570012943/2022-09-24T06:16:39.175Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012943>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:16:39.175Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026542>;
+    <http://www.w3.org/ns/adms#identifier> _:df_934_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kuurne"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018081>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018081> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen (provincie)"@nl.
+_:df_934_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012943"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012943/2022-09-24T06:16:39.175Z>.
+<https://stad.gent/id/concept/570008722/2022-09-24T04:56:01.405Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008722>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:56:01.405Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300008733>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1510_33;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kust"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1510_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008722"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008722/2022-09-24T04:56:01.405Z>.
+<https://stad.gent/id/concept/550009284/2022-09-24T04:04:01.570Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009284>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:04:01.570Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014058>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1879_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kunstvezel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1879_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009284"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009284/2022-09-24T04:04:01.570Z>.
+<https://stad.gent/id/concept/550008693/2022-09-24T03:42:15.894Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008693>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:42:15.894Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300236073>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2032_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Zakken of soortgelijke houders die meestal van stof, leer of rubber zijn gemaakt, met veerkrachtig materiaal zijn gevuld en ter ondersteuning of ontspanning voor het lichaam dienen tijdens het zitten, liggen of knielen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kussen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2032_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008693"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008693/2022-09-24T03:42:15.894Z>.
+<https://stad.gent/id/concept/550008412/2022-09-24T03:31:36.964Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008412>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:31:36.964Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011862>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2107_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De buitenste schors van een eik, Quercus suber, die groeit in mediterrane landen. Kurk wordt gebruikt om onder andere stoppen voor flessen en drijflichamen te maken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kurk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008796>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008796> <http://www.w3.org/2004/02/skos/core#prefLabel> "schors"@nl.
+_:df_2107_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008412"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008412/2022-09-24T03:31:36.964Z>.
+<https://stad.gent/id/concept/550008349/2022-09-24T03:26:58.504Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008349>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:26:58.504Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300036768>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2140_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Harnas dat de voor- en achterkant van de romp beschermt; ze zijn in de loop der tijd gemaakt van lagen linnen of leder, metalen schubben, harnasplaatjes of platen of combinaties van leder en metaal.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kuras"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008230>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008230> <http://www.w3.org/2004/02/skos/core#prefLabel> "persoonlijke wapenrusting: romp"@nl.
+_:df_2140_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008349"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008349/2022-09-24T03:26:58.504Z>.
+<https://stad.gent/id/concept/550006803/2022-09-24T02:27:31.276Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006803>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:27:31.276Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/4005886>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2566_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kuringen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004370>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004370> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburg (provincie)"@nl.
+_:df_2566_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006803"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006803/2022-09-24T02:27:31.276Z>.
+<https://stad.gent/id/concept/530005447/2022-09-15T00:02:30.259Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005447>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-15T00:02:30.259Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300375244>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3652_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Driedimensionale objecten die bloemen nabootsen. Kunnen gemaakt zijn van porselein, gesneden hout, zijde of papier.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kunstbloem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008902>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008902> <http://www.w3.org/2004/02/skos/core#prefLabel> "afgeleid object"@nl.
+_:df_3652_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005447"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005447/2022-09-15T00:02:30.259Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/ku.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ku.ttl>.

@@ -43,3 +43,68 @@ _:df_3232_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009604"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009604/2021-10-31T21:27:59.628Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/lie.ttl>.
+<https://stad.gent/id/concept/570006235/2022-09-24T04:35:46.032Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006235>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:35:46.032Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7016996>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1654_40;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020234>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020234> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl, "Antwerpen (provincie)"@nl, "Antwerpen (provincie)"@nl, "Antwerpen (provincie)"@nl.
+_:df_1654_40 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006235"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006235/2022-09-24T04:35:46.032Z>.
+<https://stad.gent/id/concept/550004380/2022-09-24T01:04:03.245Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004380>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:04:03.245Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7016996>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3160_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005392>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005392> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl.
+_:df_3160_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004380"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004380/2022-09-24T01:04:03.245Z>.
+<https://stad.gent/id/concept/550004309/2022-09-24T01:02:32.683Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004309>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:02:32.683Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003515>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3172_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Liechtenstein"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005045>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005045> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl.
+_:df_3172_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004309"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004309/2022-09-24T01:02:32.683Z>.
+<https://stad.gent/id/concept/530001410/2022-09-15T00:00:44.613Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001410>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-15T00:00:44.613Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300400589>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3667_29;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Geborduurde kant afkomstig van de Belgische stad Lier, bestaande uit een borduurwerk van katoenen draden op mechanische tule, waarbij met een borduurhaakje de draden met een kettingsteek worden aangebracht op de tule, of met een naald worden doorgestopt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lierse kant"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008715>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008715> <http://www.w3.org/2004/02/skos/core#prefLabel> "borduurwerk (objectnaam)"@nl.
+_:df_3667_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001410"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001410/2022-09-15T00:00:44.613Z>.
+<https://stad.gent/id/concept/670001442/2022-09-13T00:00:44.606Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001442>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-13T00:00:44.606Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3697_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lieve"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3697_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001442"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001442/2022-09-13T00:00:44.606Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/lie.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/lie.ttl>.

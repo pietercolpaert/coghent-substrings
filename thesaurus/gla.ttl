@@ -10,3 +10,80 @@ _:df_3022_7 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570011305"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011305/2021-10-31T21:57:40.853Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/gla.ttl>.
+<https://stad.gent/id/concept/550005846/2022-09-24T01:55:27.138Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005846>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:55:27.138Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2794_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "glas (collectie)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2794_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005846"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005846/2022-09-24T01:55:27.138Z>.
+<https://stad.gent/id/concept/550005406/2022-09-24T01:41:50.014Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005406>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:41:50.014Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2890_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "glaçière"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007897>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007897> <http://www.w3.org/2004/02/skos/core#prefLabel> "vaatwerk voor het opdienen en consumeren van voedsel"@nl.
+_:df_2890_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005406"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005406/2022-09-24T01:41:50.014Z>.
+<https://stad.gent/id/concept/550002249/2022-09-24T00:34:09.237Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002249>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:34:09.237Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010797>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3373_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een amorfe, anorganische substantie die wordt gemaakt door silica (siliciumdioxide) te fuseren met een basisoxide, meestal transparant maar vaak ook doorschijnend of ondoorschijnend. Kenmerkende eigenschappen zijn de hardheid en stijfheid bij normale temperaturen, de plastische eigenschappen bij verhoogde temperaturen en de weersbestendigheid en bestendigheid tegen de meeste chemische stoffen, behalve waterstoffluoride. Het wordt gebruikt voor zowel gebruiksdoeleinden als decoratieve doeleinden, en kan worden gemaakt in diverse vormen, gekleurd en gedecoreerd. Glas is ontstaan als glazuur in Mesopotamië in ongeveer 3500 v. Chr. De eerste voorwerpen die geheel van glas zijn vervaardigd, dateren van ongeveer 2500 v. Chr.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "glas (materiaal)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008751>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008800>, <https://stad.gent/id/concept/550008748>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008748> <http://www.w3.org/2004/02/skos/core#prefLabel> "glas naar techniek"@nl.
+<https://stad.gent/id/concept/550008800> <http://www.w3.org/2004/02/skos/core#prefLabel> "glas naar samenstelling of herkomst"@nl.
+<https://stad.gent/id/concept/550008751> <http://www.w3.org/2004/02/skos/core#prefLabel> "anorganisch materiaal"@nl.
+_:df_3373_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002249"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002249/2022-09-24T00:34:09.237Z>.
+<https://stad.gent/id/concept/550002192/2022-09-24T00:33:48.862Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002192>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:33:48.862Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300121827>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3376_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Stukken glas, al dan niet gebrandschilderd en meestal in de vorm van een rechthoek of een ruit, die in loden glaslijsten worden geplaatst om een raam te vormen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "glasraam"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3376_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002192"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002192/2022-09-24T00:33:48.862Z>.
+<https://stad.gent/id/concept/550001289/2022-09-24T00:17:34.215Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001289>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:17:34.215Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010898>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3490_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Objecten die zijn gemaakt van glas; vooral tafelgerei of glas dat wordt gebruikt voor het serveren van eten en drinken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "glaswerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008084>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008084> <http://www.w3.org/2004/02/skos/core#prefLabel> "objectgenres naar materiaal"@nl.
+_:df_3490_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001289"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001289/2022-09-24T00:17:34.215Z>.
+<https://stad.gent/id/concept/670007057/2022-09-09T09:27:55.145Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670007057>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:27:55.145Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3751_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Glasgowstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3751_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670007057"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670007057/2022-09-09T09:27:55.145Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/gla.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/gla.ttl>.

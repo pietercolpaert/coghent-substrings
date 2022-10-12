@@ -10,3 +10,71 @@ _:df_1186_19 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570023621"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023621/2021-11-01T02:16:57.136Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/rom.ttl>.
+<https://stad.gent/id/concept/570008919/2022-09-24T05:02:44.960Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008919>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:02:44.960Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300162826>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1462_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rommelmarkt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1462_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008919"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008919/2022-09-24T05:02:44.960Z>.
+<https://stad.gent/id/concept/570000680/2022-09-24T04:11:26.711Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000680>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:11:26.711Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7000874>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1825_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rome"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020612>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020612> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_1825_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000680"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000680/2022-09-24T04:11:26.711Z>.
+<https://stad.gent/id/concept/550005046/2022-09-24T01:27:07.460Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005046>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:27:07.460Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7000874>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2995_51;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rome"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550000038>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000038> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl, "Italië"@nl.
+_:df_2995_51 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005046"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005046/2022-09-24T01:27:07.460Z>.
+<https://stad.gent/id/concept/550000841/2022-09-24T00:10:20.334Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000841>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:10:20.334Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300020533>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3544_38;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Romeins"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550000950>, <https://stad.gent/id/concept/550000933>, <https://stad.gent/id/concept/550000931>, <https://stad.gent/id/concept/550000934>, <https://stad.gent/id/concept/550000924>, <https://stad.gent/id/concept/550000932>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000932> <http://www.w3.org/2004/02/skos/core#prefLabel> "VOOR-ROMEINS (?)"@nl.
+<https://stad.gent/id/concept/550000924> <http://www.w3.org/2004/02/skos/core#prefLabel> "VOOR-ROMEINS"@nl.
+<https://stad.gent/id/concept/550000934> <http://www.w3.org/2004/02/skos/core#prefLabel> "ROMEINS/FLAVISCH"@nl.
+<https://stad.gent/id/concept/550000931> <http://www.w3.org/2004/02/skos/core#prefLabel> "ROMEINS/COMMODUS-CARACALLA"@nl.
+<https://stad.gent/id/concept/550000933> <http://www.w3.org/2004/02/skos/core#prefLabel> "ROMEINS (?)"@nl.
+<https://stad.gent/id/concept/550000950> <http://www.w3.org/2004/02/skos/core#prefLabel> "ROMEINS-ANTONINE"@nl.
+_:df_3544_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000841"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000841/2022-09-24T00:10:20.334Z>.
+<https://stad.gent/id/concept/670006797/2022-09-09T09:06:59.168Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006797>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:06:59.168Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q220>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3898_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rome"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3898_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006797"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006797/2022-09-09T09:06:59.168Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/rom.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/rom.ttl>.

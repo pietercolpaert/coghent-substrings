@@ -83,3 +83,101 @@ _:df_2464_8 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570015484"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015484/2021-10-31T23:16:44.487Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/of.ttl>.
+<https://stad.gent/id/concept/570017416/2022-09-24T08:08:39.260Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017416>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T08:08:39.260Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053279>;
+    <http://www.w3.org/ns/adms#identifier> _:df_139_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Drukmethode waarbij de afbeelding van een plaat, blok of steen wordt overgezet op een andere laag, bijvoorbeeld van rubber, en dan op het uiteindelijke oppervlak.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "offset"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en, "associatie"@nl, "association"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_139_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017416"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017416/2022-09-24T08:08:39.260Z>.
+<https://stad.gent/id/concept/570017296/2022-09-24T08:03:51.866Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017296>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T08:03:51.866Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1040623>;
+    <http://www.w3.org/ns/adms#identifier> _:df_172_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Offingen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_172_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017296"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017296/2022-09-24T08:03:51.866Z>.
+<https://stad.gent/id/concept/570015942/2022-09-24T07:23:37.009Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015942>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:23:37.009Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300417467>;
+    <http://www.w3.org/ns/adms#identifier> _:df_460_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "offerte"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_460_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015942"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015942/2022-09-24T07:23:37.009Z>.
+<https://stad.gent/id/concept/570015484/2022-09-24T07:14:47.999Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015484>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:14:47.999Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300236210>;
+    <http://www.w3.org/ns/adms#identifier> _:df_523_5;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "officier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_523_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015484"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015484/2022-09-24T07:14:47.999Z>.
+<https://stad.gent/id/concept/550008635/2022-09-24T03:39:18.582Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008635>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:39:18.582Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300136842>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2053_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Documenten (in het recht) die de wettelijk erkende en gerechtelijk uitvoerbare status hebben voor het vaststellen van bepaalde feiten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "officieel document"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008035>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008035> <http://www.w3.org/2004/02/skos/core#prefLabel> "registratie naar afkomst"@nl.
+_:df_2053_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008635"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008635/2022-09-24T03:39:18.582Z>.
+<https://stad.gent/id/concept/550005261/2022-09-24T01:35:56.877Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005261>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:35:56.877Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2932_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Schaal voor geldelijke offers. Voor de voorwerpen waarmee actief geld wordt ingezameld, wordt het voorvoegsel collecte- gebruikt, zoals bij collectezak, collecteschaal etc";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "offerschaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007981>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007981> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders voor ruilmiddelen"@nl.
+_:df_2932_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005261"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005261/2022-09-24T01:35:56.877Z>.
+<https://stad.gent/id/concept/550001750/2022-09-24T00:25:34.883Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001750>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:25:34.883Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3433_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Ouder woord dat nog wordt gebruikt voor de houder uit vroeger tijden, die werd en nog wel wordt gebruikt voor het inzamelen van geldelijke giften. Een gecalligrafeerde tekst omtrent het doel van de aalmoezen kan zijn aangebracht. Het offerblok heeft veelal een vaste plaats in de kerk en kan in verschillende vormen zijn uitgewerkt: 1. Houten kistje met (smeed)ijzeren hang- en sluitwerk met gleuf of metalen geldtrechtertje aan de bovenzijde. Met handvat, of hangend aan de muur met een ketting, staande op een zuil of op de grond. 2. Houten kist met (smeed)ijzeren hang- en sluitwerk met gleuf of metalen geldtrechtertje aan de bovenzijde, staande op een zuil of op de grond. Wordt ook offerkist genoemd. 3. Stenen zuil met afsluitbare, metalen deksel met gleuf of geldtrechtertje. 4. Holle, van een gleuf voorziene, stenen console in een muur, die aan de andere kant van de muur kan worden geleegd. Voorwerpen waarmee actief geld wordt ingezameld hebben het woord collecte- als voorvoegsel, zoals bijv. collectestok, collectebus etc.(SKKN/MovE)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "offerblok"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007981>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007981> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders voor ruilmiddelen"@nl.
+_:df_3433_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001750"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001750/2022-09-24T00:25:34.883Z>.
+<https://stad.gent/id/concept/670006854/2022-09-09T09:11:21.012Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006854>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:11:21.012Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3868_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Offerlaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3868_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006854"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006854/2022-09-09T09:11:21.012Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/of.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/of.ttl>.

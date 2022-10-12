@@ -82,3 +82,85 @@ _:df_3088_19 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010473"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010473/2021-10-31T21:48:27.321Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/roe.ttl>.
+<https://stad.gent/id/concept/570010473/2022-09-24T05:45:43.081Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010473>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:45:43.081Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000091>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1156_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Roemenië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570016340>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570016340> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boekarest"@nl.
+_:df_1156_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010473"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010473/2022-09-24T05:45:43.081Z>.
+<https://stad.gent/id/concept/570008656/2022-09-24T04:53:22.483Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008656>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:53:22.483Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1195684>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1528_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "roeiboot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1528_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008656"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008656/2022-09-24T04:53:22.483Z>.
+<https://stad.gent/id/concept/550008926/2022-09-24T03:54:39.727Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008926>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:54:39.727Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1945_49;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Roemenië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005045>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550006284>, <https://stad.gent/id/concept/550006568>, <https://stad.gent/id/concept/550003411>;
+    <http://www.w3.org/2004/02/skos/core#note> "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003411> <http://www.w3.org/2004/02/skos/core#prefLabel> "Transylvanië"@nl.
+<https://stad.gent/id/concept/550006568> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tirgu Mures"@nl.
+<https://stad.gent/id/concept/550006284> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boekarest"@nl.
+<https://stad.gent/id/concept/550005045> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl.
+_:df_1945_49 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008926"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008926/2022-09-24T03:54:39.727Z>.
+<https://stad.gent/id/concept/550007669/2022-09-24T02:37:31.423Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007669>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:37:31.423Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006856>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2494_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Roermond"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006121>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006121> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_2494_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007669"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007669/2022-09-24T02:37:31.423Z>.
+<https://stad.gent/id/concept/550004689/2022-09-24T01:16:30.267Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004689>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:16:30.267Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007978>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3070_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Roeselare"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004834>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004834> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen"@nl.
+_:df_3070_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004689"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004689/2022-09-24T01:16:30.267Z>.
+<https://stad.gent/id/concept/550002159/2022-09-24T00:33:03.841Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002159>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:33:03.841Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300199815>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3382_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Type Duits wijnglas met een bolvormige kelk en een brede, holle steel. Meestal gemaakt van groenachtig glas waarvan de tint varieert van licht naar donker.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "roemer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550000868>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000868> <http://www.w3.org/2004/02/skos/core#prefLabel> "wijnglas"@nl.
+_:df_3382_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002159"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002159/2022-09-24T00:33:03.841Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/roe.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/roe.ttl>.

@@ -10,3 +10,16 @@ _:df_859_25 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570024544"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024544/2021-11-01T03:03:40.699Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/cop.ttl>.
+<https://stad.gent/id/concept/670006891/2022-09-09T09:14:27.395Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006891>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:14:27.395Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1297822>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3847_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Copyright"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rechten"@nl, "rights"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3847_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006891"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006891/2022-09-09T09:14:27.395Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/cop.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/cop.ttl>.

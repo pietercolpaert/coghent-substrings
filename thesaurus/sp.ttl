@@ -242,3 +242,256 @@ _:df_1_883 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/spo.ttl>;
     <https://w3id.org/tree#value> "spo".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/sp.ttl>.
+<https://stad.gent/id/concept/570017401/2022-09-24T08:07:48.859Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017401>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T08:07:48.859Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024099>;
+    <http://www.w3.org/ns/adms#identifier> _:df_145_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Timmermansgereedschap dat wordt gebruikt om gebogen randen te vormen. Het bestaat uit een blad wat tussen twee handvatten in is bevestigd en wordt gebruikt als een trekmes of schaafgereedschap. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spaakschaaf"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_145_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017401"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017401/2022-09-24T08:07:48.859Z>.
+<https://stad.gent/id/concept/570017318/2022-09-24T08:04:37.227Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017318>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T08:04:37.227Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000095>;
+    <http://www.w3.org/ns/adms#identifier> _:df_169_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Spanje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570022926>, <https://stad.gent/id/concept/570010247>, <https://stad.gent/id/concept/570009016>, <https://stad.gent/id/concept/570014221>, <https://stad.gent/id/concept/570023800>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023800> <http://www.w3.org/2004/02/skos/core#prefLabel> "Saragossa"@nl.
+<https://stad.gent/id/concept/570014221> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tarrasa"@nl.
+<https://stad.gent/id/concept/570009016> <http://www.w3.org/2004/02/skos/core#prefLabel> "Manresa"@nl.
+<https://stad.gent/id/concept/570010247> <http://www.w3.org/2004/02/skos/core#prefLabel> "Barcelona"@nl.
+<https://stad.gent/id/concept/570022926> <http://www.w3.org/2004/02/skos/core#prefLabel> "La Coruña"@nl.
+_:df_169_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017318"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017318/2022-09-24T08:04:37.227Z>.
+<https://stad.gent/id/concept/570017045/2022-09-24T07:58:54.465Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017045>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:58:54.465Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300199829>;
+    <http://www.w3.org/ns/adms#identifier> _:df_208_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spies"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_208_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017045"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017045/2022-09-24T07:58:54.465Z>.
+<https://stad.gent/id/concept/570017020/2022-09-24T07:58:04.086Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017020>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:58:04.086Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300180323>;
+    <http://www.w3.org/ns/adms#identifier> _:df_214_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verlichtingsmiddelen met een lens of lenssysteem die een geconcentreerde, sterke lichtbundel maakt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_214_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017020"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017020/2022-09-24T07:58:04.086Z>.
+<https://stad.gent/id/concept/570016969/2022-09-24T07:55:27.754Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016969>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:55:27.754Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300227047>;
+    <http://www.w3.org/ns/adms#identifier> _:df_232_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine, vaak ornamentele of mechanische houders voor het bewaren van muntstukken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spaarpot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_232_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016969"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016969/2022-09-24T07:55:27.754Z>.
+<https://stad.gent/id/concept/570016922/2022-09-24T07:53:17.062Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016922>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:53:17.062Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300198948>;
+    <http://www.w3.org/ns/adms#identifier> _:df_250_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "springvorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_250_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016922"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016922/2022-09-24T07:53:17.062Z>.
+<https://stad.gent/id/concept/570016558/2022-09-24T07:40:00.423Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016558>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:40:00.423Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209587>;
+    <http://www.w3.org/ns/adms#identifier> _:df_343_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spatel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_343_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016558"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016558/2022-09-24T07:40:00.423Z>.
+<https://stad.gent/id/concept/570016487/2022-09-24T07:37:08.847Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016487>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:37:08.847Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_364_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spanvorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_364_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016487"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016487/2022-09-24T07:37:08.847Z>.
+<https://stad.gent/id/concept/570016386/2022-09-24T07:34:27.554Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016386>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:34:27.554Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_382_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spanvijs"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_382_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016386"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016386/2022-09-24T07:34:27.554Z>.
+<https://stad.gent/id/concept/570016261/2022-09-24T07:30:45.978Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016261>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:30:45.978Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300386524>;
+    <http://www.w3.org/ns/adms#identifier> _:df_409_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Reinigingskussentjes van natuurlijke spons of ander poreus materiaal, zoals rubber of cellulose. Deze worden algemeen gebruikt om oppervlakken mee schoon te vegen of vloeistof te absorberen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spons"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_409_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016261"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016261/2022-09-24T07:30:45.978Z>.
+<https://stad.gent/id/concept/570016195/2022-09-24T07:28:54.899Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016195>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:28:54.899Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_424_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spijkerbak"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_424_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016195"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016195/2022-09-24T07:28:54.899Z>.
+<https://stad.gent/id/concept/570016001/2022-09-24T07:24:42.816Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016001>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:24:42.816Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q3274449>;
+    <http://www.w3.org/ns/adms#identifier> _:df_454_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spinning frame"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_454_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016001"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016001/2022-09-24T07:24:42.816Z>.
+<https://stad.gent/id/concept/570015902/2022-09-24T07:22:26.663Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015902>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:22:26.663Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300033341>;
+    <http://www.w3.org/ns/adms#identifier> _:df_469_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spanjoletten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_469_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015902"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015902/2022-09-24T07:22:26.663Z>.
+<https://stad.gent/id/concept/570015634/2022-09-24T07:17:09.216Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015634>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:17:09.216Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q998539>;
+    <http://www.w3.org/ns/adms#identifier> _:df_508_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sproeier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_508_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015634"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015634/2022-09-24T07:17:09.216Z>.
+<https://stad.gent/id/concept/570014694/2022-09-24T06:55:28.920Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014694>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:55:28.920Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195679>;
+    <http://www.w3.org/ns/adms#identifier> _:df_661_11;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor stukken doek of ander flexibel materiaal waarop tekens of decoratieve ontwerpen zijn geschilderd, en die zijn bedoeld om te worden uitgestald door ze ergens op of aan te bevestigen. In de heraldiek wordt het gebruikt voor vierkante vlaggen met heraldische afbeeldingen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spandoek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_661_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014694"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014694/2022-09-24T06:55:28.920Z>.
+<https://stad.gent/id/concept/570014367/2022-09-24T06:45:42.970Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014367>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:45:42.970Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_730_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spoel, garen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_730_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014367"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014367/2022-09-24T06:45:42.970Z>.
+<https://stad.gent/id/concept/570014363/2022-09-24T06:45:37.967Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014363>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:45:37.967Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022630>;
+    <http://www.w3.org/ns/adms#identifier> _:df_733_37;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Voorwerpen of apparaten die worden gebruikt voor het strekken van stof zodat deze wordt gespannen, de kreukels worden verwijderd en dergelijke. De benaming wordt vooral gebruiktom te verwijzen naar frames waarop canvas of ander textiel wordt gespannen om erop te schilderen, waarbij de verstek gezaagde hoeken uit elkaar kunnen worden geduwd door wiggen of andere voorwerpen om het textiel goed te kunnen strekken. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spanraam"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_733_37 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014363"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014363/2022-09-24T06:45:37.967Z>.
+<https://stad.gent/id/concept/570013369/2022-09-24T06:26:40.263Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013369>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:26:40.263Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300023528>;
+    <http://www.w3.org/ns/adms#identifier> _:df_862_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spoelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_862_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013369"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013369/2022-09-24T06:26:40.263Z>.
+<https://stad.gent/id/concept/570012020/2022-09-24T06:01:21.414Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012020>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:01:21.414Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300211037>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1045_34;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Fysieke objecten zonder praktisch doeleinde die bedacht zijn om kinderen of huisdieren te vermaken of om als verzamelobject voor volwassenen te dienen. Speelgoed bestaat doorgaans uit miniatuurversies van werkelijke wezens of objecten die te gebruiken zijn in fantasie- of imitatiespelletjes. Ook artikelen die bij spelletjes worden gebruikt, kunnen speelgoed worden genoemd. Het allereerste speelgoed bestond onder andere uit poppen en ballen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "speelgoed"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectcategorie"@nl, "object category"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1045_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012020"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012020/2022-09-24T06:01:21.414Z>.
+<https://stad.gent/id/concept/570010399/2022-09-24T05:44:27.551Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010399>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:44:27.551Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1165_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spoelmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1165_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010399"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010399/2022-09-24T05:44:27.551Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/sp.ttl> <https://w3id.org/tree#relation> _:df_1_784.
+_:df_1_784 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/spo.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "spo".
+<https://www.pieter.pm/coghent-substrings/thesaurus/sp.ttl> <https://w3id.org/tree#relation> _:df_1_785.
+_:df_1_785 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/spi.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "spi".
+<https://www.pieter.pm/coghent-substrings/thesaurus/sp.ttl> <https://w3id.org/tree#relation> _:df_1_786.
+_:df_1_786 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/spe.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "spe".
+<https://www.pieter.pm/coghent-substrings/thesaurus/sp.ttl> <https://w3id.org/tree#relation> _:df_1_787.
+_:df_1_787 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/spr.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "spr".
+<https://www.pieter.pm/coghent-substrings/thesaurus/sp.ttl> <https://w3id.org/tree#relation> _:df_1_788.
+_:df_1_788 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/spa.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "spa".
+<https://www.pieter.pm/coghent-substrings/thesaurus/sp.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/sp.ttl>.

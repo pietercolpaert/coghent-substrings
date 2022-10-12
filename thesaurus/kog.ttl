@@ -10,3 +10,18 @@ _:df_829_7 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570024706"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024706/2021-11-01T03:07:42.289Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/kog.ttl>.
+<https://stad.gent/id/concept/550002021/2022-09-24T00:31:53.071Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002021>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:31:53.071Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3388_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Tang voor het verwijderen van (musket)kogels uit het lichaam";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kogeltang"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008029>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008029> <http://www.w3.org/2004/02/skos/core#prefLabel> "medische uitrusting"@nl.
+_:df_3388_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002021"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002021/2022-09-24T00:31:53.071Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/kog.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/kog.ttl>.

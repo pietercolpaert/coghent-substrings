@@ -10,3 +10,39 @@ _:df_1912_17 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570018826"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018826/2021-11-01T00:34:37.473Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/tas.ttl>.
+<https://stad.gent/id/concept/550008144/2022-09-24T03:10:23.522Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008144>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:10:23.522Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300198926>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2260_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Zachte of onbuigzame accessoires voor het dragen van persoonlijke artikelen, vaak met een trekkoordsluiting. Gebruik 'handtassen' voor tassen met een vast frame en knipsluiting.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tas (kledingaccessoire)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008145>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005318>, <https://stad.gent/id/concept/550005320>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005320> <http://www.w3.org/2004/02/skos/core#prefLabel> "schoudertas"@nl.
+<https://stad.gent/id/concept/550005318> <http://www.w3.org/2004/02/skos/core#prefLabel> "handtas"@nl.
+<https://stad.gent/id/concept/550008145> <http://www.w3.org/2004/02/skos/core#prefLabel> "meegedragen kledingaccessoires"@nl.
+_:df_2260_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008144"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008144> <http://www.w3.org/2004/02/skos/core#prefLabel> "tas (kledingaccessoire)"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008144/2022-09-24T03:10:23.522Z>.
+<https://stad.gent/id/concept/550006009/2022-09-24T02:00:19.830Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006009>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:00:19.830Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300194509>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2758_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders of verpakkingen van leer, stof, papier of ander flexibel materialen die bij de opening kunnen worden gesloten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tas (houder)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007776>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550003170>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003170> <http://www.w3.org/2004/02/skos/core#prefLabel> "zak (houder)"@nl.
+<https://stad.gent/id/concept/550007776> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders naar vorm"@nl.
+_:df_2758_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006009"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006009/2022-09-24T02:00:19.830Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/tas.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/tas.ttl>.

@@ -63,3 +63,38 @@ _:df_2146_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570017054"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017054/2021-11-01T00:01:23.576Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ab.ttl>.
+<https://stad.gent/id/concept/570017054/2022-09-24T07:59:14.875Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017054>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:59:14.875Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_205_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "absorptie golfmeter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_205_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017054"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017054/2022-09-24T07:59:14.875Z>.
+<https://stad.gent/id/concept/550006040/2022-09-24T02:01:25.910Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006040>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:01:25.910Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2752_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kaart waaruit blijkt dat men een abonnement heeft, m.n. kaart die recht geeft op tijdelijke gebruikmaking van een openbaar vervoermiddel, een instelling";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "abonnementskaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007764>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007764> <http://www.w3.org/2004/02/skos/core#prefLabel> "betalingsbewijs"@nl.
+_:df_2752_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006040"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006040/2022-09-24T02:01:25.910Z>.
+<https://stad.gent/id/concept/670006970/2022-09-09T09:20:52.092Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006970>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:20:52.092Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3799_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Absdalestraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3799_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006970"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006970/2022-09-09T09:20:52.092Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/ab.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ab.ttl>.

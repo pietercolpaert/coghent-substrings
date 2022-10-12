@@ -71,3 +71,93 @@ _:df_2803_15 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570013336"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013336/2021-10-31T22:28:42.797Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/her.ttl>.
+<https://stad.gent/id/concept/550008669/2022-09-24T03:41:24.380Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008669>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:41:24.380Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2038_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "herinneringsmedaille"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2038_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008669"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008669/2022-09-24T03:41:24.380Z>.
+<https://stad.gent/id/concept/550008044/2022-09-24T03:02:01.721Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008044>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:02:01.721Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026812>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2320_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "herdenkingskaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005463>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008043>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008043> <http://www.w3.org/2004/02/skos/core#prefLabel> "bidprentje"@nl.
+<https://stad.gent/id/concept/550005463> <http://www.w3.org/2004/02/skos/core#prefLabel> "kaart (informatiedrager)"@nl.
+_:df_2320_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008044"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008044> <http://www.w3.org/2004/02/skos/core#prefLabel> "herdenkingskaart"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008044/2022-09-24T03:02:01.721Z>.
+<https://stad.gent/id/concept/550007798/2022-09-24T02:41:38.835Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007798>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:41:38.835Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006961>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2464_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "herkenningsteken (monument)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007799>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005995>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005995> <http://www.w3.org/2004/02/skos/core#prefLabel> "kilometerpaal"@nl.
+<https://stad.gent/id/concept/550007799> <http://www.w3.org/2004/02/skos/core#prefLabel> "monumenten naar vorm"@nl.
+_:df_2464_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007798"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007798> <http://www.w3.org/2004/02/skos/core#prefLabel> "herkenningsteken (monument)"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007798/2022-09-24T02:41:38.835Z>.
+<https://stad.gent/id/concept/550005536/2022-09-24T01:45:42.208Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005536>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:45:42.208Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2863_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "herdenkingsmunt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2863_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005536"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005536/2022-09-24T01:45:42.208Z>.
+<https://stad.gent/id/concept/550004546/2022-09-24T01:09:11.207Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004546>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:09:11.207Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7012503>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3124_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Herford"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004734>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl.
+_:df_3124_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004546"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004546/2022-09-24T01:09:11.207Z>.
+<https://stad.gent/id/concept/550004168/2022-09-24T00:59:45.525Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004168>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:59:45.525Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026486>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3190_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Herent"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008920>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008920> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams-Brabant"@nl.
+_:df_3190_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004168"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004168/2022-09-24T00:59:45.525Z>.
+<https://stad.gent/id/concept/670007123/2022-09-09T09:31:26.839Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670007123>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:31:26.839Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3724_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Herdenkingslaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3724_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670007123"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670007123/2022-09-09T09:31:26.839Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/her.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/her.ttl>.

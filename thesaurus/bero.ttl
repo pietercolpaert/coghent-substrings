@@ -220,3 +220,233 @@ _:df_1_352 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/berou.ttl>;
     <https://w3id.org/tree#value> "berou".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bero.ttl>.
+<https://stad.gent/id/concept/570009098/2022-09-24T05:08:54.449Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009098>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:08:54.449Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300236161>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1417_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "brouwer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1417_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009098"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009098/2022-09-24T05:08:54.449Z>.
+<https://stad.gent/id/concept/570008740/2022-09-24T04:56:36.423Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008740>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:56:36.423Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300000403>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1504_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "scheepswerf"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "beroep"@nl, "occupation"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1504_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008740"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008740/2022-09-24T04:56:36.423Z>.
+<https://stad.gent/id/concept/570007931/2022-09-24T04:43:56.778Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007931>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:43:56.778Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q637816>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1594_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beroepsziektes"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570019475>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570019475> <http://www.w3.org/2004/02/skos/core#prefLabel> "ziektes"@nl.
+_:df_1594_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007931"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007931/2022-09-24T04:43:56.778Z>.
+<https://stad.gent/id/concept/570007552/2022-09-24T04:41:29.245Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007552>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:41:29.245Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2926103>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1612_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bronsgieter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1612_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007552"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007552/2022-09-24T04:41:29.245Z>.
+<https://stad.gent/id/concept/570006343/2022-09-24T04:36:41.530Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006343>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:36:41.530Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025063>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1645_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ingenieur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1645_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006343"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006343/2022-09-24T04:36:41.530Z>.
+<https://stad.gent/id/concept/570004636/2022-09-24T04:28:04.782Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570004636>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:28:04.782Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025492>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1708_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "auteur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1708_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570004636"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570004636/2022-09-24T04:28:04.782Z>.
+<https://stad.gent/id/concept/570001871/2022-09-24T04:19:23.199Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001871>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:19:23.199Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300263369>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1768_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beroepen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1768_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001871"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001871/2022-09-24T04:19:23.199Z>.
+<https://stad.gent/id/concept/570001874/2022-09-24T04:19:28.202Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001874>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:19:28.202Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q828812>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1768_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beroepsonderwijs"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570024722>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570024722> <http://www.w3.org/2004/02/skos/core#prefLabel> "onderwijs en opleiding"@nl.
+_:df_1768_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001874"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001874/2022-09-24T04:19:28.202Z>.
+<https://stad.gent/id/concept/570001391/2022-09-24T04:16:24.943Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001391>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:16:24.943Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025954>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1789_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beroepsvereniging"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1789_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001391"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001391/2022-09-24T04:16:24.943Z>.
+<https://stad.gent/id/concept/570001231/2022-09-24T04:15:09.093Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001231>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:15:09.093Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025601>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1798_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vertaler"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1798_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001231"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001231/2022-09-24T04:15:09.093Z>.
+<https://stad.gent/id/concept/570001242/2022-09-24T04:15:14.095Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001242>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:15:14.095Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1459069>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1798_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verdeler"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "objectnaam"@nl, "object name"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1798_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001242"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001242/2022-09-24T04:15:14.095Z>.
+<https://stad.gent/id/concept/570000598/2022-09-24T04:11:06.299Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000598>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:11:06.299Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025165>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1828_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "graveur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1828_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000598"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000598/2022-09-24T04:11:06.299Z>.
+<https://stad.gent/id/concept/570000304/2022-09-24T04:09:15.453Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000304>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:09:15.453Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025247>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1840_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Detailhandelaren die een kleine tot middelgrote winkel bezitten en leiden. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "winkelier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1840_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000304"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000304/2022-09-24T04:09:15.453Z>.
+<https://stad.gent/id/concept/550007620/2022-09-24T02:36:05.921Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007620>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:36:05.921Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2503_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "edelsmid"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2503_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007620"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007620/2022-09-24T02:36:05.921Z>.
+<https://stad.gent/id/concept/550006218/2022-09-24T02:08:54.878Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006218>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:08:54.878Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2698_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drukker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2698_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006218"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006218/2022-09-24T02:08:54.878Z>.
+<https://stad.gent/id/concept/550006142/2022-09-24T02:05:22.624Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006142>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:05:22.624Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2722_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schilder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2722_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006142"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006142/2022-09-24T02:05:22.624Z>.
+<https://stad.gent/id/concept/550006092/2022-09-24T02:03:01.349Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006092>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:03:01.349Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2740_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "prentenmaker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en, "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2740_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006092"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006092/2022-09-24T02:03:01.349Z>.
+<https://stad.gent/id/concept/550005955/2022-09-24T01:58:39.017Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005955>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:58:39.017Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2770_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "steenhouwer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en, "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2770_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005955"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005955/2022-09-24T01:58:39.017Z>.
+<https://stad.gent/id/concept/550005121/2022-09-24T01:29:28.723Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005121>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:29:28.723Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2980_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tingieter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2980_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005121"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005121/2022-09-24T01:29:28.723Z>.
+<https://stad.gent/id/concept/550005110/2022-09-24T01:28:58.283Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005110>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:28:58.283Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2983_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldhouwer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2983_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005110"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005110/2022-09-24T01:28:58.283Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/bero.ttl> <https://w3id.org/tree#relation> _:df_1_1281.
+_:df_1_1281 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/beroe.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "beroe".
+<https://www.pieter.pm/coghent-substrings/thesaurus/bero.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bero.ttl>.

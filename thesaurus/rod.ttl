@@ -9,3 +9,36 @@ _:df_2467_8 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570015458"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015458/2021-10-31T23:16:18.892Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/rod.ttl>.
+<https://stad.gent/id/concept/570008632/2022-09-24T04:52:31.981Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008632>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:52:31.981Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q7178>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1534_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "rode kruis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1534_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008632"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008632/2022-09-24T04:52:31.981Z>.
+<https://stad.gent/id/concept/670006757/2022-09-09T09:03:46.171Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006757>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:03:46.171Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3922_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rodenbachstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3922_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006757"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006757/2022-09-09T09:03:46.171Z>.
+<https://stad.gent/id/concept/670006734/2022-09-09T09:01:50.412Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006734>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:01:50.412Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3937_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rode Torenbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3937_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006734"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006734/2022-09-09T09:01:50.412Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/rod.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/rod.ttl>.

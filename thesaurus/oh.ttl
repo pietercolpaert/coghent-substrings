@@ -23,3 +23,44 @@ _:df_2143_31 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570017084"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017084/2021-11-01T00:02:09.317Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/oh.ttl>.
+<https://stad.gent/id/concept/570017084/2022-09-24T08:00:00.323Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017084>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T08:00:00.323Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007706>;
+    <http://www.w3.org/ns/adms#identifier> _:df_202_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ohio"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_202_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017084"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017084/2022-09-24T08:00:00.323Z>.
+<https://stad.gent/id/concept/550006771/2022-09-24T02:26:35.494Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006771>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:26:35.494Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7250519>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2572_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ohain"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008927>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008927> <http://www.w3.org/2004/02/skos/core#prefLabel> "Waals-Brabant"@nl.
+_:df_2572_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006771"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006771/2022-09-24T02:26:35.494Z>.
+<https://stad.gent/id/concept/550006402/2022-09-24T02:15:53.895Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006402>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:15:53.895Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007706>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2647_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ohio"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005607>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005607> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten"@nl, "Verenigde Staten"@nl.
+_:df_2647_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006402"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006402/2022-09-24T02:15:53.895Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/oh.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/oh.ttl>.

@@ -100,3 +100,189 @@ _:df_3154_7 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010047"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010047/2021-10-31T21:39:04.772Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/pu.ttl>.
+<https://stad.gent/id/concept/570016919/2022-09-24T07:53:06.721Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016919>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:53:06.721Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300201103>;
+    <http://www.w3.org/ns/adms#identifier> _:df_250_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "puddingvorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_250_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016919"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016919/2022-09-24T07:53:06.721Z>.
+<https://stad.gent/id/concept/570016423/2022-09-24T07:34:58.015Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016423>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:34:58.015Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300023196>;
+    <http://www.w3.org/ns/adms#identifier> _:df_379_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gepunte stalen ponsen waar met een hamer op wordt geslagen om metaal te merken. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "puntslag"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_379_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016423"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016423/2022-09-24T07:34:58.015Z>.
+<https://stad.gent/id/concept/570014624/2022-09-24T06:52:52.770Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014624>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:52:52.770Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300250465>;
+    <http://www.w3.org/ns/adms#identifier> _:df_679_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "putti"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_679_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014624"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014624/2022-09-24T06:52:52.770Z>.
+<https://stad.gent/id/concept/570010315/2022-09-24T05:42:55.470Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010315>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:42:55.470Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026687>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1174_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Puurs"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020234>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020234> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl.
+_:df_1174_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010315"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010315/2022-09-24T05:42:55.470Z>.
+<https://stad.gent/id/concept/570010047/2022-09-24T05:36:26.952Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010047>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:36:26.952Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1222_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "publiciteitsmateriaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1222_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010047"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010047/2022-09-24T05:36:26.952Z>.
+<https://stad.gent/id/concept/570009105/2022-09-24T05:09:14.460Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009105>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:09:14.460Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300137619>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1414_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "publiciteit"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570024082>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570024082> <http://www.w3.org/2004/02/skos/core#prefLabel> "informatie en communicatie"@nl.
+_:df_1414_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009105"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009105/2022-09-24T05:09:14.460Z>.
+<https://stad.gent/id/concept/570001889/2022-09-24T04:19:33.205Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001889>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:19:33.205Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300111999>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1768_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "publicatie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1768_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001889"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001889/2022-09-24T04:19:33.205Z>.
+<https://stad.gent/id/concept/550009075/2022-09-24T03:57:52.631Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009075>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:57:52.631Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300211207>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1921_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Aanduiding voor constructiepuzzels waarvan het doel is om twee- of driedimensionale stukken weer samen te voegen tot een bepaalde vorm. Te gebruiken voor ontspanningsartefacten die zijn bedoeld om amusement of afleiding te bieden door het leveren van constructiemoeilijkheden die moeten worden opgelost met vindingrijkheid of geduldig proberen. Kijk bij \"woord- en cijferpuzzels en spellen\" voor woord- en cijferafleidingen die moeten worden opgelost.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "puzzel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008331>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008331> <http://www.w3.org/2004/02/skos/core#prefLabel> "ontspanningsmiddelen voor niet-competitieve activiteiten"@nl.
+_:df_1921_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009075"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009075/2022-09-24T03:57:52.631Z>.
+<https://stad.gent/id/concept/550007994/2022-09-24T02:57:48.199Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007994>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:57:48.199Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300111999>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2350_35;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Documenten die onder het publiek worden verspreid door middel van verkoop of andere wisseling van eigenaar, of door middel van verhuur, pacht of lening.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "publicatie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007995>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007993>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007993> <http://www.w3.org/2004/02/skos/core#prefLabel> "seriepublicatie"@nl.
+<https://stad.gent/id/concept/550007995> <http://www.w3.org/2004/02/skos/core#prefLabel> "soorten documenten naar productieomstandigheden"@nl.
+_:df_2350_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007994"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007994> <http://www.w3.org/2004/02/skos/core#prefLabel> "publicatie"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007994/2022-09-24T02:57:48.199Z>.
+<https://stad.gent/id/concept/550006283/2022-09-24T02:11:41.550Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006283>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:11:41.550Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026687>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2677_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Puurs"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005392>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005392> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl.
+_:df_2677_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006283"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006283/2022-09-24T02:11:41.550Z>.
+<https://stad.gent/id/concept/550005250/2022-09-24T01:35:06.338Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005250>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:35:06.338Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2938_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Penning met reclame voor een bedrijf. meestal 19de eeuws";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "publiciteitspenning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008059>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008059> <http://www.w3.org/2004/02/skos/core#prefLabel> "penning (medaille)"@nl.
+_:df_2938_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005250"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005250/2022-09-24T01:35:06.338Z>.
+<https://stad.gent/id/concept/550004814/2022-09-24T01:21:04.209Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004814>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:21:04.209Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043136>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3040_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Tafelgerei voor het opdienen van punch, voor het overbrengen van de drank van punchkom naar de punchbekers; komvormige schep aan een steel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "punchlepel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004817>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004817> <http://www.w3.org/2004/02/skos/core#prefLabel> "pollepel"@nl.
+_:df_3040_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004814"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004814/2022-09-24T01:21:04.209Z>.
+<https://stad.gent/id/concept/550003729/2022-09-24T00:53:57.036Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003729>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:53:57.036Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3232_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "punt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007977>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007977> <http://www.w3.org/2004/02/skos/core#prefLabel> "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl.
+_:df_3232_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003729"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003729/2022-09-24T00:53:57.036Z>.
+<https://stad.gent/id/concept/550000851/2022-09-24T00:10:25.336Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000851>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:10:25.336Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300262964>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3541_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Punisch"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3541_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000851"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000851/2022-09-24T00:10:25.336Z>.
+<https://stad.gent/id/concept/670007117/2022-09-09T09:31:01.829Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670007117>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:31:01.829Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3727_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Putkapelstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3727_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670007117"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670007117/2022-09-09T09:31:01.829Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/pu.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/pu.ttl>.

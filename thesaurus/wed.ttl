@@ -9,3 +9,15 @@ _:df_2644_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570014447"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014447/2021-10-31T22:51:12.049Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/wed.ttl>.
+<https://stad.gent/id/concept/670006584/2022-09-09T08:49:14.553Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006584>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:49:14.553Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4027_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wedding Party"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4027_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006584"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006584/2022-09-09T08:49:14.553Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/wed.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/wed.ttl>.

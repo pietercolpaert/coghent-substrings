@@ -1,0 +1,38 @@
+<https://stad.gent/id/concept/550008562/2022-09-24T03:34:08.951Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008562>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:34:08.951Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014023>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2089_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vezel en vezelproducten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008563>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008561>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008561> <http://www.w3.org/2004/02/skos/core#prefLabel> "vezelproducten"@nl.
+<https://stad.gent/id/concept/550008563> <http://www.w3.org/2004/02/skos/core#prefLabel> "materialen naar fysieke vorm"@nl, "materialen naar fysieke vorm"@nl.
+_:df_2089_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008562"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008562> <http://www.w3.org/2004/02/skos/core#prefLabel> "vezel en vezelproducten"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008562/2022-09-24T03:34:08.951Z>.
+<https://stad.gent/id/concept/550008561/2022-09-24T03:34:03.950Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008561>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:34:03.950Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014062>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2092_35;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vezelproducten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008562>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001923>, <https://stad.gent/id/concept/550008568>, <https://stad.gent/id/concept/550008403>, <https://stad.gent/id/concept/550004829>, <https://stad.gent/id/concept/550008560>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008560> <http://www.w3.org/2004/02/skos/core#prefLabel> "textielmaterialen"@nl, "textielmaterialen"@nl.
+<https://stad.gent/id/concept/550004829> <http://www.w3.org/2004/02/skos/core#prefLabel> "textiel (materiaal)"@nl.
+<https://stad.gent/id/concept/550008403> <http://www.w3.org/2004/02/skos/core#prefLabel> "papier (vezelproduct)"@nl.
+<https://stad.gent/id/concept/550008568> <http://www.w3.org/2004/02/skos/core#prefLabel> "papier-maché"@nl.
+<https://stad.gent/id/concept/550001923> <http://www.w3.org/2004/02/skos/core#prefLabel> "koord (vezelproduct)"@nl.
+<https://stad.gent/id/concept/550008562> <http://www.w3.org/2004/02/skos/core#prefLabel> "vezel en vezelproducten"@nl.
+_:df_2092_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008561"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008561> <http://www.w3.org/2004/02/skos/core#prefLabel> "vezelproducten"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008561/2022-09-24T03:34:03.950Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/vez.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/vez.ttl>.

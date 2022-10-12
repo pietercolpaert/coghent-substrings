@@ -1,0 +1,26 @@
+<https://stad.gent/id/concept/550004547/2022-09-24T01:09:16.648Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004547>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:09:16.648Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7177760>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3124_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hannover"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004734>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl.
+_:df_3124_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004547"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004547/2022-09-24T01:09:16.648Z>.
+<https://stad.gent/id/concept/670006802/2022-09-09T09:07:24.501Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006802>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:07:24.501Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1715>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3895_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hannover"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3895_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006802"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006802/2022-09-09T09:07:24.501Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/hann.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/hann.ttl>.

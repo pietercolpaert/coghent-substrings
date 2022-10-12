@@ -104,3 +104,119 @@ _:df_2800_5 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570013359"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013359/2021-10-31T22:29:00.271Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/hoe.ttl>.
+<https://stad.gent/id/concept/570009441/2022-09-24T05:21:16.882Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009441>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:21:16.882Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046106>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1330_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hoed"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1330_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009441"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009441/2022-09-24T05:21:16.882Z>.
+<https://stad.gent/id/concept/570009320/2022-09-24T05:18:35.523Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009320>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:18:35.523Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209304>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1348_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Lange rechte spelden met een grote knop die meestal versierd is, bedoeld om op een hoed te worden gedragen als bevestigingsmiddel of versiering. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hoedenspeld"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1348_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009320"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009320/2022-09-24T05:18:35.523Z>.
+<https://stad.gent/id/concept/550006898/2022-09-24T02:32:44.042Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006898>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:32:44.042Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/5003264>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2527_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hoevelaken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006121>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006121> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_2527_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006898"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006898/2022-09-24T02:32:44.042Z>.
+<https://stad.gent/id/concept/550006082/2022-09-24T02:02:31.334Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006082>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:02:31.334Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2743_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hoekmeter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2743_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006082"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006082/2022-09-24T02:02:31.334Z>.
+<https://stad.gent/id/concept/550005138/2022-09-24T01:30:24.219Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005138>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:30:24.219Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300198927>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2971_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Dozen die voornamelijk zijn bedoeld voor het bewaren van hoeden die zijn opgeslagen zijn. Eveneens die stukken handbagage die meestal rond en diep zijn en handvaten hebben, en die speciaal zijn ontworpen om hoeden te dragen hoewel ze vaak door vrouwen worden gebruikt als reistassen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hoedendoos"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007961>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007961> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders voor persoonlijke zaken"@nl.
+_:df_2971_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005138"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005138/2022-09-24T01:30:24.219Z>.
+<https://stad.gent/id/concept/550005139/2022-09-24T01:30:29.224Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005139>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:30:29.224Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046106>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2971_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Voorgevormde hoofddeksels met een rand en een bol, of één van beide.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hoed"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550000302>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005304>, <https://stad.gent/id/concept/550005297>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005297> <http://www.w3.org/2004/02/skos/core#prefLabel> "steek (hoed)"@nl.
+<https://stad.gent/id/concept/550005304> <http://www.w3.org/2004/02/skos/core#prefLabel> "dameshoed"@nl.
+<https://stad.gent/id/concept/550000302> <http://www.w3.org/2004/02/skos/core#prefLabel> "hoofddeksel"@nl.
+_:df_2971_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005139"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005139/2022-09-24T01:30:29.224Z>.
+<https://stad.gent/id/concept/550004995/2022-09-24T01:25:31.604Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004995>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:25:31.604Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007896>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3007_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hoei"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008930>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008930> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luik (provincie)"@nl.
+_:df_3007_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004995"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004995/2022-09-24T01:25:31.604Z>.
+<https://stad.gent/id/concept/550003212/2022-09-24T00:47:17.422Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003212>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:47:17.422Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024400>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3280_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "U-vormige metalen platen, met of zonder ijssporen, die aan een paardenhoef zijn vastgespijkerd om deze te beschermen tegen verwondingen die door harde of ruwe oppervlakken kunnen worden veroorzaakt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hoefijzer (dierenuitrusting)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008151>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008151> <http://www.w3.org/2004/02/skos/core#prefLabel> "dierenuitrusting"@nl.
+_:df_3280_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003212"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003212/2022-09-24T00:47:17.422Z>.
+<https://stad.gent/id/concept/550000325/2022-09-24T00:05:01.794Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000325>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:05:01.794Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3580_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hoedenmaker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3580_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000325"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000325/2022-09-24T00:05:01.794Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/hoe.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/hoe.ttl>.

@@ -151,3 +151,143 @@ _:df_3154_17 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010053"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010053/2021-10-31T21:39:14.776Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/kal.ttl>.
+<https://stad.gent/id/concept/570010053/2022-09-24T05:36:37.331Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010053>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:36:37.331Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1219_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kalenderbladen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1219_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010053"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010053/2022-09-24T05:36:37.331Z>.
+<https://stad.gent/id/concept/570009074/2022-09-24T05:07:57.546Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009074>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:07:57.546Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026741>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1423_11;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor lijsten met een onderverdeling van het jaar in dagen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kalender"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1423_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009074"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009074/2022-09-24T05:07:57.546Z>.
+<https://stad.gent/id/concept/570004277/2022-09-24T04:27:24.762Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570004277>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:27:24.762Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1365679>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1711_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kalander"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1711_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570004277"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570004277/2022-09-24T04:27:24.762Z>.
+<https://stad.gent/id/concept/570003476/2022-09-24T04:24:53.454Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570003476>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:24:53.454Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011736>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1729_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kalk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1729_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570003476"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570003476/2022-09-24T04:24:53.454Z>.
+<https://stad.gent/id/concept/550007605/2022-09-24T02:35:30.407Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007605>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:35:30.407Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026523>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2509_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kalmthout"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005392>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005392> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl.
+_:df_2509_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007605"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007605/2022-09-24T02:35:30.407Z>.
+<https://stad.gent/id/concept/550005685/2022-09-24T01:50:09.520Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005685>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:50:09.520Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053162>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2830_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De kunst van het handmatig met een pen creëren van fraaie, elegante letters of sierletters, in los of cursief schrift.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kalligrafie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2830_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005685"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005685/2022-09-24T01:50:09.520Z>.
+<https://stad.gent/id/concept/550005247/2022-09-24T01:34:51.333Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005247>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:34:51.333Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2941_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Penning met kalender, meestal uitgegeven door bedrijven als publiciteit";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kalenderpenning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008059>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008059> <http://www.w3.org/2004/02/skos/core#prefLabel> "penning (medaille)"@nl, "penning (medaille)"@nl.
+_:df_2941_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005247"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005247/2022-09-24T01:34:51.333Z>.
+<https://stad.gent/id/concept/550004555/2022-09-24T01:09:46.661Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004555>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:09:46.661Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026741>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3118_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor lijsten met een onderverdeling van het jaar in dagen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kalender"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008095>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008095> <http://www.w3.org/2004/02/skos/core#prefLabel> "documenten naar vorm"@nl.
+_:df_3118_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004555"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004555/2022-09-24T01:09:46.661Z>.
+<https://stad.gent/id/concept/550004449/2022-09-24T01:05:34.215Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004449>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:05:34.215Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300227525>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3148_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Leer van het vel van een kalf, vooral gebruikt voor boekbinden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kalfsleer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008749>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008749> <http://www.w3.org/2004/02/skos/core#prefLabel> "leer naar herkomst"@nl.
+_:df_3148_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004449"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004449/2022-09-24T01:05:34.215Z>.
+<https://stad.gent/id/concept/550001450/2022-09-24T00:20:10.481Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001450>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:20:10.481Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011286>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3472_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Algemene benaming voor een afzettingsgesteente dat in vele soorten voorkomt en hoofdzakelijk bestaat uit calciet of dolomiet.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kalksteen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008785>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008785> <http://www.w3.org/2004/02/skos/core#prefLabel> "carbonaatgesteente"@nl.
+_:df_3472_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001450"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001450/2022-09-24T00:20:10.481Z>.
+<https://stad.gent/id/concept/550000953/2022-09-24T00:12:06.399Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000953>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:12:06.399Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300197526>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3529_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt algemeen gebruikt voor instrumenten die worden gebruikt voor het meten of anderszins vaststellen van de afmetingen, staat of mechanische nauwkeurigheid van iets.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kaliber"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007846>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007846> <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van omvang"@nl.
+_:df_3529_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000953"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000953/2022-09-24T00:12:06.399Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/kal.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/kal.ttl>.

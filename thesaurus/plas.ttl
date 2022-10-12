@@ -1,0 +1,64 @@
+<https://stad.gent/id/concept/570009096/2022-09-24T05:08:49.446Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009096>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:08:49.446Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014570>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1417_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "plastic"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570014353>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570014353> <http://www.w3.org/2004/02/skos/core#prefLabel> "kunststof"@nl.
+_:df_1417_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009096"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009096/2022-09-24T05:08:49.446Z>.
+<https://stad.gent/id/concept/550008835/2022-09-24T03:49:40.515Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008835>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:49:40.515Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300167624>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1981_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "plastic naar eigenschap : thermoplastisch of thermoharder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008816>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550009285>, <https://stad.gent/id/concept/550007545>, <https://stad.gent/id/concept/550009084>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550009084> <http://www.w3.org/2004/02/skos/core#prefLabel> "polyurethaan"@nl.
+<https://stad.gent/id/concept/550007545> <http://www.w3.org/2004/02/skos/core#prefLabel> "polyester"@nl.
+<https://stad.gent/id/concept/550009285> <http://www.w3.org/2004/02/skos/core#prefLabel> " Poly Vinyl Chloride"@nl.
+<https://stad.gent/id/concept/550008816> <http://www.w3.org/2004/02/skos/core#prefLabel> "plastic naar eigenschap"@nl.
+_:df_1981_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008835"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008835/2022-09-24T03:49:40.515Z>.
+<https://stad.gent/id/concept/550008816/2022-09-24T03:48:50.022Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008816>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:48:50.022Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300167623>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1987_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "plastic naar eigenschap"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550002190>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008835>, <https://stad.gent/id/concept/550008815>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008815> <http://www.w3.org/2004/02/skos/core#prefLabel> "thermoplast"@nl, "thermoplast"@nl.
+<https://stad.gent/id/concept/550008835> <http://www.w3.org/2004/02/skos/core#prefLabel> "plastic naar eigenschap : thermoplastisch of thermoharder"@nl.
+<https://stad.gent/id/concept/550002190> <http://www.w3.org/2004/02/skos/core#prefLabel> "plastic"@nl.
+_:df_1987_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008816"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008816> <http://www.w3.org/2004/02/skos/core#prefLabel> "plastic naar eigenschap"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008816/2022-09-24T03:48:50.022Z>.
+<https://stad.gent/id/concept/550002190/2022-09-24T00:33:38.857Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002190>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:33:38.857Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014570>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3376_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "plastic"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008756>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008816>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008816> <http://www.w3.org/2004/02/skos/core#prefLabel> "plastic naar eigenschap"@nl.
+<https://stad.gent/id/concept/550008756> <http://www.w3.org/2004/02/skos/core#prefLabel> "organisch materiaal"@nl.
+_:df_3376_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002190"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002190/2022-09-24T00:33:38.857Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/plas.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/plas.ttl>.

@@ -1,0 +1,29 @@
+<https://stad.gent/id/concept/550004619/2022-09-24T01:13:13.473Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004619>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:13:13.473Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7011337>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3094_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bodmin"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006140>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006140> <http://www.w3.org/2004/02/skos/core#prefLabel> "Engeland"@nl, "Engeland"@nl, "Engeland"@nl.
+_:df_3094_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004619"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004619/2022-09-24T01:13:13.473Z>.
+<https://stad.gent/id/concept/550003226/2022-09-24T00:47:37.825Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003226>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:47:37.825Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900032873>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3277_18;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Zilveren medaillon met de afbeelding van het gemeentewapen, gedragen door stadhuisboden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bodebus"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005563>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005563> <http://www.w3.org/2004/02/skos/core#prefLabel> "medaillon (sieraad)"@nl.
+_:df_3277_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003226"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003226/2022-09-24T00:47:37.825Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/bod.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bod.ttl>.

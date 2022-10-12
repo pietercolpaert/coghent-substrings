@@ -10,3 +10,50 @@ _:df_2287_12 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570016556"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016556/2021-10-31T23:41:41.364Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/verd.ttl>.
+<https://stad.gent/id/concept/570001242/2022-09-24T04:15:14.095Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001242>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:15:14.095Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1459069>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1798_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verdeler"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "objectnaam"@nl, "object name"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1798_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001242"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001242/2022-09-24T04:15:14.095Z>.
+<https://stad.gent/id/concept/550003126/2022-09-24T00:45:35.149Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003126>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:45:35.149Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300205015>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3292_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar wandtapijten die worden gekenmerkt door een ontwerp waarin dicht groen gebladerte overheerst, met name met betrekking tot dergelijke wandtapijten die tijdens de renaissance zijn vervaardigd.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verdure"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550000988>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000988> <http://www.w3.org/2004/02/skos/core#prefLabel> "tapisserie"@nl.
+_:df_3292_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003126"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003126/2022-09-24T00:45:35.149Z>.
+<https://stad.gent/id/concept/670006505/2022-09-09T08:42:35.333Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006505>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:42:35.333Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4072_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Verdwaald in een harem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4072_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006505"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006505/2022-09-09T08:42:35.333Z>.
+<https://stad.gent/id/concept/670006504/2022-09-09T08:42:30.332Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006504>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:42:30.332Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4075_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Verdi"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4075_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006504"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006504/2022-09-09T08:42:30.332Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/verd.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/verd.ttl>.

@@ -59,3 +59,165 @@ _:df_3217_12 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009677"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009677/2021-10-31T21:30:16.986Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/mun.ttl>.
+<https://stad.gent/id/concept/550008716/2022-09-24T03:43:21.360Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008716>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:43:21.360Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2026_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "munten (collectie)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2026_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008716"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008716/2022-09-24T03:43:21.360Z>.
+<https://stad.gent/id/concept/550008702/2022-09-24T03:42:51.346Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008702>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:42:51.346Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7250729>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2029_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Munte"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004313>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004313> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen"@nl.
+_:df_2029_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008702"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008702/2022-09-24T03:42:51.346Z>.
+<https://stad.gent/id/concept/550007975/2022-09-24T02:56:22.356Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007975>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:56:22.356Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037222>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2359_18;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Stukjes metaal die met toestemming van de wettige macht worden geslagen om als betaalmiddel te dienen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "munt (ruilmiddel)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007974>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007976>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007976> <http://www.w3.org/2004/02/skos/core#prefLabel> "munten naar herkomst"@nl, "munten naar herkomst"@nl.
+<https://stad.gent/id/concept/550007974> <http://www.w3.org/2004/02/skos/core#prefLabel> "geld naar vorm"@nl.
+_:df_2359_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007975"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007975> <http://www.w3.org/2004/02/skos/core#prefLabel> "munt (ruilmiddel)"@nl, "munt (ruilmiddel)"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007975/2022-09-24T02:56:22.356Z>.
+<https://stad.gent/id/concept/550007976/2022-09-24T02:56:27.359Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007976>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:56:27.359Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037223>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2359_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "munten naar herkomst"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007975>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008827>, <https://stad.gent/id/concept/550007973>, <https://stad.gent/id/concept/550008032>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008032> <http://www.w3.org/2004/02/skos/core#prefLabel> "vroeg-westerse wereldmunten"@nl.
+<https://stad.gent/id/concept/550007973> <http://www.w3.org/2004/02/skos/core#prefLabel> "laat-westerse wereldmunten"@nl, "laat-westerse wereldmunten"@nl.
+<https://stad.gent/id/concept/550008827> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aziatische munten"@nl.
+<https://stad.gent/id/concept/550007975> <http://www.w3.org/2004/02/skos/core#prefLabel> "munt (ruilmiddel)"@nl, "munt (ruilmiddel)"@nl.
+_:df_2359_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007976"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007976> <http://www.w3.org/2004/02/skos/core#prefLabel> "munten naar herkomst"@nl, "munten naar herkomst"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007976/2022-09-24T02:56:27.359Z>.
+<https://stad.gent/id/concept/550007658/2022-09-24T02:37:11.413Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007658>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:37:11.413Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2497_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muntmeester"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2497_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007658"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007658/2022-09-24T02:37:11.413Z>.
+<https://stad.gent/id/concept/550007583/2022-09-24T02:35:20.402Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007583>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:35:20.402Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300036928>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2509_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Projectielen en voortstuwingsmiddelen die nodig zijn voor het gebruik van vuurwapens.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "munitie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007853>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008188>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008188> <http://www.w3.org/2004/02/skos/core#prefLabel> "artilleriemunitie"@nl.
+<https://stad.gent/id/concept/550007853> <http://www.w3.org/2004/02/skos/core#prefLabel> "wapens en munitie (topterm)"@nl.
+_:df_2509_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007583"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007583/2022-09-24T02:35:20.402Z>.
+<https://stad.gent/id/concept/550006013/2022-09-24T02:00:35.392Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006013>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:00:35.392Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2758_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Dergelijke doosjes waren onder andere in gebruik bij kooplieden en belastingontvangers. Met behulp van een balansje en gewichtjes werd het gewicht van gouden munten gecontroleerd. Als er gewicht te laag was, betekende dat meestal dat de munt aan de rand was gesnoeid. Daarom kregen de munten in de negentiende eeuw een randschrift.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muntgewichtdoos"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550002064>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002064> <http://www.w3.org/2004/02/skos/core#prefLabel> "koker"@nl.
+_:df_2758_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006013"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006013/2022-09-24T02:00:35.392Z>.
+<https://stad.gent/id/concept/550004848/2022-09-24T01:22:19.736Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004848>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:22:19.736Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/4006729>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3031_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Munsterschwarzach"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004734>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl.
+_:df_3031_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004848"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004848/2022-09-24T01:22:19.736Z>.
+<https://stad.gent/id/concept/550004560/2022-09-24T01:09:56.665Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004560>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:09:56.665Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7134067>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3118_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "München"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004734>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_3118_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004560"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004560/2022-09-24T01:09:56.665Z>.
+<https://stad.gent/id/concept/550003767/2022-09-24T00:55:32.927Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003767>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:55:32.927Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3220_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "munt (fictief)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007977>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007977> <http://www.w3.org/2004/02/skos/core#prefLabel> "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl.
+_:df_3220_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003767"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003767/2022-09-24T00:55:32.927Z>.
+<https://stad.gent/id/concept/550001321/2022-09-24T00:17:49.222Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001321>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:17:49.222Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300254280>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3490_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor voorwerpen met hetzelfde gewicht en soms ook ontwerp als bepaalde munten die in omloop zijn. Meestal zijn ze van koper of een ander onedel metaal, zelden van glas, en ze werden vervaardigd om de juiste metaalinhoud en het juiste gewicht te garanderen. Ze waren al bekend uit de Oudheid, maar werden vooral gebruikt van de 4e eeuw n.C. tot ongeveer 1800.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muntgewicht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008105>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008105> <http://www.w3.org/2004/02/skos/core#prefLabel> "gewicht (schaalonderdeel)"@nl.
+_:df_3490_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001321"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001321/2022-09-24T00:17:49.222Z>.
+<https://stad.gent/id/concept/670006781/2022-09-09T09:05:48.746Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006781>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:05:48.746Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1726>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3907_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "München"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3907_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006781"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006781/2022-09-09T09:05:48.746Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/mun.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/mun.ttl>.

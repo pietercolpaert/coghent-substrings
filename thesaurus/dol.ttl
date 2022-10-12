@@ -9,3 +9,34 @@ _:df_2479_13 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570015361"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015361/2021-10-31T23:14:42.492Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/dol.ttl>.
+<https://stad.gent/id/concept/550005580/2022-09-24T01:46:37.673Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005580>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:46:37.673Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300400601>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2857_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Groot, rond of cilindrisch, aardenwerken vat met wijde halsopening. Werd door de Romeinen gebruikt voor de opslag of het transport van goederen zoals graan.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dolium"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007825>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007825> <http://www.w3.org/2004/02/skos/core#prefLabel> "opslagvaten"@nl.
+_:df_2857_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005580"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005580/2022-09-24T01:46:37.673Z>.
+<https://stad.gent/id/concept/550000677/2022-09-24T00:08:23.874Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000677>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:08:23.874Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037058>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3556_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Blanke wapens met een symetrische greep en doorgaans een pareerstang, en een kling om mee te steken. Gebruik 'messen (wapens)' voor blanke wapens met een asymmetrische greep (heft genoemd) en een kling om mee te snijden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dolk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550000676>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000676> <http://www.w3.org/2004/02/skos/core#prefLabel> "blank wapen"@nl.
+_:df_3556_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000677"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550000677> <http://www.w3.org/2004/02/skos/core#prefLabel> "dolk"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000677/2022-09-24T00:08:23.874Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/dol.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/dol.ttl>.

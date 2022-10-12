@@ -21,3 +21,15 @@ _:df_1909_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570018828"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018828/2021-11-01T00:34:47.475Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/inv.ttl>.
+<https://stad.gent/id/concept/570009329/2022-09-24T05:18:55.930Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009329>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:18:55.930Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1345_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "inventarisboek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1345_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009329"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009329/2022-09-24T05:18:55.930Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/inv.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/inv.ttl>.

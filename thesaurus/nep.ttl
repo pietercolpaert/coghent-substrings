@@ -1,0 +1,29 @@
+<https://stad.gent/id/concept/550003713/2022-09-24T00:53:17.021Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003713>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:53:17.021Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300252200>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3238_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vervalste munten; wordt vooral gebruikt voor blanco schijfjes die illegaal doorgaan voor geld.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "nepmunt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008287>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008287> <http://www.w3.org/2004/02/skos/core#prefLabel> "imitatie"@nl.
+_:df_3238_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003713"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003713/2022-09-24T00:53:17.021Z>.
+<https://stad.gent/id/concept/550001844/2022-09-24T00:26:50.311Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001844>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:26:50.311Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000132>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3424_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nepal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550003505>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003505> <http://www.w3.org/2004/02/skos/core#prefLabel> "Azië"@nl.
+_:df_3424_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001844"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001844/2022-09-24T00:26:50.311Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/nep.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/nep.ttl>.

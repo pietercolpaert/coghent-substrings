@@ -19,3 +19,25 @@ _:df_2926_28 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570012482"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012482/2021-10-31T22:11:22.644Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ini.ttl>.
+<https://stad.gent/id/concept/570015334/2022-09-24T07:11:56.643Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015334>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:11:56.643Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028709>;
+    <http://www.w3.org/ns/adms#identifier> _:df_544_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "initialen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_544_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015334"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015334/2022-09-24T07:11:56.643Z>.
+<https://stad.gent/id/concept/570012482/2022-09-24T06:08:40.123Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012482>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:08:40.123Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_991_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "initialen in reliëf borduurwerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_991_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012482"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012482/2022-09-24T06:08:40.123Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/ini.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ini.ttl>.

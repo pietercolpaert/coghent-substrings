@@ -21,3 +21,30 @@ _:df_2902_33 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570012633"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012633/2021-10-31T22:14:50.361Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/py.ttl>.
+<https://stad.gent/id/concept/570012633/2022-09-24T06:12:06.884Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012633>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:12:06.884Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300199983>;
+    <http://www.w3.org/ns/adms#identifier> _:df_967_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pyrometer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_967_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012633"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012633/2022-09-24T06:12:06.884Z>.
+<https://stad.gent/id/concept/550004443/2022-09-24T01:05:29.213Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004443>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:05:29.213Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300083008>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3151_29;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine ciboriehouder zonder stam, meestal van edelmetaal, om hosties te bewaren of naar zieken te dragen. Te onderscheiden van 'monstransen', gebruikt om de hostie uit te stallen, op het altaar of tijdens een processie.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pyxis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007829>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007829> <http://www.w3.org/2004/02/skos/core#prefLabel> "liturgische houders"@nl.
+_:df_3151_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004443"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004443/2022-09-24T01:05:29.213Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/py.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/py.ttl>.

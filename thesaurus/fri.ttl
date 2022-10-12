@@ -1,0 +1,22 @@
+<https://stad.gent/id/concept/670007048/2022-09-09T09:27:09.743Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670007048>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:27:09.743Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3754_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Friedrich Froebelstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3754_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670007048"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670007048/2022-09-09T09:27:09.743Z>.
+<https://stad.gent/id/concept/670007047/2022-09-09T09:27:04.740Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670007047>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:27:04.740Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3757_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fricandonpoort"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3757_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670007047"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670007047/2022-09-09T09:27:04.740Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/fri.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/fri.ttl>.

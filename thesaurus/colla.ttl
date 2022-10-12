@@ -1,0 +1,42 @@
+<https://stad.gent/id/concept/570006053/2022-09-24T04:33:24.917Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006053>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:33:24.917Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300138699>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1669_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "collage"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1669_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006053"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006053/2022-09-24T04:33:24.917Z>.
+<https://stad.gent/id/concept/550008764/2022-09-24T03:45:32.834Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008764>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:45:32.834Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300192949>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2011_33;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "collageen materiaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008759>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007536>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007536> <http://www.w3.org/2004/02/skos/core#prefLabel> "huid"@nl.
+<https://stad.gent/id/concept/550008759> <http://www.w3.org/2004/02/skos/core#prefLabel> "dierlijk materiaal"@nl, "dierlijk materiaal"@nl, "dierlijk materiaal"@nl.
+_:df_2011_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008764"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008764/2022-09-24T03:45:32.834Z>.
+<https://stad.gent/id/concept/550007634/2022-09-24T02:36:25.935Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007634>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:36:25.935Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300033963>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2500_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Beeldende werken die door middel van collagetechniek zijn vervaardigd, d.w.z. het maken van een tweedimensionale compositie door het opbrengen van objecten op een plat vlak. Gebruik 'fotocollages' als foto's de belangrijkste plaats innemen in de compositie.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "collage"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007769>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007769> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldmateriaal naar medium of techniek"@nl.
+_:df_2500_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007634"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007634/2022-09-24T02:36:25.935Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/colla.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/colla.ttl>.

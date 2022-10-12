@@ -1,0 +1,15 @@
+<https://stad.gent/id/concept/570006250/2022-09-24T04:36:11.044Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006250>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:36:11.044Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1063757>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1651_38;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Trelleborg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020784>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020784> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zweden"@nl.
+_:df_1651_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006250"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006250/2022-09-24T04:36:11.044Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/trel.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/trel.ttl>.

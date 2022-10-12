@@ -111,3 +111,129 @@ _:df_1_523 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/object.ttl>;
     <https://w3id.org/tree#value> "object".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/objec.ttl>.
+<https://stad.gent/id/concept/570009568/2022-10-06T00:02:16.712Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009568>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-06T00:02:16.712Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_43_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stof"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "associatie"@nl, "association"@en, "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en, "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "activiteit"@nl, "activity"@en, "onderwerp"@nl, "subject"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_43_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009568"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009568/2022-10-06T00:02:16.712Z>.
+<https://stad.gent/id/concept/570008836/2022-10-06T00:01:46.384Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008836>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-06T00:01:46.384Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053653>;
+    <http://www.w3.org/ns/adms#identifier> _:df_46_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar het procedé waarbij een naald en een draad of een dunne metaaldraad worden gebruikt voor het stikken van decoratieve patronen in stof, leer, papier of ander materiaal.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "borduren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570011003>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en, "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570011003> <http://www.w3.org/2004/02/skos/core#prefLabel> "handwerk"@nl.
+_:df_46_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008836"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008836/2022-10-06T00:01:46.384Z>.
+<https://stad.gent/id/concept/570009148/2022-10-06T00:01:51.702Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009148>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-06T00:01:51.702Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q259059>;
+    <http://www.w3.org/ns/adms#identifier> _:df_46_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "huishouden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_46_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009148"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009148/2022-10-06T00:01:51.702Z>.
+<https://stad.gent/id/concept/570009161/2022-10-06T00:01:56.704Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009161>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-06T00:01:56.704Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300045643>;
+    <http://www.w3.org/ns/adms#identifier> _:df_46_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "doos (houder)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "inscriptie positie"@nl, "inscription position"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_46_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009161"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009161/2022-10-06T00:01:56.704Z>.
+<https://stad.gent/id/concept/570009184/2022-10-06T00:02:01.706Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009184>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-06T00:02:01.706Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041340>;
+    <http://www.w3.org/ns/adms#identifier> _:df_46_36;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gravure"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "techniek"@nl, "technique"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_46_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009184"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009184/2022-10-06T00:02:01.706Z>.
+<https://stad.gent/id/concept/570009237/2022-10-06T00:02:06.708Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009237>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-06T00:02:06.708Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300393160>;
+    <http://www.w3.org/ns/adms#identifier> _:df_46_45;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Glasplaten met een lichtgevoelige emulsie die zijn blootgesteld en ontwikkeld, en die bedoeld zijn als matrijzen om positieve fotoafdrukken op een andere drager te maken. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "glasplaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_46_45 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009237"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009237/2022-10-06T00:02:06.708Z>.
+<https://stad.gent/id/concept/570002213/2022-10-06T00:01:21.371Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570002213>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-06T00:01:21.371Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_49_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kantoormachines"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_49_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570002213"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570002213/2022-10-06T00:01:21.371Z>.
+<https://stad.gent/id/concept/570006081/2022-10-06T00:01:26.374Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006081>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-06T00:01:26.374Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041575>;
+    <http://www.w3.org/ns/adms#identifier> _:df_49_13;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten die het verstrijken van de tijd meten en dat aangeven met wijzers of cijfers. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "klok (uurwerk)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "objectcategorie"@nl, "object category"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_49_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006081"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006081/2022-10-06T00:01:26.374Z>.
+<https://stad.gent/id/concept/570006702/2022-10-06T00:01:31.377Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006702>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-06T00:01:31.377Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300162872>;
+    <http://www.w3.org/ns/adms#identifier> _:df_49_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar een tweetal afbeeldingen van hetzelfde onderwerp die, bekeken door een stereoscoop, de illusie van driedimensionaliteit geven. De Engelse natuurkundige Charles Wheatstone was in 1832 de eerste die op dit idee kwam. Hij beschreef stereofotografie als een unieke fotografische kunstvorm. Het is voor een tekenaar immers niet mogelijk twee onderwerpen in het juiste perspectief te tekenen vanaf gezichtspunten die ongeveer 65 mm van elkaar zijn verwijderd, de gemiddelde afstand tussen de ogen van een mens die nodig is om het driedimensionale effect te bereiken. De spiegelstereoscoop van Wheatstone was niet erg geschikt voor foto's. De uitvinding werd pas populair in de jaren 50 van de 19de eeuw, toen Sir David Brewster, een Schotse wetenschapper, een eenvoudiger kijkinstrument ontwierp. De introductie van het collodiumprocedé maakte het belichten en afdrukken van foto's technisch eenvoudiger, waardoor driedimensionale foto's een ware rage werden. Stereofoto's kunnen daguerreotypieën, negatieven of andere fotovormen zijn. Gebruik de specifiekere term 'stereokaarten' voor fotografische afdrukken die op kartonnen kaarten zijn bevestigd. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stereofoto"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_49_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006702"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006702/2022-10-06T00:01:31.377Z>.
+<https://stad.gent/id/concept/570007812/2022-10-06T00:01:36.379Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007812>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-06T00:01:36.379Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q394>;
+    <http://www.w3.org/ns/adms#identifier> _:df_49_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "metrologie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_49_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007812"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007812/2022-10-06T00:01:36.379Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/objec.ttl> <https://w3id.org/tree#relation> _:df_1_123.
+_:df_1_123 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/object.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "object".
+<https://www.pieter.pm/coghent-substrings/thesaurus/objec.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/objec.ttl>.

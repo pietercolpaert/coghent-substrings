@@ -44,3 +44,80 @@ _:df_2719_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570013987"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013987/2021-10-31T22:40:38.735Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/wet.ttl>.
+<https://stad.gent/id/concept/570009315/2022-09-24T05:18:10.508Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009315>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:18:10.508Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027889>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1351_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1351_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009315"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009315/2022-09-24T05:18:10.508Z>.
+<https://stad.gent/id/concept/570006019/2022-09-24T04:32:44.324Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006019>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:32:44.324Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054462>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1675_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wetenschappen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1675_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006019"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006019/2022-09-24T04:32:44.324Z>.
+<https://stad.gent/id/concept/570000170/2022-09-24T04:07:54.783Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000170>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:07:54.783Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7012774>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1852_42;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wetzlar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_1852_42 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000170"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000170/2022-09-24T04:07:54.783Z>.
+<https://stad.gent/id/concept/550008276/2022-09-24T03:21:04.438Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008276>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:21:04.438Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300163664>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2182_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor documenten waarin een wettelijke bepaling of overeenkomst wordt uitgedrukt om een recht in het leven te roepen, te waarborgen, te wijzigen of in te trekken, of om bewijs te leveren voor een recht. Gebruik 'juridische documenten' voor documenten die in het algemeen een juridische relevantie hebben.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wettelijk document"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008277>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005029>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005029> <http://www.w3.org/2004/02/skos/core#prefLabel> "overeenkomst"@nl.
+<https://stad.gent/id/concept/550008277> <http://www.w3.org/2004/02/skos/core#prefLabel> "juridisch document"@nl, "juridisch document"@nl.
+_:df_2182_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008276"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008276> <http://www.w3.org/2004/02/skos/core#prefLabel> "wettelijk document"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008276/2022-09-24T03:21:04.438Z>.
+<https://stad.gent/id/concept/550004197/2022-09-24T01:00:06.019Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004197>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:00:06.019Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008023>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3187_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wetteren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004313>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "Vindplaats"@nl, "Collection place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004313> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen"@nl.
+_:df_3187_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004197"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004197/2022-09-24T01:00:06.019Z>.
+<https://stad.gent/id/concept/670006601/2022-09-09T08:50:40.412Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006601>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:50:40.412Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4015_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wetterleuchten um Maria"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4015_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006601"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006601/2022-09-09T08:50:40.412Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/wet.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/wet.ttl>.

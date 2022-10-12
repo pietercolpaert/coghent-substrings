@@ -10,3 +10,51 @@ _:df_2479_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570015354"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015354/2021-10-31T23:14:27.489Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/insi.ttl>.
+<https://stad.gent/id/concept/570015354/2022-09-24T07:12:26.968Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015354>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:12:26.968Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300211556>;
+    <http://www.w3.org/ns/adms#identifier> _:df_541_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "insigne"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_541_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015354"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015354/2022-09-24T07:12:26.968Z>.
+<https://stad.gent/id/concept/550005462/2022-09-24T01:43:56.326Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005462>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:43:56.326Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300211556>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2875_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Plaatvormige, gewoonlijk rechthoekige broches; kunnen dienen als sieraad of als ordeteken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "insigne (broche)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550002744>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002744> <http://www.w3.org/2004/02/skos/core#prefLabel> "broche"@nl.
+_:df_2875_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005462"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005462/2022-09-24T01:43:56.326Z>.
+<https://stad.gent/id/concept/550005126/2022-09-24T01:29:38.727Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005126>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:29:38.727Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028725>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2977_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Alle soorten middelen die aangeven dat een persoon of object tot een groep of organisatie behoort, en die soms ook een rang of functie aangeven. Gebruik ‘logo’s’ voor grafische symbolen of afbeeldingen die zijn ontworpen om een product, firma of organisatie snel te kunnen herkennen. Soms fungeren logo's ook als handelsmerk.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "insigne (embleem)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005184>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005217>, <https://stad.gent/id/concept/550003454>, <https://stad.gent/id/concept/550008320>, <https://stad.gent/id/concept/550005964>, <https://stad.gent/id/concept/550005292>, <https://stad.gent/id/concept/550008220>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008220> <http://www.w3.org/2004/02/skos/core#prefLabel> "verenigingspenning"@nl.
+<https://stad.gent/id/concept/550005292> <http://www.w3.org/2004/02/skos/core#prefLabel> "sjakoplaat"@nl.
+<https://stad.gent/id/concept/550005964> <http://www.w3.org/2004/02/skos/core#prefLabel> "pelgrimsteken"@nl.
+<https://stad.gent/id/concept/550008320> <http://www.w3.org/2004/02/skos/core#prefLabel> "militair insigne"@nl.
+<https://stad.gent/id/concept/550003454> <http://www.w3.org/2004/02/skos/core#prefLabel> "bedelaarspenning"@nl.
+<https://stad.gent/id/concept/550005217> <http://www.w3.org/2004/02/skos/core#prefLabel> "bedelaarsinsigne"@nl.
+<https://stad.gent/id/concept/550005184> <http://www.w3.org/2004/02/skos/core#prefLabel> "embleem (onderscheidingsteken)"@nl.
+_:df_2977_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005126"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005126/2022-09-24T01:29:38.727Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/insi.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/insi.ttl>.

@@ -123,3 +123,88 @@ _:df_3100_27 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010395"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010395/2021-10-31T21:46:55.990Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/kw.ttl>.
+<https://stad.gent/id/concept/570015116/2022-09-24T07:06:24.107Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015116>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:06:24.107Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q3200835>;
+    <http://www.w3.org/ns/adms#identifier> _:df_583_5;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kwatta"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_583_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015116"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015116/2022-09-24T07:06:24.107Z>.
+<https://stad.gent/id/concept/570012396/2022-09-24T06:06:18.895Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012396>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:06:18.895Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300179462>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1009_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kwaliteit"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1009_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012396"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012396/2022-09-24T06:06:18.895Z>.
+<https://stad.gent/id/concept/570010395/2022-09-24T05:44:12.544Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010395>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:44:12.544Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1165_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kwast passement"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1165_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010395"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010395/2022-09-24T05:44:12.544Z>.
+<https://stad.gent/id/concept/570008815/2022-09-24T04:59:02.886Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008815>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:59:02.886Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011026>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1486_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kwik"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000036>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000036> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaal"@nl.
+_:df_1486_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008815"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008815/2022-09-24T04:59:02.886Z>.
+<https://stad.gent/id/concept/550008619/2022-09-24T03:38:07.349Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008619>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:38:07.349Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300232185>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2062_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kwast (garneersel)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008746>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008746> <http://www.w3.org/2004/02/skos/core#prefLabel> "garneersel (materiaal)"@nl.
+_:df_2062_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008619"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008619/2022-09-24T03:38:07.349Z>.
+<https://stad.gent/id/concept/550007714/2022-09-24T02:38:01.992Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007714>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:38:01.992Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011132>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2491_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De meest algemene variant van siliciumdioxide.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kwarts"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550002710>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008725>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008725> <http://www.w3.org/2004/02/skos/core#prefLabel> "chalcedoon"@nl.
+<https://stad.gent/id/concept/550002710> <http://www.w3.org/2004/02/skos/core#prefLabel> "mineraal"@nl.
+_:df_2491_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007714"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007714/2022-09-24T02:38:01.992Z>.
+<https://stad.gent/id/concept/670006847/2022-09-09T09:10:51.001Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006847>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:10:51.001Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2437396>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3871_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kwatrecht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3871_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006847"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006847/2022-09-09T09:10:51.001Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/kw.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/kw.ttl>.

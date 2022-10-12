@@ -33,3 +33,44 @@ _:df_2608_22 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570014661"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014661/2021-10-31T22:56:36.991Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/lak.ttl>.
+<https://stad.gent/id/concept/570008650/2022-09-24T04:53:12.478Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008650>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:53:12.478Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q977382>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1528_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lakenhalle"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1528_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008650"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008650/2022-09-24T04:53:12.478Z>.
+<https://stad.gent/id/concept/550006194/2022-09-24T02:07:49.430Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006194>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:07:49.430Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053796>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2704_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het oppervlak van iets, zoals een meubelstuk of klein voorwerp, bedekken met lak, waarmee vaak dessins of afbeeldingen worden aangebracht.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lakken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2704_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006194"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006194/2022-09-24T02:07:49.430Z>.
+<https://stad.gent/id/concept/550005713/2022-09-24T01:51:04.982Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005713>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:51:04.982Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300012946>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2824_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een hars van de larve van het lakinsect Laccifer lacca Kerr; het wordt gebruikt om schellak mee te maken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lak (hars)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008744>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550006176>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006176> <http://www.w3.org/2004/02/skos/core#prefLabel> "cinnabar lak"@nl.
+<https://stad.gent/id/concept/550008744> <http://www.w3.org/2004/02/skos/core#prefLabel> "hars"@nl.
+_:df_2824_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005713"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005713/2022-09-24T01:51:04.982Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/lak.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/lak.ttl>.

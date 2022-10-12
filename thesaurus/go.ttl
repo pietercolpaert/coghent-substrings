@@ -248,3 +248,284 @@ _:df_1_916 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/gou.ttl>;
     <https://w3id.org/tree#value> "gou".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/go.ttl>.
+<https://stad.gent/id/concept/570016978/2022-09-24T07:56:03.220Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016978>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:56:03.220Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026452>;
+    <http://www.w3.org/ns/adms#identifier> _:df_229_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gosselies"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012866>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012866> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen (provincie)"@nl.
+_:df_229_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016978"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016978/2022-09-24T07:56:03.220Z>.
+<https://stad.gent/id/concept/570016493/2022-09-24T07:37:24.209Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016493>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:37:24.209Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022508>;
+    <http://www.w3.org/ns/adms#identifier> _:df_361_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gom"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_361_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016493"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016493/2022-09-24T07:37:24.209Z>.
+<https://stad.gent/id/concept/570016272/2022-09-24T07:31:10.990Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016272>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:31:10.990Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7009954>;
+    <http://www.w3.org/ns/adms#identifier> _:df_406_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Göteborg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020784>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020784> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zweden"@nl.
+_:df_406_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016272"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016272/2022-09-24T07:31:10.990Z>.
+<https://stad.gent/id/concept/570015975/2022-09-24T07:24:17.446Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015975>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:24:17.446Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_457_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gordijnstoffen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_457_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015975"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015975/2022-09-24T07:24:17.446Z>.
+<https://stad.gent/id/concept/570014946/2022-09-24T07:02:47.097Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014946>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:02:47.097Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q28877>;
+    <http://www.w3.org/ns/adms#identifier> _:df_610_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "goederen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_610_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014946"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014946/2022-09-24T07:02:47.097Z>.
+<https://stad.gent/id/concept/570014667/2022-09-24T06:54:18.113Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014667>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:54:18.113Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025319>;
+    <http://www.w3.org/ns/adms#identifier> _:df_670_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "goudsmid"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_670_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014667"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014667/2022-09-24T06:54:18.113Z>.
+<https://stad.gent/id/concept/570014174/2022-09-24T06:42:11.462Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014174>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:42:11.462Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7029990>;
+    <http://www.w3.org/ns/adms#identifier> _:df_757_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gomersal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_757_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014174"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014174/2022-09-24T06:42:11.462Z>.
+<https://stad.gent/id/concept/570013658/2022-09-24T06:33:00.554Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013658>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:33:00.554Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300070114>;
+    <http://www.w3.org/ns/adms#identifier> _:df_823_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gouache"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_823_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013658"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013658/2022-09-24T06:33:00.554Z>.
+<https://stad.gent/id/concept/570010980/2022-09-24T05:51:01.190Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010980>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:51:01.190Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005630>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1117_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Goslar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl.
+_:df_1117_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010980"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010980/2022-09-24T05:51:01.190Z>.
+<https://stad.gent/id/concept/570009532/2022-09-24T05:23:18.144Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009532>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:23:18.144Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011021>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1315_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "goud"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000036>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000036> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaal"@nl.
+_:df_1315_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009532"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009532/2022-09-24T05:23:18.144Z>.
+<https://stad.gent/id/concept/570006926/2022-09-24T04:38:37.686Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006926>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:38:37.686Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300020775>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1633_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gotiek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1633_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006926"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006926/2022-09-24T04:38:37.686Z>.
+<https://stad.gent/id/concept/570000594/2022-09-24T04:11:01.296Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000594>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:11:01.296Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006805>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1828_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gouda"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_1828_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000594"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000594/2022-09-24T04:11:01.296Z>.
+<https://stad.gent/id/concept/550009102/2022-09-24T03:59:18.033Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009102>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:59:18.033Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1912_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Goudstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550001540>;
+    <http://www.w3.org/2004/02/skos/core#note> "Vindplaats"@nl, "Collection place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gent"@nl.
+_:df_1912_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009102"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009102/2022-09-24T03:59:18.033Z>.
+<https://stad.gent/id/concept/550008840/2022-09-24T03:50:00.527Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008840>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:50:00.527Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300263585>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1978_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gomharsproducten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008841>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008389>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008389> <http://www.w3.org/2004/02/skos/core#prefLabel> "rubber"@nl.
+<https://stad.gent/id/concept/550008841> <http://www.w3.org/2004/02/skos/core#prefLabel> "gomhars en gomharsproducten"@nl.
+_:df_1978_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008840"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008840> <http://www.w3.org/2004/02/skos/core#prefLabel> "gomharsproducten"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008840/2022-09-24T03:50:00.527Z>.
+<https://stad.gent/id/concept/550008841/2022-09-24T03:50:05.530Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008841>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:50:05.530Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300263584>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1978_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gomhars en gomharsproducten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008744>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008840>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008840> <http://www.w3.org/2004/02/skos/core#prefLabel> "gomharsproducten"@nl.
+<https://stad.gent/id/concept/550008744> <http://www.w3.org/2004/02/skos/core#prefLabel> "hars"@nl.
+_:df_1978_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008841"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008841> <http://www.w3.org/2004/02/skos/core#prefLabel> "gomhars en gomharsproducten"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008841/2022-09-24T03:50:05.530Z>.
+<https://stad.gent/id/concept/550008622/2022-09-24T03:38:23.140Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008622>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:38:23.140Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2062_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "goudleer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2062_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008622"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008622/2022-09-24T03:38:23.140Z>.
+<https://stad.gent/id/concept/550008613/2022-09-24T03:37:42.334Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008613>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:37:42.334Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041905>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2065_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Slaginstrumenten in de vorm van een zeer ondiepe, ronde metalen schaal, in verschillende afmetingen en meestal met een omgebogen rand, ze kunnen bijna plat zijn of een slagknobbel hebben in het midden. Men laat ze klinken door er halverwege tussen het midden en de rand met een (omwonden houten) klepel tegen te slaan of ,indien aanwezig, op de uitstulping; ze vibreren het sterkst in het midden en het zwakst aan de rand.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gong (percussieinstrument)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2065_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008613"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008613/2022-09-24T03:37:42.334Z>.
+<https://stad.gent/id/concept/550008616/2022-09-24T03:37:57.345Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008616>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:37:57.345Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300078928>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2065_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "\t\r\nWaterverfschilderingen gemaakt met gouache, dat is dekkende verf die wordt gemalen in water en gemengd met gom en honing. Gouaches kunnen worden geclassificeerd als tekeningen of schilderijen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gouache (schildering)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004894>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004894> <http://www.w3.org/2004/02/skos/core#prefLabel> "aquarel"@nl.
+_:df_2065_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008616"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008616/2022-09-24T03:37:57.345Z>.
+<https://stad.gent/id/concept/550008081/2022-09-24T03:05:08.146Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008081>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:05:08.146Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037564>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2296_11;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Behangsels van stof voor ramen, deuropeningen of andere openingen, meestal met zomen, omslagen voor de gordijnroede, plooien of franjes en aan de bovenzijnde van de openingen opgehangen; ter bescherming tegen licht, tocht of inkijk, of ter decoratie.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gordijn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008082>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008082> <http://www.w3.org/2004/02/skos/core#prefLabel> "bedekkingen en voorhangen voor openingen"@nl.
+_:df_2296_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008081"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008081> <http://www.w3.org/2004/02/skos/core#prefLabel> "gordijn"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008081/2022-09-24T03:05:08.146Z>.
+<https://stad.gent/id/concept/550006636/2022-09-24T02:23:13.671Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006636>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:23:13.671Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1047795>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2596_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gorinchem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006121>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006121> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl, "Nederland"@nl.
+_:df_2596_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006636"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006636/2022-09-24T02:23:13.671Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/go.ttl> <https://w3id.org/tree#relation> _:df_1_1256.
+_:df_1_1256 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/gou.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gou".
+<https://www.pieter.pm/coghent-substrings/thesaurus/go.ttl> <https://w3id.org/tree#relation> _:df_1_1257.
+_:df_1_1257 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/goe.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "goe".
+<https://www.pieter.pm/coghent-substrings/thesaurus/go.ttl> <https://w3id.org/tree#relation> _:df_1_1258.
+_:df_1_1258 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/gor.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gor".
+<https://www.pieter.pm/coghent-substrings/thesaurus/go.ttl> <https://w3id.org/tree#relation> _:df_1_1259.
+_:df_1_1259 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/gos.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gos".
+<https://www.pieter.pm/coghent-substrings/thesaurus/go.ttl> <https://w3id.org/tree#relation> _:df_1_1260.
+_:df_1_1260 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/gob.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gob".
+<https://www.pieter.pm/coghent-substrings/thesaurus/go.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/go.ttl>.

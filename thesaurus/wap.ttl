@@ -31,3 +31,198 @@ _:df_2950_12 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570012310"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012310/2021-10-31T22:07:54.839Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/wap.ttl>.
+<https://stad.gent/id/concept/570008470/2022-09-24T04:48:19.985Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008470>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:48:19.985Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q392933>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1564_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wapenindustrie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1564_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008470"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008470/2022-09-24T04:48:19.985Z>.
+<https://stad.gent/id/concept/570001864/2022-09-24T04:19:13.195Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001864>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:19:13.195Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300036926>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1771_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wapens"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1771_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001864"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001864/2022-09-24T04:19:13.195Z>.
+<https://stad.gent/id/concept/550008718/2022-09-24T03:43:26.897Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008718>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:43:26.897Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2026_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wapens en wapenrusting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2026_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008718"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008718/2022-09-24T03:43:26.897Z>.
+<https://stad.gent/id/concept/550008232/2022-09-24T03:17:27.603Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008232>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:17:27.603Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300210822>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2209_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wapenrusting naar vorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008233>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008231>, <https://stad.gent/id/concept/550001762>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001762> <http://www.w3.org/2004/02/skos/core#prefLabel> "schild (harnas)"@nl.
+<https://stad.gent/id/concept/550008231> <http://www.w3.org/2004/02/skos/core#prefLabel> "persoonlijke wapenrusting"@nl, "persoonlijke wapenrusting"@nl.
+<https://stad.gent/id/concept/550008233> <http://www.w3.org/2004/02/skos/core#prefLabel> "wapenrusting"@nl.
+_:df_2209_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008232"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008232> <http://www.w3.org/2004/02/skos/core#prefLabel> "wapenrusting naar vorm"@nl, "wapenrusting naar vorm"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008232/2022-09-24T03:17:27.603Z>.
+<https://stad.gent/id/concept/550008233/2022-09-24T03:17:32.605Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008233>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:17:32.605Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300036745>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2209_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt algemeen gebruikt voor de categorie van kostuums die zijn ontworpen om te dragen ter bescherming van het lichaam tijdens een gevecht. Onderdelen van het harnas die een vast onderdeel zijn van of die bevestigd zijn aan andere delen en die niet afzonderlijk kunnen functioneren staan vermeld onder 'wapenrustingonderdelen'. Gebruik 'harnassen' als het specifiek gaat om harnasonderdelen die als geheel zijn ontworpen met het oog op zekere eigenschappen die nodig zijn voor een bepaalde functie of gelegenheid.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wapenrusting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007831>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008232>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008232> <http://www.w3.org/2004/02/skos/core#prefLabel> "wapenrusting naar vorm"@nl, "wapenrusting naar vorm"@nl.
+<https://stad.gent/id/concept/550007831> <http://www.w3.org/2004/02/skos/core#prefLabel> "beschermende kleding"@nl.
+_:df_2209_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008233"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008233> <http://www.w3.org/2004/02/skos/core#prefLabel> "wapenrusting"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008233/2022-09-24T03:17:32.605Z>.
+<https://stad.gent/id/concept/550008149/2022-09-24T03:10:48.985Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008149>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:10:48.985Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300126352>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2257_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor wapenschilden met de bijbehorende stukken (helm, helmbos, mantel, wapenspreuk en schilddragers).";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wapen (heraldiek)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008150>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008150> <http://www.w3.org/2004/02/skos/core#prefLabel> "wapens en onderdelen van wapens (heraldiek)"@nl.
+_:df_2257_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008149"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008149> <http://www.w3.org/2004/02/skos/core#prefLabel> "wapen (heraldiek)"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008149/2022-09-24T03:10:48.985Z>.
+<https://stad.gent/id/concept/550008150/2022-09-24T03:10:53.988Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008150>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:10:53.988Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300138225>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2257_33;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wapens en onderdelen van wapens (heraldiek)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005184>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008149>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008149> <http://www.w3.org/2004/02/skos/core#prefLabel> "wapen (heraldiek)"@nl.
+<https://stad.gent/id/concept/550005184> <http://www.w3.org/2004/02/skos/core#prefLabel> "embleem (onderscheidingsteken)"@nl.
+_:df_2257_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008150"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008150> <http://www.w3.org/2004/02/skos/core#prefLabel> "wapens en onderdelen van wapens (heraldiek)"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008150/2022-09-24T03:10:53.988Z>.
+<https://stad.gent/id/concept/550007853/2022-09-24T02:46:11.560Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007853>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:46:11.560Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300036743>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2431_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wapens en munitie (topterm)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007583>, <https://stad.gent/id/concept/550001929>;
+    <http://www.w3.org/2004/02/skos/core#note> "topterm"@nl, "top term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001929> <http://www.w3.org/2004/02/skos/core#prefLabel> "wapen"@nl.
+<https://stad.gent/id/concept/550007583> <http://www.w3.org/2004/02/skos/core#prefLabel> "munitie"@nl.
+_:df_2431_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007853"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007853/2022-09-24T02:46:11.560Z>.
+<https://stad.gent/id/concept/550007794/2022-09-24T02:41:23.827Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007794>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:41:23.827Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037204>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2467_37;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wapenonderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007795>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007793>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007793> <http://www.w3.org/2004/02/skos/core#prefLabel> "projectielwapenonderdelen"@nl, "projectielwapenonderdelen"@nl.
+<https://stad.gent/id/concept/550007795> <http://www.w3.org/2004/02/skos/core#prefLabel> "onderdelen naar specifieke context"@nl.
+_:df_2467_37 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007794"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007794> <http://www.w3.org/2004/02/skos/core#prefLabel> "wapenonderdelen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007794/2022-09-24T02:41:23.827Z>.
+<https://stad.gent/id/concept/550005332/2022-09-24T01:39:03.733Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005332>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:39:03.733Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2911_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wapenmaker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2911_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005332"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005332/2022-09-24T01:39:03.733Z>.
+<https://stad.gent/id/concept/550003790/2022-09-24T00:55:53.304Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003790>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:55:53.304Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300212148>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3217_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Staven, knotsen of knuppels die worden gedragen als tekenen van ambt of autoriteit.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wapenstok (ambtsymbool)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008197>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008197> <http://www.w3.org/2004/02/skos/core#prefLabel> "ambtssymbool"@nl.
+_:df_3217_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003790"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003790/2022-09-24T00:55:53.304Z>.
+<https://stad.gent/id/concept/550003166/2022-09-24T00:46:21.763Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003166>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:46:21.763Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300265564>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3286_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wapenrok"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007849>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007849> <http://www.w3.org/2004/02/skos/core#prefLabel> "bovenkleding"@nl.
+_:df_3286_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003166"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003166/2022-09-24T00:46:21.763Z>.
+<https://stad.gent/id/concept/550001929/2022-09-24T00:28:41.151Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001929>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:28:41.151Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300036926>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3412_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Middelen of mechanismen die worden gebruikt voor de verdediging of aanval in gevechten, bij het jagen of in oorlog.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wapen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007853>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550000676>, <https://stad.gent/id/concept/550001551>, <https://stad.gent/id/concept/550007942>, <https://stad.gent/id/concept/550008112>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008112> <http://www.w3.org/2004/02/skos/core#prefLabel> "slagwapens"@nl.
+<https://stad.gent/id/concept/550007942> <http://www.w3.org/2004/02/skos/core#prefLabel> "projectielwapens"@nl.
+<https://stad.gent/id/concept/550001551> <http://www.w3.org/2004/02/skos/core#prefLabel> "combinatie wapen"@nl.
+<https://stad.gent/id/concept/550000676> <http://www.w3.org/2004/02/skos/core#prefLabel> "blank wapen"@nl.
+<https://stad.gent/id/concept/550007853> <http://www.w3.org/2004/02/skos/core#prefLabel> "wapens en munitie (topterm)"@nl.
+_:df_3412_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001929"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001929/2022-09-24T00:28:41.151Z>.
+<https://stad.gent/id/concept/670006566/2022-09-09T08:47:43.949Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006566>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:47:43.949Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4036_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wapensmokkelaars"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4036_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006566"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006566/2022-09-09T08:47:43.949Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/wap.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/wap.ttl>.

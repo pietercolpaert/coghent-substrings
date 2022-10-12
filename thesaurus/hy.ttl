@@ -31,3 +31,71 @@ _:df_2872_10 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570012916"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012916/2021-10-31T22:18:54.224Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/hy.ttl>.
+<https://stad.gent/id/concept/570012916/2022-09-24T06:16:09.156Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012916>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:16:09.156Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2318337>;
+    <http://www.w3.org/ns/adms#identifier> _:df_937_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hydraulische cilinders"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_937_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012916"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012916/2022-09-24T06:16:09.156Z>.
+<https://stad.gent/id/concept/570001373/2022-09-24T04:16:09.559Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001373>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:16:09.559Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q162297>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1792_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hygiëne"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1792_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001373"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001373/2022-09-24T04:16:09.559Z>.
+<https://stad.gent/id/concept/550008077/2022-09-24T03:04:48.136Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008077>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:04:48.136Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006112>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2299_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hydraulische bouwconstructies naar functie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008078>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008076>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008076> <http://www.w3.org/2004/02/skos/core#prefLabel> "constructies voor waterdistributie"@nl.
+<https://stad.gent/id/concept/550008078> <http://www.w3.org/2004/02/skos/core#prefLabel> "hydraulische bouwconstructie"@nl.
+_:df_2299_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008077"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008077> <http://www.w3.org/2004/02/skos/core#prefLabel> "hydraulische bouwconstructies naar functie"@nl, "hydraulische bouwconstructies naar functie"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008077/2022-09-24T03:04:48.136Z>.
+<https://stad.gent/id/concept/550008078/2022-09-24T03:04:53.140Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008078>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:04:53.140Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006073>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2299_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hydraulische bouwconstructie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007800>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008077>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008077> <http://www.w3.org/2004/02/skos/core#prefLabel> "hydraulische bouwconstructies naar functie"@nl, "hydraulische bouwconstructies naar functie"@nl.
+<https://stad.gent/id/concept/550007800> <http://www.w3.org/2004/02/skos/core#prefLabel> "bouwwerken naar functie"@nl.
+_:df_2299_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008078"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008078> <http://www.w3.org/2004/02/skos/core#prefLabel> "hydraulische bouwconstructie"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008078/2022-09-24T03:04:53.140Z>.
+<https://stad.gent/id/concept/550006321/2022-09-24T02:13:22.488Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006321>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:13:22.488Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7001541>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2665_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hyderabad"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550001689>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001689> <http://www.w3.org/2004/02/skos/core#prefLabel> "India"@nl.
+_:df_2665_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006321"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006321/2022-09-24T02:13:22.488Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/hy.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/hy.ttl>.

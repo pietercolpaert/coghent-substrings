@@ -199,3 +199,183 @@ _:df_1_476 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/tem.ttl>;
     <https://w3id.org/tree#value> "tem".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/te.ttl>.
+<https://stad.gent/id/concept/570019719/2022-10-06T00:04:37.656Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019719>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-06T00:04:37.656Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195853>;
+    <http://www.w3.org/ns/adms#identifier> _:df_28_29;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor verschillende procédés voor het gebruik van het werken met lettervormen en lettersoorten, waaronder het zetten van letters, het ontwerpen van lettertypen en het opmaken van gedrukte letters.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "typografie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "techniek"@nl, "technique"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_28_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019719"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019719/2022-10-06T00:04:37.656Z>.
+<https://stad.gent/id/concept/570018949/2022-10-06T00:04:07.258Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018949>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-06T00:04:07.258Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_31_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lederbewerking"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "techniek"@nl, "technique"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_31_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018949"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018949/2022-10-06T00:04:07.258Z>.
+<https://stad.gent/id/concept/570017099/2022-10-06T00:03:26.990Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017099>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-06T00:03:26.990Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053946>;
+    <http://www.w3.org/ns/adms#identifier> _:df_34_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De handeling of het procedé van het vormen van voorwerpen uit metaal of het versieren met metaal. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "metaalbewerking"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en, "motief"@nl, "motif"@en, "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_34_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017099"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017099/2022-10-06T00:03:26.990Z>.
+<https://stad.gent/id/concept/570017632/2022-10-06T00:03:47.247Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017632>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-06T00:03:47.247Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300264698>;
+    <http://www.w3.org/ns/adms#identifier> _:df_34_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar werk dat is gemaakt van linnen of een andere stof, waarop een motief is aangebracht door een draad te trekken door het materiaal, waardoor een maaswerk ontstaat dat vervolgens met steken wordt bewerkt. Het werd vooral ontwikkeld in Italië en was een voorloper van de naaldkant uit de 16de eeuw. Het werd ook daarna nog in veel landen geproduceerd en is vaak te zien als standaard naaldwerk op borduurmerklappen uit de 17de eeuw en later. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ajourwerk (borduurwerk)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_34_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017632"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017632/2022-10-06T00:03:47.247Z>.
+<https://stad.gent/id/concept/570012673/2022-10-06T00:02:41.973Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012673>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-06T00:02:41.973Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_40_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "testtoestel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_40_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012673"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012673/2022-10-06T00:02:41.973Z>.
+<https://stad.gent/id/concept/570008836/2022-10-06T00:01:46.384Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008836>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-06T00:01:46.384Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053653>;
+    <http://www.w3.org/ns/adms#identifier> _:df_46_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar het procedé waarbij een naald en een draad of een dunne metaaldraad worden gebruikt voor het stikken van decoratieve patronen in stof, leer, papier of ander materiaal.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "borduren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570011003>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en, "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570011003> <http://www.w3.org/2004/02/skos/core#prefLabel> "handwerk"@nl.
+_:df_46_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008836"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008836/2022-10-06T00:01:46.384Z>.
+<https://stad.gent/id/concept/570009184/2022-10-06T00:02:01.706Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009184>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-06T00:02:01.706Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041340>;
+    <http://www.w3.org/ns/adms#identifier> _:df_46_36;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gravure"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "techniek"@nl, "technique"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_46_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009184"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009184/2022-10-06T00:02:01.706Z>.
+<https://stad.gent/id/concept/570000610/2022-10-06T00:01:01.360Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000610>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-06T00:01:01.360Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300033973>;
+    <http://www.w3.org/ns/adms#identifier> _:df_52_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tekening"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_52_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000610"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000610/2022-10-06T00:01:01.360Z>.
+<https://stad.gent/id/concept/570014353/2022-10-04T00:02:08.494Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014353>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-04T00:02:08.494Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q11474>;
+    <http://www.w3.org/ns/adms#identifier> _:df_70_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kunststof"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570016416>, <https://stad.gent/id/concept/570019489>, <https://stad.gent/id/concept/570009096>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "techniek"@nl, "technique"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570009096> <http://www.w3.org/2004/02/skos/core#prefLabel> "plastic"@nl.
+<https://stad.gent/id/concept/570019489> <http://www.w3.org/2004/02/skos/core#prefLabel> "celluloid"@nl.
+<https://stad.gent/id/concept/570016416> <http://www.w3.org/2004/02/skos/core#prefLabel> "bakeliet"@nl.
+_:df_70_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014353"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014353/2022-10-04T00:02:08.494Z>.
+<https://stad.gent/id/concept/570014703/2022-10-04T00:02:18.498Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014703>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-04T00:02:18.498Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014436>;
+    <http://www.w3.org/ns/adms#identifier> _:df_70_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "plexiglas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "techniek"@nl, "technique"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_70_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014703"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014703/2022-10-04T00:02:18.498Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/te.ttl> <https://w3id.org/tree#relation> _:df_1_244.
+_:df_1_244 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/tec.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "tec".
+<https://www.pieter.pm/coghent-substrings/thesaurus/te.ttl> <https://w3id.org/tree#relation> _:df_1_245.
+_:df_1_245 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/tel.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "tel".
+<https://www.pieter.pm/coghent-substrings/thesaurus/te.ttl> <https://w3id.org/tree#relation> _:df_1_246.
+_:df_1_246 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/tex.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "tex".
+<https://www.pieter.pm/coghent-substrings/thesaurus/te.ttl> <https://w3id.org/tree#relation> _:df_1_247.
+_:df_1_247 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/ter.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "ter".
+<https://www.pieter.pm/coghent-substrings/thesaurus/te.ttl> <https://w3id.org/tree#relation> _:df_1_248.
+_:df_1_248 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/ten.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "ten".
+<https://www.pieter.pm/coghent-substrings/thesaurus/te.ttl> <https://w3id.org/tree#relation> _:df_1_249.
+_:df_1_249 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/tek.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "tek".
+<https://www.pieter.pm/coghent-substrings/thesaurus/te.ttl> <https://w3id.org/tree#relation> _:df_1_250.
+_:df_1_250 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/teu.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "teu".
+<https://www.pieter.pm/coghent-substrings/thesaurus/te.ttl> <https://w3id.org/tree#relation> _:df_1_251.
+_:df_1_251 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/tes.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "tes".
+<https://www.pieter.pm/coghent-substrings/thesaurus/te.ttl> <https://w3id.org/tree#relation> _:df_1_252.
+_:df_1_252 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/tef.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "tef".
+<https://www.pieter.pm/coghent-substrings/thesaurus/te.ttl> <https://w3id.org/tree#relation> _:df_1_253.
+_:df_1_253 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/tem.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "tem".
+<https://www.pieter.pm/coghent-substrings/thesaurus/te.ttl> <https://w3id.org/tree#relation> _:df_1_254.
+_:df_1_254 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/teg.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "teg".
+<https://www.pieter.pm/coghent-substrings/thesaurus/te.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/te.ttl>.

@@ -9,3 +9,175 @@ _:df_2845_8 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570013087"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013087/2021-10-31T22:22:42.904Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/verl.ttl>.
+<https://stad.gent/id/concept/550008227/2022-09-24T03:17:02.161Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008227>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:17:02.161Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300180088>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2212_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verlichtingsarmaturen naar locatie of context"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008228>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008226>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008226> <http://www.w3.org/2004/02/skos/core#prefLabel> "plafondarmatuur"@nl.
+<https://stad.gent/id/concept/550008228> <http://www.w3.org/2004/02/skos/core#prefLabel> "verlichtingsarmatuur"@nl.
+_:df_2212_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008227"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008227> <http://www.w3.org/2004/02/skos/core#prefLabel> "verlichtingsarmaturen naar locatie of context"@nl, "verlichtingsarmaturen naar locatie of context"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008227/2022-09-24T03:17:02.161Z>.
+<https://stad.gent/id/concept/550008228/2022-09-24T03:17:07.164Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008228>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:17:07.164Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300180081>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2212_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verlichtingsmiddelen die op een vaste plaats zijn bevestigd, zoals aan een wand of plafond.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verlichtingsarmatuur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007930>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008227>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008227> <http://www.w3.org/2004/02/skos/core#prefLabel> "verlichtingsarmaturen naar locatie of context"@nl, "verlichtingsarmaturen naar locatie of context"@nl.
+<https://stad.gent/id/concept/550007930> <http://www.w3.org/2004/02/skos/core#prefLabel> "verlichtingsmiddelen naar vorm"@nl.
+_:df_2212_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008228"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008228> <http://www.w3.org/2004/02/skos/core#prefLabel> "verlichtingsarmatuur"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008228/2022-09-24T03:17:07.164Z>.
+<https://stad.gent/id/concept/550007930/2022-09-24T02:52:39.954Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007930>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:52:39.954Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300179870>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2386_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verlichtingsmiddelen naar vorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007931>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008381>, <https://stad.gent/id/concept/550008264>, <https://stad.gent/id/concept/550007928>, <https://stad.gent/id/concept/550002154>, <https://stad.gent/id/concept/550001174>, <https://stad.gent/id/concept/550005242>, <https://stad.gent/id/concept/550008228>, <https://stad.gent/id/concept/550005263>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005263> <http://www.w3.org/2004/02/skos/core#prefLabel> "wandarm"@nl.
+<https://stad.gent/id/concept/550008228> <http://www.w3.org/2004/02/skos/core#prefLabel> "verlichtingsarmatuur"@nl.
+<https://stad.gent/id/concept/550005242> <http://www.w3.org/2004/02/skos/core#prefLabel> "lantaarn (verlichtingsmiddel)"@nl.
+<https://stad.gent/id/concept/550001174> <http://www.w3.org/2004/02/skos/core#prefLabel> "lamp (verlichtingsmiddel)"@nl.
+<https://stad.gent/id/concept/550002154> <http://www.w3.org/2004/02/skos/core#prefLabel> "kroonluchter"@nl.
+<https://stad.gent/id/concept/550007928> <http://www.w3.org/2004/02/skos/core#prefLabel> "kaarsen en kaarsenhouders"@nl, "kaarsen en kaarsenhouders"@nl.
+<https://stad.gent/id/concept/550008264> <http://www.w3.org/2004/02/skos/core#prefLabel> "fakkels en fakkelhouders"@nl.
+<https://stad.gent/id/concept/550008381> <http://www.w3.org/2004/02/skos/core#prefLabel> "armatuur (verlichtingsmiddel)"@nl.
+<https://stad.gent/id/concept/550007931> <http://www.w3.org/2004/02/skos/core#prefLabel> "verlichtingsmiddel"@nl.
+_:df_2386_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007930"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007930> <http://www.w3.org/2004/02/skos/core#prefLabel> "verlichtingsmiddelen naar vorm"@nl, "verlichtingsmiddelen naar vorm"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007930/2022-09-24T02:52:39.954Z>.
+<https://stad.gent/id/concept/550007931/2022-09-24T02:52:45.345Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007931>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:52:45.345Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037581>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2386_38;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vaste of verplaatsbare apparatuur met als voornaamste doel het produceren van kunstmatig licht.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verlichtingsmiddel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007837>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007930>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007930> <http://www.w3.org/2004/02/skos/core#prefLabel> "verlichtingsmiddelen naar vorm"@nl, "verlichtingsmiddelen naar vorm"@nl.
+<https://stad.gent/id/concept/550007837> <http://www.w3.org/2004/02/skos/core#prefLabel> "interieurinrichting naar vorm of functie"@nl.
+_:df_2386_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007931"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007931> <http://www.w3.org/2004/02/skos/core#prefLabel> "verlichtingsmiddel"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007931/2022-09-24T02:52:45.345Z>.
+<https://stad.gent/id/concept/550003756/2022-09-24T00:55:12.919Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003756>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:55:12.919Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3223_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verlovingspenning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008058>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008058> <http://www.w3.org/2004/02/skos/core#prefLabel> "gelegenheidspenning"@nl.
+_:df_3223_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003756"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003756/2022-09-24T00:55:12.919Z>.
+<https://stad.gent/id/concept/550003206/2022-09-24T00:47:07.418Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003206>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:47:07.418Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300395618>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3280_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Tangen gebruikt voor de verlossing van het kind tijdens de bevalling. Variabel in vorm en grootte. Kenmerkend zijn het roestvrij staal, de brede kaken en de korte armen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verlostang"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008029>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008029> <http://www.w3.org/2004/02/skos/core#prefLabel> "medische uitrusting"@nl.
+_:df_3280_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003206"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003206/2022-09-24T00:47:07.418Z>.
+<https://stad.gent/id/concept/670006745/2022-09-09T09:02:45.744Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006745>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:02:45.744Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3928_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Verlorenbroodstraatje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3928_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006745"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006745/2022-09-09T09:02:45.744Z>.
+<https://stad.gent/id/concept/670006510/2022-09-09T08:43:00.808Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006510>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:43:00.808Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.imdb.com/title/tt0036577>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4069_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Verlaten vrouwen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4069_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006510"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006510/2022-09-09T08:43:00.808Z>.
+<https://stad.gent/id/concept/670006511/2022-09-09T08:43:05.810Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006511>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:43:05.810Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4069_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Verlof op Eerewoord"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4069_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006511"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006511/2022-09-09T08:43:05.810Z>.
+<https://stad.gent/id/concept/670006512/2022-09-09T08:43:10.811Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006512>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:43:10.811Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4069_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Verloren jeugd"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4069_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006512"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006512/2022-09-09T08:43:10.811Z>.
+<https://stad.gent/id/concept/670006507/2022-09-09T08:42:45.336Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006507>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:42:45.336Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4072_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Verlangen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4072_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006507"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006507/2022-09-09T08:42:45.336Z>.
+<https://stad.gent/id/concept/670006508/2022-09-09T08:42:50.803Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006508>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:42:50.803Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4072_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Verlangen naar liefde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4072_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006508"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006508/2022-09-09T08:42:50.803Z>.
+<https://stad.gent/id/concept/670006509/2022-09-09T08:42:55.805Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006509>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:42:55.805Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4072_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Verlassen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4072_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006509"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006509/2022-09-09T08:42:55.805Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/verl.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/verl.ttl>.

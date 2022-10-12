@@ -31,3 +31,161 @@ _:df_2476_13 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570015371"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015371/2021-10-31T23:15:08.141Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ges.ttl>.
+<https://stad.gent/id/concept/570016921/2022-09-24T07:53:11.726Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016921>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:53:11.726Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_250_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gestanst"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_250_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016921"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016921/2022-09-24T07:53:11.726Z>.
+<https://stad.gent/id/concept/570015371/2022-09-24T07:13:07.286Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015371>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:13:07.286Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006752>;
+    <http://www.w3.org/ns/adms#identifier> _:df_535_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gesticht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_535_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015371"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015371/2022-09-24T07:13:07.286Z>.
+<https://stad.gent/id/concept/570008225/2022-09-24T04:45:42.733Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008225>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:45:42.733Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054394>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1582_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "geschiedenis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "gebeurtenis"@nl, "event"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1582_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008225"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008225/2022-09-24T04:45:42.733Z>.
+<https://stad.gent/id/concept/550008810/2022-09-24T03:48:24.424Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008810>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:48:24.424Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300201479>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1990_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gesteente naar vorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008782>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550003980>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003980> <http://www.w3.org/2004/02/skos/core#prefLabel> "natuursteen"@nl.
+<https://stad.gent/id/concept/550008782> <http://www.w3.org/2004/02/skos/core#prefLabel> "gesteente"@nl.
+_:df_1990_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008810"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008810/2022-09-24T03:48:24.424Z>.
+<https://stad.gent/id/concept/550008782/2022-09-24T03:46:23.540Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008782>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:46:23.540Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011692>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2005_34;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "\t\r\nEen natuurlijk gevormd aggregaat van één of meer mineralen. Gebruik 'natuursteen' voor bewerkt of verwerkt gesteente.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gesteente"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008751>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008787>, <https://stad.gent/id/concept/550008810>, <https://stad.gent/id/concept/550008781>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008781> <http://www.w3.org/2004/02/skos/core#prefLabel> "metamorf gesteente"@nl.
+<https://stad.gent/id/concept/550008810> <http://www.w3.org/2004/02/skos/core#prefLabel> "gesteente naar vorm"@nl.
+<https://stad.gent/id/concept/550008787> <http://www.w3.org/2004/02/skos/core#prefLabel> "afzettingsgesteente"@nl.
+<https://stad.gent/id/concept/550008751> <http://www.w3.org/2004/02/skos/core#prefLabel> "anorganisch materiaal"@nl.
+_:df_2005_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008782"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008782> <http://www.w3.org/2004/02/skos/core#prefLabel> "gesteente"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008782/2022-09-24T03:46:23.540Z>.
+<https://stad.gent/id/concept/550008206/2022-09-24T03:15:26.269Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008206>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:15:26.269Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300076122>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2224_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vaste zitplaatsen voor geestelijken, met hoge omsluitende ruggen en zijkanten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gestoelte"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008207>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008205>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008205> <http://www.w3.org/2004/02/skos/core#prefLabel> "kerkgestoelte"@nl.
+<https://stad.gent/id/concept/550008207> <http://www.w3.org/2004/02/skos/core#prefLabel> "gestoelte en gestoelte-onderdelen"@nl.
+_:df_2224_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008206"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008206> <http://www.w3.org/2004/02/skos/core#prefLabel> "gestoelte"@nl, "gestoelte"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008206/2022-09-24T03:15:26.269Z>.
+<https://stad.gent/id/concept/550008207/2022-09-24T03:15:31.735Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008207>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:15:31.735Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300260119>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2224_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gestoelte en gestoelte-onderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007910>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008206>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008206> <http://www.w3.org/2004/02/skos/core#prefLabel> "gestoelte"@nl, "gestoelte"@nl.
+<https://stad.gent/id/concept/550007910> <http://www.w3.org/2004/02/skos/core#prefLabel> "meubilair van christelijke religieuze gebouwen"@nl.
+_:df_2224_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008207"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008207> <http://www.w3.org/2004/02/skos/core#prefLabel> "gestoelte en gestoelte-onderdelen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008207/2022-09-24T03:15:31.735Z>.
+<https://stad.gent/id/concept/550008187/2022-09-24T03:13:50.775Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008187>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:13:50.775Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300222657>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2236_43;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "geschut naar vorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006154>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550002556>, <https://stad.gent/id/concept/550000805>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000805> <http://www.w3.org/2004/02/skos/core#prefLabel> "mortier"@nl.
+<https://stad.gent/id/concept/550002556> <http://www.w3.org/2004/02/skos/core#prefLabel> "kanon"@nl.
+<https://stad.gent/id/concept/550006154> <http://www.w3.org/2004/02/skos/core#prefLabel> "geschut"@nl.
+_:df_2236_43 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008187"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008187/2022-09-24T03:13:50.775Z>.
+<https://stad.gent/id/concept/550006154/2022-09-24T02:05:58.132Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006154>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:05:58.132Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300036931>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2719_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vuurwapens met meestal een kaliber groter dan 2 cm, die zijn ontworpen om te worden ondersteund door een affuit en die een bemanning van tenminste twee mensen vereisen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "geschut"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550001573>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008187>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008187> <http://www.w3.org/2004/02/skos/core#prefLabel> "geschut naar vorm"@nl.
+<https://stad.gent/id/concept/550001573> <http://www.w3.org/2004/02/skos/core#prefLabel> "vuurwapen"@nl.
+_:df_2719_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006154"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006154/2022-09-24T02:05:58.132Z>.
+<https://stad.gent/id/concept/550004743/2022-09-24T01:18:06.253Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004743>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:18:06.253Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300206846>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3061_30;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor het toebrengen van slagen op een stukje metaal, in het bijzonder een muntplaatje, met als doel een indruk in het metaal aan te brengen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "geslagen (procedé)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3061_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004743"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004743/2022-09-24T01:18:06.253Z>.
+<https://stad.gent/id/concept/550003138/2022-09-24T00:45:51.751Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003138>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:45:51.751Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300239260>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3289_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten die worden gebruikt ter bevestiging en soms ter decoratie; bestaan uit een ring van meestal metaal, bedekt of onbedekt, en een of meer tanden, tongen of pallen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gesp (bevestingsmiddel)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008073>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008073> <http://www.w3.org/2004/02/skos/core#prefLabel> "bevestigingsmiddel (onderdeel)"@nl.
+_:df_3289_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003138"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003138/2022-09-24T00:45:51.751Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/ges.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ges.ttl>.

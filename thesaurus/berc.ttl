@@ -12,3 +12,29 @@ _:df_3070_10 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010665"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010665/2021-10-31T21:50:54.477Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/berc.ttl>.
+<https://stad.gent/id/concept/550006002/2022-09-24T02:00:14.827Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006002>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:00:14.827Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1136644>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2758_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Berchem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005392>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005392> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl.
+_:df_2758_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006002"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006002/2022-09-24T02:00:14.827Z>.
+<https://stad.gent/id/concept/670006785/2022-09-09T09:06:08.753Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006785>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:06:08.753Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q818804>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3904_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Berchem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3904_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006785"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006785/2022-09-09T09:06:08.753Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/berc.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/berc.ttl>.

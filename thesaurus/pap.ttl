@@ -67,3 +67,189 @@ _:df_2977_33 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570012021"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012021/2021-10-31T22:04:11.326Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/pap.ttl>.
+<https://stad.gent/id/concept/570008766/2022-09-24T04:57:42.417Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008766>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:57:42.417Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006308>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1498_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "papiermolen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1498_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008766"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008766/2022-09-24T04:57:42.417Z>.
+<https://stad.gent/id/concept/570004975/2022-09-24T04:29:21.940Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570004975>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:29:21.940Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014109>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1699_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "papier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "soort opschrift"@nl, "inscription type"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1699_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570004975"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570004975/2022-09-24T04:29:21.940Z>.
+<https://stad.gent/id/concept/570004278/2022-09-24T04:27:29.765Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570004278>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:27:29.765Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300191324>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1711_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "papiergeld"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1711_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570004278"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570004278/2022-09-24T04:27:29.765Z>.
+<https://stad.gent/id/concept/570001484/2022-09-24T04:17:27.258Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001484>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:17:27.258Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054060>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1783_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het procedé van het handmatig of machinaal vervaardigen van een vel of papierrol op basis van gematteerde en samengeperste vezels, meestal plantaardig, vaak met toevoeging van appret, vulstof en kleurstof. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "papier maken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1783_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001484"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001484/2022-09-24T04:17:27.258Z>.
+<https://stad.gent/id/concept/550008836/2022-09-24T03:49:45.517Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008836>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:49:45.517Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014110>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1981_33;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "papier naar samenstelling of herkomst"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008403>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008609>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008609> <http://www.w3.org/2004/02/skos/core#prefLabel> "rijstpapier"@nl.
+<https://stad.gent/id/concept/550008403> <http://www.w3.org/2004/02/skos/core#prefLabel> "papier (vezelproduct)"@nl.
+_:df_1981_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008836"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008836/2022-09-24T03:49:45.517Z>.
+<https://stad.gent/id/concept/550008790/2022-09-24T03:47:03.950Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008790>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:47:03.950Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014138>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1999_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "papier naar vorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008403>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008788>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008788> <http://www.w3.org/2004/02/skos/core#prefLabel> "bordpapier (papier)"@nl.
+<https://stad.gent/id/concept/550008403> <http://www.w3.org/2004/02/skos/core#prefLabel> "papier (vezelproduct)"@nl.
+_:df_1999_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008790"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008790> <http://www.w3.org/2004/02/skos/core#prefLabel> "papier naar vorm"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008790/2022-09-24T03:47:03.950Z>.
+<https://stad.gent/id/concept/550008755/2022-09-24T03:45:02.418Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008755>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:45:02.418Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300157807>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2014_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "papier naar productiemethode"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008403>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550000222>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000222> <http://www.w3.org/2004/02/skos/core#prefLabel> "handgeschept papier"@nl.
+<https://stad.gent/id/concept/550008403> <http://www.w3.org/2004/02/skos/core#prefLabel> "papier (vezelproduct)"@nl.
+_:df_2014_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008755"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008755/2022-09-24T03:45:02.418Z>.
+<https://stad.gent/id/concept/550008745/2022-09-24T03:44:32.406Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008745>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:44:32.406Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014146>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2017_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "papier naar functie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008403>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005112>, <https://stad.gent/id/concept/550008738>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008738> <http://www.w3.org/2004/02/skos/core#prefLabel> "tekenpapier"@nl.
+<https://stad.gent/id/concept/550005112> <http://www.w3.org/2004/02/skos/core#prefLabel> "fotopapier"@nl.
+<https://stad.gent/id/concept/550008403> <http://www.w3.org/2004/02/skos/core#prefLabel> "papier (vezelproduct)"@nl.
+_:df_2017_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008745"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008745/2022-09-24T03:44:32.406Z>.
+<https://stad.gent/id/concept/550008568/2022-09-24T03:34:33.961Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008568>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:34:33.961Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014245>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2086_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Waterige pap van fijngemalen papier met een klevend bindmiddel. Kan ook stroken papier bevatten en is soms versterkt met textiel, samengeplakt met een natte kleefstof. Met deze pap wordt een object gevormd, dat een vaste vorm aanneemt zodra de kleefstof opdroogt. Het object kan dan worden geschuurd, geglazuurd en geschilderd. Dergelijke objecten zijn zeer duurzaam; ze kwamen tot ontwikkeling in Azië en waren vanaf de 17de eeuw gemeengoed in Europa en daarbuiten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "papier-maché"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008561>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008561> <http://www.w3.org/2004/02/skos/core#prefLabel> "vezelproducten"@nl.
+_:df_2086_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008568"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008568/2022-09-24T03:34:33.961Z>.
+<https://stad.gent/id/concept/550008403/2022-09-24T03:31:01.525Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008403>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:31:01.525Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014245>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2113_18;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Waterige pap van fijngemalen papier met een klevend bindmiddel. Kan ook stroken papier bevatten en is soms versterkt met textiel, samengeplakt met een natte kleefstof. Met deze pap wordt een object gevormd, dat een vaste vorm aanneemt zodra de kleefstof opdroogt. Het object kan dan worden geschuurd, geglazuurd en geschilderd. Dergelijke objecten zijn zeer duurzaam; ze kwamen tot ontwikkeling in Azië en waren vanaf de 17de eeuw gemeengoed in Europa en daarbuiten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "papier (vezelproduct)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008561>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008745>, <https://stad.gent/id/concept/550008755>, <https://stad.gent/id/concept/550008836>, <https://stad.gent/id/concept/550008790>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008790> <http://www.w3.org/2004/02/skos/core#prefLabel> "papier naar vorm"@nl.
+<https://stad.gent/id/concept/550008836> <http://www.w3.org/2004/02/skos/core#prefLabel> "papier naar samenstelling of herkomst"@nl.
+<https://stad.gent/id/concept/550008755> <http://www.w3.org/2004/02/skos/core#prefLabel> "papier naar productiemethode"@nl.
+<https://stad.gent/id/concept/550008745> <http://www.w3.org/2004/02/skos/core#prefLabel> "papier naar functie"@nl.
+<https://stad.gent/id/concept/550008561> <http://www.w3.org/2004/02/skos/core#prefLabel> "vezelproducten"@nl.
+_:df_2113_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008403"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008403/2022-09-24T03:31:01.525Z>.
+<https://stad.gent/id/concept/550007924/2022-09-24T02:52:09.937Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007924>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:52:09.937Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300191543>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2389_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "papiergeld naar herkomst"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007919>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007923>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007923> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europees papiergeld"@nl.
+<https://stad.gent/id/concept/550007919> <http://www.w3.org/2004/02/skos/core#prefLabel> "papiergeld"@nl.
+_:df_2389_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007924"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007924> <http://www.w3.org/2004/02/skos/core#prefLabel> "papiergeld naar herkomst"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007924/2022-09-24T02:52:09.937Z>.
+<https://stad.gent/id/concept/550007919/2022-09-24T02:51:44.444Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007919>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:51:44.444Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300191324>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2392_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Officieel ruilmiddel gemaakt van papier, in Azië al in gebruik sinds de 8e eeuw en in Europa sinds de 17e eeuw.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "papiergeld"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007920>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007924>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007924> <http://www.w3.org/2004/02/skos/core#prefLabel> "papiergeld naar herkomst"@nl.
+<https://stad.gent/id/concept/550007920> <http://www.w3.org/2004/02/skos/core#prefLabel> "geld naar materiaal"@nl, "geld naar materiaal"@nl.
+_:df_2392_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007919"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007919> <http://www.w3.org/2004/02/skos/core#prefLabel> "papiergeld"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007919/2022-09-24T02:51:44.444Z>.
+<https://stad.gent/id/concept/670006730/2022-09-09T09:01:30.406Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006730>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:01:30.406Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/25128>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3937_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Papeleu"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3937_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006730"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006730/2022-09-09T09:01:30.406Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/pap.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/pap.ttl>.

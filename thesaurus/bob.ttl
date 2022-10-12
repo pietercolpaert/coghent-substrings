@@ -41,3 +41,37 @@ _:df_3205_11 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009727"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009727/2021-10-31T21:31:53.318Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bob.ttl>.
+<https://stad.gent/id/concept/570012883/2022-09-24T06:15:28.762Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012883>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:15:28.762Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_943_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bobijnrek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_943_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012883"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012883/2022-09-24T06:15:28.762Z>.
+<https://stad.gent/id/concept/570010394/2022-09-24T05:44:07.542Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010394>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:44:07.542Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300023534>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1168_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bobijnmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1168_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010394"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010394/2022-09-24T05:44:07.542Z>.
+<https://stad.gent/id/concept/570009727/2022-09-24T05:29:23.638Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009727>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:29:23.638Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300023485>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1273_33;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bobijn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1273_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009727"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009727/2022-09-24T05:29:23.638Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/bob.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bob.ttl>.

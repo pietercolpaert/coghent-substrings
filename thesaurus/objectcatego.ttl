@@ -226,3 +226,306 @@ _:df_1_1154 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/objectcategor.ttl>;
     <https://w3id.org/tree#value> "objectcategor".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/objectcatego.ttl>.
+<https://stad.gent/id/concept/550004855/2022-09-24T01:22:29.742Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004855>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:22:29.742Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041340>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3028_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Diepdrukken gemaakt door lijnen direct in een metalen plaat te steken met behulp van een burijn.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gravure"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008061>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550006094>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "objectnaam"@nl, "object name"@en, "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006094> <http://www.w3.org/2004/02/skos/core#prefLabel> "kopergravure (prent)"@nl.
+<https://stad.gent/id/concept/550008061> <http://www.w3.org/2004/02/skos/core#prefLabel> "intagliodruk"@nl.
+_:df_3028_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004855"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004855/2022-09-24T01:22:29.742Z>.
+<https://stad.gent/id/concept/550004861/2022-09-24T01:22:34.743Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004861>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:22:34.743Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011443>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3028_18;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar een steensoort die bestaat uit calcium-magnesium-carbonaat - kalksteen of dolomiet - in een kristallijnige of korrelige staat. Kan worden gepolijst en wordt veel gebruikt in beeldhouwkunst en architectuur.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "marmer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008781>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008781> <http://www.w3.org/2004/02/skos/core#prefLabel> "metamorf gesteente"@nl.
+_:df_3028_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004861"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004861/2022-09-24T01:22:34.743Z>.
+<https://stad.gent/id/concept/550004748/2022-09-24T01:18:16.261Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004748>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:18:16.261Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900024568>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3058_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verzamelnaam voor al wat gedrukt is of moet worden, met name gedrukte (reclame) folders, formulieren en dergelijke.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drukwerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008052>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "objectnaam"@nl, "object name"@en, "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008052> <http://www.w3.org/2004/02/skos/core#prefLabel> "objectgenres naar techniek"@nl.
+_:df_3058_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004748"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004748/2022-09-24T01:18:16.261Z>.
+<https://stad.gent/id/concept/550004736/2022-09-24T01:17:46.245Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004736>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:17:46.245Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300200397>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3061_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vaatwerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3061_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004736"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004736/2022-09-24T01:17:46.245Z>.
+<https://stad.gent/id/concept/550004700/2022-09-24T01:16:55.764Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004700>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:16:55.764Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195678>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3067_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor stukken stof of ander buigzaam materiaal dat meestal langs één kant aan een paal of een koord is bevestigd, en die zijn bedoeld als symbool van een land of organisatie, of als een signaal.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vlag"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008050>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550006029>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006029> <http://www.w3.org/2004/02/skos/core#prefLabel> "wimpel"@nl.
+<https://stad.gent/id/concept/550008050> <http://www.w3.org/2004/02/skos/core#prefLabel> "identificatiedrager"@nl.
+_:df_3067_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004700"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004700/2022-09-24T01:16:55.764Z>.
+<https://stad.gent/id/concept/550004708/2022-09-24T01:17:00.769Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004708>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:17:00.769Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3067_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muziekinstrumenten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3067_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004708"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004708/2022-09-24T01:17:00.769Z>.
+<https://stad.gent/id/concept/550004699/2022-09-24T01:16:50.760Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004699>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:16:50.760Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3070_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schildering"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007769>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007767>, <https://stad.gent/id/concept/550008246>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008246> <http://www.w3.org/2004/02/skos/core#prefLabel> "schilderingen naar vorm"@nl.
+<https://stad.gent/id/concept/550007767> <http://www.w3.org/2004/02/skos/core#prefLabel> "schilderingen naar materiaal of techniek"@nl.
+<https://stad.gent/id/concept/550007769> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldmateriaal naar medium of techniek"@nl.
+_:df_3070_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004699"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004699/2022-09-24T01:16:50.760Z>.
+<https://stad.gent/id/concept/550004473/2022-09-24T01:06:09.657Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004473>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:06:09.657Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300047090>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3145_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kunstwerken waarin beelden en vormen zijn uitgevoerd in reliëf, in intaglio of in rondsculptuur. De term verwijst in het bijzonder naar objecten of groepen objecten die hun tastbaarheid behouden. De term is vooral van toepassing op kunstwerken die worden gemaakt door in een hard materiaal te snijden of te graveren, door een pletbaar materiaal te vormgieten of te modelleren of door delen samen te voegen tot een driedimensionaal object. Meestal heeft de term betrekking op grote of middelgrote objecten van steen, hout, brons of een ander metaal. Kleine objecten worden doorgaans 'beeldsnijwerken' genoemd. Gebruik specifiekere termen voor werken die meer verspreid zijn over ruimte of tijd, of minder tastbaar worden, zoals 'mail art' of 'omgevingskunst'.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldhouwwerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007769>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008118>, <https://stad.gent/id/concept/550007868>, <https://stad.gent/id/concept/550007890>, <https://stad.gent/id/concept/550008256>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008256> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldhouwwerken naar vorm"@nl.
+<https://stad.gent/id/concept/550007890> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldhouwwerken naar type onderwerp"@nl.
+<https://stad.gent/id/concept/550007868> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldhouwwerken naar techniek"@nl.
+<https://stad.gent/id/concept/550008118> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldhouwwerken naar functie"@nl.
+<https://stad.gent/id/concept/550007769> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldmateriaal naar medium of techniek"@nl.
+_:df_3145_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004473"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004473/2022-09-24T01:06:09.657Z>.
+<https://stad.gent/id/concept/550004069/2022-09-24T00:58:55.065Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004069>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:58:55.065Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900031529>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3196_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Min of meer kunstig bewerkte stenen, aangebracht of opgesteld ter nagedachtenis van hetzij een persoon, m.n. een afgestorvene, hetzij een merkwaardige gebeurtenis.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gedenksteen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005620>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005620> <http://www.w3.org/2004/02/skos/core#prefLabel> "gedenkteken"@nl.
+_:df_3196_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004069"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004069/2022-09-24T00:58:55.065Z>.
+<https://stad.gent/id/concept/550003980/2022-09-24T00:58:30.057Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003980>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:58:30.057Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011176>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3199_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Algemene term voor gesteente dat is gekapt, gevormd, vermalen of anderszins gevormd voor gebruik in de bouw of voor andere doeleinden. Omvat de specifieke archeologische en antropologische betekenis van afzonderlijke stenen die soms zijn versierd en worden gebruikt in een rituele context. Deze stenen zijn gewoonlijk niet beeldgehouwen of gescherpt en verschillen in dat opzicht van stenen beeldhouwwerken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "natuursteen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008810>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "onderwerp"@nl, "subject"@en, "objectcategorie"@nl, "object category"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008810> <http://www.w3.org/2004/02/skos/core#prefLabel> "gesteente naar vorm"@nl.
+_:df_3199_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003980"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003980/2022-09-24T00:58:30.057Z>.
+<https://stad.gent/id/concept/550003072/2022-09-24T00:45:05.130Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003072>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:45:05.130Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300039119>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3295_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine kisten voor het opbergen van kostbaarheden. Ze kunnen ook als zitplaats of tafel dienen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koffer (meubilair)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550002342>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002342> <http://www.w3.org/2004/02/skos/core#prefLabel> "kist"@nl.
+_:df_3295_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003072"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003072/2022-09-24T00:45:05.130Z>.
+<https://stad.gent/id/concept/550002764/2022-09-24T00:40:57.902Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002764>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:40:57.902Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024585>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3325_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten die oorspronkelijk waren gemaakt voor het observeren en vastleggen van licht. Tevens optische uitrusting voor algemene doeleinden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "optisch instrument"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008344>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001426>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001426> <http://www.w3.org/2004/02/skos/core#prefLabel> "telescoop"@nl.
+<https://stad.gent/id/concept/550008344> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrustingen voor wetenschap en technologie"@nl.
+_:df_3325_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002764"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002764/2022-09-24T00:40:57.902Z>.
+<https://stad.gent/id/concept/550002755/2022-09-24T00:40:37.897Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002755>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:40:37.897Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055023>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3328_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Overkoepelende term voor die delen van boeken die worden aangebracht tijdens het vastmaken van de bladen en het bedekken daarvan.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boekband"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007936>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007936> <http://www.w3.org/2004/02/skos/core#prefLabel> "boekbanden en boekbandonderdelen"@nl.
+_:df_3328_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002755"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002755/2022-09-24T00:40:37.897Z>.
+<https://stad.gent/id/concept/550002212/2022-09-24T00:33:59.233Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002212>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:33:59.233Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041620>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3373_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten waarmee muziek gemaakt kan worden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muziekinstrument"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008157>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008157> <http://www.w3.org/2004/02/skos/core#prefLabel> "geluidsmiddelen naar functie"@nl.
+_:df_3373_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002212"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002212/2022-09-24T00:33:59.233Z>.
+<https://stad.gent/id/concept/550002192/2022-09-24T00:33:48.862Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002192>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:33:48.862Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300121827>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3376_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Stukken glas, al dan niet gebrandschilderd en meestal in de vorm van een rechthoek of een ruit, die in loden glaslijsten worden geplaatst om een raam te vormen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "glasraam"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3376_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002192"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002192/2022-09-24T00:33:48.862Z>.
+<https://stad.gent/id/concept/550001929/2022-09-24T00:28:41.151Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001929>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:28:41.151Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300036926>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3412_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Middelen of mechanismen die worden gebruikt voor de verdediging of aanval in gevechten, bij het jagen of in oorlog.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wapen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007853>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550000676>, <https://stad.gent/id/concept/550001551>, <https://stad.gent/id/concept/550007942>, <https://stad.gent/id/concept/550008112>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008112> <http://www.w3.org/2004/02/skos/core#prefLabel> "slagwapens"@nl.
+<https://stad.gent/id/concept/550007942> <http://www.w3.org/2004/02/skos/core#prefLabel> "projectielwapens"@nl.
+<https://stad.gent/id/concept/550001551> <http://www.w3.org/2004/02/skos/core#prefLabel> "combinatie wapen"@nl.
+<https://stad.gent/id/concept/550000676> <http://www.w3.org/2004/02/skos/core#prefLabel> "blank wapen"@nl.
+<https://stad.gent/id/concept/550007853> <http://www.w3.org/2004/02/skos/core#prefLabel> "wapens en munitie (topterm)"@nl.
+_:df_3412_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001929"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001929/2022-09-24T00:28:41.151Z>.
+<https://stad.gent/id/concept/550001573/2022-09-24T00:23:02.274Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001573>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:23:02.274Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037148>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3451_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wapens die de gasdruk van brandend kruit gebruiken om projectielen voort te stuwen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vuurwapen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008096>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008100>, <https://stad.gent/id/concept/550006154>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006154> <http://www.w3.org/2004/02/skos/core#prefLabel> "geschut"@nl.
+<https://stad.gent/id/concept/550008100> <http://www.w3.org/2004/02/skos/core#prefLabel> "draagbaar vuurwapen"@nl.
+<https://stad.gent/id/concept/550008096> <http://www.w3.org/2004/02/skos/core#prefLabel> "projectielwapens met explosief voortstuwingsmiddel"@nl.
+_:df_3451_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001573"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001573/2022-09-24T00:23:02.274Z>.
+<https://stad.gent/id/concept/550001289/2022-09-24T00:17:34.215Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001289>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:17:34.215Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010898>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3490_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Objecten die zijn gemaakt van glas; vooral tafelgerei of glas dat wordt gebruikt voor het serveren van eten en drinken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "glaswerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008084>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008084> <http://www.w3.org/2004/02/skos/core#prefLabel> "objectgenres naar materiaal"@nl.
+_:df_3490_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001289"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001289/2022-09-24T00:17:34.215Z>.
+<https://stad.gent/id/concept/550001032/2022-09-24T00:13:47.226Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001032>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:13:47.226Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037588>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3517_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kaarsenstandaards met een enkele kaarshouder die op een voetstuk rust met een verbrede basis of voet voor de balans. Het voetstuk is vaak zuilvormig. Gebruik 'blakers' voor kaarsenstandaards met een enkele kaarshouder die op een platte schotel of blad staat.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kandelaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007929>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007929> <http://www.w3.org/2004/02/skos/core#prefLabel> "kaarsenhouder"@nl.
+_:df_3517_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001032"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001032/2022-09-24T00:13:47.226Z>.
+<https://stad.gent/id/concept/550001042/2022-09-24T00:14:02.231Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001042>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:14:02.231Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300211037>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3517_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Fysieke objecten zonder praktisch doeleinde die bedacht zijn om kinderen of huisdieren te vermaken of om als verzamelobject voor volwassenen te dienen. Speelgoed bestaat doorgaans uit miniatuurversies van werkelijke wezens of objecten die te gebruiken zijn in fantasie- of imitatiespelletjes. Ook artikelen die bij spelletjes worden gebruikt, kunnen speelgoed worden genoemd. Het allereerste speelgoed bestond onder andere uit poppen en ballen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "speelgoed"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008331>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008331> <http://www.w3.org/2004/02/skos/core#prefLabel> "ontspanningsmiddelen voor niet-competitieve activiteiten"@nl.
+_:df_3517_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001042"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001042/2022-09-24T00:14:02.231Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/objectcatego.ttl> <https://w3id.org/tree#relation> _:df_1_1345.
+_:df_1_1345 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/objectcategor.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "objectcategor".
+<https://www.pieter.pm/coghent-substrings/thesaurus/objectcatego.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/objectcatego.ttl>.

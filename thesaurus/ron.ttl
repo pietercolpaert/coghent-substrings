@@ -64,3 +64,44 @@ _:df_2980_10 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570011952"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011952/2021-10-31T22:03:36.312Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ron.ttl>.
+<https://stad.gent/id/concept/570011952/2022-09-24T06:00:51.040Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011952>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:00:51.040Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007980>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1048_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ronse"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_1048_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011952"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011952/2022-09-24T06:00:51.040Z>.
+<https://stad.gent/id/concept/570005939/2022-09-24T04:31:53.478Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570005939>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:31:53.478Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q30715253>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1681_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "röntgenapparaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1681_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570005939"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570005939/2022-09-24T04:31:53.478Z>.
+<https://stad.gent/id/concept/550008298/2022-09-24T03:22:56.071Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008298>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:22:56.071Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300033594>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2170_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ronde spie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005627>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005226>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005226> <http://www.w3.org/2004/02/skos/core#prefLabel> "pijpsleutel"@nl.
+<https://stad.gent/id/concept/550005627> <http://www.w3.org/2004/02/skos/core#prefLabel> "sleutel (ijzerwaar)"@nl.
+_:df_2170_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008298"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008298/2022-09-24T03:22:56.071Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/ron.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ron.ttl>.

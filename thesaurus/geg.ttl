@@ -10,3 +10,17 @@ _:df_925_12 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570024368"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024368/2021-11-01T02:53:46.864Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/geg.ttl>.
+<https://stad.gent/id/concept/550005812/2022-09-24T01:53:51.757Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005812>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:53:51.757Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195111>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2806_31;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Technieken en proces waarbij het oppervlak van pottenbakkersgoed, keramiek of een soortgelijk materiaal wordt bedekt met een glasachtige stof, die door smelting, gewoonlijk door middel van warmte, wordt gefixeerd.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "geglazuurd"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2806_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005812"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005812/2022-09-24T01:53:51.757Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/geg.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/geg.ttl>.

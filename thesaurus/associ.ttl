@@ -140,3 +140,156 @@ _:df_1_1139 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/associa.ttl>;
     <https://w3id.org/tree#value> "associa".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/associ.ttl>.
+<https://stad.gent/id/concept/570000218/2022-09-24T04:08:14.795Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000218>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:08:14.795Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300004514>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1849_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Ruimten bestemd voor de bereiding van voedsel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "keuken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1849_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000218"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000218/2022-09-24T04:08:14.795Z>.
+<https://stad.gent/id/concept/550008226/2022-09-24T03:16:57.160Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008226>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:16:57.160Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300181215>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2212_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verlichtingsarmaturen die aan het plafond hangen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "plafondarmatuur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008227>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550009130>, <https://stad.gent/id/concept/550005237>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005237> <http://www.w3.org/2004/02/skos/core#prefLabel> "luchter (verlichtingsmiddel)"@nl.
+<https://stad.gent/id/concept/550009130> <http://www.w3.org/2004/02/skos/core#prefLabel> "kaarsenkroon"@nl.
+<https://stad.gent/id/concept/550008227> <http://www.w3.org/2004/02/skos/core#prefLabel> "verlichtingsarmaturen naar locatie of context"@nl, "verlichtingsarmaturen naar locatie of context"@nl.
+_:df_2212_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008226"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008226> <http://www.w3.org/2004/02/skos/core#prefLabel> "plafondarmatuur"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008226/2022-09-24T03:16:57.160Z>.
+<https://stad.gent/id/concept/550008228/2022-09-24T03:17:07.164Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008228>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:17:07.164Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300180081>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2212_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verlichtingsmiddelen die op een vaste plaats zijn bevestigd, zoals aan een wand of plafond.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verlichtingsarmatuur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007930>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008227>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008227> <http://www.w3.org/2004/02/skos/core#prefLabel> "verlichtingsarmaturen naar locatie of context"@nl, "verlichtingsarmaturen naar locatie of context"@nl.
+<https://stad.gent/id/concept/550007930> <http://www.w3.org/2004/02/skos/core#prefLabel> "verlichtingsmiddelen naar vorm"@nl.
+_:df_2212_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008228"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008228> <http://www.w3.org/2004/02/skos/core#prefLabel> "verlichtingsarmatuur"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008228/2022-09-24T03:17:07.164Z>.
+<https://stad.gent/id/concept/550007968/2022-09-24T02:55:46.803Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007968>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:55:46.803Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300039338>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2362_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verschillende soorten meubels voor lezers of schrijvers die meestal een vlak schrijfblad, laden en andere ruimten hebben.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schrijfmeubel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005829>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005829> <http://www.w3.org/2004/02/skos/core#prefLabel> "kastmeubilair"@nl.
+_:df_2362_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007968"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007968/2022-09-24T02:55:46.803Z>.
+<https://stad.gent/id/concept/550004543/2022-09-24T01:09:01.201Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004543>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:09:01.201Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3124_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "meubilair (collectie)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3124_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004543"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004543/2022-09-24T01:09:01.201Z>.
+<https://stad.gent/id/concept/530010854/2022-09-24T00:01:10.189Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010854>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:01:10.189Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300386773>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3607_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Broer van iemands vader of moeder, of echtgenoot van de zusters van iemands vader of moeder.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "oom"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009707>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009707> <http://www.w3.org/2004/02/skos/core#prefLabel> "familie"@nl, "familie"@nl.
+_:df_3607_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010854"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010854/2022-09-24T00:01:10.189Z>.
+<https://stad.gent/id/concept/530010855/2022-09-24T00:01:15.191Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010855>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:01:15.191Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300386772>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3607_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Zuster van iemands vader of moeder, of echtgenote van een broer van iemands vader of moeder.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tante"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009707>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009707> <http://www.w3.org/2004/02/skos/core#prefLabel> "familie"@nl, "familie"@nl.
+_:df_3607_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010855"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010855/2022-09-24T00:01:15.191Z>.
+<https://stad.gent/id/concept/530010850/2022-09-24T00:00:49.767Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010850>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:00:49.767Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300386753>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3610_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De vader van iemands ouder.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "grootvader"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009707>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009707> <http://www.w3.org/2004/02/skos/core#prefLabel> "familie"@nl, "familie"@nl, "familie"@nl, "familie"@nl.
+_:df_3610_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010850"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010850/2022-09-24T00:00:49.767Z>.
+<https://stad.gent/id/concept/530010851/2022-09-24T00:00:54.770Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010851>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:00:54.770Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300386752>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3610_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De moeder van iemands ouder.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "grootmoeder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009707>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009707> <http://www.w3.org/2004/02/skos/core#prefLabel> "familie"@nl, "familie"@nl, "familie"@nl, "familie"@nl.
+_:df_3610_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010851"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010851/2022-09-24T00:00:54.770Z>.
+<https://stad.gent/id/concept/530010852/2022-09-24T00:00:59.771Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010852>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:00:59.771Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300386750>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3610_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De zoon van iemands zoon of dochter.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kleinzoon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009707>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009707> <http://www.w3.org/2004/02/skos/core#prefLabel> "familie"@nl, "familie"@nl, "familie"@nl, "familie"@nl.
+_:df_3610_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010852"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010852/2022-09-24T00:00:59.771Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/associ.ttl> <https://w3id.org/tree#relation> _:df_1_1361.
+_:df_1_1361 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/associa.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "associa".
+<https://www.pieter.pm/coghent-substrings/thesaurus/associ.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/associ.ttl>.

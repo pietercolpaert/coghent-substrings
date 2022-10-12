@@ -30,3 +30,19 @@ _:df_3202_7 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009755"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009755/2021-10-31T21:32:19.086Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/hol.ttl>.
+<https://stad.gent/id/concept/550008620/2022-09-24T03:38:12.351Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008620>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:38:12.351Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300231150>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2062_13;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Leren of metalen houders om kleine vuurwapens in te dragen zoals pistolen, revolvers of, oorspronkelijk, haakbussen, zo ontworpen dat ze kunnen worden gedragen aan een riem of schouderharnas, of kunnen worden bevestigd aan een zadel. Ze zijn gevormd naar het vuurwapen en zijn aan de bovenkant open zodat het wapen makkelijk kan worden getrokken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "holster"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550002064>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002064> <http://www.w3.org/2004/02/skos/core#prefLabel> "koker"@nl.
+_:df_2062_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008620"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008620/2022-09-24T03:38:12.351Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/hol.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/hol.ttl>.

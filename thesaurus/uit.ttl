@@ -1,0 +1,22 @@
+<https://stad.gent/id/concept/530010837/2022-09-23T00:00:20.702Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010837>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-23T00:00:20.702Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3616_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "uitlijsten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "behandeling"@nl, "method of check/assessment or conservation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3616_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010837"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010837/2022-09-23T00:00:20.702Z>.
+<https://stad.gent/id/concept/670006402/2022-09-09T08:33:56.336Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006402>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:33:56.336Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4135_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Uit hetzelfde nest"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4135_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006402"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006402/2022-09-09T08:33:56.336Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/uit.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/uit.ttl>.

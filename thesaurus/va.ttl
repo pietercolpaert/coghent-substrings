@@ -228,3 +228,337 @@ _:df_1_1151 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/vad.ttl>;
     <https://w3id.org/tree#value> "vad".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/va.ttl>.
+<https://stad.gent/id/concept/570015905/2022-09-24T07:22:41.670Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015905>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:22:41.670Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7598929>;
+    <http://www.w3.org/ns/adms#identifier> _:df_466_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Valentigney"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_466_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015905"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015905/2022-09-24T07:22:41.670Z>.
+<https://stad.gent/id/concept/570015335/2022-09-24T07:12:01.645Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015335>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:12:01.645Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300311913>;
+    <http://www.w3.org/ns/adms#identifier> _:df_544_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vaste collectie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_544_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015335"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015335/2022-09-24T07:12:01.645Z>.
+<https://stad.gent/id/concept/570015057/2022-09-24T07:05:23.731Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015057>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:05:23.731Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300194514>;
+    <http://www.w3.org/ns/adms#identifier> _:df_592_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vaten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_592_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015057"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015057/2022-09-24T07:05:23.731Z>.
+<https://stad.gent/id/concept/570014615/2022-09-24T06:52:32.451Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014615>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:52:32.451Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_682_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vacuümmeter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_682_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014615"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014615/2022-09-24T06:52:32.451Z>.
+<https://stad.gent/id/concept/570014323/2022-09-24T06:44:52.546Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014323>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:44:52.546Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q57305>;
+    <http://www.w3.org/ns/adms#identifier> _:df_736_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vakbeurs"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_736_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014323"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014323/2022-09-24T06:44:52.546Z>.
+<https://stad.gent/id/concept/570014149/2022-09-24T06:41:56.457Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014149>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:41:56.457Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300343436>;
+    <http://www.w3.org/ns/adms#identifier> _:df_757_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Onderwijsinstellingen die onderwijs bieden voor één of meer geschoolde of halfgeschoolde ambachten of beroepen. Gebruik 'technische hogescholen' voor onderwijsinstellingen voor technisch onderwijs.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vakschool"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_757_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014149"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014149/2022-09-24T06:41:56.457Z>.
+<https://stad.gent/id/concept/570013042/2022-09-24T06:19:05.356Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013042>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:19:05.356Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300056112>;
+    <http://www.w3.org/ns/adms#identifier> _:df_916_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vakmanschap"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_916_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013042"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013042/2022-09-24T06:19:05.356Z>.
+<https://stad.gent/id/concept/570010872/2022-09-24T05:50:30.747Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010872>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:50:30.747Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195679>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1120_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vaandel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1120_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010872"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010872/2022-09-24T05:50:30.747Z>.
+<https://stad.gent/id/concept/570010540/2022-09-24T05:46:58.917Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010540>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:46:58.917Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026023>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1147_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vrijwillige verenigingen van werkers, georganiseerd met als doel de behartiging van hun gemeenschappelijke belangen met betrekking tot lonen, werktijden, uitkeringen en andere arbeidsvoorwaarden. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vakbond"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020163>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020163> <http://www.w3.org/2004/02/skos/core#prefLabel> "arbeidersverenigingen"@nl.
+_:df_1147_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010540"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010540/2022-09-24T05:46:58.917Z>.
+<https://stad.gent/id/concept/570010159/2022-09-24T05:40:09.234Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010159>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:40:09.234Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q685935>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1195_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vakblad"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1195_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010159"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010159/2022-09-24T05:40:09.234Z>.
+<https://stad.gent/id/concept/570009943/2022-09-24T05:32:50.261Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009943>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:32:50.261Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300265771>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1246_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vaderland"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1246_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009943"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009943/2022-09-24T05:32:50.261Z>.
+<https://stad.gent/id/concept/570008671/2022-09-24T04:54:12.899Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008671>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:54:12.899Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q178790>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1522_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vakvereniging"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1522_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008671"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008671/2022-09-24T04:54:12.899Z>.
+<https://stad.gent/id/concept/550008372/2022-09-24T03:28:54.359Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008372>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:28:54.359Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300198969>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2128_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vaten voor het opslaan of vervoeren van voedsel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008054>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005381>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005381> <http://www.w3.org/2004/02/skos/core#prefLabel> "veldfles"@nl.
+<https://stad.gent/id/concept/550008054> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders voor het opslaan of vervoeren van voedsel"@nl.
+_:df_2128_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008372"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008372/2022-09-24T03:28:54.359Z>.
+<https://stad.gent/id/concept/550008307/2022-09-24T03:23:41.604Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008307>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:23:41.604Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2164_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Ratels met daarin kleine voorwerpen; bespeeld door te schudden, waardoor die voorwerpen tegen elkaar of tegen de wanden van de ratel aan slaan.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vatratel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008308>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550002002>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002002> <http://www.w3.org/2004/02/skos/core#prefLabel> "rammelaar"@nl.
+<https://stad.gent/id/concept/550008308> <http://www.w3.org/2004/02/skos/core#prefLabel> "ratel (idiofoon)"@nl, "ratel (idiofoon)"@nl.
+_:df_2164_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008307"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008307> <http://www.w3.org/2004/02/skos/core#prefLabel> "vatratel"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008307/2022-09-24T03:23:41.604Z>.
+<https://stad.gent/id/concept/550008184/2022-09-24T03:13:35.393Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008184>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:13:35.393Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300198808>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2236_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vaten voor het serveren van dranken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007897>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550006134>, <https://stad.gent/id/concept/550002575>, <https://stad.gent/id/concept/550005414>, <https://stad.gent/id/concept/550001140>, <https://stad.gent/id/concept/550002434>, <https://stad.gent/id/concept/550002715>, <https://stad.gent/id/concept/550005076>, <https://stad.gent/id/concept/550002253>, <https://stad.gent/id/concept/550003540>, <https://stad.gent/id/concept/550002789>, <https://stad.gent/id/concept/550005404>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005404> <http://www.w3.org/2004/02/skos/core#prefLabel> "wijnkaraf"@nl.
+<https://stad.gent/id/concept/550002789> <http://www.w3.org/2004/02/skos/core#prefLabel> "waterkan"@nl.
+<https://stad.gent/id/concept/550003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "theepot"@nl.
+<https://stad.gent/id/concept/550002253> <http://www.w3.org/2004/02/skos/core#prefLabel> "schenkkan"@nl.
+<https://stad.gent/id/concept/550005076> <http://www.w3.org/2004/02/skos/core#prefLabel> "samowaar"@nl.
+<https://stad.gent/id/concept/550002715> <http://www.w3.org/2004/02/skos/core#prefLabel> "roomkan"@nl.
+<https://stad.gent/id/concept/550002434> <http://www.w3.org/2004/02/skos/core#prefLabel> "melkkan"@nl.
+<https://stad.gent/id/concept/550001140> <http://www.w3.org/2004/02/skos/core#prefLabel> "lavaboketel"@nl.
+<https://stad.gent/id/concept/550005414> <http://www.w3.org/2004/02/skos/core#prefLabel> "kraantjeskan"@nl.
+<https://stad.gent/id/concept/550002575> <http://www.w3.org/2004/02/skos/core#prefLabel> "koffiekan"@nl.
+<https://stad.gent/id/concept/550006134> <http://www.w3.org/2004/02/skos/core#prefLabel> "karaf"@nl.
+<https://stad.gent/id/concept/550007897> <http://www.w3.org/2004/02/skos/core#prefLabel> "vaatwerk voor het opdienen en consumeren van voedsel"@nl.
+_:df_2236_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008184"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008184/2022-09-24T03:13:35.393Z>.
+<https://stad.gent/id/concept/550008161/2022-09-24T03:11:49.411Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008161>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:11:49.411Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300229645>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2248_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "vat voor het koken van voedsel";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vaten voor het koken van voedsel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008162>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008160>, <https://stad.gent/id/concept/550005455>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005455> <http://www.w3.org/2004/02/skos/core#prefLabel> "pan"@nl.
+<https://stad.gent/id/concept/550008160> <http://www.w3.org/2004/02/skos/core#prefLabel> "bakgerei"@nl.
+<https://stad.gent/id/concept/550008162> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders voor het koken van voedsel"@nl.
+_:df_2248_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008161"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008161> <http://www.w3.org/2004/02/skos/core#prefLabel> "vaten voor het koken van voedsel"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008161/2022-09-24T03:11:49.411Z>.
+<https://stad.gent/id/concept/550007917/2022-09-24T02:51:34.439Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007917>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:51:34.439Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300247420>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2392_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Middelen waarmee dieren worden gevangen. Worden met name gebruikt om te verwijzen naar de vallen met een mechaniek waardoor ze plotseling sluiten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "valstrik"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007918>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007916>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007916> <http://www.w3.org/2004/02/skos/core#prefLabel> "vliegenvanger"@nl.
+<https://stad.gent/id/concept/550007918> <http://www.w3.org/2004/02/skos/core#prefLabel> "visvangtuig en valstrikken"@nl.
+_:df_2392_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007917"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007917> <http://www.w3.org/2004/02/skos/core#prefLabel> "valstrik"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007917/2022-09-24T02:51:34.439Z>.
+<https://stad.gent/id/concept/550007897/2022-09-24T02:49:53.450Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007897>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:49:53.450Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300198938>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2404_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vaatwerk voor het opdienen en consumeren van voedsel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007898>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008709>, <https://stad.gent/id/concept/550005555>, <https://stad.gent/id/concept/550001473>, <https://stad.gent/id/concept/550002183>, <https://stad.gent/id/concept/550005406>, <https://stad.gent/id/concept/550008875>, <https://stad.gent/id/concept/550003814>, <https://stad.gent/id/concept/550005467>, <https://stad.gent/id/concept/550001051>, <https://stad.gent/id/concept/550008254>, <https://stad.gent/id/concept/550005477>, <https://stad.gent/id/concept/550008184>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008184> <http://www.w3.org/2004/02/skos/core#prefLabel> "vaten voor het serveren van dranken"@nl.
+<https://stad.gent/id/concept/550005477> <http://www.w3.org/2004/02/skos/core#prefLabel> "terrine (kom voor opdienen)"@nl.
+<https://stad.gent/id/concept/550008254> <http://www.w3.org/2004/02/skos/core#prefLabel> "specerijvaten"@nl.
+<https://stad.gent/id/concept/550001051> <http://www.w3.org/2004/02/skos/core#prefLabel> "soepkom"@nl.
+<https://stad.gent/id/concept/550005467> <http://www.w3.org/2004/02/skos/core#prefLabel> "schaal"@nl.
+<https://stad.gent/id/concept/550003814> <http://www.w3.org/2004/02/skos/core#prefLabel> "sauskom"@nl.
+<https://stad.gent/id/concept/550008875> <http://www.w3.org/2004/02/skos/core#prefLabel> "kom op voet"@nl.
+<https://stad.gent/id/concept/550005406> <http://www.w3.org/2004/02/skos/core#prefLabel> "glaçière"@nl.
+<https://stad.gent/id/concept/550002183> <http://www.w3.org/2004/02/skos/core#prefLabel> "fruitschaal"@nl.
+<https://stad.gent/id/concept/550001473> <http://www.w3.org/2004/02/skos/core#prefLabel> "eierdop"@nl.
+<https://stad.gent/id/concept/550005555> <http://www.w3.org/2004/02/skos/core#prefLabel> "drinkgerei"@nl.
+<https://stad.gent/id/concept/550008709> <http://www.w3.org/2004/02/skos/core#prefLabel> "compoteschaal"@nl.
+<https://stad.gent/id/concept/550007898> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders voor het opdienen en consumeren van voedsel"@nl, "houders voor het opdienen en consumeren van voedsel"@nl.
+_:df_2404_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007897"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007897> <http://www.w3.org/2004/02/skos/core#prefLabel> "vaatwerk voor het opdienen en consumeren van voedsel"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007897/2022-09-24T02:49:53.450Z>.
+<https://stad.gent/id/concept/550007852/2022-09-24T02:46:06.539Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007852>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:46:06.539Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300193015>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2431_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders voor het bevatten van een vloeistof of andere substantie, meestal rond van doorsnede en gemaakt van duurzaam materiaal; met name houders van dit type voor huishoudelijk gebruik, worden gebruikt voor het bereiden of opdienen van voedsel of drank, en zijn meestal van draagbaar formaat.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vaatwerk (houder)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007776>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550006132>, <https://stad.gent/id/concept/550005479>, <https://stad.gent/id/concept/550002186>, <https://stad.gent/id/concept/550003142>, <https://stad.gent/id/concept/550004065>, <https://stad.gent/id/concept/550005451>, <https://stad.gent/id/concept/550000804>, <https://stad.gent/id/concept/550007900>, <https://stad.gent/id/concept/550005903>, <https://stad.gent/id/concept/550003937>, <https://stad.gent/id/concept/550000955>, <https://stad.gent/id/concept/550007719>, <https://stad.gent/id/concept/550004944>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004944> <http://www.w3.org/2004/02/skos/core#prefLabel> "vaas"@nl.
+<https://stad.gent/id/concept/550007719> <http://www.w3.org/2004/02/skos/core#prefLabel> "urne"@nl.
+<https://stad.gent/id/concept/550000955> <http://www.w3.org/2004/02/skos/core#prefLabel> "pot"@nl.
+<https://stad.gent/id/concept/550003937> <http://www.w3.org/2004/02/skos/core#prefLabel> "kruik"@nl.
+<https://stad.gent/id/concept/550005903> <http://www.w3.org/2004/02/skos/core#prefLabel> "kookpot"@nl.
+<https://stad.gent/id/concept/550007900> <http://www.w3.org/2004/02/skos/core#prefLabel> "kom (vat)"@nl.
+<https://stad.gent/id/concept/550000804> <http://www.w3.org/2004/02/skos/core#prefLabel> "kom"@nl.
+<https://stad.gent/id/concept/550005451> <http://www.w3.org/2004/02/skos/core#prefLabel> "ketel"@nl.
+<https://stad.gent/id/concept/550004065> <http://www.w3.org/2004/02/skos/core#prefLabel> "kan"@nl.
+<https://stad.gent/id/concept/550003142> <http://www.w3.org/2004/02/skos/core#prefLabel> "gamel (uitrusting)"@nl.
+<https://stad.gent/id/concept/550002186> <http://www.w3.org/2004/02/skos/core#prefLabel> "fles"@nl.
+<https://stad.gent/id/concept/550005479> <http://www.w3.org/2004/02/skos/core#prefLabel> "emmer (vaatwerk)"@nl.
+<https://stad.gent/id/concept/550006132> <http://www.w3.org/2004/02/skos/core#prefLabel> "bekerglas"@nl.
+<https://stad.gent/id/concept/550007776> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders naar vorm"@nl.
+_:df_2431_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007852"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007852/2022-09-24T02:46:06.539Z>.
+<https://stad.gent/id/concept/550006477/2022-09-24T02:18:35.295Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006477>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:18:35.295Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7001168>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2629_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vaticaanstad"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005045>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005045> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl.
+_:df_2629_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006477"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006477/2022-09-24T02:18:35.295Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/va.ttl> <https://w3id.org/tree#relation> _:df_1_1213.
+_:df_1_1213 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/val.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "val".
+<https://www.pieter.pm/coghent-substrings/thesaurus/va.ttl> <https://w3id.org/tree#relation> _:df_1_1214.
+_:df_1_1214 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/vaa.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "vaa".
+<https://www.pieter.pm/coghent-substrings/thesaurus/va.ttl> <https://w3id.org/tree#relation> _:df_1_1215.
+_:df_1_1215 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/vad.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "vad".
+<https://www.pieter.pm/coghent-substrings/thesaurus/va.ttl> <https://w3id.org/tree#relation> _:df_1_1216.
+_:df_1_1216 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/vat.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "vat".
+<https://www.pieter.pm/coghent-substrings/thesaurus/va.ttl> <https://w3id.org/tree#relation> _:df_1_1217.
+_:df_1_1217 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/van.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "van".
+<https://www.pieter.pm/coghent-substrings/thesaurus/va.ttl> <https://w3id.org/tree#relation> _:df_1_1218.
+_:df_1_1218 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/var.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "var".
+<https://www.pieter.pm/coghent-substrings/thesaurus/va.ttl> <https://w3id.org/tree#relation> _:df_1_1219.
+_:df_1_1219 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/vac.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "vac".
+<https://www.pieter.pm/coghent-substrings/thesaurus/va.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/va.ttl>.

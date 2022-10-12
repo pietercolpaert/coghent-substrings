@@ -16,3 +16,56 @@ _:df_3091_22 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010431"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010431/2021-10-31T21:48:06.679Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/tur.ttl>.
+<https://stad.gent/id/concept/550005762/2022-09-24T01:52:30.971Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005762>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:52:30.971Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011164>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2815_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een triclien mineraal in de kleuren blauw, blauwgroen of geelgroen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "turkoois"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550002710>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002710> <http://www.w3.org/2004/02/skos/core#prefLabel> "mineraal"@nl.
+_:df_2815_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005762"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005762/2022-09-24T01:52:30.971Z>.
+<https://stad.gent/id/concept/550002929/2022-09-24T00:43:34.343Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002929>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:43:34.343Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008018>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3307_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Turnhout"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005392>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005392> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl.
+_:df_3307_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002929"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002929/2022-09-24T00:43:34.343Z>.
+<https://stad.gent/id/concept/550001672/2022-09-24T00:24:48.243Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001672>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:24:48.243Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000144>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3439_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Turkije"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550003505>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003505> <http://www.w3.org/2004/02/skos/core#prefLabel> "Azië"@nl, "Azië"@nl, "Azië"@nl.
+_:df_3439_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001672"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001672/2022-09-24T00:24:48.243Z>.
+<https://stad.gent/id/concept/670007554/2022-09-09T09:32:27.396Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670007554>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:32:27.396Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q271783>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3718_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Turnhout"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3718_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670007554"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670007554/2022-09-09T09:32:27.396Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/tur.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/tur.ttl>.

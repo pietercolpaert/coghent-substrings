@@ -121,3 +121,100 @@ _:df_2710_7 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570014045"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014045/2021-10-31T22:42:00.348Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bak.ttl>.
+<https://stad.gent/id/concept/570009085/2022-09-24T05:08:17.558Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009085>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:08:17.558Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300197197>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1420_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Objecten dan wel voorgevormde of buigzame bedekkingen, bedoeld om voorwerpen of stoffen te bevatten, te bewaren of te verschepen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bak"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1420_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009085"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009085/2022-09-24T05:08:17.558Z>.
+<https://stad.gent/id/concept/550008159/2022-09-24T03:11:39.407Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008159>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:11:39.407Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300226883>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2251_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Blikken die voornamelijk bedoeld zijn voor bakken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bakvorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008160>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001888>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001888> <http://www.w3.org/2004/02/skos/core#prefLabel> "hostie-ijzer"@nl.
+<https://stad.gent/id/concept/550008160> <http://www.w3.org/2004/02/skos/core#prefLabel> "bakgerei"@nl.
+_:df_2251_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008159"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008159> <http://www.w3.org/2004/02/skos/core#prefLabel> "bakvorm"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008159/2022-09-24T03:11:39.407Z>.
+<https://stad.gent/id/concept/550008160/2022-09-24T03:11:44.409Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008160>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:11:44.409Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300198951>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2251_34;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Hittebestendige vaten voornamelijk bedoeld voor gebruik in de oven.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bakgerei"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008161>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008159>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008159> <http://www.w3.org/2004/02/skos/core#prefLabel> "bakvorm"@nl.
+<https://stad.gent/id/concept/550008161> <http://www.w3.org/2004/02/skos/core#prefLabel> "vaten voor het koken van voedsel"@nl.
+_:df_2251_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008160"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008160> <http://www.w3.org/2004/02/skos/core#prefLabel> "bakgerei"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008160/2022-09-24T03:11:44.409Z>.
+<https://stad.gent/id/concept/550008141/2022-09-24T03:10:08.509Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008141>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:10:08.509Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2260_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Min of meer vierkante doosvormige voorwerpen, in beginsel zonder deksel, dienende om iets in te bergen of te bewaren.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bak"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550001095>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001095> <http://www.w3.org/2004/02/skos/core#prefLabel> "doos (houder)"@nl.
+_:df_2260_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008141"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008141/2022-09-24T03:10:08.509Z>.
+<https://stad.gent/id/concept/550007855/2022-09-24T02:46:21.568Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007855>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:46:21.568Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2431_38;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "baksteen (object)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2431_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007855"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007855/2022-09-24T02:46:21.568Z>.
+<https://stad.gent/id/concept/550007678/2022-09-24T02:37:41.983Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007678>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:37:41.983Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053887>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2491_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het prepareren, verduurzamen of opzettelijk transformeren van materialen, bijvoorbeeld klei, silicaat of glas, door middel van verhitting.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bakken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2491_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007678"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007678/2022-09-24T02:37:41.983Z>.
+<https://stad.gent/id/concept/550002900/2022-09-24T00:42:58.849Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002900>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:42:58.849Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010463>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3310_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Klei of kleiproducten waarvan een rechthoekig blok wordt gemaakt. Dit wordt gehard door drogen in de zon of bakken in een oven";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "baksteen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008090>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008090> <http://www.w3.org/2004/02/skos/core#prefLabel> "kleiproducten"@nl.
+_:df_3310_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002900"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002900/2022-09-24T00:42:58.849Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/bak.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bak.ttl>.

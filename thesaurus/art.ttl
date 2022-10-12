@@ -1,0 +1,41 @@
+<https://stad.gent/id/concept/550008188/2022-09-24T03:13:55.778Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008188>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:13:55.778Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300204066>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2233_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "artilleriemunitie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007583>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550006155>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006155> <http://www.w3.org/2004/02/skos/core#prefLabel> "kanonskogel"@nl.
+<https://stad.gent/id/concept/550007583> <http://www.w3.org/2004/02/skos/core#prefLabel> "munitie"@nl.
+_:df_2233_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008188"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008188/2022-09-24T03:13:55.778Z>.
+<https://stad.gent/id/concept/550001432/2022-09-24T00:19:30.076Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001432>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:19:30.076Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300117127>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3478_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "In algemene zin, objecten die zijn gemaakt of bewerkt door mensen, gewoonlijk handgereedschap, gebruiksvoorwerpen, sieraden of kunst. In de archeologie is een artefact een object dat is vervaardigd door een menselijke cultuur en wordt onderscheiden van natuurlijke resten, en later is aangetroffen bij archeologische werkzaamheden. Zie ook 'culturele artefacten' voor de context van objecten die specifiek worden verzameld door musea. Gebruik de term niet in de technische en medische betekenis, dat wil zeggen voor een product of effect dat niet aanwezig is in de natuurlijke toestand van een organisme of een systeem, maar optreedt wegens het onderzoek zelf of het gevolg is van een andere externe activiteit.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "artefact"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007760>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007760> <http://www.w3.org/2004/02/skos/core#prefLabel> "objectgenres"@nl.
+_:df_3478_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001432"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001432/2022-09-24T00:19:30.076Z>.
+<https://stad.gent/id/concept/530010844/2022-09-24T00:00:19.754Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010844>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:00:19.754Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3613_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "art nouveau"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3613_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010844"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010844/2022-09-24T00:00:19.754Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/art.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/art.ttl>.

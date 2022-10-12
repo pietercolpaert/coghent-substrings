@@ -24,3 +24,123 @@ _:df_2758_15 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570013641"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013641/2021-10-31T22:35:16.310Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/sj.ttl>.
+<https://stad.gent/id/concept/530009126/2022-09-29T00:03:00.355Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009126>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-29T00:03:00.355Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300187307>;
+    <http://www.w3.org/ns/adms#identifier> _:df_94_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleden die speciaal zijn ontworpen om onder of bovenop een zadel te gebruiken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sjabrak"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005224>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005224> <http://www.w3.org/2004/02/skos/core#prefLabel> "tapijt"@nl.
+_:df_94_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009126"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009126/2022-09-29T00:03:00.355Z>.
+<https://stad.gent/id/concept/570016219/2022-09-24T07:29:39.921Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016219>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:29:39.921Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022777>;
+    <http://www.w3.org/ns/adms#identifier> _:df_418_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Dunne stukjes materiaal, zoals metaal, karton of stencilfolie, waaruit een patroon is gesneden zodat met verschillende middelen verf door de openingen kan worden aangebracht. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sjabloon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570018080>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018080> <http://www.w3.org/2004/02/skos/core#prefLabel> "lettersjabloon"@nl.
+_:df_418_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016219"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016219/2022-09-24T07:29:39.921Z>.
+<https://stad.gent/id/concept/570013641/2022-09-24T06:32:45.548Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013641>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:32:45.548Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300311551>;
+    <http://www.w3.org/ns/adms#identifier> _:df_823_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sjablonen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_823_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013641"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013641/2022-09-24T06:32:45.548Z>.
+<https://stad.gent/id/concept/570007730/2022-09-24T04:42:24.658Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007730>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:42:24.658Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046123>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1606_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sjaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1606_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007730"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007730/2022-09-24T04:42:24.658Z>.
+<https://stad.gent/id/concept/550009250/2022-09-24T04:02:19.875Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009250>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:02:19.875Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022777>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1891_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sjabloon (uitrusting)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007980>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007980> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting voor beeldvervaardiging"@nl.
+_:df_1891_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009250"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009250/2022-09-24T04:02:19.875Z>.
+<https://stad.gent/id/concept/550007582/2022-09-24T02:35:15.399Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007582>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:35:15.399Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300210888>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2509_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Militaire hoofddeksels met een hoge, onbuigzame bovenkant en een klep, die meestal door militairen en leden van muziekkapellen worden gedragen. Gedragen in de negentiende eeuw door de Infanterie in Europa, het hoofddeksel van de Hongaarse Huzaren nabootsend. Verwant aan de hoge burgerhoed en voorzien van een klep op het voorhoofd. De hoedenbol is stijf en cilindrisch. Vaak is de binnenzijde uit karton vervaardigd en de buitenzijde met vilt bekleed. Toch is er een grote variatie in vorm, materiaalgebruik en kleur.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sjako"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008326>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008326> <http://www.w3.org/2004/02/skos/core#prefLabel> "petten en mutsen naar vorm"@nl.
+_:df_2509_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007582"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007582/2022-09-24T02:35:15.399Z>.
+<https://stad.gent/id/concept/550005292/2022-09-24T01:37:07.866Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005292>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:37:07.866Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2923_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Plaat die op een sjako bevestigd wordt, vaak met wapen en nummer van het regiment";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sjakoplaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005126>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005126> <http://www.w3.org/2004/02/skos/core#prefLabel> "insigne (embleem)"@nl.
+_:df_2923_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005292"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005292/2022-09-24T01:37:07.866Z>.
+<https://stad.gent/id/concept/550003273/2022-09-24T00:48:13.267Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003273>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:48:13.267Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300216864>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3274_30;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Lange banden of repen stof die om het middel, de borst of de heupen worden gewikkeld en vastgemaakt; zonder sluitingen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sjerp (kledingaccessoire)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007781>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007781> <http://www.w3.org/2004/02/skos/core#prefLabel> "op het lichaam gedragen kledingaccessoires"@nl.
+_:df_3274_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003273"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003273/2022-09-24T00:48:13.267Z>.
+<https://stad.gent/id/concept/550000994/2022-09-24T00:13:06.802Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000994>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:13:06.802Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046123>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3523_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Stukken stof, waarvan de lengte en breedte variëert, die voor de sier of voor de warmte om de schouders, de hals, over het hoofd of om het middel worden gedragen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sjaal (kledingaccessoire)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007781>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007781> <http://www.w3.org/2004/02/skos/core#prefLabel> "op het lichaam gedragen kledingaccessoires"@nl.
+_:df_3523_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000994"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000994/2022-09-24T00:13:06.802Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/sj.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/sj.ttl>.

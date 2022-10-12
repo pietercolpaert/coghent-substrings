@@ -221,3 +221,241 @@ _:df_1_566 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/onderwer.ttl>;
     <https://w3id.org/tree#value> "onderwer".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/onderwe.ttl>.
+<https://stad.gent/id/concept/570015499/2022-09-24T07:15:08.006Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015499>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:15:08.006Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014067>;
+    <http://www.w3.org/ns/adms#identifier> _:df_520_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Textiel gemaakt van katoenvezels. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "katoen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570023697>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023697> <http://www.w3.org/2004/02/skos/core#prefLabel> "plantaardige textielvezel"@nl.
+_:df_520_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015499"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015499/2022-09-24T07:15:08.006Z>.
+<https://stad.gent/id/concept/570015314/2022-09-24T07:11:16.622Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015314>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:11:16.622Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300263010>;
+    <http://www.w3.org/ns/adms#identifier> _:df_550_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "In het algemeen te gebruiken voor het knippen of afschrapen van een oppervlak met scherp gereedschap om een dunne laag ongewenst materiaal te verwijderen. In de context van het bereiden van vellen en huiden te gebruiken voor de nathuisbewerkingen, waarbij haar of overbodig huidmateriaal wordt verwijderd om een gelijke dikte te creëren.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "scheren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_550_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015314"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015314/2022-09-24T07:11:16.622Z>.
+<https://stad.gent/id/concept/570015269/2022-09-24T07:10:31.153Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015269>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:10:31.153Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300185327>;
+    <http://www.w3.org/ns/adms#identifier> _:df_553_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "druktechnieken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_553_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015269"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015269/2022-09-24T07:10:31.153Z>.
+<https://stad.gent/id/concept/570015245/2022-09-24T07:10:05.762Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015245>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:10:05.762Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022755>;
+    <http://www.w3.org/ns/adms#identifier> _:df_556_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Platte stukken metaal waarvan afbeeldingen, hetzij van tekst, hetzij van plaatjes, worden gedrukt. Gebruik 'cliché's' of een specifiekere term voor blokken van ander materiaal, meestal hout, die worden bewerkt om een afbeelding te drukken of worden gebruikt om andere materialen die het drukvlak vormen te ondersteunen ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drukplaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_556_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015245"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015245/2022-09-24T07:10:05.762Z>.
+<https://stad.gent/id/concept/570015232/2022-09-24T07:09:45.753Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015232>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:09:45.753Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300052156>;
+    <http://www.w3.org/ns/adms#identifier> _:df_559_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor boilers die in heet water of stoom voorzien voor verwarming van ruimten, verwerking of energie.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stoomboilers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_559_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015232"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015232/2022-09-24T07:09:45.753Z>.
+<https://stad.gent/id/concept/570015170/2022-09-24T07:08:09.857Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015170>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:08:09.857Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300004197>;
+    <http://www.w3.org/ns/adms#identifier> _:df_571_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor kamers waarin zich een badkuip of douche bevindt, en meestal een toilet of wastafel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "badkamer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_571_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015170"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015170/2022-09-24T07:08:09.857Z>.
+<https://stad.gent/id/concept/570015142/2022-09-24T07:07:14.486Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015142>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:07:14.486Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_577_5;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schuurpoeder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_577_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015142"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015142/2022-09-24T07:07:14.486Z>.
+<https://stad.gent/id/concept/570014929/2022-09-24T07:01:46.754Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014929>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:01:46.754Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300237891>;
+    <http://www.w3.org/ns/adms#identifier> _:df_616_5;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Digitaliseerders die gegevens halen van ondoorzichtige of doorzichtige afbeeldingen door deze te scannen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "scanner"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_616_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014929"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014929/2022-09-24T07:01:46.754Z>.
+<https://stad.gent/id/concept/570014936/2022-09-24T07:02:02.073Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014936>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:02:02.073Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300120801>;
+    <http://www.w3.org/ns/adms#identifier> _:df_616_18;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "een constructie voor het aanleggen van vaartuigen, vaak in de vorm van een steiger of kade";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kade"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_616_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014936"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014936/2022-09-24T07:02:02.073Z>.
+<https://stad.gent/id/concept/570014894/2022-09-24T07:00:36.381Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014894>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:00:36.381Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041615>;
+    <http://www.w3.org/ns/adms#identifier> _:df_625_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "horloge"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_625_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014894"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014894/2022-09-24T07:00:36.381Z>.
+<https://stad.gent/id/concept/570014900/2022-09-24T07:00:46.387Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014900>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:00:46.387Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300419295>;
+    <http://www.w3.org/ns/adms#identifier> _:df_625_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "apotheek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_625_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014900"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014900/2022-09-24T07:00:46.387Z>.
+<https://stad.gent/id/concept/570014847/2022-09-24T06:59:35.927Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014847>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:59:35.927Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_631_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "receptenbrochure"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_631_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014847"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014847/2022-09-24T06:59:35.927Z>.
+<https://stad.gent/id/concept/570014770/2022-09-24T06:57:55.103Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014770>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:57:55.103Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300266108>;
+    <http://www.w3.org/ns/adms#identifier> _:df_643_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Organisaties of instellingen die onderwijs verzorgen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "school"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_643_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014770"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014770/2022-09-24T06:57:55.103Z>.
+<https://stad.gent/id/concept/570014775/2022-09-24T06:58:05.110Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014775>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:58:05.110Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q276389>;
+    <http://www.w3.org/ns/adms#identifier> _:df_643_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "nylonkous"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_643_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014775"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014775/2022-09-24T06:58:05.110Z>.
+<https://stad.gent/id/concept/570014779/2022-09-24T06:58:10.113Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014779>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:58:10.113Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_643_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bestelbon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_643_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014779"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014779/2022-09-24T06:58:10.113Z>.
+<https://stad.gent/id/concept/570014780/2022-09-24T06:58:15.116Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014780>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:58:15.116Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_643_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zeepziederij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_643_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014780"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014780/2022-09-24T06:58:15.116Z>.
+<https://stad.gent/id/concept/570014762/2022-09-24T06:57:29.756Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014762>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:57:29.756Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300000390>;
+    <http://www.w3.org/ns/adms#identifier> _:df_646_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mijn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_646_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014762"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014762/2022-09-24T06:57:29.756Z>.
+<https://stad.gent/id/concept/570014757/2022-09-24T06:57:19.748Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014757>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:57:19.748Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010038s>;
+    <http://www.w3.org/ns/adms#identifier> _:df_649_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "monogrammen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_649_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014757"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014757/2022-09-24T06:57:19.748Z>.
+<https://stad.gent/id/concept/570014746/2022-09-24T06:56:54.347Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014746>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:56:54.347Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_652_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mazout"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_652_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014746"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014746/2022-09-24T06:56:54.347Z>.
+<https://stad.gent/id/concept/570014731/2022-09-24T06:56:29.338Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014731>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:56:29.338Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300191365>;
+    <http://www.w3.org/ns/adms#identifier> _:df_655_11;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor stroken of stukjes papier die inwisselbaar zijn voor met name artikelen, diensten of fondsen en die vaak ook als één geheel in boekvorm zijn bijeengebracht of zijn samengevoegd binnen een groter vel drukwerk. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "coupons"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_655_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014731"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014731/2022-09-24T06:56:29.338Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/onderwe.ttl> <https://w3id.org/tree#relation> _:df_1_526.
+_:df_1_526 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/onderwer.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "onderwer".
+<https://www.pieter.pm/coghent-substrings/thesaurus/onderwe.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/onderwe.ttl>.

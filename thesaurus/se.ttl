@@ -238,3 +238,271 @@ _:df_1_1138 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/ser.ttl>;
     <https://w3id.org/tree#value> "ser".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/se.ttl>.
+<https://stad.gent/id/concept/570017422/2022-09-24T08:08:59.271Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017422>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T08:08:59.271Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_136_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sedimentatietrechter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_136_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017422"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017422/2022-09-24T08:08:59.271Z>.
+<https://stad.gent/id/concept/570015012/2022-09-24T07:04:38.310Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015012>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:04:38.310Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_595_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "selectietest"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_595_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015012"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015012/2022-09-24T07:04:38.310Z>.
+<https://stad.gent/id/concept/570012997/2022-09-24T06:17:49.979Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012997>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:17:49.979Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q167676>;
+    <http://www.w3.org/ns/adms#identifier> _:df_925_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sensoren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_925_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012997"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012997/2022-09-24T06:17:49.979Z>.
+<https://stad.gent/id/concept/570012447/2022-09-24T06:07:29.261Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012447>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:07:29.261Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411475>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1000_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een toestel om informatie door te geven door middel van visuele signalen zoals vlaggen of lampen waarvan de positie gewijzigd kan worden. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "semafoor"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1000_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012447"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012447/2022-09-24T06:07:29.261Z>.
+<https://stad.gent/id/concept/570012163/2022-09-24T06:02:42.154Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012163>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:02:42.154Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q522732>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1033_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "selfactor"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008607>, <https://stad.gent/id/concept/570008903>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008903> <http://www.w3.org/2004/02/skos/core#prefLabel> "spinmachine"@nl.
+<https://stad.gent/id/concept/570008607> <http://www.w3.org/2004/02/skos/core#prefLabel> "spinmachines"@nl.
+_:df_1033_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012163"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012163/2022-09-24T06:02:42.154Z>.
+<https://stad.gent/id/concept/570011950/2022-09-24T06:00:41.037Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011950>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:00:41.037Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026081>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1048_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Seefeld"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570004793>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570004793> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oostenrijk"@nl.
+_:df_1048_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011950"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011950/2022-09-24T06:00:41.037Z>.
+<https://stad.gent/id/concept/570011471/2022-09-24T05:56:08.838Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011471>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:56:08.838Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006669>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1081_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Servië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1081_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011471"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011471/2022-09-24T05:56:08.838Z>.
+<https://stad.gent/id/concept/570001009/2022-09-24T04:13:37.853Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001009>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:13:37.853Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300207457>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1810_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "semafoon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1810_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001009"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001009/2022-09-24T04:13:37.853Z>.
+<https://stad.gent/id/concept/550008839/2022-09-24T03:49:55.524Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008839>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:49:55.524Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300192656>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1978_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor verschillende bewerkte dierenhuiden of -vellen, maar meestal duidt het een roggenvel aan. Ze zijn herkenbaar aan de ruwe, korrelige textuur aan de nerfzijde van het leer of een soortgelijk patroon en zijn vaak groen geverfd.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "segrijn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008749>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008749> <http://www.w3.org/2004/02/skos/core#prefLabel> "leer naar herkomst"@nl.
+_:df_1978_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008839"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008839/2022-09-24T03:49:55.524Z>.
+<https://stad.gent/id/concept/550008573/2022-09-24T03:34:59.345Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008573>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:34:59.345Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007999>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2083_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sèvres"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004704>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004704> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_2083_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008573"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008573/2022-09-24T03:34:59.345Z>.
+<https://stad.gent/id/concept/550008322/2022-09-24T03:24:57.494Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008322>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:24:57.494Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300248601>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2155_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "seinbenodigdheden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007772>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007772> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting naar proces"@nl, "uitrusting naar proces"@nl.
+_:df_2155_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008322"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008322/2022-09-24T03:24:57.494Z>.
+<https://stad.gent/id/concept/550007993/2022-09-24T02:57:42.848Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007993>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:57:42.848Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026642>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2350_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Publicaties in een medium die worden uitgegeven in opeenvolgende delen, die genummerd of chronologisch zijn, en die zijn bedoeld om voor onbepaalde tijd door te lopen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "seriepublicatie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007994>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550002939>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002939> <http://www.w3.org/2004/02/skos/core#prefLabel> "krant"@nl.
+<https://stad.gent/id/concept/550007994> <http://www.w3.org/2004/02/skos/core#prefLabel> "publicatie"@nl.
+_:df_2350_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007993"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007993> <http://www.w3.org/2004/02/skos/core#prefLabel> "seriepublicatie"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007993/2022-09-24T02:57:42.848Z>.
+<https://stad.gent/id/concept/550007869/2022-09-24T02:47:32.089Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007869>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:47:32.089Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300042758>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2422_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Blaasinstrumenten, bestaande uit een kronkelende houten buis van ca.. 2 m. lang, met conische boring, kromme aanblaasbuis en cupmondstuk, lage stemming, geluid geproduceerd met lipspanning; Europa.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "serpent (blaasinstrument)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007870>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550004785>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004785> <http://www.w3.org/2004/02/skos/core#prefLabel> "bashoorn"@nl.
+<https://stad.gent/id/concept/550007870> <http://www.w3.org/2004/02/skos/core#prefLabel> "blaasinstrumenten, bespeeld door lipspanning, met conische boring, met vingergaten"@nl, "blaasinstrumenten, bespeeld door lipspanning, met conische boring, met vingergaten"@nl.
+_:df_2422_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007869"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007869> <http://www.w3.org/2004/02/skos/core#prefLabel> "serpent (blaasinstrument)"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007869/2022-09-24T02:47:32.089Z>.
+<https://stad.gent/id/concept/550007612/2022-09-24T02:35:40.413Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007612>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:35:40.413Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300015025>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2506_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Inkt die door kunstenaars wordt gebruikt, gemaakt van het bruine pigment dat wordt gewonnen uit de inkt van inktvissen, een weekdier dat is gerelateerd aan de octopus en de pijlinktvis. De inktvis gebruikt de natuurlijke inkt om zich te verdedigen. Om de inkt voor kunstenaars te maken wordt de inktzak uit het dier verwijderd, gedroogd en vervolgens opgelost in verdunde alkali en verder verwerkt. Het resulterende pigment is chemisch inactief en vrij permanent. Het wordt voornamelijk gebruikt als tekeninkt en om dunne lagen aan te brengen. Sepia-inkt wordt zeker al sinds de Romeinse tijd gebruikt. Vanaf de Renaissance was het vooral erg populair als tekenmateriaal. In de late 18de en 19de eeuw verving het bister als middel om gewassen tekeningen te maken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sepia"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008855>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008855> <http://www.w3.org/2004/02/skos/core#prefLabel> "inkt naar samenstelling of herkomst"@nl.
+_:df_2506_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007612"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007612/2022-09-24T02:35:40.413Z>.
+<https://stad.gent/id/concept/550006900/2022-09-24T02:32:49.045Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006900>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:32:49.045Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006669>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2527_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Servië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005045>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550004592>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004592> <http://www.w3.org/2004/02/skos/core#prefLabel> "Belgrado"@nl.
+<https://stad.gent/id/concept/550005045> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl.
+_:df_2527_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006900"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006900/2022-09-24T02:32:49.045Z>.
+<https://stad.gent/id/concept/550006712/2022-09-24T02:25:35.014Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006712>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:25:35.014Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026722>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2578_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Seneffe"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008925>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008925> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen"@nl.
+_:df_2578_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006712"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006712/2022-09-24T02:25:35.014Z>.
+<https://stad.gent/id/concept/550004585/2022-09-24T01:11:12.550Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004585>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:11:12.550Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008676>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3109_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sevilla"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004687>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004687> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spanje"@nl.
+_:df_3109_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004585"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004585/2022-09-24T01:11:12.550Z>.
+<https://stad.gent/id/concept/550002928/2022-09-24T00:43:29.340Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002928>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:43:29.340Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300236054>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3307_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Groepen van bij elkaar passende stellen tafelgerei om een maaltijd te serveren voor een aantal aanzittenden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "servies"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007985>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550002296>, <https://stad.gent/id/concept/550005117>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005117> <http://www.w3.org/2004/02/skos/core#prefLabel> "theeservies"@nl.
+<https://stad.gent/id/concept/550002296> <http://www.w3.org/2004/02/skos/core#prefLabel> "koffieservies"@nl.
+<https://stad.gent/id/concept/550007985> <http://www.w3.org/2004/02/skos/core#prefLabel> "stel"@nl.
+_:df_3307_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002928"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002928/2022-09-24T00:43:29.340Z>.
+<https://stad.gent/id/concept/550001455/2022-09-24T00:20:25.870Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001455>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:20:25.870Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300210275>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3472_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Groen metamorf gesteente dat bijna volledig bestaat uit mineralen uit de serpentijngroep (in wezen verschillende soorten waterhoudend magnesiumsilicaat); gewoonlijk zijn ook andere bestanddelen aanwezig, zoals te zien is aan aders en vlekken in verschillende kleuren. De typische groene kleur en het spikkelige aanzien verklaren de naam, die is afgeleid van het Latijnse 'serpentinus', hetgeen 'gelijkend op een slang' betekent. Door de kleur en polijstbaarheid is serpentijn in de loop van de tijd in veel culturen populair geweest als versiering.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "serpentijn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008781>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008781> <http://www.w3.org/2004/02/skos/core#prefLabel> "metamorf gesteente"@nl.
+_:df_3472_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001455"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001455/2022-09-24T00:20:25.870Z>.
+<https://stad.gent/id/concept/550001259/2022-09-24T00:16:58.749Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001259>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:16:58.749Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043168>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3496_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Lepels die voornamelijk worden gebruikt om voedsel uit een schaal, van een bord of iets dergelijks op te dienen. Gaan soms samen met een serveervork.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "serveerlepel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550001257>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001257> <http://www.w3.org/2004/02/skos/core#prefLabel> "lepels voor het opdienen van voedsel"@nl.
+_:df_3496_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001259"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550001259> <http://www.w3.org/2004/02/skos/core#prefLabel> "serveerlepel"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001259/2022-09-24T00:16:58.749Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/se.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/se.ttl>.

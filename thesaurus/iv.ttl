@@ -47,3 +47,40 @@ _:df_2089_9 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570017395"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017395/2021-11-01T00:09:31.851Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/iv.ttl>.
+<https://stad.gent/id/concept/570017395/2022-09-24T08:07:28.544Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017395>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T08:07:28.544Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011857>;
+    <http://www.w3.org/ns/adms#identifier> _:df_148_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ivoor"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_148_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017395"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017395/2022-09-24T08:07:28.544Z>.
+<https://stad.gent/id/concept/550005882/2022-09-24T01:56:23.083Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005882>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:56:23.083Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2788_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ivoor (collectie)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2788_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005882"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005882/2022-09-24T01:56:23.083Z>.
+<https://stad.gent/id/concept/550005836/2022-09-24T01:54:52.119Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005836>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:54:52.119Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011857>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2797_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor een gemodificeerde vorm van dentine die voorkomt op de slagtanden van volwassen olifanten; wordt ook algemeen gebruikt voor het materiaal van uitstekende of grote tanden van zoogdieren zoals de walrus of de narwal.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ivoor"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008778>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008778> <http://www.w3.org/2004/02/skos/core#prefLabel> "dentine"@nl.
+_:df_2797_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005836"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005836/2022-09-24T01:54:52.119Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/iv.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/iv.ttl>.

@@ -43,3 +43,113 @@ _:df_2494_30 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570015278"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015278/2021-10-31T23:12:41.103Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ton.ttl>.
+<https://stad.gent/id/concept/570000386/2022-09-24T04:09:50.840Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000386>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:09:50.840Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008015>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1837_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tongeren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570001061>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570001061> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburg (provincie)"@nl.
+_:df_1837_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000386"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000386/2022-09-24T04:09:50.840Z>.
+<https://stad.gent/id/concept/550004282/2022-09-24T01:01:46.996Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004282>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:01:46.996Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008015>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3175_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tongeren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004370>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "Vindplaats"@nl, "Collection place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004370> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburg (provincie)"@nl.
+_:df_3175_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004282"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004282/2022-09-24T01:01:46.996Z>.
+<https://stad.gent/id/concept/550004243/2022-09-24T01:00:56.509Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004243>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:00:56.509Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300241913>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3181_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Worden gebruikt voor kleine, vaak compacte verrekijkers die binnen worden gebruikt, bijvoorbeeld in het theater of bij concerten. Omvat ook kijkers waaraan een afneembare stok of handvat zit om ze vast te houden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toneelkijker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005775>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005775> <http://www.w3.org/2004/02/skos/core#prefLabel> "verrekijker"@nl.
+_:df_3181_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004243"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004243/2022-09-24T01:00:56.509Z>.
+<https://stad.gent/id/concept/550002554/2022-09-24T00:37:41.301Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002554>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:37:41.301Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300206700>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3349_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Grote fusten voor het opslaan van vloeibare stoffen, vooral wijn, ale of bier.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ton"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008353>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008353> <http://www.w3.org/2004/02/skos/core#prefLabel> "fust"@nl.
+_:df_3349_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002554"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002554/2022-09-24T00:37:41.301Z>.
+<https://stad.gent/id/concept/550001167/2022-09-24T00:15:43.184Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001167>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:15:43.184Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300395613>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3505_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een tondeldoos werd gebruikt voor het ontsteken van vuur. Het bevatte een licht ontvlambaar materiaal, zoals katoen of de hoed van een zwamsoort, de tonderzwam. Hierbij was nog een vuursteen en een metalen ring nodig.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tondeldoos"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007771>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007771> <http://www.w3.org/2004/02/skos/core#prefLabel> "vuurmakende en beheersende uitrusting"@nl.
+_:df_3505_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001167"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001167/2022-09-24T00:15:43.184Z>.
+<https://stad.gent/id/concept/670006330/2022-09-09T08:27:46.887Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006330>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:27:46.887Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4177_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tonight and Every Night"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4177_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006330"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006330/2022-09-09T08:27:46.887Z>.
+<https://stad.gent/id/concept/670006331/2022-09-09T08:27:51.890Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006331>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:27:51.890Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4177_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tonight We Sing"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4177_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006331"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006331/2022-09-09T08:27:51.890Z>.
+<https://stad.gent/id/concept/670006332/2022-09-09T08:27:56.893Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006332>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:27:56.893Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4177_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tonight We Swing"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4177_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006332"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006332/2022-09-09T08:27:56.893Z>.
+<https://stad.gent/id/concept/670006333/2022-09-09T08:28:01.894Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006333>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:28:01.894Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4177_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tonnerre sur l'Atlantique"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4177_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006333"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006333/2022-09-09T08:28:01.894Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/ton.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ton.ttl>.

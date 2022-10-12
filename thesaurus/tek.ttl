@@ -107,3 +107,160 @@ _:df_2515_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570015141"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015141/2021-10-31T23:09:23.245Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/tek.ttl>.
+<https://stad.gent/id/concept/570015259/2022-09-24T07:10:26.152Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015259>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:10:26.152Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_556_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tekenonderwijs"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570024722>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570024722> <http://www.w3.org/2004/02/skos/core#prefLabel> "onderwijs en opleiding"@nl.
+_:df_556_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015259"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015259/2022-09-24T07:10:26.152Z>.
+<https://stad.gent/id/concept/570015141/2022-09-24T07:07:09.484Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015141>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:07:09.484Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014157>;
+    <http://www.w3.org/ns/adms#identifier> _:df_577_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tekenpapier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_577_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015141"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015141/2022-09-24T07:07:09.484Z>.
+<https://stad.gent/id/concept/570008131/2022-09-24T04:44:52.323Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008131>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:44:52.323Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014842>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1588_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tekenmateriaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1588_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008131"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008131/2022-09-24T04:44:52.323Z>.
+<https://stad.gent/id/concept/570000952/2022-09-24T04:13:02.833Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000952>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:13:02.833Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054196>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1813_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tekenen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1813_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000952"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000952/2022-09-24T04:13:02.833Z>.
+<https://stad.gent/id/concept/570000610/2022-09-24T04:11:11.301Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000610>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:11:11.301Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300033973>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1828_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tekening"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1828_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000610"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000610/2022-09-24T04:11:11.301Z>.
+<https://stad.gent/id/concept/550008738/2022-09-24T03:44:17.400Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008738>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:44:17.400Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014157>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2020_37;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Zwaar papier, meestal in de kleur wit of buff, gebruikt voor het maken van tekeningen. Het kan zacht of ruw zijn; ruw papier wordt heetgeperst. Bij tekenpapier van goede kwaliteit moet redelijk vaak uitgummen mogelijk zijn zonder het papier zichtbaar te beschadigen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tekenpapier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008745>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550000159>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000159> <http://www.w3.org/2004/02/skos/core#prefLabel> "calqueerpapier"@nl.
+<https://stad.gent/id/concept/550008745> <http://www.w3.org/2004/02/skos/core#prefLabel> "papier naar functie"@nl.
+_:df_2020_37 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008738"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008738/2022-09-24T03:44:17.400Z>.
+<https://stad.gent/id/concept/550008266/2022-09-24T03:20:13.981Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008266>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:20:13.981Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300034362>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2188_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tekeningen naar functie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004706>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550000172>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000172> <http://www.w3.org/2004/02/skos/core#prefLabel> "ontwerptekening"@nl.
+<https://stad.gent/id/concept/550004706> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tekeningen"@nl.
+_:df_2188_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008266"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008266/2022-09-24T03:20:13.981Z>.
+<https://stad.gent/id/concept/550007970/2022-09-24T02:55:56.807Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007970>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:55:56.807Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300034698>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2362_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tekeningen naar materiaal of techniek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004893>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005800>, <https://stad.gent/id/concept/550000784>, <https://stad.gent/id/concept/550006080>, <https://stad.gent/id/concept/550001697>, <https://stad.gent/id/concept/550000224>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000224> <http://www.w3.org/2004/02/skos/core#prefLabel> "potloodtekening"@nl.
+<https://stad.gent/id/concept/550001697> <http://www.w3.org/2004/02/skos/core#prefLabel> "pentekening"@nl.
+<https://stad.gent/id/concept/550006080> <http://www.w3.org/2004/02/skos/core#prefLabel> "inkttekening"@nl.
+<https://stad.gent/id/concept/550000784> <http://www.w3.org/2004/02/skos/core#prefLabel> "houtskooltekening"@nl.
+<https://stad.gent/id/concept/550005800> <http://www.w3.org/2004/02/skos/core#prefLabel> "calque"@nl.
+<https://stad.gent/id/concept/550004893> <http://www.w3.org/2004/02/skos/core#prefLabel> "tekening"@nl.
+_:df_2362_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007970"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007970/2022-09-24T02:55:56.807Z>.
+<https://stad.gent/id/concept/550005609/2022-09-24T01:47:33.236Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005609>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:47:33.236Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054196>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2851_54;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het voortbrengen van zichtbare vormen voornamelijk door delineatie, meestal door het direct aanbrengen van materiaal of het direct werken met een instrument op het oppervlak van de ondergrond.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tekenen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2851_54 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005609"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005609/2022-09-24T01:47:33.236Z>.
+<https://stad.gent/id/concept/550004893/2022-09-24T01:23:15.178Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004893>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:23:15.178Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300033973>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3022_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Visuele werken die gemaakt zijn door te tekenen, wat wil zeggen de toepassing van lijnen op een oppervlak (vaak papier) met een potlood, pen, krijt, of een ander tekeninstrument. Hierin wordt geconcentreerd op de afbakening van de vorm en minder op de kleurgeving.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tekening"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007769>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007970>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007970> <http://www.w3.org/2004/02/skos/core#prefLabel> "tekeningen naar materiaal of techniek"@nl.
+<https://stad.gent/id/concept/550007769> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldmateriaal naar medium of techniek"@nl.
+_:df_3022_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004893"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004893/2022-09-24T01:23:15.178Z>.
+<https://stad.gent/id/concept/550004683/2022-09-24T01:16:20.261Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004683>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:16:20.261Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3073_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tekenaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3073_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004683"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004683/2022-09-24T01:16:20.261Z>.
+<https://stad.gent/id/concept/550001526/2022-09-24T00:21:56.427Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001526>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:21:56.427Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3460_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tekeningen en prenten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005799>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005799> <http://www.w3.org/2004/02/skos/core#prefLabel> "calques"@nl.
+_:df_3460_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001526"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001526/2022-09-24T00:21:56.427Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/tek.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/tek.ttl>.

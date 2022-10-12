@@ -83,3 +83,65 @@ _:df_3031_26 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570011236"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011236/2021-10-31T21:56:39.401Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ph.ttl>.
+<https://stad.gent/id/concept/570015613/2022-09-24T07:16:33.892Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015613>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:16:33.892Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2356716>;
+    <http://www.w3.org/ns/adms#identifier> _:df_511_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "PhiliShave"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_511_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015613"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015613/2022-09-24T07:16:33.892Z>.
+<https://stad.gent/id/concept/570014007/2022-09-24T06:38:28.509Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014007>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:38:28.509Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1002782>;
+    <http://www.w3.org/ns/adms#identifier> _:df_784_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Philadelphia"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_784_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014007"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014007/2022-09-24T06:38:28.509Z>.
+<https://stad.gent/id/concept/570011236/2022-09-24T05:53:57.462Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011236>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:53:57.462Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7268540>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1096_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Philippine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_1096_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011236"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011236/2022-09-24T05:53:57.462Z>.
+<https://stad.gent/id/concept/550006804/2022-09-24T02:27:36.283Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006804>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:27:36.283Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7014406>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2563_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Philadelphia"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005607>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005607> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten"@nl.
+_:df_2563_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006804"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006804/2022-09-24T02:27:36.283Z>.
+<https://stad.gent/id/concept/670006826/2022-09-09T09:09:15.194Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006826>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:09:15.194Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1345>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3883_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Philadelphia"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3883_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006826"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006826/2022-09-09T09:09:15.194Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/ph.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ph.ttl>.

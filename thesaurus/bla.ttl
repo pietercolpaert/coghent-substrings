@@ -21,3 +21,91 @@ _:df_2860_24 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570013008"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013008/2021-10-31T22:20:46.506Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bla.ttl>.
+<https://stad.gent/id/concept/550006365/2022-09-24T02:14:33.034Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006365>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:14:33.034Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007864>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2656_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Blankenberge"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004834>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004834> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen"@nl.
+_:df_2656_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006365"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006365/2022-09-24T02:14:33.034Z>.
+<https://stad.gent/id/concept/550005913/2022-09-24T01:57:28.507Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005913>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:57:28.507Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054067>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2779_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "blazen (gemodelleerd)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2779_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005913"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005913/2022-09-24T01:57:28.507Z>.
+<https://stad.gent/id/concept/550005083/2022-09-24T01:28:17.929Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005083>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:28:17.929Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300265199>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2986_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Tot een dunne laag gehamerd zilver dat als verguldsel wordt gebruikt. Bladzilver is ongeveer drie keer zo dik als bladgoud, aangezien zilver minder kneedbaar is, terwijl het resulterende bladzilver beter te verwerken is. Bladzilver dient te worden gelakt of gevernist om metaalaanslag te voorkomen; om die reden wordt vaak de voorkeur gegeven aan bladpalladium. In de commerciële kunst wordt goedkoop bladaluminium gebruikt om het effect van bladzilver te simuleren. Bladzilver kan ook worden bedekt met een transparant goudgeel laagje om als vervanging voor goud te dienen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bladzilver"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008420>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008420> <http://www.w3.org/2004/02/skos/core#prefLabel> "bladmetaal"@nl.
+_:df_2986_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005083"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005083/2022-09-24T01:28:17.929Z>.
+<https://stad.gent/id/concept/550005044/2022-09-24T01:26:57.455Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005044>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:26:57.455Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300180070>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2998_30;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kaarsenstandaards met een enkele kaarshouder op een platte schotel- of schaalvormige basis. Gebruik 'kandelaars' voor kaarsenstandaards met een enkele kaarshouder op een voetstuk met een verbrede basis of voet.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "blaker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007929>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007929> <http://www.w3.org/2004/02/skos/core#prefLabel> "kaarsenhouder"@nl.
+_:df_2998_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005044"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005044/2022-09-24T01:26:57.455Z>.
+<https://stad.gent/id/concept/550001936/2022-09-24T00:29:01.523Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001936>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:29:01.523Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3409_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "IJzeren of houten buis (ca. 50-60cm) waardoorheen men met de mond lucht blaast om het vuur van de haard aan te wakkeren (1). Het benedenuiteinde kan eventueel puntvormig - opdat het niet dadelijk in de as terecht zou komen - gaffel- of spatelvormig zijn en doet dan eveneens dienst als haardvork of -schopje. Het benedenuiteinde kan ook dicht gesmeed zijn met in het midden een klein gaatje. Zo kan men veel effectiever lucht blazen. Aan het andere uiteinde is er een haak of ring waarmee de pijp wordt opgehangen. [MOT]";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "blaaspijp (haard)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007771>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007771> <http://www.w3.org/2004/02/skos/core#prefLabel> "vuurmakende en beheersende uitrusting"@nl.
+_:df_3409_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001936"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001936/2022-09-24T00:29:01.523Z>.
+<https://stad.gent/id/concept/550000676/2022-09-24T00:08:18.871Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000676>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:08:18.871Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300036973>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3556_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Met de hand bediende wapens waarvan de snede of de punt van de kling in het lichaam van de tegenstander moet dringen. Let op, gebruik 'slagwapens' voor wapens met stompe koppen die alleen dienen om de tegenstander te verpletteren.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "blank wapen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550001929>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001605>, <https://stad.gent/id/concept/550008336>, <https://stad.gent/id/concept/550000677>, <https://stad.gent/id/concept/550001621>, <https://stad.gent/id/concept/550000723>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000723> <http://www.w3.org/2004/02/skos/core#prefLabel> "zwaard (gevestwapen)"@nl.
+<https://stad.gent/id/concept/550001621> <http://www.w3.org/2004/02/skos/core#prefLabel> "stokwapen"@nl.
+<https://stad.gent/id/concept/550000677> <http://www.w3.org/2004/02/skos/core#prefLabel> "dolk"@nl.
+<https://stad.gent/id/concept/550008336> <http://www.w3.org/2004/02/skos/core#prefLabel> "bijl (wapen)"@nl.
+<https://stad.gent/id/concept/550001605> <http://www.w3.org/2004/02/skos/core#prefLabel> "bajonet"@nl.
+<https://stad.gent/id/concept/550001929> <http://www.w3.org/2004/02/skos/core#prefLabel> "wapen"@nl.
+_:df_3556_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000676"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550000676> <http://www.w3.org/2004/02/skos/core#prefLabel> "blank wapen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000676/2022-09-24T00:08:18.871Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/bla.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bla.ttl>.

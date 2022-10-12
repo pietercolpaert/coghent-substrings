@@ -12,3 +12,29 @@ _:df_2398_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570015950"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015950/2021-10-31T23:25:51.763Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bos.ttl>.
+<https://stad.gent/id/concept/570007867/2022-09-24T04:43:26.762Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007867>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:43:26.762Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300132451>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1597_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bossen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1597_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007867"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007867/2022-09-24T04:43:26.762Z>.
+<https://stad.gent/id/concept/550001827/2022-09-24T00:26:35.305Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001827>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:26:35.305Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7013445>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3427_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Boston"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005607>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005607> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten"@nl.
+_:df_3427_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001827"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001827/2022-09-24T00:26:35.305Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/bos.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bos.ttl>.

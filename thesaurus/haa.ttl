@@ -121,3 +121,301 @@ _:df_3217_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009671"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009671/2021-10-31T21:30:06.984Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/haa.ttl>.
+<https://stad.gent/id/concept/570009671/2022-09-24T05:27:37.757Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009671>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:27:37.757Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1285_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "haardkachel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1285_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009671"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009671/2022-09-24T05:27:37.757Z>.
+<https://stad.gent/id/concept/570009509/2022-09-24T05:22:37.726Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009509>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:22:37.726Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1112001>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1321_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Haarlemmermeer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_1321_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009509"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009509/2022-09-24T05:22:37.726Z>.
+<https://stad.gent/id/concept/570008772/2022-09-24T04:57:52.421Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008772>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:57:52.421Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300210861>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1495_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "haarnetje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1495_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008772"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008772/2022-09-24T04:57:52.421Z>.
+<https://stad.gent/id/concept/570002264/2022-09-24T04:21:41.621Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570002264>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:21:41.621Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300033537>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1753_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "haak"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1753_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570002264"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570002264/2022-09-24T04:21:41.621Z>.
+<https://stad.gent/id/concept/570001228/2022-09-24T04:15:04.091Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001228>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:15:04.091Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1801_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "haarpoeder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1801_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001228"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001228/2022-09-24T04:15:04.091Z>.
+<https://stad.gent/id/concept/550009121/2022-09-24T04:00:38.915Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009121>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:00:38.915Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1903_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "haarwerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1903_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009121"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009121/2022-09-24T04:00:38.915Z>.
+<https://stad.gent/id/concept/550008842/2022-09-24T03:50:10.964Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008842>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:50:10.964Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300395554>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1978_30;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Grote vork als onderdeel van een haardstel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "haardvork"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007771>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007771> <http://www.w3.org/2004/02/skos/core#prefLabel> "vuurmakende en beheersende uitrusting"@nl.
+_:df_1978_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008842"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008842/2022-09-24T03:50:10.964Z>.
+<https://stad.gent/id/concept/550008380/2022-09-24T03:29:34.837Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008380>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:29:34.837Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300175242>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2122_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "haardstel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007771>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005230>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005230> <http://www.w3.org/2004/02/skos/core#prefLabel> "vuurtang"@nl.
+<https://stad.gent/id/concept/550007771> <http://www.w3.org/2004/02/skos/core#prefLabel> "vuurmakende en beheersende uitrusting"@nl.
+_:df_2122_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008380"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008380/2022-09-24T03:29:34.837Z>.
+<https://stad.gent/id/concept/550008179/2022-09-24T03:13:15.381Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008179>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:13:15.381Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209287>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2239_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Term die algemeen wordt gebruikt voor diverse siervoorwerpen zoals haarspelden en -kammen, gedragen door mannen en vrouwen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "haarversiering"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008136>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005999>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005999> <http://www.w3.org/2004/02/skos/core#prefLabel> "kam (haarsieraad)"@nl.
+<https://stad.gent/id/concept/550008136> <http://www.w3.org/2004/02/skos/core#prefLabel> "haaraccessoires"@nl.
+_:df_2239_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008179"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008179/2022-09-24T03:13:15.381Z>.
+<https://stad.gent/id/concept/550008136/2022-09-24T03:09:43.495Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008136>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:09:43.495Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300225910>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2263_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "haaraccessoires"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005312>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550003027>, <https://stad.gent/id/concept/550008179>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008179> <http://www.w3.org/2004/02/skos/core#prefLabel> "haarversiering"@nl.
+<https://stad.gent/id/concept/550003027> <http://www.w3.org/2004/02/skos/core#prefLabel> "haarspeld"@nl.
+<https://stad.gent/id/concept/550005312> <http://www.w3.org/2004/02/skos/core#prefLabel> "accessoires die op het hoofd worden gedragen"@nl.
+_:df_2263_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008136"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008136/2022-09-24T03:09:43.495Z>.
+<https://stad.gent/id/concept/550008133/2022-09-24T03:09:28.105Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008133>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:09:28.105Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300052273>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2266_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "haardstedeonderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008134>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001934>, <https://stad.gent/id/concept/550005947>, <https://stad.gent/id/concept/550009111>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550009111> <http://www.w3.org/2004/02/skos/core#prefLabel> "schoorsteenmantel"@nl.
+<https://stad.gent/id/concept/550005947> <http://www.w3.org/2004/02/skos/core#prefLabel> "haardsteen"@nl.
+<https://stad.gent/id/concept/550001934> <http://www.w3.org/2004/02/skos/core#prefLabel> "haardplaat"@nl.
+<https://stad.gent/id/concept/550008134> <http://www.w3.org/2004/02/skos/core#prefLabel> "haardsteden en haardstedeonderdelen"@nl, "haardsteden en haardstedeonderdelen"@nl.
+_:df_2266_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008133"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008133> <http://www.w3.org/2004/02/skos/core#prefLabel> "haardstedeonderdelen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008133/2022-09-24T03:09:28.105Z>.
+<https://stad.gent/id/concept/550008134/2022-09-24T03:09:33.109Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008134>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:09:33.109Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300052231>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2266_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "haardsteden en haardstedeonderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008135>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008133>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008133> <http://www.w3.org/2004/02/skos/core#prefLabel> "haardstedeonderdelen"@nl.
+<https://stad.gent/id/concept/550008135> <http://www.w3.org/2004/02/skos/core#prefLabel> "verwarmings- en kookelementen"@nl.
+_:df_2266_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008134"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008134> <http://www.w3.org/2004/02/skos/core#prefLabel> "haardsteden en haardstedeonderdelen"@nl, "haardsteden en haardstedeonderdelen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008134/2022-09-24T03:09:33.109Z>.
+<https://stad.gent/id/concept/550007619/2022-09-24T02:36:00.918Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007619>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:36:00.918Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011814>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2503_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De vezelachtige uitgroeiïngen op de huid van allerlei dieren, die bestaan uit het eiwit keratine en onder andere worden gebruikt voor het maken van stoffen, als opvulling en voor het maken van kwasten en borstels.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "haar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008754>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008851>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008851> <http://www.w3.org/2004/02/skos/core#prefLabel> "haar naar samenstelling of herkomst"@nl.
+<https://stad.gent/id/concept/550008754> <http://www.w3.org/2004/02/skos/core#prefLabel> "haar en haarbestanddelen"@nl.
+_:df_2503_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007619"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007619/2022-09-24T02:36:00.918Z>.
+<https://stad.gent/id/concept/550007555/2022-09-24T02:34:14.977Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007555>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:34:14.977Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300178567>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2518_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt algemeen gebruikt voor verschillende soorten lichte draagbare vuurwapens die in Europa werden gebruikt vanaf de 14e tot aan het begin van de 17e eeuw en die waren voorzien van een geweerlade waarmee ze tegen de wang, borst of schouder konden worden gehouden. De eerste modellen hadden een haakvormig uitsteeksel aan de onderkant van de loop om de terugslag op te vangen en werden bij het afvuren ergens op geplaatst.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "haakbus"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008098>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008098> <http://www.w3.org/2004/02/skos/core#prefLabel> "schoudervuurwapen"@nl.
+_:df_2518_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007555"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007555/2022-09-24T02:34:14.977Z>.
+<https://stad.gent/id/concept/550006076/2022-09-24T02:02:16.320Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006076>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:02:16.320Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300161848>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2746_35;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Toestellen met een horizontale balk op een verticale staaf, op korte poten, die worden gebruikt om grote houtblokken te dragen in een open haard.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "haardijzer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007771>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007771> <http://www.w3.org/2004/02/skos/core#prefLabel> "vuurmakende en beheersende uitrusting"@nl.
+_:df_2746_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006076"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006076/2022-09-24T02:02:16.320Z>.
+<https://stad.gent/id/concept/550005947/2022-09-24T01:58:19.005Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005947>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:58:19.005Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2773_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gebakken steen zoals die voorheen in de onderboezem van schoorstenen werd gemetseld";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "haardsteen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008133>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008133> <http://www.w3.org/2004/02/skos/core#prefLabel> "haardstedeonderdelen"@nl.
+_:df_2773_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005947"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005947/2022-09-24T01:58:19.005Z>.
+<https://stad.gent/id/concept/550005756/2022-09-24T01:52:20.966Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005756>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:52:20.966Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300033537>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2815_13;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gebogen of gekromde instrumenten die worden gebruikt voor het ophouden of vastmaken van objecten aan een oppervlak.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "haak (bevestigingsmiddel)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008073>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001984>, <https://stad.gent/id/concept/550001892>, <https://stad.gent/id/concept/550001909>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001909> <http://www.w3.org/2004/02/skos/core#prefLabel> "vleeskroon"@nl.
+<https://stad.gent/id/concept/550001892> <http://www.w3.org/2004/02/skos/core#prefLabel> "haal"@nl.
+<https://stad.gent/id/concept/550001984> <http://www.w3.org/2004/02/skos/core#prefLabel> "gordelhaak"@nl.
+<https://stad.gent/id/concept/550008073> <http://www.w3.org/2004/02/skos/core#prefLabel> "bevestigingsmiddel (onderdeel)"@nl.
+_:df_2815_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005756"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005756/2022-09-24T01:52:20.966Z>.
+<https://stad.gent/id/concept/550004343/2022-09-24T01:03:07.698Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004343>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:03:07.698Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007048>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3166_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Haarlem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006121>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006121> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl, "Nederland"@nl, "Nederland"@nl.
+_:df_3166_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004343"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004343/2022-09-24T01:03:07.698Z>.
+<https://stad.gent/id/concept/550003027/2022-09-24T00:44:44.736Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003027>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:44:44.736Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046042>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3298_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "U-vormige spelden die worden gebruikt om haar of hoofddeksels op de plaats te houden; ze zijn gemaakt van metaal- of plasticdraad, schildpad of soortgelijke materialen en kunnen ook decoratief zijn.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "haarspeld"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008136>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008136> <http://www.w3.org/2004/02/skos/core#prefLabel> "haaraccessoires"@nl.
+_:df_3298_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003027"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003027/2022-09-24T00:44:44.736Z>.
+<https://stad.gent/id/concept/550002700/2022-09-24T00:39:22.109Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002700>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:39:22.109Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300262203>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3337_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor beschermingsconstructies van geweven of gevlochten metaal die voor de openingen van open haarden worden geplaatst om te voorkomen dat er vonken of brandende kolen ontsnappen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "haardscherm (vuurbeheersende uitrusting)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007771>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007771> <http://www.w3.org/2004/02/skos/core#prefLabel> "vuurmakende en beheersende uitrusting"@nl.
+_:df_3337_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002700"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002700/2022-09-24T00:39:22.109Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/haa.ttl> <https://w3id.org/tree#relation> _:df_1_1320.
+_:df_1_1320 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/haar.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "haar".
+<https://www.pieter.pm/coghent-substrings/thesaurus/haa.ttl> <https://w3id.org/tree#relation> _:df_1_1321.
+_:df_1_1321 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/haal.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "haal".
+<https://www.pieter.pm/coghent-substrings/thesaurus/haa.ttl> <https://w3id.org/tree#relation> _:df_1_1322.
+_:df_1_1322 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/haak.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "haak".
+<https://www.pieter.pm/coghent-substrings/thesaurus/haa.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/haa.ttl>.

@@ -9,3 +9,95 @@ _:df_2818_17 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570013240"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013240/2021-10-31T22:26:36.165Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/vere.ttl>.
+<https://stad.gent/id/concept/550008220/2022-09-24T03:16:32.151Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008220>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:16:32.151Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2215_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Penning die wordt uitgereikt aan een persoon die zich heeft aangemeld als lid van een vereniging. Kon dienen als bewijs van lidmaatschap bij bijeenkomsten van de vereniging.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verenigingspenning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005126>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005126> <http://www.w3.org/2004/02/skos/core#prefLabel> "insigne (embleem)"@nl.
+_:df_2215_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008220"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008220/2022-09-24T03:16:32.151Z>.
+<https://stad.gent/id/concept/550005607/2022-09-24T01:47:23.232Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005607>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:47:23.232Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7012149>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2851_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008929>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550006675>, <https://stad.gent/id/concept/550006811>, <https://stad.gent/id/concept/550001827>, <https://stad.gent/id/concept/550006487>, <https://stad.gent/id/concept/550006798>, <https://stad.gent/id/concept/550006335>, <https://stad.gent/id/concept/550006608>, <https://stad.gent/id/concept/550006666>, <https://stad.gent/id/concept/550006701>, <https://stad.gent/id/concept/550006824>, <https://stad.gent/id/concept/550006303>, <https://stad.gent/id/concept/550004470>, <https://stad.gent/id/concept/550006570>, <https://stad.gent/id/concept/550006717>, <https://stad.gent/id/concept/550006671>, <https://stad.gent/id/concept/550006402>, <https://stad.gent/id/concept/550006804>, <https://stad.gent/id/concept/550006395>, <https://stad.gent/id/concept/550006385>, <https://stad.gent/id/concept/550008593>, <https://stad.gent/id/concept/550006436>, <https://stad.gent/id/concept/550006401>, <https://stad.gent/id/concept/550006539>, <https://stad.gent/id/concept/550006788>, <https://stad.gent/id/concept/550006816>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "land"@nl, "country"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006816> <http://www.w3.org/2004/02/skos/core#prefLabel> "Washington D.C."@nl.
+<https://stad.gent/id/concept/550006788> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vermont"@nl.
+<https://stad.gent/id/concept/550006539> <http://www.w3.org/2004/02/skos/core#prefLabel> "South Hackensack (NJ)"@nl.
+<https://stad.gent/id/concept/550006401> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sarasota (FL)"@nl.
+<https://stad.gent/id/concept/550006436> <http://www.w3.org/2004/02/skos/core#prefLabel> "San Francisco"@nl.
+<https://stad.gent/id/concept/550008593> <http://www.w3.org/2004/02/skos/core#prefLabel> "Saint Louis (MO)"@nl.
+<https://stad.gent/id/concept/550006385> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rutland (VT)"@nl.
+<https://stad.gent/id/concept/550006395> <http://www.w3.org/2004/02/skos/core#prefLabel> "Princeton (NJ)"@nl.
+<https://stad.gent/id/concept/550006804> <http://www.w3.org/2004/02/skos/core#prefLabel> "Philadelphia"@nl.
+<https://stad.gent/id/concept/550006402> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ohio"@nl.
+<https://stad.gent/id/concept/550006671> <http://www.w3.org/2004/02/skos/core#prefLabel> "New York"@nl.
+<https://stad.gent/id/concept/550006717> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nashville (TN)"@nl.
+<https://stad.gent/id/concept/550006570> <http://www.w3.org/2004/02/skos/core#prefLabel> "Millwood (NY)"@nl.
+<https://stad.gent/id/concept/550004470> <http://www.w3.org/2004/02/skos/core#prefLabel> "Michigan"@nl.
+<https://stad.gent/id/concept/550006303> <http://www.w3.org/2004/02/skos/core#prefLabel> "Los Angeles (CA)"@nl.
+<https://stad.gent/id/concept/550006824> <http://www.w3.org/2004/02/skos/core#prefLabel> "Iowa"@nl.
+<https://stad.gent/id/concept/550006701> <http://www.w3.org/2004/02/skos/core#prefLabel> "France (ID)"@nl.
+<https://stad.gent/id/concept/550006666> <http://www.w3.org/2004/02/skos/core#prefLabel> "Flint (MI)"@nl.
+<https://stad.gent/id/concept/550006608> <http://www.w3.org/2004/02/skos/core#prefLabel> "Exton (PA)"@nl.
+<https://stad.gent/id/concept/550006335> <http://www.w3.org/2004/02/skos/core#prefLabel> "Detroit"@nl.
+<https://stad.gent/id/concept/550006798> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chicago"@nl.
+<https://stad.gent/id/concept/550006487> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cambridge (MA)"@nl.
+<https://stad.gent/id/concept/550001827> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boston"@nl.
+<https://stad.gent/id/concept/550006811> <http://www.w3.org/2004/02/skos/core#prefLabel> "Berkeley"@nl.
+<https://stad.gent/id/concept/550006675> <http://www.w3.org/2004/02/skos/core#prefLabel> "Albany"@nl.
+<https://stad.gent/id/concept/550008929> <http://www.w3.org/2004/02/skos/core#prefLabel> "Noord en Centraal Amerika"@nl.
+_:df_2851_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005607"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005607/2022-09-24T01:47:23.232Z>.
+<https://stad.gent/id/concept/550002307/2022-09-24T00:34:49.775Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002307>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:34:49.775Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7016845>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3367_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigd Koninkrijk der Nederlanden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "nationaliteit"@nl, "nationality"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3367_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002307"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002307/2022-09-24T00:34:49.775Z>.
+<https://stad.gent/id/concept/550001558/2022-09-24T00:22:36.878Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001558>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:22:36.878Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008591>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3454_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigd Koninkrijk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005045>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550006140>, <https://stad.gent/id/concept/550001665>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "nationaliteit"@nl, "nationality"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001665> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schotland"@nl.
+<https://stad.gent/id/concept/550006140> <http://www.w3.org/2004/02/skos/core#prefLabel> "Engeland"@nl.
+<https://stad.gent/id/concept/550005045> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl.
+_:df_3454_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001558"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001558/2022-09-24T00:22:36.878Z>.
+<https://stad.gent/id/concept/670006773/2022-09-09T09:05:08.113Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006773>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:05:08.113Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q145>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3913_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigd Koninkrijk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "land"@nl, "country"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3913_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006773"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006773/2022-09-09T09:05:08.113Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/vere.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/vere.ttl>.

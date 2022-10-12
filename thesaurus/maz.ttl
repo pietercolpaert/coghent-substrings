@@ -20,3 +20,15 @@ _:df_2587_10 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570014746"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014746/2021-10-31T22:59:24.224Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/maz.ttl>.
+<https://stad.gent/id/concept/570014746/2022-09-24T06:56:54.347Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014746>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:56:54.347Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_652_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mazout"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_652_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014746"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014746/2022-09-24T06:56:54.347Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/maz.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/maz.ttl>.

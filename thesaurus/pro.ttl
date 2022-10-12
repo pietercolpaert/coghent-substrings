@@ -229,3 +229,292 @@ _:df_1_134 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/proj.ttl>;
     <https://w3id.org/tree#value> "proj".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/pro.ttl>.
+<https://stad.gent/id/concept/570008802/2022-09-24T04:58:32.873Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008802>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:58:32.873Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027240>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1492_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "programma"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1492_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008802"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008802/2022-09-24T04:58:32.873Z>.
+<https://stad.gent/id/concept/570000678/2022-09-24T04:11:21.708Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000678>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:11:21.708Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q739302>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1825_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "productie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1825_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000678"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000678/2022-09-24T04:11:21.708Z>.
+<https://stad.gent/id/concept/570000344/2022-09-24T04:09:35.831Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000344>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:09:35.831Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028029>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1840_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "proefschrift"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaalsoort"@nl, "document type"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1840_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000344"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000344/2022-09-24T04:09:35.831Z>.
+<https://stad.gent/id/concept/550009123/2022-09-24T04:00:48.921Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009123>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:00:48.921Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1900_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "projectiel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1900_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009123"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009123/2022-09-24T04:00:48.921Z>.
+<https://stad.gent/id/concept/550008908/2022-09-24T03:54:04.150Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008908>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:54:04.150Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300298984>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1948_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "processievaandel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1948_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008908"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008908/2022-09-24T03:54:04.150Z>.
+<https://stad.gent/id/concept/550008351/2022-09-24T03:27:08.507Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008351>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:27:08.507Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300222721>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2140_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "projectielen met niet-explosieve voorstuwing"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007941>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008350>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008350> <http://www.w3.org/2004/02/skos/core#prefLabel> "pijl"@nl.
+<https://stad.gent/id/concept/550007941> <http://www.w3.org/2004/02/skos/core#prefLabel> "projectielwapens met niet-explosief voortstuwingsmiddel"@nl.
+_:df_2140_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008351"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008351> <http://www.w3.org/2004/02/skos/core#prefLabel> "projectielen met niet-explosieve voorstuwing"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008351/2022-09-24T03:27:08.507Z>.
+<https://stad.gent/id/concept/550008265/2022-09-24T03:20:08.979Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008265>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:20:08.979Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300248774>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2191_30;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Schaalmodellen voor het bestuderen, testen of presenteren van nieuwe ontwerpen voor voorwerpen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "proefmodel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005814>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005814> <http://www.w3.org/2004/02/skos/core#prefLabel> "schaalmodel"@nl.
+_:df_2191_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008265"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008265/2022-09-24T03:20:08.979Z>.
+<https://stad.gent/id/concept/550008096/2022-09-24T03:06:24.407Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008096>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:06:24.407Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300208782>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2287_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "projectielwapens met explosief voortstuwingsmiddel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007942>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001573>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001573> <http://www.w3.org/2004/02/skos/core#prefLabel> "vuurwapen"@nl.
+<https://stad.gent/id/concept/550007942> <http://www.w3.org/2004/02/skos/core#prefLabel> "projectielwapens"@nl.
+_:df_2287_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008096"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008096/2022-09-24T03:06:24.407Z>.
+<https://stad.gent/id/concept/550007942/2022-09-24T02:53:40.817Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007942>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:53:40.817Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300203727>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2377_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "projectielwapens"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550001929>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008096>, <https://stad.gent/id/concept/550007941>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007941> <http://www.w3.org/2004/02/skos/core#prefLabel> "projectielwapens met niet-explosief voortstuwingsmiddel"@nl.
+<https://stad.gent/id/concept/550008096> <http://www.w3.org/2004/02/skos/core#prefLabel> "projectielwapens met explosief voortstuwingsmiddel"@nl.
+<https://stad.gent/id/concept/550001929> <http://www.w3.org/2004/02/skos/core#prefLabel> "wapen"@nl.
+_:df_2377_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007942"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007942/2022-09-24T02:53:40.817Z>.
+<https://stad.gent/id/concept/550007940/2022-09-24T02:53:30.363Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007940>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:53:30.363Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300222720>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2380_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "projectiellanceerders met niet-explosief voortstuwingsmiddel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007941>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007543>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007543> <http://www.w3.org/2004/02/skos/core#prefLabel> "boog (wapen)"@nl.
+<https://stad.gent/id/concept/550007941> <http://www.w3.org/2004/02/skos/core#prefLabel> "projectielwapens met niet-explosief voortstuwingsmiddel"@nl.
+_:df_2380_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007940"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007940> <http://www.w3.org/2004/02/skos/core#prefLabel> "projectiellanceerders met niet-explosief voortstuwingsmiddel"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007940/2022-09-24T02:53:30.363Z>.
+<https://stad.gent/id/concept/550007941/2022-09-24T02:53:35.812Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007941>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:53:35.812Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300208776>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2380_34;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "projectielwapens met niet-explosief voortstuwingsmiddel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007942>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008351>, <https://stad.gent/id/concept/550007940>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007940> <http://www.w3.org/2004/02/skos/core#prefLabel> "projectiellanceerders met niet-explosief voortstuwingsmiddel"@nl.
+<https://stad.gent/id/concept/550008351> <http://www.w3.org/2004/02/skos/core#prefLabel> "projectielen met niet-explosieve voorstuwing"@nl.
+<https://stad.gent/id/concept/550007942> <http://www.w3.org/2004/02/skos/core#prefLabel> "projectielwapens"@nl.
+_:df_2380_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007941"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007941> <http://www.w3.org/2004/02/skos/core#prefLabel> "projectielwapens met niet-explosief voortstuwingsmiddel"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007941/2022-09-24T02:53:35.812Z>.
+<https://stad.gent/id/concept/550007793/2022-09-24T02:41:18.820Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007793>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:41:18.820Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300227076>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2467_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "projectielwapenonderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007794>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008296>, <https://stad.gent/id/concept/550007792>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007792> <http://www.w3.org/2004/02/skos/core#prefLabel> "vuurwapenonderdelen"@nl.
+<https://stad.gent/id/concept/550008296> <http://www.w3.org/2004/02/skos/core#prefLabel> "pijlonderdelen"@nl.
+<https://stad.gent/id/concept/550007794> <http://www.w3.org/2004/02/skos/core#prefLabel> "wapenonderdelen"@nl.
+_:df_2467_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007793"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007793> <http://www.w3.org/2004/02/skos/core#prefLabel> "projectielwapenonderdelen"@nl, "projectielwapenonderdelen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007793/2022-09-24T02:41:18.820Z>.
+<https://stad.gent/id/concept/550006753/2022-09-24T02:26:25.490Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006753>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:26:25.490Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2572_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "producent"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2572_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006753"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006753/2022-09-24T02:26:25.490Z>.
+<https://stad.gent/id/concept/550005236/2022-09-24T01:34:10.920Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005236>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:34:10.920Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300180813>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2944_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten die het mogelijk maken om de laatste centimeters van een kaars op te kunnen branden. Hieronder vallen kleine kommetjes of korte cilinders, meestal van metaal, met een of meer pennen of verstelbare armen aan de bovenkant om de stomp van een kaars vast te houden. Sommige hebben een pin die in een kaarsestandaard past.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "profijter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008070>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008070> <http://www.w3.org/2004/02/skos/core#prefLabel> "onderdelen van verlichtingsmiddelen"@nl.
+_:df_2944_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005236"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005236/2022-09-24T01:34:10.920Z>.
+<https://stad.gent/id/concept/550005134/2022-09-24T01:30:08.741Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005134>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:30:08.741Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300263685>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2974_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kruisen die zijn bevestigd op lange stokken en worden meegedragen in christelijke religieuze processies.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "processiekruis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007811>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007811> <http://www.w3.org/2004/02/skos/core#prefLabel> "kruis (beeldend werk)"@nl.
+_:df_2974_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005134"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005134/2022-09-24T01:30:08.741Z>.
+<https://stad.gent/id/concept/550003167/2022-09-24T00:46:26.766Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003167>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:46:26.766Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3286_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "proceszakje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3286_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003167"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003167/2022-09-24T00:46:26.766Z>.
+<https://stad.gent/id/concept/550002677/2022-09-24T00:39:02.098Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002677>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:39:02.098Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300265754>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3337_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Keramische voorwerpen, gebruikt om aardewerk gescheiden te houden tijdens het bakken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "proen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008304>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008304> <http://www.w3.org/2004/02/skos/core#prefLabel> "gereedschap en uitrusting voor het bewerken van klei"@nl.
+_:df_3337_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002677"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002677/2022-09-24T00:39:02.098Z>.
+<https://stad.gent/id/concept/550001753/2022-09-24T00:25:39.885Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001753>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:25:39.885Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3433_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Toorts die in processies kan worden meegedragen, veelal in meervoud aanwezig.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "processietoorts"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008262>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008262> <http://www.w3.org/2004/02/skos/core#prefLabel> "toorts"@nl.
+_:df_3433_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001753"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001753/2022-09-24T00:25:39.885Z>.
+<https://stad.gent/id/concept/550001340/2022-09-24T00:17:54.692Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001340>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:17:54.692Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022492>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3490_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "proportiepasser"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550001969>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001969> <http://www.w3.org/2004/02/skos/core#prefLabel> "passer"@nl.
+_:df_3490_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001340"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001340/2022-09-24T00:17:54.692Z>.
+<https://stad.gent/id/concept/530003173/2022-09-15T00:01:34.940Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003173>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-15T00:01:34.940Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300430887>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3661_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vervanging van verloren gegane lichaamsdelen door kunstleden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "prothese"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008780>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008780> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting (objectnaam)"@nl.
+_:df_3661_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003173"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003173/2022-09-15T00:01:34.940Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/pro.ttl> <https://w3id.org/tree#relation> _:df_1_1365.
+_:df_1_1365 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/prop.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "prop".
+<https://www.pieter.pm/coghent-substrings/thesaurus/pro.ttl> <https://w3id.org/tree#relation> _:df_1_1366.
+_:df_1_1366 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/pros.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "pros".
+<https://www.pieter.pm/coghent-substrings/thesaurus/pro.ttl> <https://w3id.org/tree#relation> _:df_1_1367.
+_:df_1_1367 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/prod.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "prod".
+<https://www.pieter.pm/coghent-substrings/thesaurus/pro.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/pro.ttl>.

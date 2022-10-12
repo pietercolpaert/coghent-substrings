@@ -198,3 +198,385 @@ _:df_1_164 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/gy.ttl>;
     <https://w3id.org/tree#value> "gy".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/g.ttl>.
+<https://stad.gent/id/concept/570025166/2022-10-06T00:05:37.976Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025166>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-06T00:05:37.976Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300404215>;
+    <http://www.w3.org/ns/adms#identifier> _:df_19_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gouache"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_19_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025166"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025166/2022-10-06T00:05:37.976Z>.
+<https://stad.gent/id/concept/470009766/2022-10-07T00:00:09.366Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009766>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-07T00:00:09.366Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1106104>;
+    <http://www.w3.org/ns/adms#identifier> _:df_19_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Praag"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_19_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009766"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009766/2022-10-07T00:00:09.366Z>.
+<https://stad.gent/id/concept/570022693/2022-10-06T00:05:07.671Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022693>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-06T00:05:07.671Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300231565>;
+    <http://www.w3.org/ns/adms#identifier> _:df_22_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Omvat termen voor materialen die tot stand zijn gekomen door middel van weven, vervilten, knopen, twijnen of andersoortige bewerking van natuurlijke of synthetische vezels zodanig dat zij bijeenblijven in een vorm of eenheid. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "textiel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570008484>, <https://stad.gent/id/concept/570023069>, <https://stad.gent/id/concept/570024305>, <https://stad.gent/id/concept/570006051>, <https://stad.gent/id/concept/570003128>, <https://stad.gent/id/concept/570012955>, <https://stad.gent/id/concept/570018991>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en, "materiaal"@nl, "material"@en, "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en, "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "activiteit"@nl, "activity"@en, "onderwerp"@nl, "subject"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018991> <http://www.w3.org/2004/02/skos/core#prefLabel> "weven"@nl.
+<https://stad.gent/id/concept/570012955> <http://www.w3.org/2004/02/skos/core#prefLabel> "textielveredeling"@nl.
+<https://stad.gent/id/concept/570003128> <http://www.w3.org/2004/02/skos/core#prefLabel> "textielonderzoek"@nl.
+<https://stad.gent/id/concept/570006051> <http://www.w3.org/2004/02/skos/core#prefLabel> "spinnen"@nl.
+<https://stad.gent/id/concept/570024305> <http://www.w3.org/2004/02/skos/core#prefLabel> "kleding en accessoires"@nl.
+<https://stad.gent/id/concept/570023069> <http://www.w3.org/2004/02/skos/core#prefLabel> "hoedenmaker"@nl.
+<https://stad.gent/id/concept/570008484> <http://www.w3.org/2004/02/skos/core#prefLabel> "confectie"@nl.
+_:df_22_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022693"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022693/2022-10-06T00:05:07.671Z>.
+<https://stad.gent/id/concept/570020664/2022-10-06T00:05:02.669Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020664>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-06T00:05:02.669Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014252>;
+    <http://www.w3.org/ns/adms#identifier> _:df_25_36;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "garen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570019538>, <https://stad.gent/id/concept/570010147>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570010147> <http://www.w3.org/2004/02/skos/core#prefLabel> "vlasgaren"@nl.
+<https://stad.gent/id/concept/570019538> <http://www.w3.org/2004/02/skos/core#prefLabel> "enkalon"@nl.
+_:df_25_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020664"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020664/2022-10-06T00:05:02.669Z>.
+<https://stad.gent/id/concept/570019044/2022-10-06T00:04:12.260Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019044>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-06T00:04:12.260Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_31_38;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "onbekend"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "verwervingsmethode"@nl, "acquisition method"@en, "objectnaam"@nl, "object name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_31_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019044"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019044/2022-10-06T00:04:12.260Z>.
+<https://stad.gent/id/concept/570009568/2022-10-06T00:02:16.712Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009568>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-06T00:02:16.712Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_43_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stof"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "associatie"@nl, "association"@en, "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en, "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "activiteit"@nl, "activity"@en, "onderwerp"@nl, "subject"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_43_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009568"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009568/2022-10-06T00:02:16.712Z>.
+<https://stad.gent/id/concept/570009184/2022-10-06T00:02:01.706Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009184>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-06T00:02:01.706Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041340>;
+    <http://www.w3.org/ns/adms#identifier> _:df_46_36;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gravure"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "techniek"@nl, "technique"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_46_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009184"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009184/2022-10-06T00:02:01.706Z>.
+<https://stad.gent/id/concept/570009237/2022-10-06T00:02:06.708Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009237>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-06T00:02:06.708Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300393160>;
+    <http://www.w3.org/ns/adms#identifier> _:df_46_45;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Glasplaten met een lichtgevoelige emulsie die zijn blootgesteld en ontwikkeld, en die bedoeld zijn als matrijzen om positieve fotoafdrukken op een andere drager te maken. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "glasplaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_46_45 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009237"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009237/2022-10-06T00:02:06.708Z>.
+<https://stad.gent/id/concept/530009328/2022-10-06T00:00:30.900Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009328>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-06T00:00:30.900Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003461>;
+    <http://www.w3.org/ns/adms#identifier> _:df_55_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburg (provincie, België)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000981>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530010862>, <https://stad.gent/id/concept/530004778>, <https://stad.gent/id/concept/530009431>, <https://stad.gent/id/concept/530009298>, <https://stad.gent/id/concept/530002078>, <https://stad.gent/id/concept/530002916>, <https://stad.gent/id/concept/530003845>, <https://stad.gent/id/concept/530009366>, <https://stad.gent/id/concept/530004707>, <https://stad.gent/id/concept/530009367>, <https://stad.gent/id/concept/530000066>, <https://stad.gent/id/concept/530002853>, <https://stad.gent/id/concept/530005789>, <https://stad.gent/id/concept/530007158>, <https://stad.gent/id/concept/530002072>, <https://stad.gent/id/concept/530001163>, <https://stad.gent/id/concept/530009369>, <https://stad.gent/id/concept/530009556>, <https://stad.gent/id/concept/530009571>, <https://stad.gent/id/concept/530009368>, <https://stad.gent/id/concept/530003045>, <https://stad.gent/id/concept/530010363>, <https://stad.gent/id/concept/530002824>, <https://stad.gent/id/concept/530003016>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003016> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zutendaal"@nl.
+<https://stad.gent/id/concept/530002824> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tongeren"@nl.
+<https://stad.gent/id/concept/530010363> <http://www.w3.org/2004/02/skos/core#prefLabel> "Teuven"@nl.
+<https://stad.gent/id/concept/530003045> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Truiden"@nl.
+<https://stad.gent/id/concept/530009368> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pelt"@nl.
+<https://stad.gent/id/concept/530009571> <http://www.w3.org/2004/02/skos/core#prefLabel> "Peer"@nl.
+<https://stad.gent/id/concept/530009556> <http://www.w3.org/2004/02/skos/core#prefLabel> "Neerpelt"@nl.
+<https://stad.gent/id/concept/530009369> <http://www.w3.org/2004/02/skos/core#prefLabel> "Maasmechelen"@nl.
+<https://stad.gent/id/concept/530001163> <http://www.w3.org/2004/02/skos/core#prefLabel> "Maasland (België)"@nl.
+<https://stad.gent/id/concept/530002072> <http://www.w3.org/2004/02/skos/core#prefLabel> "Maaseik"@nl.
+<https://stad.gent/id/concept/530007158> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lommel"@nl.
+<https://stad.gent/id/concept/530005789> <http://www.w3.org/2004/02/skos/core#prefLabel> "Leopoldsburg"@nl.
+<https://stad.gent/id/concept/530002853> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lanaken"@nl.
+<https://stad.gent/id/concept/530000066> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kinrooi"@nl.
+<https://stad.gent/id/concept/530009367> <http://www.w3.org/2004/02/skos/core#prefLabel> "Houthalen-Helchteren"@nl.
+<https://stad.gent/id/concept/530004707> <http://www.w3.org/2004/02/skos/core#prefLabel> "Heusden-Zolder"@nl.
+<https://stad.gent/id/concept/530009366> <http://www.w3.org/2004/02/skos/core#prefLabel> "Heers (Limburg)"@nl.
+<https://stad.gent/id/concept/530003845> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hasselt"@nl.
+<https://stad.gent/id/concept/530002916> <http://www.w3.org/2004/02/skos/core#prefLabel> "Genk"@nl.
+<https://stad.gent/id/concept/530002078> <http://www.w3.org/2004/02/skos/core#prefLabel> "Diepenbeek"@nl.
+<https://stad.gent/id/concept/530009298> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bree"@nl.
+<https://stad.gent/id/concept/530009431> <http://www.w3.org/2004/02/skos/core#prefLabel> "Borgloon"@nl.
+<https://stad.gent/id/concept/530004778> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bilzen"@nl.
+<https://stad.gent/id/concept/530010862> <http://www.w3.org/2004/02/skos/core#prefLabel> "Achel"@nl.
+<https://stad.gent/id/concept/530000981> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaanderen"@nl.
+_:df_55_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009328"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530009328> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburg (provincie, België)"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009328/2022-10-06T00:00:30.900Z>.
+<https://stad.gent/id/concept/530010859/2022-10-06T00:00:35.902Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010859>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-06T00:00:35.902Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/tgn/7007384>;
+    <http://www.w3.org/ns/adms#identifier> _:df_55_34;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Küsnacht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003380>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003380> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zwitserland"@nl.
+_:df_55_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010859"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010859/2022-10-06T00:00:35.902Z>.
+<https://stad.gent/id/concept/530010862/2022-10-06T00:00:45.911Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010862>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-06T00:00:45.911Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/tgn/7245218>;
+    <http://www.w3.org/ns/adms#identifier> _:df_55_47;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Achel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009328>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009328> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburg (provincie, België)"@nl.
+_:df_55_47 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010862"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530010862> <http://www.w3.org/2004/02/skos/core#prefLabel> "Achel"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010862/2022-10-06T00:00:45.911Z>.
+<https://stad.gent/id/concept/470007843/2022-10-06T00:00:10.888Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007843>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-06T00:00:10.888Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q172754>;
+    <http://www.w3.org/ns/adms#identifier> _:df_58_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wereldtentoonstelling"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "gebeurtenis"@nl, "event"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_58_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007843"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007843/2022-10-06T00:00:10.888Z>.
+<https://stad.gent/id/concept/470011151/2022-10-06T00:00:20.894Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470011151>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-06T00:00:20.894Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_58_80;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Binnenstad (Gent)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470002959>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470001277>, <https://stad.gent/id/concept/470001166>, <https://stad.gent/id/concept/470001654>, <https://stad.gent/id/concept/470001194>, <https://stad.gent/id/concept/470009651>, <https://stad.gent/id/concept/470001651>, <https://stad.gent/id/concept/470001231>, <https://stad.gent/id/concept/470001204>, <https://stad.gent/id/concept/470001203>, <https://stad.gent/id/concept/470001305>, <https://stad.gent/id/concept/470001236>, <https://stad.gent/id/concept/470001343>, <https://stad.gent/id/concept/470001216>, <https://stad.gent/id/concept/470001252>, <https://stad.gent/id/concept/470001300>, <https://stad.gent/id/concept/470001719>, <https://stad.gent/id/concept/470006389>, <https://stad.gent/id/concept/470009637>, <https://stad.gent/id/concept/470001235>, <https://stad.gent/id/concept/470001162>, <https://stad.gent/id/concept/470001531>, <https://stad.gent/id/concept/470001253>, <https://stad.gent/id/concept/470001389>, <https://stad.gent/id/concept/470001212>, <https://stad.gent/id/concept/470001171>, <https://stad.gent/id/concept/470001411>, <https://stad.gent/id/concept/470001592>, <https://stad.gent/id/concept/470001309>, <https://stad.gent/id/concept/470001244>, <https://stad.gent/id/concept/470001195>, <https://stad.gent/id/concept/470001173>, <https://stad.gent/id/concept/470006756>, <https://stad.gent/id/concept/470001715>, <https://stad.gent/id/concept/470001260>, <https://stad.gent/id/concept/470001339>, <https://stad.gent/id/concept/470002135>, <https://stad.gent/id/concept/470001247>, <https://stad.gent/id/concept/470001303>, <https://stad.gent/id/concept/470006390>, <https://stad.gent/id/concept/470000847>, <https://stad.gent/id/concept/470001217>, <https://stad.gent/id/concept/470009293>, <https://stad.gent/id/concept/470001199>, <https://stad.gent/id/concept/470001219>, <https://stad.gent/id/concept/470001248>, <https://stad.gent/id/concept/470001258>, <https://stad.gent/id/concept/470001230>, <https://stad.gent/id/concept/470001427>, <https://stad.gent/id/concept/470001246>, <https://stad.gent/id/concept/470001267>, <https://stad.gent/id/concept/470001418>, <https://stad.gent/id/concept/470001214>, <https://stad.gent/id/concept/470009476>, <https://stad.gent/id/concept/470001428>, <https://stad.gent/id/concept/470009467>, <https://stad.gent/id/concept/470001254>, <https://stad.gent/id/concept/470000822>, <https://stad.gent/id/concept/470001593>, <https://stad.gent/id/concept/470001405>, <https://stad.gent/id/concept/470001175>, <https://stad.gent/id/concept/470009754>, <https://stad.gent/id/concept/470001256>, <https://stad.gent/id/concept/470001033>, <https://stad.gent/id/concept/470001259>, <https://stad.gent/id/concept/470001392>, <https://stad.gent/id/concept/470001414>, <https://stad.gent/id/concept/470001190>, <https://stad.gent/id/concept/470001297>, <https://stad.gent/id/concept/470009453>, <https://stad.gent/id/concept/470000826>, <https://stad.gent/id/concept/470000833>, <https://stad.gent/id/concept/470000984>, <https://stad.gent/id/concept/470001154>, <https://stad.gent/id/concept/470001163>, <https://stad.gent/id/concept/470001170>, <https://stad.gent/id/concept/470001176>, <https://stad.gent/id/concept/470001177>, <https://stad.gent/id/concept/470001178>, <https://stad.gent/id/concept/470001196>, <https://stad.gent/id/concept/470001198>, <https://stad.gent/id/concept/470001202>, <https://stad.gent/id/concept/470001206>, <https://stad.gent/id/concept/470001208>, <https://stad.gent/id/concept/470001220>, <https://stad.gent/id/concept/470001223>, <https://stad.gent/id/concept/470001233>, <https://stad.gent/id/concept/470001240>, <https://stad.gent/id/concept/470001243>, <https://stad.gent/id/concept/470001255>, <https://stad.gent/id/concept/470001257>, <https://stad.gent/id/concept/470001261>, <https://stad.gent/id/concept/470001273>, <https://stad.gent/id/concept/470001274>, <https://stad.gent/id/concept/470001276>, <https://stad.gent/id/concept/470001283>, <https://stad.gent/id/concept/470001286>, <https://stad.gent/id/concept/470001287>, <https://stad.gent/id/concept/470001292>, <https://stad.gent/id/concept/470001293>, <https://stad.gent/id/concept/470001301>, <https://stad.gent/id/concept/470001308>, <https://stad.gent/id/concept/470001388>, <https://stad.gent/id/concept/470001390>, <https://stad.gent/id/concept/470001391>, <https://stad.gent/id/concept/470001395>, <https://stad.gent/id/concept/470001400>, <https://stad.gent/id/concept/470001404>, <https://stad.gent/id/concept/470001407>, <https://stad.gent/id/concept/470001416>, <https://stad.gent/id/concept/470001419>, <https://stad.gent/id/concept/470001424>, <https://stad.gent/id/concept/470001446>, <https://stad.gent/id/concept/470001468>, <https://stad.gent/id/concept/470001470>, <https://stad.gent/id/concept/470001587>, <https://stad.gent/id/concept/470001589>, <https://stad.gent/id/concept/470001590>, <https://stad.gent/id/concept/470001710>, <https://stad.gent/id/concept/470001716>, <https://stad.gent/id/concept/470006351>, <https://stad.gent/id/concept/470006359>, <https://stad.gent/id/concept/470006366>, <https://stad.gent/id/concept/470006368>, <https://stad.gent/id/concept/470006371>, <https://stad.gent/id/concept/470006388>, <https://stad.gent/id/concept/470006392>, <https://stad.gent/id/concept/470006472>, <https://stad.gent/id/concept/470006803>, <https://stad.gent/id/concept/470006848>, <https://stad.gent/id/concept/470008629>, <https://stad.gent/id/concept/470008953>, <https://stad.gent/id/concept/470009631>, <https://stad.gent/id/concept/470009636>, <https://stad.gent/id/concept/470009725>, <https://stad.gent/id/concept/470010389>, <https://stad.gent/id/concept/470011014>, <https://stad.gent/id/concept/470011073>, <https://stad.gent/id/concept/470009665>, <https://stad.gent/id/concept/470011161>, <https://stad.gent/id/concept/470011162>, <https://stad.gent/id/concept/470011168>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470011168> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Lievenspoortstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470011162> <http://www.w3.org/2004/02/skos/core#prefLabel> "Houtbriel (Gent)"@nl.
+<https://stad.gent/id/concept/470011161> <http://www.w3.org/2004/02/skos/core#prefLabel> "Apostelhuizen (Gent)"@nl.
+<https://stad.gent/id/concept/470009665> <http://www.w3.org/2004/02/skos/core#prefLabel> "Het Zuid (Gent)"@nl.
+<https://stad.gent/id/concept/470011073> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lieven Bauwensplein (Gent)"@nl.
+<https://stad.gent/id/concept/470011014> <http://www.w3.org/2004/02/skos/core#prefLabel> "Koning Albertpark (Gent)"@nl.
+<https://stad.gent/id/concept/470010389> <http://www.w3.org/2004/02/skos/core#prefLabel> "Leeuwstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470009725> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nieuwebosstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470009636> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pakhuisstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470009631> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pollepelstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470008953> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kalandeberg (Gent)"@nl.
+<https://stad.gent/id/concept/470008629> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bisdomplein (Gent)"@nl.
+<https://stad.gent/id/concept/470006848> <http://www.w3.org/2004/02/skos/core#prefLabel> "Citadelpark (Gent)"@nl.
+<https://stad.gent/id/concept/470006803> <http://www.w3.org/2004/02/skos/core#prefLabel> "Belfort (Gent)"@nl.
+<https://stad.gent/id/concept/470006472> <http://www.w3.org/2004/02/skos/core#prefLabel> "Leopoldskazerne (Gent)"@nl.
+<https://stad.gent/id/concept/470006392> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Pietersabdij (Gent)"@nl.
+<https://stad.gent/id/concept/470006388> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot Vleeshuis (Gent)"@nl.
+<https://stad.gent/id/concept/470006371> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Baafskathedraal (Gent)"@nl.
+<https://stad.gent/id/concept/470006368> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Jacobs (Gent)"@nl.
+<https://stad.gent/id/concept/470006366> <http://www.w3.org/2004/02/skos/core#prefLabel> "Emiel Braunplein (Gent)"@nl.
+<https://stad.gent/id/concept/470006359> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gravensteen (Gent)"@nl.
+<https://stad.gent/id/concept/470006351> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ottogracht (Gent)"@nl.
+<https://stad.gent/id/concept/470001716> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schoenlapperstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001710> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kruideniersstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001590> <http://www.w3.org/2004/02/skos/core#prefLabel> "Woodrow Wilsonplein (Gent)"@nl.
+<https://stad.gent/id/concept/470001589> <http://www.w3.org/2004/02/skos/core#prefLabel> "Poeljemarkt (Gent)"@nl.
+<https://stad.gent/id/concept/470001587> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ajuinlei (Gent)"@nl.
+<https://stad.gent/id/concept/470001470> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederkwaadham (Gent)"@nl.
+<https://stad.gent/id/concept/470001468> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tweekerkenstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001446> <http://www.w3.org/2004/02/skos/core#prefLabel> "Belgradostraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001424> <http://www.w3.org/2004/02/skos/core#prefLabel> "Koophandelsplein (Gent)"@nl.
+<https://stad.gent/id/concept/470001419> <http://www.w3.org/2004/02/skos/core#prefLabel> "Speldenstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001416> <http://www.w3.org/2004/02/skos/core#prefLabel> "Koningstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001407> <http://www.w3.org/2004/02/skos/core#prefLabel> "Edward Anseeleplein (Gent)"@nl.
+<https://stad.gent/id/concept/470001404> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Annaplein (Gent)"@nl.
+<https://stad.gent/id/concept/470001400> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zandberg (Gent)"@nl.
+<https://stad.gent/id/concept/470001395> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kortedagsteeg (Gent)"@nl.
+<https://stad.gent/id/concept/470001391> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dierentuinlaan (Gent)"@nl.
+<https://stad.gent/id/concept/470001390> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kapittelstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001388> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gouvernementstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001308> <http://www.w3.org/2004/02/skos/core#prefLabel> "Conduitsteeg (Gent)"@nl.
+<https://stad.gent/id/concept/470001301> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kortemunt (Gent)"@nl.
+<https://stad.gent/id/concept/470001293> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kleine Vismarkt (Gent)"@nl.
+<https://stad.gent/id/concept/470001292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pensmarkt (Gent)"@nl.
+<https://stad.gent/id/concept/470001287> <http://www.w3.org/2004/02/skos/core#prefLabel> "Botermarkt (Gent)"@nl.
+<https://stad.gent/id/concept/470001286> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oude Beestenmarkt (Gent)"@nl.
+<https://stad.gent/id/concept/470001283> <http://www.w3.org/2004/02/skos/core#prefLabel> "Korte Kruisstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001276> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederpolder (Gent)"@nl.
+<https://stad.gent/id/concept/470001274> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Katelijnestraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001273> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grote Huidevettershoek (Gent)"@nl.
+<https://stad.gent/id/concept/470001261> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hoogpoort (Gent)"@nl.
+<https://stad.gent/id/concept/470001257> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Kwintensberg (Gent)"@nl.
+<https://stad.gent/id/concept/470001255> <http://www.w3.org/2004/02/skos/core#prefLabel> "Goudenleeuwplein (Gent)"@nl.
+<https://stad.gent/id/concept/470001243> <http://www.w3.org/2004/02/skos/core#prefLabel> "Korte Meer (Gent)"@nl.
+<https://stad.gent/id/concept/470001240> <http://www.w3.org/2004/02/skos/core#prefLabel> "Steendam (Gent)"@nl.
+<https://stad.gent/id/concept/470001233> <http://www.w3.org/2004/02/skos/core#prefLabel> "Langemunt (Gent)"@nl.
+<https://stad.gent/id/concept/470001223> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bennesteeg (Gent)"@nl.
+<https://stad.gent/id/concept/470001220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ursulinenstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001208> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brabantdam (Gent)"@nl.
+<https://stad.gent/id/concept/470001206> <http://www.w3.org/2004/02/skos/core#prefLabel> "Koepoortkaai (Gent)"@nl.
+<https://stad.gent/id/concept/470001202> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederkouter (Gent)"@nl.
+<https://stad.gent/id/concept/470001198> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kouterdreef (Gent)"@nl.
+<https://stad.gent/id/concept/470001196> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grootkanonplein (Gent)"@nl.
+<https://stad.gent/id/concept/470001178> <http://www.w3.org/2004/02/skos/core#prefLabel> "Universiteitstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001177> <http://www.w3.org/2004/02/skos/core#prefLabel> "Predikherenlei (Gent)"@nl.
+<https://stad.gent/id/concept/470001176> <http://www.w3.org/2004/02/skos/core#prefLabel> "Paddenhoek (Gent)"@nl.
+<https://stad.gent/id/concept/470001170> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Baafsplein (Gent)"@nl.
+<https://stad.gent/id/concept/470001163> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oudburg (Gent)"@nl.
+<https://stad.gent/id/concept/470001154> <http://www.w3.org/2004/02/skos/core#prefLabel> "Veldstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470000984> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kramersplein (Gent)"@nl.
+<https://stad.gent/id/concept/470000833> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zuidpark (Gent)"@nl.
+<https://stad.gent/id/concept/470000826> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Michielshelling (Gent)"@nl.
+<https://stad.gent/id/concept/470009453> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zwartezustersstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001297> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zuidstationstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001190> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zonnestraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001414> <http://www.w3.org/2004/02/skos/core#prefLabel> "Willem de Beersteeg (Gent)"@nl.
+<https://stad.gent/id/concept/470001392> <http://www.w3.org/2004/02/skos/core#prefLabel> "Walpoortstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001259> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vrijdagmarkt (Gent)"@nl.
+<https://stad.gent/id/concept/470001033> <http://www.w3.org/2004/02/skos/core#prefLabel> "Voldersstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001256> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vogelmarkt (Gent)"@nl.
+<https://stad.gent/id/concept/470009754> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlasmarkt (Gent)"@nl.
+<https://stad.gent/id/concept/470001175> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaanderenstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001405> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tinnenpotstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001593> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Veerleplein (Gent)"@nl.
+<https://stad.gent/id/concept/470000822> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Pietersplein (Gent)"@nl.
+<https://stad.gent/id/concept/470001254> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Pietersnieuwstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470009467> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Niklaasstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001428> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Kristoffelstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470009476> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Jansvest (Gent)"@nl.
+<https://stad.gent/id/concept/470001214> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Jacobsnieuwstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001418> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Amandstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001267> <http://www.w3.org/2004/02/skos/core#prefLabel> "Serpentstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001246> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schuurkenstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001427> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schouwburgstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001230> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schepenhuisstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001258> <http://www.w3.org/2004/02/skos/core#prefLabel> "Savaanstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001248> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rekelingestraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001219> <http://www.w3.org/2004/02/skos/core#prefLabel> "Reep (Gent)"@nl.
+<https://stad.gent/id/concept/470001199> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plotersgracht (Gent)"@nl.
+<https://stad.gent/id/concept/470009293> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oudevest (Gent)"@nl.
+<https://stad.gent/id/concept/470001217> <http://www.w3.org/2004/02/skos/core#prefLabel> "Onderstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470000847> <http://www.w3.org/2004/02/skos/core#prefLabel> "Okkernootsteeg (Gent)"@nl.
+<https://stad.gent/id/concept/470006390> <http://www.w3.org/2004/02/skos/core#prefLabel> "Muinkkaai (Gent)"@nl.
+<https://stad.gent/id/concept/470001303> <http://www.w3.org/2004/02/skos/core#prefLabel> "Meerseniersstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001247> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mageleinstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470002135> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburgstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001339> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lange Violettestraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001260> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lange Steenstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001715> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lange Boomgaardstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470006756> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lammerstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001173> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kuiperskaai (Gent)"@nl.
+<https://stad.gent/id/concept/470001195> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kraanlei (Gent)"@nl.
+<https://stad.gent/id/concept/470001244> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kouter (Gent)"@nl.
+<https://stad.gent/id/concept/470001309> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kortrijksepoortstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001592> <http://www.w3.org/2004/02/skos/core#prefLabel> "Korenmarkt (Gent)"@nl.
+<https://stad.gent/id/concept/470001411> <http://www.w3.org/2004/02/skos/core#prefLabel> "Korenlei (Gent)"@nl.
+<https://stad.gent/id/concept/470001171> <http://www.w3.org/2004/02/skos/core#prefLabel> "Koestraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001212> <http://www.w3.org/2004/02/skos/core#prefLabel> "Klein Turkije (Gent)"@nl.
+<https://stad.gent/id/concept/470001389> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ketelvest (Gent)"@nl.
+<https://stad.gent/id/concept/470001253> <http://www.w3.org/2004/02/skos/core#prefLabel> "Keizer Karelstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001531> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kantienberg (Gent)"@nl.
+<https://stad.gent/id/concept/470001162> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kammerstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001235> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kalandestraat (Gent)"@nl.
+<https://stad.gent/id/concept/470009637> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jonkvrouw Mattestraat (Gent)"@nl.
+<https://stad.gent/id/concept/470006389> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hoveniersberg (Gent)"@nl.
+<https://stad.gent/id/concept/470001719> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hoornstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001300> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hooiaard (Gent)"@nl.
+<https://stad.gent/id/concept/470001252> <http://www.w3.org/2004/02/skos/core#prefLabel> "Heilige-Geeststraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001216> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groentenmarkt (Gent)"@nl.
+<https://stad.gent/id/concept/470001343> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grauwpoort (Gent)"@nl.
+<https://stad.gent/id/concept/470001236> <http://www.w3.org/2004/02/skos/core#prefLabel> "Graslei (Gent)"@nl.
+<https://stad.gent/id/concept/470001305> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gildestraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001203> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gelukstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001204> <http://www.w3.org/2004/02/skos/core#prefLabel> "Geldmunt (Gent)"@nl.
+<https://stad.gent/id/concept/470001231> <http://www.w3.org/2004/02/skos/core#prefLabel> "Donkersteeg (Gent)"@nl.
+<https://stad.gent/id/concept/470001651> <http://www.w3.org/2004/02/skos/core#prefLabel> "Corduwaniersstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470009651> <http://www.w3.org/2004/02/skos/core#prefLabel> "Charles de Kerchovelaan (Gent)"@nl.
+<https://stad.gent/id/concept/470001194> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cataloniëstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001654> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brusselsepoortstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470001166> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bij Sint-Jacobs (Gent)"@nl.
+<https://stad.gent/id/concept/470001277> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bagattenstraat (Gent)"@nl.
+<https://stad.gent/id/concept/470002959> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gent"@nl.
+_:df_58_80 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470011151"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470011151/2022-10-06T00:00:20.894Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/g.ttl> <https://w3id.org/tree#relation> _:df_1_130.
+_:df_1_130 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/ge.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "ge".
+<https://www.pieter.pm/coghent-substrings/thesaurus/g.ttl> <https://w3id.org/tree#relation> _:df_1_131.
+_:df_1_131 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/gi.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gi".
+<https://www.pieter.pm/coghent-substrings/thesaurus/g.ttl> <https://w3id.org/tree#relation> _:df_1_132.
+_:df_1_132 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/ga.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "ga".
+<https://www.pieter.pm/coghent-substrings/thesaurus/g.ttl> <https://w3id.org/tree#relation> _:df_1_133.
+_:df_1_133 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/go.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "go".
+<https://www.pieter.pm/coghent-substrings/thesaurus/g.ttl> <https://w3id.org/tree#relation> _:df_1_134.
+_:df_1_134 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/gr.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gr".
+<https://www.pieter.pm/coghent-substrings/thesaurus/g.ttl> <https://w3id.org/tree#relation> _:df_1_135.
+_:df_1_135 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/gh.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gh".
+<https://www.pieter.pm/coghent-substrings/thesaurus/g.ttl> <https://w3id.org/tree#relation> _:df_1_136.
+_:df_1_136 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/gl.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gl".
+<https://www.pieter.pm/coghent-substrings/thesaurus/g.ttl> <https://w3id.org/tree#relation> _:df_1_137.
+_:df_1_137 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/gu.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gu".
+<https://www.pieter.pm/coghent-substrings/thesaurus/g.ttl> <https://w3id.org/tree#relation> _:df_1_138.
+_:df_1_138 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/gd.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gd".
+<https://www.pieter.pm/coghent-substrings/thesaurus/g.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/g.ttl>.

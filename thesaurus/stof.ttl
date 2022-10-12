@@ -20,3 +20,28 @@ _:df_3091_36 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010442"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010442/2021-10-31T21:48:11.680Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/stof.ttl>.
+<https://stad.gent/id/concept/530009175/2022-09-15T00:03:45.850Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009175>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-15T00:03:45.850Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300204905>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3643_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor de vaste, zachte bedekking van meubels, vooral zit- en leunmeubelen. Verwees oorspronkelijk naar alle textielonderdelen van een kamer die worden aangeboden door stoffeerders, inclusief wandkleden, beddebehangsel, raamgordijnen en tafelkleden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stoffering"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3643_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009175"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009175/2022-09-15T00:03:45.850Z>.
+<https://stad.gent/id/concept/530009175/2022-09-14T00:02:45.206Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009175>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-14T00:02:45.206Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3676_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor de vaste, zachte bedekking van meubels, vooral zit- en leunmeubelen. Verwees oorspronkelijk naar alle textielonderdelen van een kamer die worden aangeboden door stoffeerders, inclusief wandkleden, beddebehangsel, raamgordijnen en tafelkleden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stoffering"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3676_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009175"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009175/2022-09-14T00:02:45.206Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/stof.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/stof.ttl>.

@@ -68,3 +68,249 @@ _:df_3064_9 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010731"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010731/2021-10-31T21:51:45.948Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/tro.ttl>.
+<https://stad.gent/id/concept/570016991/2022-09-24T07:56:43.708Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016991>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:56:43.708Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300233975>;
+    <http://www.w3.org/ns/adms#identifier> _:df_223_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "trofee"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_223_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016991"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016991/2022-09-24T07:56:43.708Z>.
+<https://stad.gent/id/concept/570016525/2022-09-24T07:38:54.642Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016525>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:38:54.642Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7253186>;
+    <http://www.w3.org/ns/adms#identifier> _:df_352_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Trooz"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570023203>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023203> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luik (provincie)"@nl.
+_:df_352_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016525"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016525/2022-09-24T07:38:54.642Z>.
+<https://stad.gent/id/concept/570014909/2022-09-24T07:00:56.395Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014909>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:00:56.395Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300069158>;
+    <http://www.w3.org/ns/adms#identifier> _:df_622_5;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "trouwfeest"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_622_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014909"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014909/2022-09-24T07:00:56.395Z>.
+<https://stad.gent/id/concept/570010731/2022-09-24T05:49:04.773Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010731>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:49:04.773Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008350>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1132_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Troyes"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_1132_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010731"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010731/2022-09-24T05:49:04.773Z>.
+<https://stad.gent/id/concept/550009135/2022-09-24T04:01:44.328Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009135>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:01:44.328Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300233975>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1894_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "trofee (prijs)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1894_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009135"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009135/2022-09-24T04:01:44.328Z>.
+<https://stad.gent/id/concept/550005548/2022-09-24T01:46:02.218Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005548>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:46:02.218Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300023093>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2860_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Plat handgereedschap met een breed stalen blad. Worden gebruikt om pleister of metselspecie aan te brengen, uit te spreiden of te bewerken, of om het oppervlak van ongevormd beton glad te maken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "troffel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008362>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008362> <http://www.w3.org/2004/02/skos/core#prefLabel> "pleister-, beton- en metselspeciebewerkingsuitrusting"@nl.
+_:df_2860_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005548"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005548/2022-09-24T01:46:02.218Z>.
+<https://stad.gent/id/concept/550004813/2022-09-24T01:20:57.560Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004813>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:20:57.560Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3040_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "trommelstokhouder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3040_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004813"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004813/2022-09-24T01:20:57.560Z>.
+<https://stad.gent/id/concept/550004794/2022-09-24T01:19:52.093Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004794>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:19:52.093Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300042335>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3046_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Blaasinstrumenten met een telescopische schuif waarmee de lengte van de buis veranderd kan worden, cilindrische boring, cupmondstuk.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "trombone"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008363>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008363> <http://www.w3.org/2004/02/skos/core#prefLabel> "toppelings geblazen trompetten"@nl.
+_:df_3046_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004794"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004794/2022-09-24T01:19:52.093Z>.
+<https://stad.gent/id/concept/550004772/2022-09-24T01:18:41.668Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004772>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:18:41.668Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041729>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3055_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Slaginstrumenten, bestaande uit een resonerende holte, aan één of aan beide uiteinden bedekt met vel; bespeeld door erop te slaan, te wrijven, te tokkelen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "trom"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008365>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008365> <http://www.w3.org/2004/02/skos/core#prefLabel> "membranofoon"@nl.
+_:df_3055_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004772"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004772/2022-09-24T01:18:41.668Z>.
+<https://stad.gent/id/concept/550004774/2022-09-24T01:18:46.671Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004774>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:18:46.671Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300042613>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3055_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Stokken om op trommen te slaan, van hout, kunststof; ook aan een uiteinde bekleed met stof of een ander min of meer zacht materiaal.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "trommelstok"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008366>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008366> <http://www.w3.org/2004/02/skos/core#prefLabel> "slagstokken (onderdeel)"@nl.
+_:df_3055_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004774"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004774/2022-09-24T01:18:46.671Z>.
+<https://stad.gent/id/concept/550004545/2022-09-24T01:09:06.204Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004545>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:09:06.204Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300042339>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3124_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "In algemene zin: alle blaasinstrumenten, bespeeld door lipspanning, en meestal met cylindrische boring. In specifieke zin: blaasinstrumenten in moderne westerse context met een wijd mondstuk, smalle boring, kleppen en een middelgrote klankhals en klankbeker.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "trompet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008364>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008363>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008363> <http://www.w3.org/2004/02/skos/core#prefLabel> "toppelings geblazen trompetten"@nl.
+<https://stad.gent/id/concept/550008364> <http://www.w3.org/2004/02/skos/core#prefLabel> "blaasinstrumenten, bespeeld door lipspanning, met cylindrische boring"@nl.
+_:df_3124_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004545"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004545/2022-09-24T01:09:06.204Z>.
+<https://stad.gent/id/concept/550001832/2022-09-24T00:26:40.307Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001832>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:26:40.307Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300203846>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3427_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Revolvers, meestal achterladend, die zijn ontworpen om patronen af te vuren.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "trommelrevolver"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005645>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005645> <http://www.w3.org/2004/02/skos/core#prefLabel> "revolver"@nl.
+_:df_3427_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001832"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001832/2022-09-24T00:26:40.307Z>.
+<https://stad.gent/id/concept/670006375/2022-09-09T08:31:39.800Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006375>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:31:39.800Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4150_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Trois.. sur la route"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4150_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006375"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006375/2022-09-09T08:31:39.800Z>.
+<https://stad.gent/id/concept/670006376/2022-09-09T08:31:44.802Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006376>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:31:44.802Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4150_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tropic Holiday"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4150_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006376"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006376/2022-09-09T08:31:44.802Z>.
+<https://stad.gent/id/concept/670006377/2022-09-09T08:31:49.803Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006377>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:31:49.803Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4150_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Trouble in the Glen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4150_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006377"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006377/2022-09-09T08:31:49.803Z>.
+<https://stad.gent/id/concept/670006378/2022-09-09T08:31:55.162Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006378>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:31:55.162Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4150_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Troubles au Canada"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4150_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006378"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006378/2022-09-09T08:31:55.162Z>.
+<https://stad.gent/id/concept/670006370/2022-09-09T08:31:14.789Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006370>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:31:14.789Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4153_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Trois amours de Puccini"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4153_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006370"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006370/2022-09-09T08:31:14.789Z>.
+<https://stad.gent/id/concept/670006371/2022-09-09T08:31:19.791Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006371>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:31:19.791Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4153_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Trois gangsters et un flirt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4153_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006371"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006371/2022-09-09T08:31:19.791Z>.
+<https://stad.gent/id/concept/670006372/2022-09-09T08:31:24.794Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006372>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:31:24.794Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4153_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Trois jeunes filles en bleu"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4153_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006372"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006372/2022-09-09T08:31:24.794Z>.
+<https://stad.gent/id/concept/670006373/2022-09-09T08:31:29.796Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006373>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:31:29.796Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4153_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Trois souris aveugles"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4153_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006373"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006373/2022-09-09T08:31:29.796Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/tro.ttl> <https://w3id.org/tree#relation> _:df_1_1422.
+_:df_1_1422 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/troi.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "troi".
+<https://www.pieter.pm/coghent-substrings/thesaurus/tro.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/tro.ttl>.

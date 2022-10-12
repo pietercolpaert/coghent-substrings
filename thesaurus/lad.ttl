@@ -22,3 +22,21 @@ _:df_1510_36 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570020601"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020601/2021-11-01T01:31:21.748Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/lad.ttl>.
+<https://stad.gent/id/concept/550007983/2022-09-24T02:56:57.811Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007983>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:56:57.811Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300039009>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2356_39;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar een type kastmeubel met meestal drie à vijf laden. Een ladekast staat doorgaans op poten, maar kan ook rechtstreeks op de vloer staan. Gebruik 'commodes (ladekasten)' voor soortgelijke kasten die meestal op korte poten staan. Gebruik 'ladekisten' voor kisten met één of meer rijen laden onder een diepe opslagruimte.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ladekast"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005829>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001747>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001747> <http://www.w3.org/2004/02/skos/core#prefLabel> "commode"@nl.
+<https://stad.gent/id/concept/550005829> <http://www.w3.org/2004/02/skos/core#prefLabel> "kastmeubilair"@nl.
+_:df_2356_39 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007983"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007983/2022-09-24T02:56:57.811Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/lad.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/lad.ttl>.

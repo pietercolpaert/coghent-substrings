@@ -117,3 +117,133 @@ _:df_1_948 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/inscripti.ttl>;
     <https://w3id.org/tree#value> "inscripti".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/inscript.ttl>.
+<https://stad.gent/id/concept/570009283/2022-09-24T05:16:49.654Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009283>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:16:49.654Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300194527>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1360_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Grote of sterke houders speciaal gebruikt voor het transporteren van goederen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "krat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1360_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009283"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009283/2022-09-24T05:16:49.654Z>.
+<https://stad.gent/id/concept/570009269/2022-09-24T05:16:24.639Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009269>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:16:24.639Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300200341>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1363_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "omslag"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1363_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009269"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009269/2022-09-24T05:16:24.639Z>.
+<https://stad.gent/id/concept/570009258/2022-09-24T05:15:47.172Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009258>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:15:47.172Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300248067>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1369_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Rookgerei voor het genieten van tabak en andere roesmiddelen; bestaat meestal uit een steel met mondstuk en een kopje waarin het te roken product wordt verbrand. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pijp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1369_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009258"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009258/2022-09-24T05:15:47.172Z>.
+<https://stad.gent/id/concept/570009161/2022-09-24T05:11:32.450Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009161>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:11:32.450Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300045643>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1399_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "doos"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "inscriptie positie"@nl, "inscription position"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1399_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009161"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009161/2022-09-24T05:11:32.450Z>.
+<https://stad.gent/id/concept/570009117/2022-09-24T05:09:45.081Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009117>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:09:45.081Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027042>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1411_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gebruiksaanwijzing"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "soort opschrift"@nl, "inscription type"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1411_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009117"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009117/2022-09-24T05:09:45.081Z>.
+<https://stad.gent/id/concept/570009023/2022-09-24T05:06:11.651Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009023>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:06:11.651Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300191074>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1435_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "onderschrift"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1435_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009023"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009023/2022-09-24T05:06:11.651Z>.
+<https://stad.gent/id/concept/570009027/2022-09-24T05:06:16.653Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009027>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:06:16.653Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028011>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1435_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Officiële documenten die een zekere eer, graad of privilege toekennen, vooral wanneer het het behalen van een diploma of een graad aan een onderwijsinstelling betreft. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "diploma"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1435_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009027"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009027/2022-09-24T05:06:16.653Z>.
+<https://stad.gent/id/concept/570009006/2022-09-24T05:05:36.223Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009006>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:05:36.223Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300212274>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1441_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor gevouwen drukwerk, zoals circulaires of reclameblaadjes, waarbij de tekst doorgaans niet over de vouw heen wordt afgedrukt. Gebruik 'planobladen' voor drukwerk dat opengevouwen wordt gelezen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "folder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570009112>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570009112> <http://www.w3.org/2004/02/skos/core#prefLabel> "reclamefolder"@nl.
+_:df_1441_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009006"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009006/2022-09-24T05:05:36.223Z>.
+<https://stad.gent/id/concept/570008872/2022-09-24T05:00:38.645Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008872>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:00:38.645Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022331>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1477_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Machines die zware ladingen kunnen optillen, verplaatsen of laten zakken, voornamelijk door middel van een uitstekende, draaiende arm. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kraan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "inscriptie positie"@nl, "inscription position"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1477_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008872"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008872/2022-09-24T05:00:38.645Z>.
+<https://stad.gent/id/concept/570008579/2022-09-24T04:50:51.217Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008579>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:50:51.217Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024819>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1546_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gereedschappen om een patroon mee af te drukken. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stempel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "soort opschrift"@nl, "inscription type"@en, "objectnaam"@nl, "object name"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1546_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008579"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008579/2022-09-24T04:50:51.217Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/inscript.ttl> <https://w3id.org/tree#relation> _:df_1_913.
+_:df_1_913 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/inscripti.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "inscripti".
+<https://www.pieter.pm/coghent-substrings/thesaurus/inscript.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/inscript.ttl>.

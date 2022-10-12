@@ -222,3 +222,268 @@ _:df_3184_9 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009916"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009916/2021-10-31T21:34:51.204Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/tex.ttl>.
+<https://stad.gent/id/concept/570016891/2022-09-24T07:51:41.342Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016891>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:51:41.342Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007826>;
+    <http://www.w3.org/ns/adms#identifier> _:df_259_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Texas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570024329>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570024329> <http://www.w3.org/2004/02/skos/core#prefLabel> "Houston"@nl.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_259_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016891"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016891/2022-09-24T07:51:41.342Z>.
+<https://stad.gent/id/concept/570014052/2022-09-24T06:39:33.858Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014052>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:39:33.858Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_775_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "textieldraadsnijtoestel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_775_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014052"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014052/2022-09-24T06:39:33.858Z>.
+<https://stad.gent/id/concept/570013059/2022-09-24T06:19:20.363Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013059>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:19:20.363Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_916_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "textielontwerpen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_916_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013059"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013059/2022-09-24T06:19:20.363Z>.
+<https://stad.gent/id/concept/570012955/2022-09-24T06:16:54.585Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012955>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:16:54.585Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300232065>;
+    <http://www.w3.org/ns/adms#identifier> _:df_934_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "textielveredeling"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570022693>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570025229>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en, "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570025229> <http://www.w3.org/2004/02/skos/core#prefLabel> "ververij"@nl.
+<https://stad.gent/id/concept/570022693> <http://www.w3.org/2004/02/skos/core#prefLabel> "textiel"@nl.
+_:df_934_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012955"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012955/2022-09-24T06:16:54.585Z>.
+<https://stad.gent/id/concept/570010082/2022-09-24T05:37:32.703Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010082>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:37:32.703Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q25183395>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1213_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "textielmuseum"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1213_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010082"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010082/2022-09-24T05:37:32.703Z>.
+<https://stad.gent/id/concept/570010016/2022-09-24T05:35:21.592Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010016>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:35:21.592Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1228_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "textiel catalogus"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1228_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010016"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010016/2022-09-24T05:35:21.592Z>.
+<https://stad.gent/id/concept/570010002/2022-09-24T05:34:31.177Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010002>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:34:31.177Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1234_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "textieldrukkerij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1234_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010002"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010002/2022-09-24T05:34:31.177Z>.
+<https://stad.gent/id/concept/570009999/2022-09-24T05:34:21.172Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009999>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:34:21.172Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q64092658>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1237_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "textielpatroon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1237_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009999"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009999/2022-09-24T05:34:21.172Z>.
+<https://stad.gent/id/concept/570008677/2022-09-24T04:54:33.255Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008677>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:54:33.255Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006321>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1519_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "textielfabriek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008627>, <https://stad.gent/id/concept/570008647>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008647> <http://www.w3.org/2004/02/skos/core#prefLabel> "fabriek"@nl.
+<https://stad.gent/id/concept/570008627> <http://www.w3.org/2004/02/skos/core#prefLabel> "fabrieksgebouw"@nl.
+_:df_1519_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008677"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008677/2022-09-24T04:54:33.255Z>.
+<https://stad.gent/id/concept/570008436/2022-09-24T04:47:54.971Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008436>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:47:54.971Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006330>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1567_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "textielververij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1567_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008436"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008436/2022-09-24T04:47:54.971Z>.
+<https://stad.gent/id/concept/570008038/2022-09-24T04:44:27.313Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008038>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:44:27.313Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1591_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "textielgrondstoffen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1591_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008038"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008038/2022-09-24T04:44:27.313Z>.
+<https://stad.gent/id/concept/570007520/2022-09-24T04:41:24.244Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007520>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:41:24.244Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q90412699>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1612_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "textielbedrijf"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1612_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007520"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007520/2022-09-24T04:41:24.244Z>.
+<https://stad.gent/id/concept/570003128/2022-09-24T04:23:57.995Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570003128>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:23:57.995Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q59202023>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1738_38;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "textielonderzoek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570022693>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570022693> <http://www.w3.org/2004/02/skos/core#prefLabel> "textiel"@nl.
+_:df_1738_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570003128"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570003128/2022-09-24T04:23:57.995Z>.
+<https://stad.gent/id/concept/570000820/2022-09-24T04:12:32.319Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000820>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:12:32.319Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025349>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1819_30;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> " In algemene zin, ambachtslieden of fabrieksarbeiders die zich bezighouden met een of alle processen die nodig zijn voor de textielproductie. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "textielarbeider"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1819_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000820"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000820/2022-09-24T04:12:32.319Z>.
+<https://stad.gent/id/concept/570000735/2022-09-24T04:11:56.729Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000735>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:11:56.729Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300387187>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1822_30;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het proces van het met een dikke pasta van kleurstoffen of pigment decoreren van textiel. De voornaamste textieldrukmethoden zijn: blokdruk (waarin het ontwerp in reliëf uitsteekt op een vlak oppervlak), stencil- of zeefdruk (waarin het ontwerp door een vlakke metalen plaat of vel papier wordt gesneden) en rollerdruk (waarin drukrollers, een voor elke kleur, tegen de stof worden geduwd). In elk van deze methoden wordt de kleurstof of het pigment eerst aangebracht en vervolgens vastgezet, doorgaans door het textiel te stomen of te verhitten. Daarna wordt overtollige verkleuring weggewassen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "textieldruk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1822_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000735"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000735/2022-09-24T04:11:56.729Z>.
+<https://stad.gent/id/concept/570000251/2022-09-24T04:08:29.803Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000251>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:08:29.803Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1164991>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1846_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "textielverven"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1846_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000251"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000251/2022-09-24T04:08:29.803Z>.
+<https://stad.gent/id/concept/550008865/2022-09-24T03:51:58.034Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008865>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:51:58.034Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300231566>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1963_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "textielmaterialen naar samenstelling of origine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008560>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550000344>, <https://stad.gent/id/concept/550000355>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000355> <http://www.w3.org/2004/02/skos/core#prefLabel> "zijde (textiel)"@nl.
+<https://stad.gent/id/concept/550000344> <http://www.w3.org/2004/02/skos/core#prefLabel> "linnen"@nl.
+<https://stad.gent/id/concept/550008560> <http://www.w3.org/2004/02/skos/core#prefLabel> "textielmaterialen"@nl.
+_:df_1963_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008865"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008865/2022-09-24T03:51:58.034Z>.
+<https://stad.gent/id/concept/550008864/2022-09-24T03:51:53.032Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008864>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:51:53.032Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300231580>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1966_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "textielmaterialen naar vorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008560>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008872>, <https://stad.gent/id/concept/550008410>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008410> <http://www.w3.org/2004/02/skos/core#prefLabel> "stof (textiel)"@nl.
+<https://stad.gent/id/concept/550008872> <http://www.w3.org/2004/02/skos/core#prefLabel> "draad"@nl.
+<https://stad.gent/id/concept/550008560> <http://www.w3.org/2004/02/skos/core#prefLabel> "textielmaterialen"@nl.
+_:df_1966_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008864"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008864/2022-09-24T03:51:53.032Z>.
+<https://stad.gent/id/concept/550008627/2022-09-24T03:38:48.158Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008627>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:38:48.158Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2059_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "textiel (collectie)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550004484>, <https://stad.gent/id/concept/550004498>, <https://stad.gent/id/concept/550004504>, <https://stad.gent/id/concept/550005933>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005933> <http://www.w3.org/2004/02/skos/core#prefLabel> "borduurwerk (collectie)"@nl.
+<https://stad.gent/id/concept/550004504> <http://www.w3.org/2004/02/skos/core#prefLabel> "kleding (collectie)"@nl.
+<https://stad.gent/id/concept/550004498> <http://www.w3.org/2004/02/skos/core#prefLabel> "vlaggen en vaandels"@nl.
+<https://stad.gent/id/concept/550004484> <http://www.w3.org/2004/02/skos/core#prefLabel> "wandtapijten"@nl.
+_:df_2059_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008627"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008627/2022-09-24T03:38:48.158Z>.
+<https://stad.gent/id/concept/550008559/2022-09-24T03:33:53.462Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008559>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:33:53.462Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300231603>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2092_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "textielmaterialen naar procedé of techniek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008560>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005341>, <https://stad.gent/id/concept/550008566>, <https://stad.gent/id/concept/550000590>, <https://stad.gent/id/concept/550008404>, <https://stad.gent/id/concept/550000417>, <https://stad.gent/id/concept/550005137>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005137> <http://www.w3.org/2004/02/skos/core#prefLabel> "vilt"@nl.
+<https://stad.gent/id/concept/550000417> <http://www.w3.org/2004/02/skos/core#prefLabel> "pique"@nl.
+<https://stad.gent/id/concept/550008404> <http://www.w3.org/2004/02/skos/core#prefLabel> "kant (materiaal)"@nl.
+<https://stad.gent/id/concept/550000590> <http://www.w3.org/2004/02/skos/core#prefLabel> "crêpe"@nl.
+<https://stad.gent/id/concept/550008566> <http://www.w3.org/2004/02/skos/core#prefLabel> "canvas"@nl.
+<https://stad.gent/id/concept/550005341> <http://www.w3.org/2004/02/skos/core#prefLabel> "cannelé"@nl.
+<https://stad.gent/id/concept/550008560> <http://www.w3.org/2004/02/skos/core#prefLabel> "textielmaterialen"@nl, "textielmaterialen"@nl.
+_:df_2092_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008559"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008559> <http://www.w3.org/2004/02/skos/core#prefLabel> "textielmaterialen naar procedé of techniek"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008559/2022-09-24T03:33:53.462Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/tex.ttl> <https://w3id.org/tree#relation> _:df_1_1121.
+_:df_1_1121 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/text.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "text".
+<https://www.pieter.pm/coghent-substrings/thesaurus/tex.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/tex.ttl>.

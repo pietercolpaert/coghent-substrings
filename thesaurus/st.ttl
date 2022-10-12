@@ -259,3 +259,265 @@ _:df_1_400 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#value> "sti".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/st.ttl>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/st.ttl>.
+<https://stad.gent/id/concept/570006702/2022-10-06T00:01:31.377Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006702>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-06T00:01:31.377Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300162872>;
+    <http://www.w3.org/ns/adms#identifier> _:df_49_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar een tweetal afbeeldingen van hetzelfde onderwerp die, bekeken door een stereoscoop, de illusie van driedimensionaliteit geven. De Engelse natuurkundige Charles Wheatstone was in 1832 de eerste die op dit idee kwam. Hij beschreef stereofotografie als een unieke fotografische kunstvorm. Het is voor een tekenaar immers niet mogelijk twee onderwerpen in het juiste perspectief te tekenen vanaf gezichtspunten die ongeveer 65 mm van elkaar zijn verwijderd, de gemiddelde afstand tussen de ogen van een mens die nodig is om het driedimensionale effect te bereiken. De spiegelstereoscoop van Wheatstone was niet erg geschikt voor foto's. De uitvinding werd pas populair in de jaren 50 van de 19de eeuw, toen Sir David Brewster, een Schotse wetenschapper, een eenvoudiger kijkinstrument ontwierp. De introductie van het collodiumprocedé maakte het belichten en afdrukken van foto's technisch eenvoudiger, waardoor driedimensionale foto's een ware rage werden. Stereofoto's kunnen daguerreotypieën, negatieven of andere fotovormen zijn. Gebruik de specifiekere term 'stereokaarten' voor fotografische afdrukken die op kartonnen kaarten zijn bevestigd. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stereofoto"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_49_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006702"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006702/2022-10-06T00:01:31.377Z>.
+<https://stad.gent/id/concept/570017317/2022-09-24T08:04:32.222Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017317>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T08:04:32.222Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2345509>;
+    <http://www.w3.org/ns/adms#identifier> _:df_169_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sterilisator"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_169_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017317"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017317/2022-09-24T08:04:32.222Z>.
+<https://stad.gent/id/concept/570017302/2022-09-24T08:03:56.868Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017302>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T08:03:56.868Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q21044536>;
+    <http://www.w3.org/ns/adms#identifier> _:df_172_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "strijkglas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_172_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017302"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017302/2022-09-24T08:03:56.868Z>.
+<https://stad.gent/id/concept/570017203/2022-09-24T08:01:30.788Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017203>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T08:01:30.788Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300395601>;
+    <http://www.w3.org/ns/adms#identifier> _:df_190_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stolp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_190_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017203"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017203/2022-09-24T08:01:30.788Z>.
+<https://stad.gent/id/concept/570017069/2022-09-24T07:59:24.879Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017069>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:59:24.879Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7014535>;
+    <http://www.w3.org/ns/adms#identifier> _:df_205_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Stamford (Connecticut)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_205_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017069"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017069/2022-09-24T07:59:24.879Z>.
+<https://stad.gent/id/concept/570016997/2022-09-24T07:57:03.716Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016997>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:57:03.716Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_223_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stormlamp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_223_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016997"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016997/2022-09-24T07:57:03.716Z>.
+<https://stad.gent/id/concept/570016959/2022-09-24T07:55:02.740Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016959>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:55:02.740Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300039734>;
+    <http://www.w3.org/ns/adms#identifier> _:df_235_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "strijkplank"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_235_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016959"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016959/2022-09-24T07:55:02.740Z>.
+<https://stad.gent/id/concept/570016964/2022-09-24T07:55:17.748Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016964>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:55:17.748Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q384580>;
+    <http://www.w3.org/ns/adms#identifier> _:df_235_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "steekwagen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_235_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016964"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016964/2022-09-24T07:55:17.748Z>.
+<https://stad.gent/id/concept/570016830/2022-09-24T07:49:55.435Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016830>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:49:55.435Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024606>;
+    <http://www.w3.org/ns/adms#identifier> _:df_274_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Mechanische of elektrische apparaten die mechanische energie omzetten in elektrische energie, als wisselstroommachines die wisselstroom produceren of dynamo's die gelijkstroom produceren.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stroomgenerator"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_274_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016830"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016830/2022-09-24T07:49:55.435Z>.
+<https://stad.gent/id/concept/570016788/2022-09-24T07:47:39.282Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016788>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:47:39.282Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300262983>;
+    <http://www.w3.org/ns/adms#identifier> _:df_289_18;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kaarten die voorbeelden tonen van kleine handelswaar, zoals kralen en knopen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "staalkaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_289_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016788"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016788/2022-09-24T07:47:39.282Z>.
+<https://stad.gent/id/concept/570016720/2022-09-24T07:45:02.965Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016720>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:45:02.965Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300162919>;
+    <http://www.w3.org/ns/adms#identifier> _:df_307_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kijkers waarin een tweetal stereoscopische afbeeldingen worden samengevoegd tot één afbeelding waarin schijnbaar diepte kan worden gezien. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stereoscoop"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_307_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016720"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016720/2022-09-24T07:45:02.965Z>.
+<https://stad.gent/id/concept/570016559/2022-09-24T07:40:05.426Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016559>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:40:05.426Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q25158699>;
+    <http://www.w3.org/ns/adms#identifier> _:df_343_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "steenbeitel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_343_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016559"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016559/2022-09-24T07:40:05.426Z>.
+<https://stad.gent/id/concept/570016561/2022-09-24T07:40:15.430Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016561>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:40:15.430Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_343_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "steekbeitel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_343_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016561"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016561/2022-09-24T07:40:15.430Z>.
+<https://stad.gent/id/concept/570016516/2022-09-24T07:38:24.624Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016516>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:38:24.624Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022777>;
+    <http://www.w3.org/ns/adms#identifier> _:df_355_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Dunne stukjes materiaal, zoals metaal, karton of stencilfolie, waaruit een patroon is gesneden zodat met verschillende middelen verf door de openingen kan worden aangebracht. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stencil"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_355_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016516"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016516/2022-09-24T07:38:24.624Z>.
+<https://stad.gent/id/concept/570016464/2022-09-24T07:36:08.416Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016464>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:36:08.416Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300395647>;
+    <http://www.w3.org/ns/adms#identifier> _:df_370_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stempelkussen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_370_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016464"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016464/2022-09-24T07:36:08.416Z>.
+<https://stad.gent/id/concept/570016439/2022-09-24T07:35:23.026Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016439>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:35:23.026Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300207689>;
+    <http://www.w3.org/ns/adms#identifier> _:df_376_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stamper"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_376_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016439"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016439/2022-09-24T07:35:23.026Z>.
+<https://stad.gent/id/concept/570016284/2022-09-24T07:31:31.354Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016284>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:31:31.354Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300433831>;
+    <http://www.w3.org/ns/adms#identifier> _:df_403_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stencilmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_403_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016284"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016284/2022-09-24T07:31:31.354Z>.
+<https://stad.gent/id/concept/570016265/2022-09-24T07:30:55.982Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016265>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:30:55.982Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300194529>;
+    <http://www.w3.org/ns/adms#identifier> _:df_409_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stembus"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_409_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016265"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016265/2022-09-24T07:30:55.982Z>.
+<https://stad.gent/id/concept/570016092/2022-09-24T07:26:43.754Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016092>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:26:43.754Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300194696>;
+    <http://www.w3.org/ns/adms#identifier> _:df_439_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Stempels die meestal zijn gegraveerd en worden gebruikt om een ontwerp in een zachter materiaal te drukken, bijvoorbeeld bij het munten van geld. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stans"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_439_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016092"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016092/2022-09-24T07:26:43.754Z>.
+<https://stad.gent/id/concept/570015924/2022-09-24T07:23:17.003Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015924>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:23:17.003Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_463_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "staalbrochure"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_463_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015924"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015924/2022-09-24T07:23:17.003Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/st.ttl> <https://w3id.org/tree#relation> _:df_1_478.
+_:df_1_478 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/sta.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "sta".
+<https://www.pieter.pm/coghent-substrings/thesaurus/st.ttl> <https://w3id.org/tree#relation> _:df_1_479.
+_:df_1_479 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/ste.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "ste".
+<https://www.pieter.pm/coghent-substrings/thesaurus/st.ttl> <https://w3id.org/tree#relation> _:df_1_480.
+_:df_1_480 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/sto.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "sto".
+<https://www.pieter.pm/coghent-substrings/thesaurus/st.ttl> <https://w3id.org/tree#relation> _:df_1_481.
+_:df_1_481 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/stu.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "stu".
+<https://www.pieter.pm/coghent-substrings/thesaurus/st.ttl> <https://w3id.org/tree#relation> _:df_1_482.
+_:df_1_482 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/sti.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "sti".
+<https://www.pieter.pm/coghent-substrings/thesaurus/st.ttl> <https://w3id.org/tree#relation> _:df_1_483.
+_:df_1_483 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/str.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "str".
+<https://www.pieter.pm/coghent-substrings/thesaurus/st.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/st.ttl>.

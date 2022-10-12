@@ -120,3 +120,106 @@ _:df_3193_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009839"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009839/2021-10-31T21:33:29.833Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/er.ttl>.
+<https://stad.gent/id/concept/570013674/2022-09-24T06:33:31.018Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013674>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:33:31.018Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1039004>;
+    <http://www.w3.org/ns/adms#identifier> _:df_817_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Erkrath"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl.
+_:df_817_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013674"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013674/2022-09-24T06:33:31.018Z>.
+<https://stad.gent/id/concept/570012340/2022-09-24T06:05:33.465Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012340>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:05:33.465Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004332>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1015_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Erlangen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl.
+_:df_1015_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012340"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012340/2022-09-24T06:05:33.465Z>.
+<https://stad.gent/id/concept/570010697/2022-09-24T05:48:49.766Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010697>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:48:49.766Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300265422>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1132_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "erfgoed"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1132_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010697"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010697/2022-09-24T05:48:49.766Z>.
+<https://stad.gent/id/concept/570009839/2022-09-24T05:30:59.411Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009839>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:30:59.411Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q11796413>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1261_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ereteken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1261_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009839"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009839/2022-09-24T05:30:59.411Z>.
+<https://stad.gent/id/concept/570009341/2022-09-24T05:19:46.446Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009341>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:19:46.446Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7240441>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1339_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Erembodegem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_1339_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009341"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009341/2022-09-24T05:19:46.446Z>.
+<https://stad.gent/id/concept/570008532/2022-09-24T04:49:35.802Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008532>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:49:35.802Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/8703862>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1555_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Erlenbach (Zürich)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020674>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020674> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zwitserland"@nl.
+_:df_1555_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008532"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008532/2022-09-24T04:49:35.802Z>.
+<https://stad.gent/id/concept/550006875/2022-09-24T02:31:23.079Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006875>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:31:23.079Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7240441>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2536_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Erembodegem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004313>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004313> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen"@nl.
+_:df_2536_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006875"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006875/2022-09-24T02:31:23.079Z>.
+<https://stad.gent/id/concept/550004435/2022-09-24T01:05:14.205Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004435>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:05:14.205Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900031691>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3151_11;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "penning ter ere van een bepaalde persoon of gebeurtenis";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "erepenning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008058>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008058> <http://www.w3.org/2004/02/skos/core#prefLabel> "gelegenheidspenning"@nl.
+_:df_3151_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004435"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004435/2022-09-24T01:05:14.205Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/er.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/er.ttl>.

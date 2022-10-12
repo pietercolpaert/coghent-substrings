@@ -68,3 +68,208 @@ _:df_3229_9 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009621"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009621/2021-10-31T21:28:30.338Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/sie.ttl>.
+<https://stad.gent/id/concept/550008139/2022-09-24T03:09:58.504Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008139>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:09:58.504Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209290>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2263_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sieraden gedragen om de hals of op het bovenlichaam"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007830>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005929>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005929> <http://www.w3.org/2004/02/skos/core#prefLabel> "halsketting"@nl.
+<https://stad.gent/id/concept/550007830> <http://www.w3.org/2004/02/skos/core#prefLabel> "sieraden naar locatie"@nl.
+_:df_2263_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008139"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008139/2022-09-24T03:09:58.504Z>.
+<https://stad.gent/id/concept/550007962/2022-09-24T02:55:16.786Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007962>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:55:16.786Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209292>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2368_35;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sieraden gedragen op kleding"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007830>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550002747>, <https://stad.gent/id/concept/550009119>, <https://stad.gent/id/concept/550006127>, <https://stad.gent/id/concept/550007622>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007622> <http://www.w3.org/2004/02/skos/core#prefLabel> "sierspeld"@nl.
+<https://stad.gent/id/concept/550006127> <http://www.w3.org/2004/02/skos/core#prefLabel> "manchetknoop"@nl.
+<https://stad.gent/id/concept/550009119> <http://www.w3.org/2004/02/skos/core#prefLabel> "horlogeketting"@nl.
+<https://stad.gent/id/concept/550002747> <http://www.w3.org/2004/02/skos/core#prefLabel> "dasspeld (sieraad op kleding)"@nl.
+<https://stad.gent/id/concept/550007830> <http://www.w3.org/2004/02/skos/core#prefLabel> "sieraden naar locatie"@nl.
+_:df_2368_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007962"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007962/2022-09-24T02:55:16.786Z>.
+<https://stad.gent/id/concept/550007933/2022-09-24T02:52:55.349Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007933>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:52:55.349Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300211639>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2383_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sieraden naar vorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005544>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550009243>, <https://stad.gent/id/concept/550005444>, <https://stad.gent/id/concept/550005563>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005563> <http://www.w3.org/2004/02/skos/core#prefLabel> "medaillon (sieraad)"@nl.
+<https://stad.gent/id/concept/550005444> <http://www.w3.org/2004/02/skos/core#prefLabel> "hanger (sieraad)"@nl.
+<https://stad.gent/id/concept/550009243> <http://www.w3.org/2004/02/skos/core#prefLabel> "chatelaine (sierketting)"@nl.
+<https://stad.gent/id/concept/550005544> <http://www.w3.org/2004/02/skos/core#prefLabel> "sieraad"@nl.
+_:df_2383_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007933"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007933/2022-09-24T02:52:55.349Z>.
+<https://stad.gent/id/concept/550007830/2022-09-24T02:44:15.268Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007830>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:44:15.268Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300211901>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2446_44;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sieraden naar locatie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005544>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550006021>, <https://stad.gent/id/concept/550008269>, <https://stad.gent/id/concept/550005499>, <https://stad.gent/id/concept/550005497>, <https://stad.gent/id/concept/550008139>, <https://stad.gent/id/concept/550007962>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007962> <http://www.w3.org/2004/02/skos/core#prefLabel> "sieraden gedragen op kleding"@nl.
+<https://stad.gent/id/concept/550008139> <http://www.w3.org/2004/02/skos/core#prefLabel> "sieraden gedragen om de hals of op het bovenlichaam"@nl.
+<https://stad.gent/id/concept/550005497> <http://www.w3.org/2004/02/skos/core#prefLabel> "sieraden gedragen aan de armen en handen"@nl.
+<https://stad.gent/id/concept/550005499> <http://www.w3.org/2004/02/skos/core#prefLabel> "sieraden gedragen aan benen en voeten"@nl.
+<https://stad.gent/id/concept/550008269> <http://www.w3.org/2004/02/skos/core#prefLabel> "hoofdsieraden"@nl.
+<https://stad.gent/id/concept/550006021> <http://www.w3.org/2004/02/skos/core#prefLabel> "armband"@nl.
+<https://stad.gent/id/concept/550005544> <http://www.w3.org/2004/02/skos/core#prefLabel> "sieraad"@nl.
+_:df_2446_44 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007830"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007830/2022-09-24T02:44:15.268Z>.
+<https://stad.gent/id/concept/550007622/2022-09-24T02:36:10.926Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007622>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:36:10.926Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046006>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2503_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Sieraden die voornamelijk of gedeeltelijk bestaan uit een puntige, insteekbare metaaldraad of pin.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sierspeld"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007962>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550002744>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002744> <http://www.w3.org/2004/02/skos/core#prefLabel> "broche"@nl.
+<https://stad.gent/id/concept/550007962> <http://www.w3.org/2004/02/skos/core#prefLabel> "sieraden gedragen op kleding"@nl.
+_:df_2503_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007622"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007622/2022-09-24T02:36:10.926Z>.
+<https://stad.gent/id/concept/550005544/2022-09-24T01:45:47.210Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005544>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:45:47.210Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209286>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2863_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Ornamenten zoals armbanden, halskettingen en ringen van edele of halfedele materialen die voor de sier op het lichaam worden gedragen; ook soortgelijke artikelen die worden gedragen voor godsdienstige doeleinden of rouwbetuiging.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sieraad"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007781>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007830>, <https://stad.gent/id/concept/550007933>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007933> <http://www.w3.org/2004/02/skos/core#prefLabel> "sieraden naar vorm"@nl.
+<https://stad.gent/id/concept/550007830> <http://www.w3.org/2004/02/skos/core#prefLabel> "sieraden naar locatie"@nl.
+<https://stad.gent/id/concept/550007781> <http://www.w3.org/2004/02/skos/core#prefLabel> "op het lichaam gedragen kledingaccessoires"@nl.
+_:df_2863_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005544"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005544/2022-09-24T01:45:47.210Z>.
+<https://stad.gent/id/concept/550005497/2022-09-24T01:44:46.709Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005497>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:44:46.709Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2869_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sieraden gedragen aan de armen en handen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007830>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005501>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005501> <http://www.w3.org/2004/02/skos/core#prefLabel> "ring (sieraad)"@nl.
+<https://stad.gent/id/concept/550007830> <http://www.w3.org/2004/02/skos/core#prefLabel> "sieraden naar locatie"@nl, "sieraden naar locatie"@nl.
+_:df_2869_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005497"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550005497> <http://www.w3.org/2004/02/skos/core#prefLabel> "sieraden gedragen aan de armen en handen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005497/2022-09-24T01:44:46.709Z>.
+<https://stad.gent/id/concept/550005499/2022-09-24T01:44:51.712Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005499>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:44:51.712Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209291>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2869_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sieraden gedragen aan benen en voeten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007830>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008324>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008324> <http://www.w3.org/2004/02/skos/core#prefLabel> "enkelband"@nl.
+<https://stad.gent/id/concept/550007830> <http://www.w3.org/2004/02/skos/core#prefLabel> "sieraden naar locatie"@nl, "sieraden naar locatie"@nl.
+_:df_2869_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005499"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005499/2022-09-24T01:44:51.712Z>.
+<https://stad.gent/id/concept/550005091/2022-09-24T01:28:27.935Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005091>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:28:27.935Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7012712>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2986_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Siegen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004734>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_2986_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005091"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005091/2022-09-24T01:28:27.935Z>.
+<https://stad.gent/id/concept/550004437/2022-09-24T01:05:19.208Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004437>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:05:19.208Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005104>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3151_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Siegburg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004734>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_3151_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004437"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004437/2022-09-24T01:05:19.208Z>.
+<https://stad.gent/id/concept/550004193/2022-09-24T01:00:01.016Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004193>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:00:01.016Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900031062>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3190_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor een kunstzinnig versierd of tot sieraad dienend (eet-)bord.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sierbord (vaatwerk)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005525>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005525> <http://www.w3.org/2004/02/skos/core#prefLabel> "bord (vaatwerk)"@nl.
+_:df_3190_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004193"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004193/2022-09-24T01:00:01.016Z>.
+<https://stad.gent/id/concept/550001076/2022-09-24T00:14:32.705Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001076>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:14:32.705Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300171585>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3514_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Metalen delen met een versierende functie die bevestigd zijn aan een voorwerp dat meestal uit een ander materiaal bestaat, zoals glas, porselein, hout of leer.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sierbeslag"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008325>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008325> <http://www.w3.org/2004/02/skos/core#prefLabel> "toevoegsel"@nl.
+_:df_3514_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001076"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001076/2022-09-24T00:14:32.705Z>.
+<https://stad.gent/id/concept/530000440/2022-09-15T00:00:19.604Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000440>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-15T00:00:19.604Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411353>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3670_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor een kunstzinnig versierd of tot sieraad dienend (eet-)bord.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sierbord (vaatwerk)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006241>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530000869>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000869> <http://www.w3.org/2004/02/skos/core#prefLabel> "schuttersbord"@nl.
+<https://stad.gent/id/concept/530006241> <http://www.w3.org/2004/02/skos/core#prefLabel> "bord (vaatwerk)"@nl.
+_:df_3670_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000440"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000440/2022-09-15T00:00:19.604Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/sie.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/sie.ttl>.

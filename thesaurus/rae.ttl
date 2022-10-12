@@ -1,0 +1,15 @@
+<https://stad.gent/id/concept/550002319/2022-09-24T00:34:59.782Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002319>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:34:59.782Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007976>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3367_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Raeren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008930>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008930> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luik (provincie)"@nl.
+_:df_3367_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002319"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002319/2022-09-24T00:34:59.782Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/rae.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/rae.ttl>.

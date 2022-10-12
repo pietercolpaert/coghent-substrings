@@ -21,3 +21,32 @@ _:df_2362_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570016196"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016196/2021-10-31T23:30:56.923Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/vij.ttl>.
+<https://stad.gent/id/concept/550005417/2022-09-24T01:42:05.543Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005417>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:42:05.543Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024724>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2890_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gereedschappen van hard materiaal, meestal steen, komvormig, waarin (verf)stoffen met een stamper worden fijngewreven.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vijzel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008335>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001970>, <https://stad.gent/id/concept/550005522>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005522> <http://www.w3.org/2004/02/skos/core#prefLabel> "wrijfschaal"@nl.
+<https://stad.gent/id/concept/550001970> <http://www.w3.org/2004/02/skos/core#prefLabel> "tabaksvijzel"@nl.
+<https://stad.gent/id/concept/550008335> <http://www.w3.org/2004/02/skos/core#prefLabel> "slijp- en maalgereedschap"@nl.
+_:df_2890_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005417"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005417/2022-09-24T01:42:05.543Z>.
+<https://stad.gent/id/concept/670006908/2022-09-09T09:15:53.508Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006908>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:15:53.508Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3835_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vijfwindgatenvaartje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3835_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006908"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006908/2022-09-09T09:15:53.508Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/vij.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/vij.ttl>.

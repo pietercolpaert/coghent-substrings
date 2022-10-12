@@ -21,3 +21,55 @@ _:df_3220_17 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009665"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009665/2021-10-31T21:29:56.982Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/pel.ttl>.
+<https://stad.gent/id/concept/570013127/2022-09-24T06:20:56.223Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013127>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:20:56.223Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209845>;
+    <http://www.w3.org/ns/adms#identifier> _:df_904_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pelerine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_904_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013127"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013127/2022-09-24T06:20:56.223Z>.
+<https://stad.gent/id/concept/570009665/2022-09-24T05:27:27.753Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009665>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:27:27.753Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300193371>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1285_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pels"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1285_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009665"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009665/2022-09-24T05:27:27.753Z>.
+<https://stad.gent/id/concept/550005964/2022-09-24T01:58:59.412Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005964>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:58:59.412Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300265066>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2767_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar kleine plaquettes die verkrijgbaar waren bij belangrijke heiligdommen welke door pelgrims werden bezocht, en die als aandenken of bewijsstuk werden gedragen door de pelgrims die de bedevaart met succes hadden afgelegd. De tekens zijn een eerbetoon aan de heilige of het devotieobject dat in het bedevaartsoord werd vereerd. De opvallendste pelgrimstekens zijn de tekens in de vorm van een jakobsschelp van het heiligdom van St. Jacobus in Santiago de Compostela, welke reeds in de 11de eeuw werden verkocht. De tekens waren meestal uit metaal vervaardigd en werden doorgaans aan een hoed vastgespeld. De tekens boden ook praktisch voordeel, want ze gaven de drager recht op bijvoorbeeld hulp, gastvrijheid of een vrijgeleide; ook waren er bovennatuurlijke voordelen aan verbonden, aangezien het meestal toegestaan was om met de tekens het heiligdom aan te raken, waardoor de tekens op hun beurt de status van secundair reliek verkregen. Pelgrimstekens waren met name populair in het Europa van de middeleeuwen, met als hoogtepunt de 14de en 15de eeuw, maar na de reformatie van de 16de eeuw nam hun populariteit af. Niettemin zijn er ook nu nog enkele heiligdommen waar pelgrimstekens in gebruik zijn.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pelgrimsteken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005126>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005126> <http://www.w3.org/2004/02/skos/core#prefLabel> "insigne (embleem)"@nl.
+_:df_2767_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005964"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005964/2022-09-24T01:58:59.412Z>.
+<https://stad.gent/id/concept/550005307/2022-09-24T01:37:58.290Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005307>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:37:58.290Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209845>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2917_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Korte schoudermanteltjes, door dames op de japon gedragen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pelerine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008292>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008292> <http://www.w3.org/2004/02/skos/core#prefLabel> "schoudermantel"@nl.
+_:df_2917_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005307"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005307/2022-09-24T01:37:58.290Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/pel.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/pel.ttl>.

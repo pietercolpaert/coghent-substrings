@@ -108,3 +108,62 @@ _:df_3121_9 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010187"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010187/2021-10-31T21:43:42.934Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/schu.ttl>.
+<https://stad.gent/id/concept/570013334/2022-09-24T06:25:54.838Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013334>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:25:54.838Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q47520055>;
+    <http://www.w3.org/ns/adms#identifier> _:df_868_5;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schuldvordering"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_868_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013334"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013334/2022-09-24T06:25:54.838Z>.
+<https://stad.gent/id/concept/570013268/2022-09-24T06:24:34.322Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013268>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:24:34.322Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209581>;
+    <http://www.w3.org/ns/adms#identifier> _:df_877_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Geperforeerd gerei, meestal met een handvat, dat wordt gebruikt voor het afromen van vloeistoffen. \r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schuimspaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_877_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013268"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013268/2022-09-24T06:24:34.322Z>.
+<https://stad.gent/id/concept/570010187/2022-09-24T05:40:59.613Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010187>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:40:59.613Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1189_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schuifring"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1189_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010187"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010187/2022-09-24T05:40:59.613Z>.
+<https://stad.gent/id/concept/550005186/2022-09-24T01:32:05.123Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005186>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:32:05.123Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209581>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2959_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Geperforeerd gerei, meestal met een handvat, dat wordt gebruikt voor het afromen van vloeistoffen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schuimspaan (keukengereedschap)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008321>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008321> <http://www.w3.org/2004/02/skos/core#prefLabel> "keukengereedschap voor het scheiden"@nl.
+_:df_2959_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005186"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005186/2022-09-24T01:32:05.123Z>.
+<https://stad.gent/id/concept/670006724/2022-09-09T09:01:00.092Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006724>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:01:00.092Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3943_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Schuddevisstraatje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3943_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006724"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006724/2022-09-09T09:01:00.092Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/schu.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/schu.ttl>.

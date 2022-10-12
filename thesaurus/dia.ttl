@@ -58,3 +58,58 @@ _:df_3139_21 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010118"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010118/2021-10-31T21:41:21.154Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/dia.ttl>.
+<https://stad.gent/id/concept/550006018/2022-09-24T02:00:45.396Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006018>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:00:45.396Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011084>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2755_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een zeer transparante en buitengewoon harde edelsteen van koolstof. Voorzover bekend is het de hardste stof";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "diamant"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550002710>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002710> <http://www.w3.org/2004/02/skos/core#prefLabel> "mineraal"@nl, "mineraal"@nl.
+_:df_2755_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006018"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006018/2022-09-24T02:00:45.396Z>.
+<https://stad.gent/id/concept/550000244/2022-09-24T00:04:31.782Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000244>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:04:31.782Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3583_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "diameter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "afmeting"@nl, "dimension"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3583_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000244"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000244/2022-09-24T00:04:31.782Z>.
+<https://stad.gent/id/concept/530003264/2022-09-15T00:01:44.946Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003264>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-15T00:01:44.946Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300311986>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3658_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Apparaten om dia's en transparanten te bekijken door het beeld te projecteren. Een diaprojector bevat een elektrische lamp, een reflector, een lens om het licht op de dia te richten, een focuslens en een carrousel of een andere houder voor de dia's.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "diaprojector"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008527>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008527> <http://www.w3.org/2004/02/skos/core#prefLabel> "projector"@nl.
+_:df_3658_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003264"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003264/2022-09-15T00:01:44.946Z>.
+<https://stad.gent/id/concept/530005369/2022-09-14T00:01:24.585Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005369>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-14T00:01:24.585Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046021>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3688_30;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Sierhoofdbanden van metaal of stof; wordt vooral gebruikt voor het soort dat gedragen wordt als symbool van koninklijke waardigheid.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "diadeem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004505>, <https://stad.gent/id/concept/530006386>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006386> <http://www.w3.org/2004/02/skos/core#prefLabel> "sieraad"@nl.
+<https://stad.gent/id/concept/530004505> <http://www.w3.org/2004/02/skos/core#prefLabel> "hoofddeksel"@nl.
+_:df_3688_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005369"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005369/2022-09-14T00:01:24.585Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/dia.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/dia.ttl>.

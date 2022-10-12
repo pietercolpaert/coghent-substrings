@@ -67,3 +67,72 @@ _:df_2791_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570013405"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013405/2021-10-31T22:30:13.594Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/gri.ttl>.
+<https://stad.gent/id/concept/570013405/2022-09-24T06:27:25.683Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013405>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:27:25.683Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_859_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "grijperweefmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_859_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013405"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013405/2022-09-24T06:27:25.683Z>.
+<https://stad.gent/id/concept/550008299/2022-09-24T03:23:01.073Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008299>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:23:01.073Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024735>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2170_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "grijp- en klemgereedschap"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007772>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550009110>, <https://stad.gent/id/concept/550005625>, <https://stad.gent/id/concept/550006187>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006187> <http://www.w3.org/2004/02/skos/core#prefLabel> "tang"@nl.
+<https://stad.gent/id/concept/550005625> <http://www.w3.org/2004/02/skos/core#prefLabel> "pincet"@nl.
+<https://stad.gent/id/concept/550009110> <http://www.w3.org/2004/02/skos/core#prefLabel> "klem"@nl.
+<https://stad.gent/id/concept/550007772> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting naar proces"@nl.
+_:df_2170_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008299"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008299/2022-09-24T03:23:01.073Z>.
+<https://stad.gent/id/concept/550006716/2022-09-24T02:25:50.473Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006716>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:25:50.473Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026456>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2578_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Grimbergen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008920>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "Vindplaats"@nl, "Collection place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008920> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams-Brabant"@nl.
+_:df_2578_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006716"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006716/2022-09-24T02:25:50.473Z>.
+<https://stad.gent/id/concept/550003635/2022-09-24T00:50:39.118Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003635>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:50:39.118Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000074>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3256_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Griekenland"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005045>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550006465>, <https://stad.gent/id/concept/550006870>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006870> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ithaca"@nl.
+<https://stad.gent/id/concept/550006465> <http://www.w3.org/2004/02/skos/core#prefLabel> "Athene"@nl.
+<https://stad.gent/id/concept/550005045> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl, "Europa"@nl, "Europa"@nl.
+_:df_3256_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003635"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003635/2022-09-24T00:50:39.118Z>.
+<https://stad.gent/id/concept/550000856/2022-09-24T00:10:30.338Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000856>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:10:30.338Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300020072>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3541_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Grieks (Egeïsche periode)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3541_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000856"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000856/2022-09-24T00:10:30.338Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/gri.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/gri.ttl>.

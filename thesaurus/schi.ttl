@@ -157,3 +157,269 @@ _:df_3208_7 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009714"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009714/2021-10-31T21:31:28.308Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/schi.ttl>.
+<https://stad.gent/id/concept/570013680/2022-09-24T06:33:46.024Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013680>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:33:46.024Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003203>;
+    <http://www.w3.org/ns/adms#identifier> _:df_817_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Schio"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020612>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020612> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_817_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013680"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013680/2022-09-24T06:33:46.024Z>.
+<https://stad.gent/id/concept/570013635/2022-09-24T06:32:30.177Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013635>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:32:30.177Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300079638>;
+    <http://www.w3.org/ns/adms#identifier> _:df_826_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schildersezels"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_826_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013635"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013635/2022-09-24T06:32:30.177Z>.
+<https://stad.gent/id/concept/570010793/2022-09-24T05:49:55.211Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010793>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:49:55.211Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300136377>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1126_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Hoofden of gezagvoerders van niet-militaire schepen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schippers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1126_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010793"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010793/2022-09-24T05:49:55.211Z>.
+<https://stad.gent/id/concept/570010404/2022-09-24T05:44:37.555Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010404>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:44:37.555Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1162_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schietspoelweefgetouw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1162_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010404"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010404/2022-09-24T05:44:37.555Z>.
+<https://stad.gent/id/concept/570009714/2022-09-24T05:28:58.623Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009714>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:28:58.623Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1276_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schilderskam"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1276_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009714"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009714/2022-09-24T05:28:58.623Z>.
+<https://stad.gent/id/concept/570008557/2022-09-24T04:50:00.812Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008557>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:50:00.812Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300033618>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1552_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Beeldende werken waarin de voorstelling hoofdzakelijk wordt gevormd door het direct aanbrengen van pigment, in de vorm van kleurmassa's, op een over het algemeen tweedimensionaal vlak. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schilderij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1552_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008557"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008557/2022-09-24T04:50:00.812Z>.
+<https://stad.gent/id/concept/570008217/2022-09-24T04:45:27.727Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008217>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:45:27.727Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054216>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1585_34;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schilderen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1585_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008217"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008217/2022-09-24T04:45:27.727Z>.
+<https://stad.gent/id/concept/550008704/2022-09-24T03:43:01.350Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008704>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:43:01.350Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026720>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2029_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Schilde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005392>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005392> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl.
+_:df_2029_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008704"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008704/2022-09-24T03:43:01.350Z>.
+<https://stad.gent/id/concept/550007767/2022-09-24T02:39:17.878Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007767>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:39:17.878Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300033701>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2482_43;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schilderingen naar materiaal of techniek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004699>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005425>, <https://stad.gent/id/concept/550004894>, <https://stad.gent/id/concept/550004927>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004927> <http://www.w3.org/2004/02/skos/core#prefLabel> "olieverfschildering"@nl.
+<https://stad.gent/id/concept/550004894> <http://www.w3.org/2004/02/skos/core#prefLabel> "aquarel"@nl.
+<https://stad.gent/id/concept/550005425> <http://www.w3.org/2004/02/skos/core#prefLabel> "achterglasschildering (beeldmateriaal)"@nl.
+<https://stad.gent/id/concept/550004699> <http://www.w3.org/2004/02/skos/core#prefLabel> "schildering"@nl.
+_:df_2482_43 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007767"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007767/2022-09-24T02:39:17.878Z>.
+<https://stad.gent/id/concept/550006648/2022-09-24T02:23:29.029Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006648>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:23:29.029Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7271350>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2593_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Schipluiden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006121>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006121> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl, "Nederland"@nl.
+_:df_2593_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006648"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006648/2022-09-24T02:23:29.029Z>.
+<https://stad.gent/id/concept/550006432/2022-09-24T02:17:04.400Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006432>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:17:04.400Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006800>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2638_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Schiedam"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006121>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006121> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_2638_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006432"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006432/2022-09-24T02:17:04.400Z>.
+<https://stad.gent/id/concept/550006142/2022-09-24T02:05:22.624Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006142>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:05:22.624Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2722_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schilder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2722_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006142"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006142/2022-09-24T02:05:22.624Z>.
+<https://stad.gent/id/concept/550005801/2022-09-24T01:53:26.383Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005801>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:53:26.383Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300178684>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2809_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het maken van kunstwerken met olieverf.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schilderen met olieverf"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2809_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005801"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005801/2022-09-24T01:53:26.383Z>.
+<https://stad.gent/id/concept/550005677/2022-09-24T01:49:59.514Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005677>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:49:59.514Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300260775>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2833_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor degens met een opvallend korfgevest en gewoonlijk een tweesnijdende, scherp toelopende kling, genoemd naar de Slavische lijfwachten van de doge van Venetië die ze gebruikten; nog bestaande exemplaren dateren van eind 15de tot eind 18de eeuw";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schiavona"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005666>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005666> <http://www.w3.org/2004/02/skos/core#prefLabel> "houwdegen"@nl.
+_:df_2833_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005677"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005677/2022-09-24T01:49:59.514Z>.
+<https://stad.gent/id/concept/550005095/2022-09-24T01:28:32.937Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005095>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:28:32.937Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011837>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2986_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Substantie die afkomstig is van de hoornplaten die de schilden van sommige schildpadden bedekken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schildpad"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008758>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008758> <http://www.w3.org/2004/02/skos/core#prefLabel> "keratinisch materiaal"@nl.
+_:df_2986_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005095"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005095/2022-09-24T01:28:32.937Z>.
+<https://stad.gent/id/concept/550004699/2022-09-24T01:16:50.760Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004699>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:16:50.760Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3070_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schildering"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007769>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007767>, <https://stad.gent/id/concept/550008246>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008246> <http://www.w3.org/2004/02/skos/core#prefLabel> "schilderingen naar vorm"@nl.
+<https://stad.gent/id/concept/550007767> <http://www.w3.org/2004/02/skos/core#prefLabel> "schilderingen naar materiaal of techniek"@nl.
+<https://stad.gent/id/concept/550007769> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldmateriaal naar medium of techniek"@nl.
+_:df_3070_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004699"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004699/2022-09-24T01:16:50.760Z>.
+<https://stad.gent/id/concept/550004628/2022-09-24T01:13:28.860Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004628>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:13:28.860Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054216>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3094_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor het aanbrengen van pigmenten op een oppervlak met als doel een expressief of communicatief beeld te vormen. Gebruik 'verven (bedekken)' voor het hoofdzakelijk ter bescherming aanbrengen van verf op een oppervlak.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schilderen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3094_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004628"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004628/2022-09-24T01:13:28.860Z>.
+<https://stad.gent/id/concept/550004496/2022-09-24T01:07:20.355Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004496>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:07:20.355Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3136_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schilderijen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3136_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004496"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004496/2022-09-24T01:07:20.355Z>.
+<https://stad.gent/id/concept/550003740/2022-09-24T00:54:37.438Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003740>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:54:37.438Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300191652>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3226_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Engelse munten van zilver of koper-nikkkel ter waarde van twaalf pence die werden gemaakt van ¦1550 tot 1970.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schilling"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007977>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007977> <http://www.w3.org/2004/02/skos/core#prefLabel> "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl.
+_:df_3226_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003740"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003740/2022-09-24T00:54:37.438Z>.
+<https://stad.gent/id/concept/550001762/2022-09-24T00:26:04.896Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001762>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:26:04.896Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300036869>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3430_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Algemene term voor harnasstukken die in de hand of op de arm worden gedragen en worden gebruikt om stoten van een tegenstander af te weren of bescherming te bieden tegen projectielen. Ze hebben door de geschiedenis heen overal in de wereld bestaan in vele afmetingen, vormen en materialen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schild (harnas)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008232>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008232> <http://www.w3.org/2004/02/skos/core#prefLabel> "wapenrusting naar vorm"@nl.
+_:df_3430_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001762"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001762/2022-09-24T00:26:04.896Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/schi.ttl> <https://w3id.org/tree#relation> _:df_1_1351.
+_:df_1_1351 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/schil.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "schil".
+<https://www.pieter.pm/coghent-substrings/thesaurus/schi.ttl> <https://w3id.org/tree#relation> _:df_1_1352.
+_:df_1_1352 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/schip.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "schip".
+<https://www.pieter.pm/coghent-substrings/thesaurus/schi.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/schi.ttl>.

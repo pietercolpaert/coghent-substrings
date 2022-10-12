@@ -55,3 +55,106 @@ _:df_2680_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570014266"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014266/2021-10-31T22:46:07.805Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/tri.ttl>.
+<https://stad.gent/id/concept/570016574/2022-09-24T07:40:30.438Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016574>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:40:30.438Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300012849>;
+    <http://www.w3.org/ns/adms#identifier> _:df_340_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "triplex"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_340_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016574"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016574/2022-09-24T07:40:30.438Z>.
+<https://stad.gent/id/concept/570014266/2022-09-24T06:43:32.158Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014266>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:43:32.158Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q193870>;
+    <http://www.w3.org/ns/adms#identifier> _:df_748_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "wetenschap die zich met wrijving bezighoudt";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tribologie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_748_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014266"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014266/2022-09-24T06:43:32.158Z>.
+<https://stad.gent/id/concept/550005131/2022-09-24T01:29:58.737Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005131>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:29:58.737Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004447>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2974_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Trier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004734>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_2974_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005131"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005131/2022-09-24T01:29:58.737Z>.
+<https://stad.gent/id/concept/550004602/2022-09-24T01:12:13.056Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004602>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:12:13.056Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/8703937>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3103_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Trient"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005889>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005889> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zwitserland"@nl.
+_:df_3103_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004602"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004602/2022-09-24T01:12:13.056Z>.
+<https://stad.gent/id/concept/550004153/2022-09-24T00:59:30.519Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004153>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:59:30.519Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005539>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3193_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Trieste"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550000038>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000038> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_3193_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004153"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004153/2022-09-24T00:59:30.519Z>.
+<https://stad.gent/id/concept/670006366/2022-09-09T08:30:53.725Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006366>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:30:53.725Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4156_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Trial"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4156_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006366"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006366/2022-09-09T08:30:53.725Z>.
+<https://stad.gent/id/concept/670006367/2022-09-09T08:30:58.727Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006367>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:30:58.727Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4156_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tribute to a Bad Man"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4156_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006367"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006367/2022-09-09T08:30:58.727Z>.
+<https://stad.gent/id/concept/670006368/2022-09-09T08:31:04.785Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006368>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:31:04.785Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4156_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tricoche et Cacolet détectives"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4156_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006368"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006368/2022-09-09T08:31:04.785Z>.
+<https://stad.gent/id/concept/670006369/2022-09-09T08:31:09.786Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006369>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:31:09.786Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4156_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Triomphe des resquilleurs fin de 08/15"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4156_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006369"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006369/2022-09-09T08:31:09.786Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/tri.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/tri.ttl>.

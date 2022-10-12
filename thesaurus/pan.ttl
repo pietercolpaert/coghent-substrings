@@ -35,3 +35,113 @@ _:df_2551_8 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570014939"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014939/2021-10-31T23:04:29.058Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/pan.ttl>.
+<https://stad.gent/id/concept/570001059/2022-09-24T04:14:08.502Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001059>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:14:08.502Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022426>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1807_29;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Apparaten die bestaan uit vier stroken van hout of een ander materiaal die met scharnieren tot een vierkant zijn gevormd, zo dat ze overlappen en kunnen worden aangepast aan de grootte van het werk dat wordt gekopieerd, vergroot of verkleind. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pantograaf"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1807_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001059"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001059/2022-09-24T04:14:08.502Z>.
+<https://stad.gent/id/concept/550006103/2022-09-24T02:03:26.760Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006103>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:03:26.760Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1034802>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2737_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Pantin"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004704>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004704> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_2737_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006103"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006103/2022-09-24T02:03:26.760Z>.
+<https://stad.gent/id/concept/550005886/2022-09-24T01:56:28.085Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005886>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:56:28.085Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2785_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "werktuig om een vlakke figuur over te brengen hetzij op dezelfde grote, hetzij in een andere verhouding vergroot of verkleind";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pantograaf"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008170>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008170> <http://www.w3.org/2004/02/skos/core#prefLabel> "schets-teken-en schrijfbenodigdheden naar specifiek type"@nl.
+_:df_2785_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005886"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005886/2022-09-24T01:56:28.085Z>.
+<https://stad.gent/id/concept/550005455/2022-09-24T01:43:30.971Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005455>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:43:30.971Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300201279>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2878_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders die voornamelijk zijn bestemd om in te koken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008161>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550000948>, <https://stad.gent/id/concept/550005443>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005443> <http://www.w3.org/2004/02/skos/core#prefLabel> "vuurpot"@nl.
+<https://stad.gent/id/concept/550000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "steelpan"@nl.
+<https://stad.gent/id/concept/550008161> <http://www.w3.org/2004/02/skos/core#prefLabel> "vaten voor het koken van voedsel"@nl.
+_:df_2878_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005455"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005455/2022-09-24T01:43:30.971Z>.
+<https://stad.gent/id/concept/550004540/2022-09-24T01:08:51.192Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004540>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:08:51.192Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014657>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3127_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "In de kunstwereld verwijst de term naar brede, dunne, vlakke of soms gebogen stukken hout, zoals bij schilderijen op paneel. Gebruik 'panelen (oppervlaktecomponenten)' in de architectuur en andere constructieve kunsten om te verwijzen naar een paneel, van hout of een ander materiaal, dat meestal een segment vormt van een oppervlak dat verzonken is onder of uitsteekt boven het algehele niveau, en dat onderdeel vormt van een lijst of een andere begrenzing, zoals bij een schilderijlijst, soms met een afwijkende kleur of vervaardigd uit een ander materiaal.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "paneel (hout)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008831>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008831> <http://www.w3.org/2004/02/skos/core#prefLabel> "hout naar vorm of functie"@nl.
+_:df_3127_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004540"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004540/2022-09-24T01:08:51.192Z>.
+<https://stad.gent/id/concept/550002469/2022-09-24T00:36:20.334Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002469>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:36:20.334Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014657>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3358_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "In de kunstwereld verwijst de term naar brede, dunne, vlakke of soms gebogen stukken hout, zoals bij schilderijen op paneel. Gebruik 'panelen (oppervlaktecomponenten)' in de architectuur en andere constructieve kunsten om te verwijzen naar een paneel, van hout of een ander materiaal, dat meestal een segment vormt van een oppervlak dat verzonken is onder of uitsteekt boven het algehele niveau, en dat onderdeel vormt van een lijst of een andere begrenzing, zoals bij een schilderijlijst, soms met een afwijkende kleur of vervaardigd uit een ander materiaal.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "paneel (object)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008084>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008084> <http://www.w3.org/2004/02/skos/core#prefLabel> "objectgenres naar materiaal"@nl.
+_:df_3358_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002469"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002469/2022-09-24T00:36:20.334Z>.
+<https://stad.gent/id/concept/550000050/2022-09-24T00:01:55.607Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000050>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:01:55.607Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300033656>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3604_54;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst doorgaans naar schilderingen op houten dragers, waaronder ook kleinere draagbare schilderingen en middelgrote schilderingen vallen zoals altaarstukken, waarbij verschillende houten planken zijn samengevoegd om een groter paneel te vormen. De term wordt dikwijls gebruikt om specifiek te verwijzen naar schilderingen op een houten drager in de westerse kunst, die doorgaans dateren uit het oude Griekenland en Rome tot in de renaissance. Pas daarna werd canvas standaard als drager gebruikt voor schilderingen in deze formaten. Bij het vervaardigen van Griekse en Russisch-orthodoxe iconen zijn paneelschilderingen nog steeds heel gebruikelijk.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "paneelschildering"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008246>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008246> <http://www.w3.org/2004/02/skos/core#prefLabel> "schilderingen naar vorm"@nl.
+_:df_3604_54 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000050"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000050/2022-09-24T00:01:55.607Z>.
+<https://stad.gent/id/concept/670007124/2022-09-09T09:31:31.841Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670007124>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:31:31.841Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3256>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3724_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Pantserschipstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3724_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670007124"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670007124/2022-09-09T09:31:31.841Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/pan.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/pan.ttl>.

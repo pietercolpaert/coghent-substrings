@@ -11,3 +11,72 @@ _:df_2380_24 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570016092"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016092/2021-10-31T23:28:40.509Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/stan.ttl>.
+<https://stad.gent/id/concept/550008126/2022-09-24T03:08:53.092Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008126>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:08:53.092Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300039767>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2269_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Objecten die ontworpen zijn om andere voorwerpen te ondersteunen en te presenteren. Voorbeelden zijn op tafels gelijkende meubelsstukken om voorwerpen te dragen en ze te tonen. Voor ondersteundende structuren die ontworpen zijn voor, en bevestigd zijn aan, het ondersteunde voorwerp, gebruik dan 'voetstukken'.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "standaard (ondersteunend meubilair)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008127>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008125>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008125> <http://www.w3.org/2004/02/skos/core#prefLabel> "standaarden naar functie"@nl.
+<https://stad.gent/id/concept/550008127> <http://www.w3.org/2004/02/skos/core#prefLabel> "ondersteunend meubilair"@nl.
+_:df_2269_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008126"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008126> <http://www.w3.org/2004/02/skos/core#prefLabel> "standaard (ondersteunend meubilair)"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008126/2022-09-24T03:08:53.092Z>.
+<https://stad.gent/id/concept/550008125/2022-09-24T03:08:48.089Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008125>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:08:48.089Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300039786>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2272_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "standaarden naar functie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008126>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008124>, <https://stad.gent/id/concept/550001940>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001940> <http://www.w3.org/2004/02/skos/core#prefLabel> "ketelhouder"@nl.
+<https://stad.gent/id/concept/550008124> <http://www.w3.org/2004/02/skos/core#prefLabel> "kaarshouder (meubilair)"@nl.
+<https://stad.gent/id/concept/550008126> <http://www.w3.org/2004/02/skos/core#prefLabel> "standaard (ondersteunend meubilair)"@nl.
+_:df_2272_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008125"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008125> <http://www.w3.org/2004/02/skos/core#prefLabel> "standaarden naar functie"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008125/2022-09-24T03:08:48.089Z>.
+<https://stad.gent/id/concept/550007889/2022-09-24T02:49:13.037Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007889>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:49:13.037Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300047600>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2410_18;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Rondsculpturen van menselijke of dierlijke figuren of kleine groepen van figuren, steeds ten voeten uit, staande of zittende, meestal in een open ruimte en op een sokkel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "standbeeld"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007890>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001428>, <https://stad.gent/id/concept/550001498>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001498> <http://www.w3.org/2004/02/skos/core#prefLabel> "kouros"@nl.
+<https://stad.gent/id/concept/550001428> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldje"@nl.
+<https://stad.gent/id/concept/550007890> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldhouwwerken naar type onderwerp"@nl.
+_:df_2410_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007889"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007889> <http://www.w3.org/2004/02/skos/core#prefLabel> "standbeeld"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007889/2022-09-24T02:49:13.037Z>.
+<https://stad.gent/id/concept/530000002/2022-09-15T00:00:09.596Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000002>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-15T00:00:09.596Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300039767>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3670_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Tafelachtige meubelstukken om voorwerpen te dragen en ze te vertonen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "standaard (dragend meubilair)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006321>, <https://stad.gent/id/concept/530008714>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008714> <http://www.w3.org/2004/02/skos/core#prefLabel> "standaard (ondersteunend meubilair)"@nl.
+<https://stad.gent/id/concept/530006321> <http://www.w3.org/2004/02/skos/core#prefLabel> "meubilair (objectnaam)"@nl.
+_:df_3670_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000002"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000002/2022-09-15T00:00:09.596Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/stan.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/stan.ttl>.

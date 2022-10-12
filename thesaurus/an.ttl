@@ -272,3 +272,213 @@ _:df_2674_21 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570014310"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014310/2021-10-31T22:47:14.296Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/an.ttl>.
+<https://stad.gent/id/concept/570014310/2022-09-24T06:44:37.542Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014310>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:44:37.542Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300264876>;
+    <http://www.w3.org/ns/adms#identifier> _:df_739_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "antroposofie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_739_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014310"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014310/2022-09-24T06:44:37.542Z>.
+<https://stad.gent/id/concept/550008751/2022-09-24T03:44:57.415Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008751>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:44:57.415Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010360>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2014_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Grondstoffen die geen koolwaterstof of enige derivaten daarvan bevatten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "anorganisch materiaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008757>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008782>, <https://stad.gent/id/concept/550002249>, <https://stad.gent/id/concept/550008091>, <https://stad.gent/id/concept/550008398>, <https://stad.gent/id/concept/550008773>, <https://stad.gent/id/concept/550002710>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002710> <http://www.w3.org/2004/02/skos/core#prefLabel> "mineraal"@nl.
+<https://stad.gent/id/concept/550008773> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaal en metaalproducten"@nl.
+<https://stad.gent/id/concept/550008398> <http://www.w3.org/2004/02/skos/core#prefLabel> "krijt (materiaal)"@nl.
+<https://stad.gent/id/concept/550008091> <http://www.w3.org/2004/02/skos/core#prefLabel> "klei en kleiproducten"@nl.
+<https://stad.gent/id/concept/550002249> <http://www.w3.org/2004/02/skos/core#prefLabel> "glas (materiaal)"@nl, "glas (materiaal)"@nl.
+<https://stad.gent/id/concept/550008782> <http://www.w3.org/2004/02/skos/core#prefLabel> "gesteente"@nl.
+<https://stad.gent/id/concept/550008757> <http://www.w3.org/2004/02/skos/core#prefLabel> "materialen naar samenstelling"@nl, "materialen naar samenstelling"@nl.
+_:df_2014_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008751"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008751/2022-09-24T03:44:57.415Z>.
+<https://stad.gent/id/concept/550008258/2022-09-24T03:19:33.514Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008258>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:19:33.514Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300048659>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2194_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Metalen banden of platen waarmee timmer- of metselwerk bijeen wordt gehouden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "anker (bevestigingsmiddel)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008073>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001894>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001894> <http://www.w3.org/2004/02/skos/core#prefLabel> "muuranker"@nl.
+<https://stad.gent/id/concept/550008073> <http://www.w3.org/2004/02/skos/core#prefLabel> "bevestigingsmiddel (onderdeel)"@nl.
+_:df_2194_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008258"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008258/2022-09-24T03:19:33.514Z>.
+<https://stad.gent/id/concept/550006891/2022-09-24T02:32:18.633Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006891>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:32:18.633Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007855>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2530_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Anderlecht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008923>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008923> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brussels Hoofdstedelijk Gewest"@nl.
+_:df_2530_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006891"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006891/2022-09-24T02:32:18.633Z>.
+<https://stad.gent/id/concept/550006882/2022-09-24T02:31:48.616Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006882>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:31:48.616Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008636>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2533_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Annemasse"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004704>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004704> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl, "Frankrijk"@nl.
+_:df_2533_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006882"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006882/2022-09-24T02:31:48.616Z>.
+<https://stad.gent/id/concept/550006420/2022-09-24T02:16:34.383Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006420>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:16:34.383Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7012322>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2644_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Annecy"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004704>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004704> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl, "Frankrijk"@nl.
+_:df_2644_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006420"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006420/2022-09-24T02:16:34.383Z>.
+<https://stad.gent/id/concept/550006277/2022-09-24T02:11:26.099Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006277>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:11:26.099Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007854>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2680_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Andenne"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008922>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008922> <http://www.w3.org/2004/02/skos/core#prefLabel> "Namen (provincie)"@nl.
+_:df_2680_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006277"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006277/2022-09-24T02:11:26.099Z>.
+<https://stad.gent/id/concept/550006253/2022-09-24T02:10:15.667Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006253>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:10:15.667Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1031797>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2689_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Annecy-le-Vieux"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004704>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004704> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_2689_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006253"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006253/2022-09-24T02:10:15.667Z>.
+<https://stad.gent/id/concept/550005426/2022-09-24T01:42:25.554Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005426>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:42:25.554Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026819>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2887_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Briefkaarten met een picturale afbeelding aan een kant.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ansichtkaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005721>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005721> <http://www.w3.org/2004/02/skos/core#prefLabel> "briefkaart"@nl.
+_:df_2887_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005426"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005426/2022-09-24T01:42:25.554Z>.
+<https://stad.gent/id/concept/550003733/2022-09-24T00:54:12.427Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003733>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:54:12.427Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3229_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Anna"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007977>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007977> <http://www.w3.org/2004/02/skos/core#prefLabel> "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl.
+_:df_3229_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003733"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003733/2022-09-24T00:54:12.427Z>.
+<https://stad.gent/id/concept/550003687/2022-09-24T00:52:11.260Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003687>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:52:11.260Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007856>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3244_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (stad)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005392>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008974>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008974> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen"@nl.
+<https://stad.gent/id/concept/550005392> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl.
+_:df_3244_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003687"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003687/2022-09-24T00:52:11.260Z>.
+<https://stad.gent/id/concept/550003408/2022-09-24T00:49:08.706Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003408>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:49:08.706Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7244717>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3265_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Anzegem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004834>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004834> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen"@nl.
+_:df_3265_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003408"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003408/2022-09-24T00:49:08.706Z>.
+<https://stad.gent/id/concept/670006985/2022-09-09T09:22:07.458Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006985>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:22:07.458Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3153>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3790_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpsesteenweg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3790_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006985"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006985/2022-09-09T09:22:07.458Z>.
+<https://stad.gent/id/concept/670006986/2022-09-09T09:22:12.461Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006986>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:22:12.461Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3790_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpsevoetweg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3790_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006986"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006986/2022-09-09T09:22:12.461Z>.
+<https://stad.gent/id/concept/670006984/2022-09-09T09:22:02.457Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006984>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:22:02.457Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3793_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Antoine van Hoorebekehof"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3793_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006984"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006984/2022-09-09T09:22:02.457Z>.
+<https://stad.gent/id/concept/670006776/2022-09-09T09:05:23.121Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006776>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:05:23.121Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q12886>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3910_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Anderlecht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3910_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006776"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006776/2022-09-09T09:05:23.121Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/an.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/an.ttl>.

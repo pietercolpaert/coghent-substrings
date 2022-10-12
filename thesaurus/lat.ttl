@@ -10,3 +10,39 @@ _:df_2005_7 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570017695"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017695/2021-11-01T00:21:21.184Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/lat.ttl>.
+<https://stad.gent/id/concept/550006136/2022-09-24T02:04:57.608Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006136>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:04:57.608Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2725_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "latticino"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2725_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006136"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006136/2022-09-24T02:04:57.608Z>.
+<https://stad.gent/id/concept/550005991/2022-09-24T01:59:44.812Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005991>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:59:44.812Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300019278>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2764_34;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "late bronstijd"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550000731>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000731> <http://www.w3.org/2004/02/skos/core#prefLabel> "bronstijd"@nl.
+_:df_2764_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005991"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005991/2022-09-24T01:59:44.812Z>.
+<https://stad.gent/id/concept/550003208/2022-09-24T00:47:12.420Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003208>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:47:12.420Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300106745>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3280_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "late ijzertijd"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3280_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003208"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003208/2022-09-24T00:47:12.420Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/lat.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/lat.ttl>.

@@ -35,3 +35,55 @@ _:df_2422_10 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570015828"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015828/2021-10-31T23:22:39.387Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ec.ttl>.
+<https://stad.gent/id/concept/570015828/2022-09-24T07:20:40.771Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015828>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:20:40.771Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300154337>;
+    <http://www.w3.org/ns/adms#identifier> _:df_481_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "echtpaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_481_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015828"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015828/2022-09-24T07:20:40.771Z>.
+<https://stad.gent/id/concept/570000166/2022-09-24T04:07:49.400Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000166>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:07:49.400Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054359>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1852_35;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "economie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1852_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000166"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000166/2022-09-24T04:07:49.400Z>.
+<https://stad.gent/id/concept/530010646/2022-09-16T00:00:45.453Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010646>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-16T00:00:45.453Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300154343>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3634_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vrouwelijke partners in huwelijksrelaties.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "echtgenote"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009707>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009707> <http://www.w3.org/2004/02/skos/core#prefLabel> "familie"@nl, "familie"@nl, "familie"@nl, "familie"@nl, "familie"@nl.
+_:df_3634_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010646"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010646/2022-09-16T00:00:45.453Z>.
+<https://stad.gent/id/concept/530009659/2022-09-16T00:00:10.436Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009659>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-16T00:00:10.436Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300154341>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3640_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Mannelijke partners in huwelijksrelaties.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "echtgenoot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009707>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009707> <http://www.w3.org/2004/02/skos/core#prefLabel> "familie"@nl.
+_:df_3640_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009659"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530009659> <http://www.w3.org/2004/02/skos/core#prefLabel> "echtgenoot"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009659/2022-09-16T00:00:10.436Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/ec.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ec.ttl>.

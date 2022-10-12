@@ -62,3 +62,44 @@ _:df_2374_21 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570016129"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016129/2021-10-31T23:29:31.200Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/moe.ttl>.
+<https://stad.gent/id/concept/570016129/2022-09-24T07:27:34.124Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016129>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:27:34.124Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007962>;
+    <http://www.w3.org/ns/adms#identifier> _:df_433_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Moeskroen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012866>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012866> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen (provincie)"@nl.
+_:df_433_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016129"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016129/2022-09-24T07:27:34.124Z>.
+<https://stad.gent/id/concept/570009261/2022-09-24T05:15:52.174Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009261>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:15:52.174Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024714>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1369_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Handgereedschap dat bestaat uit een handvat met aan één kant een bek, dat wordt gebruikt voor het draaien of vasthouden van bouten, moeren, buizen of fittingen. De bek kan verstelbaar zijn of voorgevormd voor een object van een bepaalde grootte, .";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "moersleutel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1369_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009261"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009261/2022-09-24T05:15:52.174Z>.
+<https://stad.gent/id/concept/530009740/2022-09-16T00:00:25.443Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009740>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-16T00:00:25.443Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025932>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3637_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vrouwen die, op biologische wijze of door adoptie, een kind hebben gekregen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "moeder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009707>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009707> <http://www.w3.org/2004/02/skos/core#prefLabel> "familie"@nl, "familie"@nl, "familie"@nl, "familie"@nl, "familie"@nl.
+_:df_3637_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009740"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009740/2022-09-16T00:00:25.443Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/moe.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/moe.ttl>.

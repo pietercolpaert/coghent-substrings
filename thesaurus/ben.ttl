@@ -219,3 +219,57 @@ _:df_1_702 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/bene.ttl>;
     <https://w3id.org/tree#value> "bene".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ben.ttl>.
+<https://stad.gent/id/concept/570013371/2022-09-24T06:26:50.268Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013371>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:26:50.268Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/8060269>;
+    <http://www.w3.org/ns/adms#identifier> _:df_862_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Benelux"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_862_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013371"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013371/2022-09-24T06:26:50.268Z>.
+<https://stad.gent/id/concept/550009031/2022-09-24T03:56:50.519Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009031>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:56:50.519Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1930_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Beni Khalifa/Beni Khabha"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1930_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009031"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009031/2022-09-24T03:56:50.519Z>.
+<https://stad.gent/id/concept/550008236/2022-09-24T03:17:47.615Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008236>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:17:47.615Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024808>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2206_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "benodigdheden voor vormen en geleiden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007772>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008235>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008235> <http://www.w3.org/2004/02/skos/core#prefLabel> "gereedschap voor vormen en geleiden"@nl.
+<https://stad.gent/id/concept/550007772> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting naar proces"@nl.
+_:df_2206_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008236"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008236> <http://www.w3.org/2004/02/skos/core#prefLabel> "benodigdheden voor vormen en geleiden"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008236/2022-09-24T03:17:47.615Z>.
+<https://stad.gent/id/concept/550008051/2022-09-24T03:02:36.732Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008051>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:02:36.732Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300233612>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2314_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "benodigdheden voor beeldoverdracht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007979>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550003878>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003878> <http://www.w3.org/2004/02/skos/core#prefLabel> "drukpers"@nl.
+<https://stad.gent/id/concept/550007979> <http://www.w3.org/2004/02/skos/core#prefLabel> "drukkersuitrusting"@nl.
+_:df_2314_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008051"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008051/2022-09-24T03:02:36.732Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/ben.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ben.ttl>.

@@ -106,3 +106,151 @@ _:df_3241_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009580"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009580/2021-10-31T21:27:09.042Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/hand.ttl>.
+<https://stad.gent/id/concept/550006558/2022-09-24T02:20:51.641Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006558>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:20:51.641Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026469>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2611_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Handzame"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004834>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004834> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen"@nl.
+_:df_2611_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006558"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006558/2022-09-24T02:20:51.641Z>.
+<https://stad.gent/id/concept/550005318/2022-09-24T01:38:38.310Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005318>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:38:38.310Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046219>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2914_29;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Tassen met een onbuigzaam bovenframe en één of andere knipsluiting.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "handtas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008144>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008144> <http://www.w3.org/2004/02/skos/core#prefLabel> "tas (kledingaccessoire)"@nl.
+_:df_2914_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005318"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005318/2022-09-24T01:38:38.310Z>.
+<https://stad.gent/id/concept/550005252/2022-09-24T01:35:16.343Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005252>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:35:16.343Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300404251>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2938_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "handdoekrek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008140>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008140> <http://www.w3.org/2004/02/skos/core#prefLabel> "rek (object)"@nl.
+_:df_2938_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005252"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005252/2022-09-24T01:35:16.343Z>.
+<https://stad.gent/id/concept/550005222/2022-09-24T01:33:30.544Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005222>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:33:30.544Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300033280>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2950_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Handvaten die worden gebruikt om een deur of een la open te trekken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "handgreep"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008011>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008020>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008020> <http://www.w3.org/2004/02/skos/core#prefLabel> "handgrepen naar locatie en context"@nl.
+<https://stad.gent/id/concept/550008011> <http://www.w3.org/2004/02/skos/core#prefLabel> "hendel (afwerkingsijzerwaar)"@nl.
+_:df_2950_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005222"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005222/2022-09-24T01:33:30.544Z>.
+<https://stad.gent/id/concept/550005125/2022-09-24T01:29:33.725Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005125>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:29:33.725Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300148821>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2977_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Bedekkingen voor de hand die iedere vinger apart omsluiten en soms doorlopen tot over de pols en arm.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "handschoen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008142>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008142> <http://www.w3.org/2004/02/skos/core#prefLabel> "handbedekking"@nl.
+_:df_2977_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005125"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005125/2022-09-24T01:29:33.725Z>.
+<https://stad.gent/id/concept/550004931/2022-09-24T01:24:10.631Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004931>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:24:10.631Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300191818>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3016_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken om artefacten te beschrijven die met de hand zijn gemaakt, meestal om ze te onderscheiden van machinaal gemaakte voorwerpen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "handgevormd"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3016_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004931"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004931/2022-09-24T01:24:10.631Z>.
+<https://stad.gent/id/concept/550004780/2022-09-24T01:19:06.678Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004780>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:19:06.678Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3052_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "handelaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en, "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3052_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004780"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004780/2022-09-24T01:19:06.678Z>.
+<https://stad.gent/id/concept/550004727/2022-09-24T01:17:25.783Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004727>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:17:25.783Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300252927>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3064_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het met de hand vormen van letters en woorden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "handgeschreven"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3064_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004727"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004727/2022-09-24T01:17:25.783Z>.
+<https://stad.gent/id/concept/550004637/2022-09-24T01:13:48.870Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004637>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:13:48.870Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300247516>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3091_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Boeien voor de handen die meestal bestaan uit een in tweeën gedeelde metalen ring die om de pols wordt gesloten. Bestaan meestal uit twee ringen die aan elkaar vastzitten door een korte ketting of staaf.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "handboei"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007934>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007934> <http://www.w3.org/2004/02/skos/core#prefLabel> "keten"@nl.
+_:df_3091_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004637"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004637/2022-09-24T01:13:48.870Z>.
+<https://stad.gent/id/concept/550000952/2022-09-24T00:12:01.396Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000952>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:12:01.396Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024927>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3532_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Delen van, of aanhechtsels aan voorwerpen om die er mee aan te vatten, te tillen, te verplaatsen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "handvat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007907>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007907> <http://www.w3.org/2004/02/skos/core#prefLabel> "onderdelen naar algemene context"@nl.
+_:df_3532_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000952"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000952/2022-09-24T00:12:01.396Z>.
+<https://stad.gent/id/concept/550000222/2022-09-24T00:04:06.405Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000222>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:04:06.405Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900029930>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3586_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Papiersoort, met de hand vervaardigd. Meestal wordt handgeschept papier voorzien van een watermerk. Karakteristiek zijn de ruwe kanten die bij de vorming van het blad ontstaan, meestal worden behouden als teken van de kwaliteit.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "handgeschept papier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008755>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008755> <http://www.w3.org/2004/02/skos/core#prefLabel> "papier naar productiemethode"@nl.
+_:df_3586_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000222"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000222/2022-09-24T00:04:06.405Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/hand.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/hand.ttl>.

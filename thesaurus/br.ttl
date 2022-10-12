@@ -232,3 +232,255 @@ _:df_1_481 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/bri.ttl>;
     <https://w3id.org/tree#value> "bri".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/br.ttl>.
+<https://stad.gent/id/concept/570017374/2022-09-24T08:06:23.180Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017374>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T08:06:23.180Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006341>;
+    <http://www.w3.org/ns/adms#identifier> _:df_154_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "brouwerij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_154_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017374"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017374/2022-09-24T08:06:23.180Z>.
+<https://stad.gent/id/concept/570017310/2022-09-24T08:04:12.211Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017310>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T08:04:12.211Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300259185>;
+    <http://www.w3.org/ns/adms#identifier> _:df_172_30;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten met een smal blad als van een mes en vaak met een versierd handvat, gebruikt om papier te snijden en enveloppen te openen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "briefopener"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_172_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017310"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017310/2022-09-24T08:04:12.211Z>.
+<https://stad.gent/id/concept/570016949/2022-09-24T07:54:32.387Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016949>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:54:32.387Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300432893>;
+    <http://www.w3.org/ns/adms#identifier> _:df_241_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bruidsboeket"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_241_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016949"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016949/2022-09-24T07:54:32.387Z>.
+<https://stad.gent/id/concept/570016907/2022-09-24T07:52:21.369Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016907>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:52:21.369Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300199921>;
+    <http://www.w3.org/ns/adms#identifier> _:df_256_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Messen met een lang lemmet en een getande of geschulpte snijkant. Qua vorm gelijk aan 'cakemessen' maar met grotere tanden die verder uit elkaar staan.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "broodmes"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_256_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016907"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016907/2022-09-24T07:52:21.369Z>.
+<https://stad.gent/id/concept/570016596/2022-09-24T07:41:05.867Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016596>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:41:05.867Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/q190672>;
+    <http://www.w3.org/ns/adms#identifier> _:df_337_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "brandblusser"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_337_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016596"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016596/2022-09-24T07:41:05.867Z>.
+<https://stad.gent/id/concept/570016476/2022-09-24T07:36:38.834Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016476>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:36:38.834Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024696>;
+    <http://www.w3.org/ns/adms#identifier> _:df_367_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "breekijzer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_367_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016476"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016476/2022-09-24T07:36:38.834Z>.
+<https://stad.gent/id/concept/570016304/2022-09-24T07:32:06.375Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016304>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:32:06.375Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411347>;
+    <http://www.w3.org/ns/adms#identifier> _:df_400_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "brievenweger"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_400_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016304"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016304/2022-09-24T07:32:06.375Z>.
+<https://stad.gent/id/concept/570015891/2022-09-24T07:22:01.261Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015891>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:22:01.261Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_472_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "brandkoffers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_472_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015891"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015891/2022-09-24T07:22:01.261Z>.
+<https://stad.gent/id/concept/570015785/2022-09-24T07:20:00.382Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015785>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:20:00.382Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_487_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "broodoorlog"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_487_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015785"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015785/2022-09-24T07:20:00.382Z>.
+<https://stad.gent/id/concept/570015643/2022-09-24T07:17:34.242Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015643>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:17:34.242Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300077114>;
+    <http://www.w3.org/ns/adms#identifier> _:df_505_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "brevet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_505_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015643"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015643/2022-09-24T07:17:34.242Z>.
+<https://stad.gent/id/concept/570015234/2022-09-24T07:09:50.756Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015234>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:09:50.756Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053841>;
+    <http://www.w3.org/ns/adms#identifier> _:df_559_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "brandwerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_559_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015234"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015234/2022-09-24T07:09:50.756Z>.
+<https://stad.gent/id/concept/570014928/2022-09-24T07:01:41.745Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014928>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:01:41.745Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300005175>;
+    <http://www.w3.org/ns/adms#identifier> _:df_616_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "brasserie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_616_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014928"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014928/2022-09-24T07:01:41.745Z>.
+<https://stad.gent/id/concept/570014552/2022-09-24T06:50:21.646Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014552>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:50:21.646Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209531>;
+    <http://www.w3.org/ns/adms#identifier> _:df_697_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een rek waarin gebakken voedsel, zoals brood en cake, kan afkoelen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "broodrek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_697_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014552"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014552/2022-09-24T06:50:21.646Z>.
+<https://stad.gent/id/concept/570014403/2022-09-24T06:46:33.581Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014403>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:46:33.581Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q108328499>;
+    <http://www.w3.org/ns/adms#identifier> _:df_724_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Brabantdam"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_724_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014403"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014403/2022-09-24T06:46:33.581Z>.
+<https://stad.gent/id/concept/570013161/2022-09-24T06:21:36.560Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013161>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:21:36.560Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q25931122>;
+    <http://www.w3.org/ns/adms#identifier> _:df_898_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "brillendoos"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_898_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013161"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013161/2022-09-24T06:21:36.560Z>.
+<https://stad.gent/id/concept/570013167/2022-09-24T06:21:51.565Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013167>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:21:51.565Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300201085>;
+    <http://www.w3.org/ns/adms#identifier> _:df_898_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Apparaten die worden gebruikt voor het roosteren van brood en ander voedsel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "broodrooster"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_898_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013167"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013167/2022-09-24T06:21:51.565Z>.
+<https://stad.gent/id/concept/570012785/2022-09-24T06:14:12.652Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012785>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:14:12.652Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026877>;
+    <http://www.w3.org/ns/adms#identifier> _:df_952_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Geheel der verstuurde en ontvangen, geadresseerde, geschreven berichten, zoals brieven, ansichtkaarten, memo's, nota's of telegrammen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "briefwisseling"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_952_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012785"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012785/2022-09-24T06:14:12.652Z>.
+<https://stad.gent/id/concept/570012751/2022-09-24T06:13:37.634Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012751>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:13:37.634Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q175334>;
+    <http://www.w3.org/ns/adms#identifier> _:df_955_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "brouette"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_955_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012751"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012751/2022-09-24T06:13:37.634Z>.
+<https://stad.gent/id/concept/570012464/2022-09-24T06:08:14.703Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012464>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:08:14.703Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7013453>;
+    <http://www.w3.org/ns/adms#identifier> _:df_994_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bridgeport (Connecticut)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_994_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012464"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012464/2022-09-24T06:08:14.703Z>.
+<https://stad.gent/id/concept/570012211/2022-09-24T06:03:32.520Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012211>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:03:32.520Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q35059>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1027_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "breedte"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "afmeting"@nl, "dimension"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1027_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012211"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012211/2022-09-24T06:03:32.520Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/br.ttl> <https://w3id.org/tree#relation> _:df_1_726.
+_:df_1_726 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/bri.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "bri".
+<https://www.pieter.pm/coghent-substrings/thesaurus/br.ttl> <https://w3id.org/tree#relation> _:df_1_727.
+_:df_1_727 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/bra.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "bra".
+<https://www.pieter.pm/coghent-substrings/thesaurus/br.ttl> <https://w3id.org/tree#relation> _:df_1_728.
+_:df_1_728 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/bru.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "bru".
+<https://www.pieter.pm/coghent-substrings/thesaurus/br.ttl> <https://w3id.org/tree#relation> _:df_1_729.
+_:df_1_729 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/bro.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "bro".
+<https://www.pieter.pm/coghent-substrings/thesaurus/br.ttl> <https://w3id.org/tree#relation> _:df_1_730.
+_:df_1_730 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/bre.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "bre".
+<https://www.pieter.pm/coghent-substrings/thesaurus/br.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/br.ttl>.

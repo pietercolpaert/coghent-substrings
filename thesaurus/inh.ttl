@@ -21,3 +21,55 @@ _:df_2353_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570016252"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016252/2021-10-31T23:32:13.281Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/inh.ttl>.
+<https://stad.gent/id/concept/570016252/2022-09-24T07:30:20.488Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016252>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:30:20.488Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/q1302471>;
+    <http://www.w3.org/ns/adms#identifier> _:df_412_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "inhoudsmaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_412_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016252"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016252/2022-09-24T07:30:20.488Z>.
+<https://stad.gent/id/concept/550007566/2022-09-24T02:34:39.989Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007566>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:34:39.989Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2515_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "inhoud"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "afmeting"@nl, "dimension"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2515_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007566"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007566/2022-09-24T02:34:39.989Z>.
+<https://stad.gent/id/concept/550005245/2022-09-24T01:34:41.326Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005245>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:34:41.326Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2941_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "penning geslaan ter gelegenheid van de inhuldiging van een gebouw";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "inhuldigingspenning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004364>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550003712>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003712> <http://www.w3.org/2004/02/skos/core#prefLabel> "strooipenning"@nl.
+<https://stad.gent/id/concept/550004364> <http://www.w3.org/2004/02/skos/core#prefLabel> "gedenkpenning"@nl.
+_:df_2941_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005245"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005245/2022-09-24T01:34:41.326Z>.
+<https://stad.gent/id/concept/550001015/2022-09-24T00:13:26.811Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001015>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:13:26.811Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300198981>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3520_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders voor het afmeten van hoeveelheden ingrediënten, bekervormig, met schaalverdeling.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "inhoudsmaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008167>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008167> <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van hoeveelheid: stoffen"@nl.
+_:df_3520_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001015"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001015/2022-09-24T00:13:26.811Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/inh.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/inh.ttl>.

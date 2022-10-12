@@ -189,3 +189,257 @@ _:df_3178_25 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009956"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009956/2021-10-31T21:35:57.345Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/zo.ttl>.
+<https://stad.gent/id/concept/570013537/2022-09-24T06:30:34.426Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013537>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:30:34.426Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300386052>;
+    <http://www.w3.org/ns/adms#identifier> _:df_838_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Panelen die uitgerust zijn met zonnecellen, die zo zijn ontworpen dat zonnestraling wordt geabsorbeerd om elektriciteit op te wekken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zonnepanelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_838_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013537"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013537/2022-09-24T06:30:34.426Z>.
+<https://stad.gent/id/concept/570011520/2022-09-24T05:56:33.846Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011520>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:56:33.846Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055225>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1078_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het gebruik van de energie van de zon voor verwarming of om elektriciteit op te wekken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zonne-energie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570005870>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570005870> <http://www.w3.org/2004/02/skos/core#prefLabel> "alternatieve energie"@nl.
+_:df_1078_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011520"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011520/2022-09-24T05:56:33.846Z>.
+<https://stad.gent/id/concept/570011224/2022-09-24T05:53:47.458Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011224>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:53:47.458Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300183627>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1099_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zout"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1099_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011224"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011224/2022-09-24T05:53:47.458Z>.
+<https://stad.gent/id/concept/570009956/2022-09-24T05:33:20.748Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009956>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:33:20.748Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1243_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zonnebrandolie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1243_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009956"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009956/2022-09-24T05:33:20.748Z>.
+<https://stad.gent/id/concept/570008882/2022-09-24T05:01:04.066Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008882>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:01:04.066Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026827>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1474_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zomergem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "motief"@nl, "motif"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_1474_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008882"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008882/2022-09-24T05:01:04.066Z>.
+<https://stad.gent/id/concept/570008312/2022-09-24T04:46:39.186Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008312>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:46:39.186Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008821>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1576_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zottegem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_1576_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008312"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008312/2022-09-24T04:46:39.186Z>.
+<https://stad.gent/id/concept/570007047/2022-09-24T04:40:03.825Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007047>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:40:03.825Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7258740>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1621_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zoersel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020234>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020234> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl.
+_:df_1621_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007047"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007047/2022-09-24T04:40:03.825Z>.
+<https://stad.gent/id/concept/550007637/2022-09-24T02:36:35.958Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007637>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:36:35.958Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026827>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2500_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zomergem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004313>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004313> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen"@nl.
+_:df_2500_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007637"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007637/2022-09-24T02:36:35.958Z>.
+<https://stad.gent/id/concept/550006843/2022-09-24T02:29:57.181Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006843>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:29:57.181Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/4012512>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2548_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zoutleew"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008920>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008920> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams-Brabant"@nl, "Vlaams-Brabant"@nl, "Vlaams-Brabant"@nl.
+_:df_2548_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006843"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006843/2022-09-24T02:29:57.181Z>.
+<https://stad.gent/id/concept/550006190/2022-09-24T02:07:39.427Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006190>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:07:39.427Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041614>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2707_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor instrumenten die overdag bij benadering de tijd aangeven, door middel van een schaduw die bij zonlicht op een oppervlak met een schaalverdeling wordt geworpen door een gnomon.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zonnewijzer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008158>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008158> <http://www.w3.org/2004/02/skos/core#prefLabel> "uurwerken naar vorm"@nl.
+_:df_2707_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006190"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006190/2022-09-24T02:07:39.427Z>.
+<https://stad.gent/id/concept/550005844/2022-09-24T01:55:17.133Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005844>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:55:17.133Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008821>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2794_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zottegem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004313>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004313> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen"@nl.
+_:df_2794_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005844"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005844/2022-09-24T01:55:17.133Z>.
+<https://stad.gent/id/concept/550004810/2022-09-24T01:20:52.558Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004810>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:20:52.558Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043062>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3040_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders voor tafelzout. Worden gemaakt in een grote verscheidenheid aan vormen, stijlen, materialen en grootte.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zoutvat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008254>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008254> <http://www.w3.org/2004/02/skos/core#prefLabel> "specerijvaten"@nl.
+_:df_3040_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004810"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004810/2022-09-24T01:20:52.558Z>.
+<https://stad.gent/id/concept/550004188/2022-09-24T00:59:55.529Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004188>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:59:55.529Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3190_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zonnewijzermaker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3190_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004188"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004188/2022-09-24T00:59:55.529Z>.
+<https://stad.gent/id/concept/530010784/2022-09-16T00:00:50.454Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010784>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-16T00:00:50.454Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300154350>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3634_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Mannelijk nageslacht.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zoon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009707>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009707> <http://www.w3.org/2004/02/skos/core#prefLabel> "familie"@nl, "familie"@nl, "familie"@nl, "familie"@nl, "familie"@nl.
+_:df_3634_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010784"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010784/2022-09-16T00:00:50.454Z>.
+<https://stad.gent/id/concept/670006705/2022-09-09T08:59:24.344Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006705>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:59:24.344Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3952_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zorro le vengeur masqué"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3952_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006705"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006705/2022-09-09T08:59:24.344Z>.
+<https://stad.gent/id/concept/670006706/2022-09-09T08:59:29.347Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006706>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:59:29.347Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3952_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zorro l'indompable!"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3952_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006706"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006706/2022-09-09T08:59:29.347Z>.
+<https://stad.gent/id/concept/670006707/2022-09-09T08:59:34.348Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006707>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:59:34.348Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3952_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zorro l'indomptable"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3952_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006707"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006707/2022-09-09T08:59:34.348Z>.
+<https://stad.gent/id/concept/670006700/2022-09-09T08:58:59.329Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006700>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:58:59.329Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3955_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zonnekindje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3955_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006700"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006700/2022-09-09T08:58:59.329Z>.
+<https://stad.gent/id/concept/670006701/2022-09-09T08:59:04.332Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006701>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:59:04.332Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3955_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zorro"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3955_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006701"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006701/2022-09-09T08:59:04.332Z>.
+<https://stad.gent/id/concept/670006702/2022-09-09T08:59:09.335Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006702>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:59:09.335Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.imdb.com/title/tt0032164>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3955_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zorro en zijn legioen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3955_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006702"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006702/2022-09-09T08:59:09.335Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/zo.ttl> <https://w3id.org/tree#relation> _:df_1_1397.
+_:df_1_1397 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/zor.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "zor".
+<https://www.pieter.pm/coghent-substrings/thesaurus/zo.ttl> <https://w3id.org/tree#relation> _:df_1_1398.
+_:df_1_1398 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/zon.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "zon".
+<https://www.pieter.pm/coghent-substrings/thesaurus/zo.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/zo.ttl>.

@@ -241,3 +241,224 @@ _:df_1_630 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/pel.ttl>;
     <https://w3id.org/tree#value> "pel".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/pe.ttl>.
+<https://stad.gent/id/concept/530006332/2022-10-01T00:00:48.559Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006332>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-01T00:00:48.559Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900031492>;
+    <http://www.w3.org/ns/adms#identifier> _:df_88_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Stel van twee bij elkaar behorende potjes, één voor zout, één voor peper.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "peper- en zoutstel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010725>, <https://stad.gent/id/concept/530006544>, <https://stad.gent/id/concept/530004811>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004811> <http://www.w3.org/2004/02/skos/core#prefLabel> "stel"@nl.
+<https://stad.gent/id/concept/530006544> <http://www.w3.org/2004/02/skos/core#prefLabel> "specerijvat"@nl.
+<https://stad.gent/id/concept/530010725> <http://www.w3.org/2004/02/skos/core#prefLabel> "menage-set"@nl.
+_:df_88_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006332"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006332/2022-10-01T00:00:48.559Z>.
+<https://stad.gent/id/concept/530003009/2022-09-29T00:01:24.694Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003009>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-29T00:01:24.694Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300200179>;
+    <http://www.w3.org/ns/adms#identifier> _:df_106_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine handbediende apparaatjes die worden gebruikt voor het opslaan en vermalen van peperkorrels.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pepermolen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008885>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008885> <http://www.w3.org/2004/02/skos/core#prefLabel> "keukenmolen"@nl.
+_:df_106_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003009"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003009/2022-09-29T00:01:24.694Z>.
+<https://stad.gent/id/concept/570017439/2022-09-24T08:09:14.630Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017439>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T08:09:14.630Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2368358>;
+    <http://www.w3.org/ns/adms#identifier> _:df_136_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pedaalemmer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_136_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017439"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017439/2022-09-24T08:09:14.630Z>.
+<https://stad.gent/id/concept/570017323/2022-09-24T08:04:52.234Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017323>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T08:04:52.234Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/thesauri/dateringen/1072>;
+    <http://www.w3.org/ns/adms#identifier> _:df_166_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "2de helft 20ste eeuw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012473>;
+    <http://www.w3.org/2004/02/skos/core#note> "periode"@nl, "period"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012473> <http://www.w3.org/2004/02/skos/core#prefLabel> "20ste eeuw"@nl.
+_:df_166_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017323"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017323/2022-09-24T08:04:52.234Z>.
+<https://stad.gent/id/concept/570017261/2022-09-24T08:02:46.513Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017261>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T08:02:46.513Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/thesauri/dateringen/1067>;
+    <http://www.w3.org/ns/adms#identifier> _:df_181_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "1ste helft 20ste eeuw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012473>;
+    <http://www.w3.org/2004/02/skos/core#note> "periode"@nl, "period"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012473> <http://www.w3.org/2004/02/skos/core#prefLabel> "20ste eeuw"@nl.
+_:df_181_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017261"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017261/2022-09-24T08:02:46.513Z>.
+<https://stad.gent/id/concept/570017215/2022-09-24T08:01:41.160Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017215>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T08:01:41.160Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_190_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "einde 18de eeuw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003288>;
+    <http://www.w3.org/2004/02/skos/core#note> "periode"@nl, "period"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003288> <http://www.w3.org/2004/02/skos/core#prefLabel> "18de eeuw"@nl.
+_:df_190_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017215"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017215/2022-09-24T08:01:41.160Z>.
+<https://stad.gent/id/concept/570017120/2022-09-24T08:00:45.350Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017120>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T08:00:45.350Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_196_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "petroleumverlichting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_196_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017120"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017120/2022-09-24T08:00:45.350Z>.
+<https://stad.gent/id/concept/570016551/2022-09-24T07:39:45.043Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016551>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:39:45.043Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195264>;
+    <http://www.w3.org/ns/adms#identifier> _:df_346_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "percolator"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_346_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016551"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016551/2022-09-24T07:39:45.043Z>.
+<https://stad.gent/id/concept/570016509/2022-09-24T07:38:09.613Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016509>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:38:09.613Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_358_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pennendoos"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_358_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016509"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016509/2022-09-24T07:38:09.613Z>.
+<https://stad.gent/id/concept/570016491/2022-09-24T07:37:19.206Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016491>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:37:19.206Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411361>;
+    <http://www.w3.org/ns/adms#identifier> _:df_364_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "penhouder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_364_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016491"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016491/2022-09-24T07:37:19.206Z>.
+<https://stad.gent/id/concept/570016301/2022-09-24T07:31:51.368Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016301>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:31:51.368Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q183413>;
+    <http://www.w3.org/ns/adms#identifier> _:df_403_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "perforator"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_403_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016301"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016301/2022-09-24T07:31:51.368Z>.
+<https://stad.gent/id/concept/570016226/2022-09-24T07:29:45.475Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016226>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:29:45.475Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_418_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "einde 20ste eeuw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012473>;
+    <http://www.w3.org/2004/02/skos/core#note> "periode"@nl, "period"@en, "associatie"@nl, "association"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012473> <http://www.w3.org/2004/02/skos/core#prefLabel> "20ste eeuw"@nl.
+_:df_418_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016226"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016226/2022-09-24T07:29:45.475Z>.
+<https://stad.gent/id/concept/570016180/2022-09-24T07:28:34.487Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016180>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:28:34.487Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_424_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "petroleumstel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_424_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016180"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016180/2022-09-24T07:28:34.487Z>.
+<https://stad.gent/id/concept/570016156/2022-09-24T07:28:09.479Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016156>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:28:09.479Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037638>;
+    <http://www.w3.org/ns/adms#identifier> _:df_427_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Lampen die zijn ontworpen om op petroleum te branden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "petroleumlamp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_427_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016156"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016156/2022-09-24T07:28:09.479Z>.
+<https://stad.gent/id/concept/570016122/2022-09-24T07:27:29.123Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016122>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:27:29.123Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/thesauri/dateringen/1063>;
+    <http://www.w3.org/ns/adms#identifier> _:df_433_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "2de kwart 19de eeuw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003720>;
+    <http://www.w3.org/2004/02/skos/core#note> "periode"@nl, "period"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003720> <http://www.w3.org/2004/02/skos/core#prefLabel> "19de eeuw"@nl.
+_:df_433_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016122"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016122/2022-09-24T07:27:29.123Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/pe.ttl> <https://w3id.org/tree#relation> _:df_1_441.
+_:df_1_441 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/per.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "per".
+<https://www.pieter.pm/coghent-substrings/thesaurus/pe.ttl> <https://w3id.org/tree#relation> _:df_1_442.
+_:df_1_442 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/pen.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "pen".
+<https://www.pieter.pm/coghent-substrings/thesaurus/pe.ttl> <https://w3id.org/tree#relation> _:df_1_443.
+_:df_1_443 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/pek.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "pek".
+<https://www.pieter.pm/coghent-substrings/thesaurus/pe.ttl> <https://w3id.org/tree#relation> _:df_1_444.
+_:df_1_444 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/pel.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "pel".
+<https://www.pieter.pm/coghent-substrings/thesaurus/pe.ttl> <https://w3id.org/tree#relation> _:df_1_445.
+_:df_1_445 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/pet.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "pet".
+<https://www.pieter.pm/coghent-substrings/thesaurus/pe.ttl> <https://w3id.org/tree#relation> _:df_1_446.
+_:df_1_446 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/pep.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "pep".
+<https://www.pieter.pm/coghent-substrings/thesaurus/pe.ttl> <https://w3id.org/tree#relation> _:df_1_447.
+_:df_1_447 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/pee.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "pee".
+<https://www.pieter.pm/coghent-substrings/thesaurus/pe.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/pe.ttl>.

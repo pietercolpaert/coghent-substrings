@@ -9,3 +9,47 @@ _:df_2542_11 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570014978"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014978/2021-10-31T23:05:50.470Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/soe.ttl>.
+<https://stad.gent/id/concept/550005371/2022-09-24T01:40:19.114Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005371>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:40:19.114Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300216964>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2902_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Grote, afgedekte terrines vooral bestemd voor het serveren van soep. Rust meestal op een uitstaande voetrand; soms hoort er een onderschotel bij.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "soepterrine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005477>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005477> <http://www.w3.org/2004/02/skos/core#prefLabel> "terrine (kom voor opdienen)"@nl.
+_:df_2902_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005371"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005371/2022-09-24T01:40:19.114Z>.
+<https://stad.gent/id/concept/550002035/2022-09-24T00:32:03.077Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002035>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:32:03.077Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043175>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3388_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Tafelgerei bestaande uit een komvormige schep aan een steel, voor het nuttigen van soep uit een soepbord. Gebruik 'bouillonlepels' voor soortgelijk maar kleiner tafelgerei met ronde kom, voor het eten van bouillon of heldere soep.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "soeplepel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007990>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007990> <http://www.w3.org/2004/02/skos/core#prefLabel> "tafellepel"@nl.
+_:df_3388_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002035"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002035/2022-09-24T00:32:03.077Z>.
+<https://stad.gent/id/concept/550001051/2022-09-24T00:14:07.236Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001051>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:14:07.236Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300042970>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3517_31;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kommen vooral bestemd om één persoon een portie soep in te serveren; worden gemaakt met of zonder handvatten en hebben soms een bijbehorende schotel, deksel of beide.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "soepkom"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007897>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007897> <http://www.w3.org/2004/02/skos/core#prefLabel> "vaatwerk voor het opdienen en consumeren van voedsel"@nl.
+_:df_3517_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001051"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001051/2022-09-24T00:14:07.236Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/soe.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/soe.ttl>.

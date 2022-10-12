@@ -67,3 +67,103 @@ _:df_2809_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570013302"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013302/2021-10-31T22:27:37.032Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/lin.ttl>.
+<https://stad.gent/id/concept/570009100/2022-09-24T05:08:59.452Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009100>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:08:59.452Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1417_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "linnenindustrie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1417_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009100"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009100/2022-09-24T05:08:59.452Z>.
+<https://stad.gent/id/concept/570008496/2022-09-24T04:48:50.393Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008496>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:48:50.393Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7010723>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1561_37;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lincoln"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_1561_37 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008496"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008496/2022-09-24T04:48:50.393Z>.
+<https://stad.gent/id/concept/570006734/2022-09-24T04:37:47.016Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006734>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:37:47.016Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411745>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1639_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lingerie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1639_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006734"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006734/2022-09-24T04:37:47.016Z>.
+<https://stad.gent/id/concept/570000058/2022-09-24T04:05:58.339Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000058>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:05:58.339Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014069>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1864_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Algemene benaming voor geweven textiel van de gesponnen vezels van de vlasplant.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "linnen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1864_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000058"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000058/2022-09-24T04:05:58.339Z>.
+<https://stad.gent/id/concept/550005051/2022-09-24T01:27:12.463Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005051>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:27:12.463Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2995_59;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "linnenslag"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2995_59 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005051"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005051/2022-09-24T01:27:12.463Z>.
+<https://stad.gent/id/concept/550002911/2022-09-24T00:43:19.328Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002911>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:43:19.328Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900032025>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3307_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Persen voor het (schone) linnengoed.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "linnenpers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008222>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008222> <http://www.w3.org/2004/02/skos/core#prefLabel> "gereedschap en accessoires voor het bewerken en afwerken van oppervlakken"@nl.
+_:df_3307_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002911"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002911/2022-09-24T00:43:19.328Z>.
+<https://stad.gent/id/concept/550002335/2022-09-24T00:35:04.784Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002335>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:35:04.784Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300012461>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3367_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Hout van de boom behorende tot de soort Tilia americana, inheems in het oosten van de Verenigde Staten en in Canada. De kleur van het hout varieert van roomwit tot bijna bruin; het hout wordt gebruikt voor de vervaardiging van constructiefineer, triplex, pianomechanieken en draaiwerk.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lindehout"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008734>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008734> <http://www.w3.org/2004/02/skos/core#prefLabel> "hout naar samenstelling of herkomst"@nl.
+_:df_3367_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002335"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002335/2022-09-24T00:35:04.784Z>.
+<https://stad.gent/id/concept/550000344/2022-09-24T00:05:06.795Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000344>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:05:06.795Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014069>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3580_13;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Algemene benaming voor geweven textiel van de gesponnen vezels van de vlasplant.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "linnen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008865>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008865> <http://www.w3.org/2004/02/skos/core#prefLabel> "textielmaterialen naar samenstelling of origine"@nl.
+_:df_3580_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000344"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000344/2022-09-24T00:05:06.795Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/lin.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/lin.ttl>.

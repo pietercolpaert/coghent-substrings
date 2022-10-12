@@ -192,3 +192,252 @@ _:df_2890_16 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570012751"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012751/2021-10-31T22:16:21.791Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bro.ttl>.
+<https://stad.gent/id/concept/570009098/2022-09-24T05:08:54.449Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009098>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:08:54.449Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300236161>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1417_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "brouwer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1417_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009098"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009098/2022-09-24T05:08:54.449Z>.
+<https://stad.gent/id/concept/570008582/2022-09-24T04:50:56.552Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008582>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:50:56.552Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1546_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "broodpuddingvorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1546_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008582"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008582/2022-09-24T04:50:56.552Z>.
+<https://stad.gent/id/concept/570008290/2022-09-24T04:46:09.172Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008290>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:46:09.172Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010957>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1579_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "brons"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000036>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000036> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaal"@nl.
+_:df_1579_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008290"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008290/2022-09-24T04:46:09.172Z>.
+<https://stad.gent/id/concept/570007552/2022-09-24T04:41:29.245Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007552>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:41:29.245Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2926103>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1612_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bronsgieter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1612_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007552"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007552/2022-09-24T04:41:29.245Z>.
+<https://stad.gent/id/concept/570001675/2022-09-24T04:18:22.694Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001675>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:18:22.694Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q869095>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1777_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "brouwen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1777_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001675"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001675/2022-09-24T04:18:22.694Z>.
+<https://stad.gent/id/concept/570000276/2022-09-24T04:08:39.808Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000276>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:08:39.808Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300248280>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1846_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine stukken drukwerk die de kenmerken of voordelen van een plaats, organisatie, of ander bedrijf beschrijven en die over het algemeen zijn bedoeld als advertentie.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "brochure"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570013212>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaalsoort"@nl, "document type"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en, "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570013212> <http://www.w3.org/2004/02/skos/core#prefLabel> "infobrochure"@nl.
+_:df_1846_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000276"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000276/2022-09-24T04:08:39.808Z>.
+<https://stad.gent/id/concept/550008439/2022-09-24T03:33:07.433Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008439>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:33:07.433Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053648>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2098_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Techniek voor het aanbrengen van lancé-patronen, waarbij hoger liggende patronen op geweven textiel worden geweven. Gebruik 'borduren' voor het met de hand of machinaal stikken van decoratieve ontwerpen op stof, leer of papier.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "brocheren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2098_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008439"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008439/2022-09-24T03:33:07.433Z>.
+<https://stad.gent/id/concept/550005671/2022-09-24T01:49:49.507Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005671>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:49:49.507Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2833_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bronsgieter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2833_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005671"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005671/2022-09-24T01:49:49.507Z>.
+<https://stad.gent/id/concept/550005619/2022-09-24T01:47:48.243Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005619>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:47:48.243Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2848_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Distributiekaart met broodbonnen";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "broodkaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007964>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007964> <http://www.w3.org/2004/02/skos/core#prefLabel> "waardebon"@nl.
+_:df_2848_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005619"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005619/2022-09-24T01:47:48.243Z>.
+<https://stad.gent/id/concept/550005284/2022-09-24T01:36:47.289Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005284>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:36:47.289Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300390970>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2926_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Loden penning die werd geslagen bij overlijden van (vaak adellijk) persoon en werd uitgedeeld tijdens de zielenmis aan de behoeftigen van het dorp. Penning kon omgewisseld worden tegen brood";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "broodpenning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007636>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007636> <http://www.w3.org/2004/02/skos/core#prefLabel> "armenpenning"@nl.
+_:df_2926_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005284"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005284/2022-09-24T01:36:47.289Z>.
+<https://stad.gent/id/concept/550002744/2022-09-24T00:40:12.484Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002744>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:40:12.484Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300045995>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3331_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Diverse soorten sieraden die met een speld worden bevestigd.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "broche"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007622>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005462>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005462> <http://www.w3.org/2004/02/skos/core#prefLabel> "insigne (broche)"@nl.
+<https://stad.gent/id/concept/550007622> <http://www.w3.org/2004/02/skos/core#prefLabel> "sierspeld"@nl.
+_:df_3331_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002744"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002744/2022-09-24T00:40:12.484Z>.
+<https://stad.gent/id/concept/550000884/2022-09-24T00:11:10.932Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000884>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:11:10.932Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010957>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3538_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Koperlegering die als belangrijkste legeringselement niet nikkel of zink heeft.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "brons"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005633>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005633> <http://www.w3.org/2004/02/skos/core#prefLabel> "koperlegering"@nl.
+_:df_3538_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000884"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000884/2022-09-24T00:11:10.932Z>.
+<https://stad.gent/id/concept/550000731/2022-09-24T00:09:04.369Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000731>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:09:04.369Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300019275>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3553_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bronstijd"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005991>, <https://stad.gent/id/concept/550000700>, <https://stad.gent/id/concept/550000698>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000698> <http://www.w3.org/2004/02/skos/core#prefLabel> "vroege bronstijd"@nl.
+<https://stad.gent/id/concept/550000700> <http://www.w3.org/2004/02/skos/core#prefLabel> "midden bronstijd"@nl.
+<https://stad.gent/id/concept/550005991> <http://www.w3.org/2004/02/skos/core#prefLabel> "late bronstijd"@nl.
+_:df_3553_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000731"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000731/2022-09-24T00:09:04.369Z>.
+<https://stad.gent/id/concept/550000317/2022-09-24T00:04:56.792Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000317>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:04:56.792Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209935>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3580_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Bovenkleding met twee pijpen ter bedekking van het onderlijf, vanaf taille of heup tot boven de knie of langer.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "broek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007963>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007963> <http://www.w3.org/2004/02/skos/core#prefLabel> "bovenkleding voor het onderlijf"@nl.
+_:df_3580_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000317"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000317/2022-09-24T00:04:56.792Z>.
+<https://stad.gent/id/concept/530009734/2022-09-16T00:00:20.441Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009734>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-16T00:00:20.441Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300188723>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3637_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Mannelijke bloedverwanten van dezelfde ouders.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "broer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009707>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009707> <http://www.w3.org/2004/02/skos/core#prefLabel> "familie"@nl, "familie"@nl, "familie"@nl, "familie"@nl, "familie"@nl.
+_:df_3637_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009734"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009734/2022-09-16T00:00:20.441Z>.
+<https://stad.gent/id/concept/530004658/2022-09-14T00:01:09.577Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004658>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-14T00:01:09.577Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046183>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3688_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Dameskostuums die bestaan uit een broek en een bijpassend bovenstuk in de vorm van een jasje, tuniek of iets dergelijks; kan een bijpassende blouse of ceintuur hebben.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "broekpak"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008726>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008726> <http://www.w3.org/2004/02/skos/core#prefLabel> "bovenkleding"@nl, "bovenkleding"@nl.
+_:df_3688_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004658"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004658/2022-09-14T00:01:09.577Z>.
+<https://stad.gent/id/concept/530004661/2022-09-14T00:01:14.580Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004661>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-14T00:01:14.580Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209935>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3688_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Bovenkleding met twee pijpen ter bedekking van het onderlijf, vanaf taille of heup tot boven de knie of langer.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "broek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008726>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530008358>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008358> <http://www.w3.org/2004/02/skos/core#prefLabel> "sportbroek"@nl.
+<https://stad.gent/id/concept/530008726> <http://www.w3.org/2004/02/skos/core#prefLabel> "bovenkleding"@nl, "bovenkleding"@nl.
+_:df_3688_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004661"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004661/2022-09-14T00:01:14.580Z>.
+<https://stad.gent/id/concept/530003179/2022-09-14T00:00:29.248Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003179>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-14T00:00:29.248Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411582>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3694_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gordelriem die dient om de broek op te houden";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "broekriem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008727>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008727> <http://www.w3.org/2004/02/skos/core#prefLabel> "riem (kledingaccessoire)"@nl.
+_:df_3694_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003179"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003179/2022-09-14T00:00:29.248Z>.
+<https://stad.gent/id/concept/670007010/2022-09-09T09:24:08.532Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670007010>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:24:08.532Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3329>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3778_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Broekkantstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3778_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670007010"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670007010/2022-09-09T09:24:08.532Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/bro.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bro.ttl>.

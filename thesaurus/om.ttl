@@ -20,3 +20,55 @@ _:df_2590_14 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570014733"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014733/2021-10-31T22:59:09.221Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/om.ttl>.
+<https://stad.gent/id/concept/570014733/2022-09-24T06:56:39.342Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014733>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:56:39.342Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1753397>;
+    <http://www.w3.org/ns/adms#identifier> _:df_652_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "omlijsting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_652_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014733"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014733/2022-09-24T06:56:39.342Z>.
+<https://stad.gent/id/concept/570009362/2022-09-24T05:20:11.462Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009362>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:20:11.462Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q35825432>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1336_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "omvormer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1336_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009362"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009362/2022-09-24T05:20:11.462Z>.
+<https://stad.gent/id/concept/570009269/2022-09-24T05:16:24.639Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009269>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:16:24.639Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300200341>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1363_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "omslag"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1363_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009269"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009269/2022-09-24T05:16:24.639Z>.
+<https://stad.gent/id/concept/550008086/2022-09-24T03:05:33.562Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008086>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:05:33.562Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300078050>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2293_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "omsluitende structurele elementen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007861>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008640>, <https://stad.gent/id/concept/550008357>, <https://stad.gent/id/concept/550008085>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008085> <http://www.w3.org/2004/02/skos/core#prefLabel> "muren en muuronderdelen"@nl.
+<https://stad.gent/id/concept/550008357> <http://www.w3.org/2004/02/skos/core#prefLabel> "daken en dakonderdelen"@nl.
+<https://stad.gent/id/concept/550008640> <http://www.w3.org/2004/02/skos/core#prefLabel> "afscheiding (binnenruimte)"@nl.
+<https://stad.gent/id/concept/550007861> <http://www.w3.org/2004/02/skos/core#prefLabel> "structurele bouwelementen"@nl.
+_:df_2293_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008086"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008086> <http://www.w3.org/2004/02/skos/core#prefLabel> "omsluitende structurele elementen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008086/2022-09-24T03:05:33.562Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/om.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/om.ttl>.

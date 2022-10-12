@@ -41,3 +41,42 @@ _:df_2365_7 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570016186"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016186/2021-10-31T23:30:36.917Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/onderz.ttl>.
+<https://stad.gent/id/concept/570016186/2022-09-24T07:28:39.489Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016186>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:28:39.489Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300196479>;
+    <http://www.w3.org/ns/adms#identifier> _:df_424_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Platen, matjes of kleine ondiepe borden, meestal rond en gebruikt om een oppervlak te beschermen tegen krassen of beschadiging door hitte of vocht. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "onderzetter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_424_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016186"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016186/2022-09-24T07:28:39.489Z>.
+<https://stad.gent/id/concept/550008583/2022-09-24T03:35:19.361Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008583>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:35:19.361Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300196479>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2083_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Platen, matjes of kleine ondiepe borden, meestal rond en gebruikt om een oppervlak te beschermen tegen krassen of beschadiging door hitte of vocht.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "onderzetter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007939>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007939> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders behorende bij het opdienen van voedsel"@nl.
+_:df_2083_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008583"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008583/2022-09-24T03:35:19.361Z>.
+<https://stad.gent/id/concept/670006798/2022-09-09T09:07:04.171Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006798>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:07:04.171Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300025576>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3898_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "onderzoeker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3898_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006798"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006798/2022-09-09T09:07:04.171Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/onderz.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/onderz.ttl>.

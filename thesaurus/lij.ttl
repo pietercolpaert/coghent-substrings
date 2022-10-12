@@ -23,3 +23,92 @@ _:df_2509_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570015167"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015167/2021-10-31T23:10:13.965Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/lij.ttl>.
+<https://stad.gent/id/concept/570005527/2022-09-24T04:30:32.459Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570005527>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:30:32.459Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014815>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1690_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een onzuivere proteïne verkregen door hydrolyse van collagene materialen zoals huid, been en bindweefsel, door verschillende methoden. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lijm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "trefwoord"@nl, "keyword"@en, "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1690_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570005527"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570005527/2022-09-24T04:30:32.459Z>.
+<https://stad.gent/id/concept/550008652/2022-09-24T03:40:43.981Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008652>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:40:43.981Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300215072>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2044_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kostbare stukken stof die op of over iets worden gespreid.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lijkkleed (bedekking)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008383>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008383> <http://www.w3.org/2004/02/skos/core#prefLabel> "bedekkingen en voorhangen naar functie"@nl.
+_:df_2044_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008652"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008652/2022-09-24T03:40:43.981Z>.
+<https://stad.gent/id/concept/550008241/2022-09-24T03:18:13.103Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008241>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:18:13.103Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300138011>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2203_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lijsten (informatiedragers) naar vorm of functie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008242>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001932>, <https://stad.gent/id/concept/550005267>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005267> <http://www.w3.org/2004/02/skos/core#prefLabel> "register"@nl.
+<https://stad.gent/id/concept/550001932> <http://www.w3.org/2004/02/skos/core#prefLabel> "menukaart"@nl.
+<https://stad.gent/id/concept/550008242> <http://www.w3.org/2004/02/skos/core#prefLabel> "lijst (informatiedrager)"@nl.
+_:df_2203_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008241"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008241> <http://www.w3.org/2004/02/skos/core#prefLabel> "lijsten (informatiedragers) naar vorm of functie"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008241/2022-09-24T03:18:13.103Z>.
+<https://stad.gent/id/concept/550008242/2022-09-24T03:18:18.105Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008242>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:18:18.105Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027119>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2203_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lijst (informatiedrager)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008095>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008241>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008241> <http://www.w3.org/2004/02/skos/core#prefLabel> "lijsten (informatiedragers) naar vorm of functie"@nl.
+<https://stad.gent/id/concept/550008095> <http://www.w3.org/2004/02/skos/core#prefLabel> "documenten naar vorm"@nl.
+_:df_2203_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008242"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008242> <http://www.w3.org/2004/02/skos/core#prefLabel> "lijst (informatiedrager)"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008242/2022-09-24T03:18:18.105Z>.
+<https://stad.gent/id/concept/550008177/2022-09-24T03:13:05.378Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008177>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:13:05.378Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300189814>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2239_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Randen om kunstvoorwerpen, spiegels of documenten als ondersteuning, bescherming of om er de aandacht op te vestigen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lijst (interieurinrichting)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007837>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007837> <http://www.w3.org/2004/02/skos/core#prefLabel> "interieurinrichting naar vorm of functie"@nl.
+_:df_2239_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008177"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008177/2022-09-24T03:13:05.378Z>.
+<https://stad.gent/id/concept/550005301/2022-09-24T01:37:27.879Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005301>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:37:27.879Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300220745>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2923_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vanaf de 17e eeuw het bovenstuk, met of zonder mouw, van een jurk of ander kledingstuk voor vrouwen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lijfje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008221>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008221> <http://www.w3.org/2004/02/skos/core#prefLabel> "kledingonderdelen"@nl.
+_:df_2923_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005301"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005301/2022-09-24T01:37:27.879Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/lij.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/lij.ttl>.

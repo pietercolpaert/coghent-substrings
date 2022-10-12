@@ -64,3 +64,82 @@ _:df_2770_13 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570013586"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013586/2021-10-31T22:33:34.341Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/rek.ttl>.
+<https://stad.gent/id/concept/570009264/2022-09-24T05:16:07.183Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009264>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:16:07.183Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300257228>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1366_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Eenvoudige boeken die zijn bedoeld om kleine kinderen, vaak aan de hand van kleurrijke plaatjes, te leren tellen en rekenen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "rekenboek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1366_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009264"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009264/2022-09-24T05:16:07.183Z>.
+<https://stad.gent/id/concept/570008309/2022-09-24T04:46:29.182Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008309>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:46:29.182Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300226866>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1576_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "rekenlat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1576_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008309"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008309/2022-09-24T04:46:29.182Z>.
+<https://stad.gent/id/concept/570000080/2022-09-24T04:06:23.841Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000080>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:06:23.841Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054525>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1861_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "rekenkunde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1861_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000080"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000080/2022-09-24T04:06:23.841Z>.
+<https://stad.gent/id/concept/550008140/2022-09-24T03:10:03.506Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008140>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:10:03.506Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300079641>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2263_30;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor raamwerken van ijzerdraad, pennen, stangen, roosters of planken waar objecten op of in kunnen worden geplaatst of gehangen, vaak voor opslag of berging; kan vrijstaand zijn of vastgezet tegen muren.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "rek (object)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007761>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005252>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005252> <http://www.w3.org/2004/02/skos/core#prefLabel> "handdoekrek"@nl.
+<https://stad.gent/id/concept/550007761> <http://www.w3.org/2004/02/skos/core#prefLabel> "objectgenres naar functie"@nl.
+_:df_2263_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008140"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008140/2022-09-24T03:10:03.506Z>.
+<https://stad.gent/id/concept/550006641/2022-09-24T02:23:24.024Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006641>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:23:24.024Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7251644>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2593_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rekkem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004834>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004834> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen"@nl.
+_:df_2593_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006641"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006641/2022-09-24T02:23:24.024Z>.
+<https://stad.gent/id/concept/550005251/2022-09-24T01:35:11.340Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005251>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:35:11.340Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900031624>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2938_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Penningen waarmee berekeningen op het rekenbord worden uitgevoerd.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "rekenpenning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007965>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007965> <http://www.w3.org/2004/02/skos/core#prefLabel> "gebruikspenningen zonder betaalwaarde"@nl.
+_:df_2938_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005251"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005251/2022-09-24T01:35:11.340Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/rek.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/rek.ttl>.

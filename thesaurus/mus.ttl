@@ -1,0 +1,23 @@
+<https://stad.gent/id/concept/570002902/2022-09-24T04:23:32.483Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570002902>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:23:32.483Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300312281>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1741_42;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "musea"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1741_42 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570002902"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570002902/2022-09-24T04:23:32.483Z>.
+<https://stad.gent/id/concept/550008695/2022-09-24T03:42:25.901Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008695>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:42:25.901Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2032_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "museummeubilair"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2032_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008695"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008695/2022-09-24T03:42:25.901Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/mus.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/mus.ttl>.

@@ -166,3 +166,333 @@ _:df_3148_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010070"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010070/2021-10-31T21:39:49.790Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/hou.ttl>.
+<https://stad.gent/id/concept/570007647/2022-09-24T04:42:04.650Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007647>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:42:04.650Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300012784>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1609_34;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "houtblok"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1609_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007647"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007647/2022-09-24T04:42:04.650Z>.
+<https://stad.gent/id/concept/570006559/2022-09-24T04:37:11.547Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006559>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:37:11.547Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026504>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1642_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Houthalen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570001061>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570001061> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburg (provincie)"@nl.
+_:df_1642_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006559"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006559/2022-09-24T04:37:11.547Z>.
+<https://stad.gent/id/concept/570006362/2022-09-24T04:36:46.534Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006362>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:36:46.534Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041405>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1645_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "houtsnede"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018165>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018165> <http://www.w3.org/2004/02/skos/core#prefLabel> "hoogdruk"@nl.
+_:df_1645_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006362"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006362/2022-09-24T04:36:46.534Z>.
+<https://stad.gent/id/concept/550009263/2022-09-24T04:03:21.091Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009263>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:03:21.091Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300197197>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1882_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "houder (vergaarbak)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007778>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007778> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders (topterm)"@nl.
+_:df_1882_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009263"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009263/2022-09-24T04:03:21.091Z>.
+<https://stad.gent/id/concept/550009056/2022-09-24T03:57:12.229Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009056>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:57:12.229Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1927_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "houtskool"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1927_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009056"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009056/2022-09-24T03:57:12.229Z>.
+<https://stad.gent/id/concept/550008831/2022-09-24T03:49:20.504Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008831>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:49:20.504Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300012776>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1984_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hout naar vorm of functie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004890>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550004540>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004540> <http://www.w3.org/2004/02/skos/core#prefLabel> "paneel (hout)"@nl.
+<https://stad.gent/id/concept/550004890> <http://www.w3.org/2004/02/skos/core#prefLabel> "hout"@nl.
+_:df_1984_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008831"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008831/2022-09-24T03:49:20.504Z>.
+<https://stad.gent/id/concept/550008806/2022-09-24T03:48:09.410Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008806>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:48:09.410Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300162666>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1990_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "houtvezelplank"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008805>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008804>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008804> <http://www.w3.org/2004/02/skos/core#prefLabel> "hardboard"@nl.
+<https://stad.gent/id/concept/550008805> <http://www.w3.org/2004/02/skos/core#prefLabel> "houtproducten"@nl.
+_:df_1990_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008806"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008806/2022-09-24T03:48:09.410Z>.
+<https://stad.gent/id/concept/550008805/2022-09-24T03:48:04.407Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008805>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:48:04.407Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300012779>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1993_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "houtproducten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008762>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008806>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008806> <http://www.w3.org/2004/02/skos/core#prefLabel> "houtvezelplank"@nl, "houtvezelplank"@nl.
+<https://stad.gent/id/concept/550008762> <http://www.w3.org/2004/02/skos/core#prefLabel> "hout en houtproducten"@nl.
+_:df_1993_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008805"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008805/2022-09-24T03:48:04.407Z>.
+<https://stad.gent/id/concept/550008377/2022-09-24T03:29:19.826Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008377>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:29:19.826Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300197580>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2125_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "houders voor de veeteelt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007827>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001283>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001283> <http://www.w3.org/2004/02/skos/core#prefLabel> "vogelkooi"@nl.
+<https://stad.gent/id/concept/550007827> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders naar functie of context"@nl.
+_:df_2125_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008377"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008377/2022-09-24T03:29:19.826Z>.
+<https://stad.gent/id/concept/550008313/2022-09-24T03:24:12.018Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008313>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:24:12.018Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300162913>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2161_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "houtsnij- en -afwerkingsgereedschap"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008314>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001917>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001917> <http://www.w3.org/2004/02/skos/core#prefLabel> "schaaf"@nl.
+<https://stad.gent/id/concept/550008314> <http://www.w3.org/2004/02/skos/core#prefLabel> "houtbewerkingsgereedschap"@nl, "houtbewerkingsgereedschap"@nl.
+_:df_2161_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008313"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008313> <http://www.w3.org/2004/02/skos/core#prefLabel> "houtsnij- en -afwerkingsgereedschap"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008313/2022-09-24T03:24:12.018Z>.
+<https://stad.gent/id/concept/550008314/2022-09-24T03:24:17.021Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008314>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:24:17.021Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300163324>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2161_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "houtbewerkingsgereedschap"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008315>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008313>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008313> <http://www.w3.org/2004/02/skos/core#prefLabel> "houtsnij- en -afwerkingsgereedschap"@nl.
+<https://stad.gent/id/concept/550008315> <http://www.w3.org/2004/02/skos/core#prefLabel> "houtbewerkingsuitrusting"@nl.
+_:df_2161_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008314"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008314> <http://www.w3.org/2004/02/skos/core#prefLabel> "houtbewerkingsgereedschap"@nl, "houtbewerkingsgereedschap"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008314/2022-09-24T03:24:17.021Z>.
+<https://stad.gent/id/concept/550008315/2022-09-24T03:24:22.024Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008315>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:24:22.024Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300163322>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2161_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "houtbewerkingsuitrusting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008110>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008314>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008314> <http://www.w3.org/2004/02/skos/core#prefLabel> "houtbewerkingsgereedschap"@nl, "houtbewerkingsgereedschap"@nl.
+<https://stad.gent/id/concept/550008110> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting naar bewerkt materiaal"@nl.
+_:df_2161_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008315"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008315> <http://www.w3.org/2004/02/skos/core#prefLabel> "houtbewerkingsuitrusting"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008315/2022-09-24T03:24:22.024Z>.
+<https://stad.gent/id/concept/550008215/2022-09-24T03:16:11.758Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008215>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:16:11.758Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300225677>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2218_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "houders voor kruit en buskruit"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007827>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550006010>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006010> <http://www.w3.org/2004/02/skos/core#prefLabel> "kruitbusje"@nl.
+<https://stad.gent/id/concept/550007827> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders naar functie of context"@nl.
+_:df_2218_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008215"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008215/2022-09-24T03:16:11.758Z>.
+<https://stad.gent/id/concept/550008162/2022-09-24T03:11:54.412Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008162>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:11:54.412Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300198759>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2248_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "houders voor het koken van voedsel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007899>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008161>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008161> <http://www.w3.org/2004/02/skos/core#prefLabel> "vaten voor het koken van voedsel"@nl.
+<https://stad.gent/id/concept/550007899> <http://www.w3.org/2004/02/skos/core#prefLabel> "culinaire houders"@nl.
+_:df_2248_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008162"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008162> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders voor het koken van voedsel"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008162/2022-09-24T03:11:54.412Z>.
+<https://stad.gent/id/concept/550008054/2022-09-24T03:02:52.285Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008054>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:02:52.285Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300198762>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2314_36;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "houders voor het opslaan of vervoeren van voedsel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007899>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005715>, <https://stad.gent/id/concept/550008372>, <https://stad.gent/id/concept/550008053>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008053> <http://www.w3.org/2004/02/skos/core#prefLabel> "verzamelmand"@nl.
+<https://stad.gent/id/concept/550008372> <http://www.w3.org/2004/02/skos/core#prefLabel> "vaten voor het opslaan of vervoeren van voedsel"@nl.
+<https://stad.gent/id/concept/550005715> <http://www.w3.org/2004/02/skos/core#prefLabel> "theebus"@nl.
+<https://stad.gent/id/concept/550007899> <http://www.w3.org/2004/02/skos/core#prefLabel> "culinaire houders"@nl.
+_:df_2314_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008054"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008054> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders voor het opslaan of vervoeren van voedsel"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008054/2022-09-24T03:02:52.285Z>.
+<https://stad.gent/id/concept/550008004/2022-09-24T02:58:38.588Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008004>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:58:38.588Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300197199>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2344_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "houderonderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007795>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550000603>, <https://stad.gent/id/concept/550008003>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008003> <http://www.w3.org/2004/02/skos/core#prefLabel> "sluiting"@nl, "sluiting"@nl.
+<https://stad.gent/id/concept/550000603> <http://www.w3.org/2004/02/skos/core#prefLabel> "pijpenkop"@nl.
+<https://stad.gent/id/concept/550007795> <http://www.w3.org/2004/02/skos/core#prefLabel> "onderdelen naar specifieke context"@nl.
+_:df_2344_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008004"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008004> <http://www.w3.org/2004/02/skos/core#prefLabel> "houderonderdelen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008004/2022-09-24T02:58:38.588Z>.
+<https://stad.gent/id/concept/550007981/2022-09-24T02:56:52.369Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007981>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:56:52.369Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300215552>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2356_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "houders voor ruilmiddelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007827>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550000016>, <https://stad.gent/id/concept/550001750>, <https://stad.gent/id/concept/550005261>, <https://stad.gent/id/concept/550009248>, <https://stad.gent/id/concept/550002786>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002786> <http://www.w3.org/2004/02/skos/core#prefLabel> "spaarpot"@nl.
+<https://stad.gent/id/concept/550009248> <http://www.w3.org/2004/02/skos/core#prefLabel> "spaarkas"@nl.
+<https://stad.gent/id/concept/550005261> <http://www.w3.org/2004/02/skos/core#prefLabel> "offerschaal"@nl.
+<https://stad.gent/id/concept/550001750> <http://www.w3.org/2004/02/skos/core#prefLabel> "offerblok"@nl.
+<https://stad.gent/id/concept/550000016> <http://www.w3.org/2004/02/skos/core#prefLabel> "collectebus"@nl.
+<https://stad.gent/id/concept/550007827> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders naar functie of context"@nl.
+_:df_2356_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007981"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007981/2022-09-24T02:56:52.369Z>.
+<https://stad.gent/id/concept/550007961/2022-09-24T02:55:11.392Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007961>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:55:11.392Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300197584>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2368_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "houders voor persoonlijke zaken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005568>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005319>, <https://stad.gent/id/concept/550005779>, <https://stad.gent/id/concept/550005138>, <https://stad.gent/id/concept/550005776>, <https://stad.gent/id/concept/550005113>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005113> <http://www.w3.org/2004/02/skos/core#prefLabel> "portefeuille"@nl.
+<https://stad.gent/id/concept/550005776> <http://www.w3.org/2004/02/skos/core#prefLabel> "juwelenkistje"@nl.
+<https://stad.gent/id/concept/550005138> <http://www.w3.org/2004/02/skos/core#prefLabel> "hoedendoos"@nl.
+<https://stad.gent/id/concept/550005779> <http://www.w3.org/2004/02/skos/core#prefLabel> "etui"@nl.
+<https://stad.gent/id/concept/550005319> <http://www.w3.org/2004/02/skos/core#prefLabel> "brillenkoker"@nl.
+<https://stad.gent/id/concept/550005568> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders voor persoonlijk gebruik"@nl.
+_:df_2368_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007961"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007961/2022-09-24T02:55:11.392Z>.
+<https://stad.gent/id/concept/550007939/2022-09-24T02:53:25.361Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007939>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:53:25.361Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300198761>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2380_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "houders behorende bij het opdienen van voedsel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007898>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550002005>, <https://stad.gent/id/concept/550005375>, <https://stad.gent/id/concept/550005480>, <https://stad.gent/id/concept/550008583>, <https://stad.gent/id/concept/550004804>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004804> <http://www.w3.org/2004/02/skos/core#prefLabel> "suikerpot"@nl.
+<https://stad.gent/id/concept/550008583> <http://www.w3.org/2004/02/skos/core#prefLabel> "onderzetter"@nl.
+<https://stad.gent/id/concept/550005480> <http://www.w3.org/2004/02/skos/core#prefLabel> "olie- en azijnstandaard"@nl.
+<https://stad.gent/id/concept/550005375> <http://www.w3.org/2004/02/skos/core#prefLabel> "lepelrek"@nl.
+<https://stad.gent/id/concept/550002005> <http://www.w3.org/2004/02/skos/core#prefLabel> "bonbondoos"@nl.
+<https://stad.gent/id/concept/550007898> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders voor het opdienen en consumeren van voedsel"@nl.
+_:df_2380_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007939"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007939/2022-09-24T02:53:25.361Z>.
+<https://stad.gent/id/concept/550007898/2022-09-24T02:49:58.452Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007898>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:49:58.452Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300198760>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2404_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "houders voor het opdienen en consumeren van voedsel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007899>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007939>, <https://stad.gent/id/concept/550007897>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007897> <http://www.w3.org/2004/02/skos/core#prefLabel> "vaatwerk voor het opdienen en consumeren van voedsel"@nl.
+<https://stad.gent/id/concept/550007939> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders behorende bij het opdienen van voedsel"@nl.
+<https://stad.gent/id/concept/550007899> <http://www.w3.org/2004/02/skos/core#prefLabel> "culinaire houders"@nl.
+_:df_2404_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007898"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007898> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders voor het opdienen en consumeren van voedsel"@nl, "houders voor het opdienen en consumeren van voedsel"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007898/2022-09-24T02:49:58.452Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/hou.ttl> <https://w3id.org/tree#relation> _:df_1_1155.
+_:df_1_1155 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/houd.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "houd".
+<https://www.pieter.pm/coghent-substrings/thesaurus/hou.ttl> <https://w3id.org/tree#relation> _:df_1_1156.
+_:df_1_1156 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/hout.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "hout".
+<https://www.pieter.pm/coghent-substrings/thesaurus/hou.ttl> <https://w3id.org/tree#relation> _:df_1_1157.
+_:df_1_1157 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/houw.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "houw".
+<https://www.pieter.pm/coghent-substrings/thesaurus/hou.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/hou.ttl>.

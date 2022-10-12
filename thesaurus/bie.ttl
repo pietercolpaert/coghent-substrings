@@ -74,3 +74,83 @@ _:df_3094_23 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010412"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010412/2021-10-31T21:47:41.672Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bie.ttl>.
+<https://stad.gent/id/concept/550008111/2022-09-24T03:07:41.140Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008111>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:07:41.140Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043231>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2278_13;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Glazen bedoeld om ale of bier uit te drinken. Exemplaren uit de vroege 17e en 18e eeuw hebben vaak dezelfde vorm als een hoog wijnglas, S-vormig van lijn of met een ronde trechtervormige kelk en staand op een steel die in lengte kan variëren. De inhoud van de kelk is meestal tussen de 1 en 1½ deciliter. Moderne exemplaren hebben vaak de vorm van hoge, dunne glazen, meestal met een inhoud van 3½ deciliter, die naar beneden smal toelopen en op een massieve basis staan.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bierglas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006133>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006133> <http://www.w3.org/2004/02/skos/core#prefLabel> "drinkglas"@nl.
+_:df_2278_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008111"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008111/2022-09-24T03:07:41.140Z>.
+<https://stad.gent/id/concept/550006677/2022-09-24T02:24:24.591Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006677>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:24:24.591Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005978>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2587_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bielefeld"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004734>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_2587_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006677"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006677/2022-09-24T02:24:24.591Z>.
+<https://stad.gent/id/concept/550006669/2022-09-24T02:24:09.580Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006669>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:24:09.580Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7212657>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2590_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bierstadt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004734>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_2590_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006669"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006669/2022-09-24T02:24:09.580Z>.
+<https://stad.gent/id/concept/550005739/2022-09-24T01:51:40.419Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005739>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:51:40.419Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043256>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2821_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Hoog drinkgerei met één handvat, meestal met een scharnierend deksel en vaak een duimrust om het deksel open te houden; over het algemeen gemaakt van zilver of tin, maar soms ook van glas.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bierpul"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005555>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005555> <http://www.w3.org/2004/02/skos/core#prefLabel> "drinkgerei"@nl.
+_:df_2821_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005739"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005739/2022-09-24T01:51:40.419Z>.
+<https://stad.gent/id/concept/550003978/2022-09-24T00:58:25.056Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003978>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:58:25.056Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300003777>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3199_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine cabines uitgerust met een zitplaats voor een priester en met een scherm of rooster waardoorheen de biechteling met de priester, die verborgen is, kan praten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "biechtstoel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007910>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007910> <http://www.w3.org/2004/02/skos/core#prefLabel> "meubilair van christelijke religieuze gebouwen"@nl, "meubilair van christelijke religieuze gebouwen"@nl.
+_:df_3199_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003978"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003978/2022-09-24T00:58:25.056Z>.
+<https://stad.gent/id/concept/670006999/2022-09-09T09:23:13.164Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006999>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:23:13.164Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3784_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Biezenstuk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3784_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006999"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006999/2022-09-09T09:23:13.164Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/bie.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bie.ttl>.

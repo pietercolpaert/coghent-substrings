@@ -21,3 +21,50 @@ _:df_2329_18 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570016352"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016352/2021-10-31T23:35:46.449Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/lep.ttl>.
+<https://stad.gent/id/concept/550005375/2022-09-24T01:40:29.497Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005375>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:40:29.497Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300203354>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2899_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders op een voet, met in het midden een kolom, waaraan lepels kunnen worden opgehangen. Gebruik 'lepelvaasjes' voor kleine vazen met een geschulpte rand waarin lepels worden bewaard.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lepelrek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007939>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007939> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders behorende bij het opdienen van voedsel"@nl.
+_:df_2899_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005375"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005375/2022-09-24T01:40:29.497Z>.
+<https://stad.gent/id/concept/550001255/2022-09-24T00:16:43.742Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001255>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:16:43.742Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043149>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3496_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Keukengerei voor het bereiden, opdienen of nuttigen van voedsel; bestaat uit een komvormige schep aan een steel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lepel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007879>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007879> <http://www.w3.org/2004/02/skos/core#prefLabel> "schepwerk"@nl, "schepwerk"@nl.
+_:df_3496_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001255"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001255/2022-09-24T00:16:43.742Z>.
+<https://stad.gent/id/concept/550001257/2022-09-24T00:16:48.744Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001257>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:16:48.744Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300226983>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3496_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lepels voor het opdienen van voedsel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008186>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001153>, <https://stad.gent/id/concept/550001259>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001259> <http://www.w3.org/2004/02/skos/core#prefLabel> "serveerlepel"@nl.
+<https://stad.gent/id/concept/550001153> <http://www.w3.org/2004/02/skos/core#prefLabel> "mosterdlepel"@nl.
+<https://stad.gent/id/concept/550008186> <http://www.w3.org/2004/02/skos/core#prefLabel> "gerei voor het opdienen van voedsel"@nl.
+_:df_3496_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001257"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550001257> <http://www.w3.org/2004/02/skos/core#prefLabel> "lepels voor het opdienen van voedsel"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001257/2022-09-24T00:16:48.744Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/lep.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/lep.ttl>.

@@ -1,0 +1,16 @@
+<https://stad.gent/id/concept/550005655/2022-09-24T01:49:09.057Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005655>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:49:09.057Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300224880>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2839_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vuursteensloten, in de 17e eeuw in Spanje ontwikkeld, waarbij de slagveer aan de buitenzijde gemonteerd is.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "miqueletslot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550001647>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001647> <http://www.w3.org/2004/02/skos/core#prefLabel> "vuursteenslot"@nl.
+_:df_2839_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005655"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005655/2022-09-24T01:49:09.057Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/miq.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/miq.ttl>.

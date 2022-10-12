@@ -59,3 +59,89 @@ _:df_3184_30 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009930"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009930/2021-10-31T21:35:06.208Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/wal.ttl>.
+<https://stad.gent/id/concept/570009930/2022-09-24T05:32:30.252Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009930>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:32:30.252Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7002443>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1249_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wales"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570023261>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "land"@nl, "country"@en, "trefwoord"@nl, "keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023261> <http://www.w3.org/2004/02/skos/core#prefLabel> "Denbigh"@nl.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_1249_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009930"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009930/2022-09-24T05:32:30.252Z>.
+<https://stad.gent/id/concept/570007402/2022-09-24T04:41:04.235Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007402>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:41:04.235Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/4012014>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1615_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wallonië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012468>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570012866>, <https://stad.gent/id/concept/570023203>, <https://stad.gent/id/concept/570023213>, <https://stad.gent/id/concept/570001129>, <https://stad.gent/id/concept/570020489>, <https://stad.gent/id/concept/570024159>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570024159> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen"@nl.
+<https://stad.gent/id/concept/570020489> <http://www.w3.org/2004/02/skos/core#prefLabel> "Waals-Brabant (provincie)"@nl.
+<https://stad.gent/id/concept/570001129> <http://www.w3.org/2004/02/skos/core#prefLabel> "Namen (provincie)"@nl.
+<https://stad.gent/id/concept/570023213> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luxemburg (provincie)"@nl.
+<https://stad.gent/id/concept/570023203> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luik (provincie)"@nl.
+<https://stad.gent/id/concept/570012866> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen (provincie)"@nl.
+<https://stad.gent/id/concept/570012468> <http://www.w3.org/2004/02/skos/core#prefLabel> "België"@nl.
+_:df_1615_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007402"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007402/2022-09-24T04:41:04.235Z>.
+<https://stad.gent/id/concept/550005683/2022-09-24T01:50:04.517Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005683>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:50:04.517Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/4012014>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2833_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wallonië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550001085>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008925>, <https://stad.gent/id/concept/550008930>, <https://stad.gent/id/concept/550008924>, <https://stad.gent/id/concept/550008922>, <https://stad.gent/id/concept/550008927>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008927> <http://www.w3.org/2004/02/skos/core#prefLabel> "Waals-Brabant"@nl.
+<https://stad.gent/id/concept/550008922> <http://www.w3.org/2004/02/skos/core#prefLabel> "Namen (provincie)"@nl.
+<https://stad.gent/id/concept/550008924> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luxemburg (provincie)"@nl.
+<https://stad.gent/id/concept/550008930> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luik (provincie)"@nl.
+<https://stad.gent/id/concept/550008925> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen"@nl.
+<https://stad.gent/id/concept/550001085> <http://www.w3.org/2004/02/skos/core#prefLabel> "België"@nl.
+_:df_2833_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005683"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005683/2022-09-24T01:50:04.517Z>.
+<https://stad.gent/id/concept/670006562/2022-09-09T08:47:23.937Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006562>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:47:23.937Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4039_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Walk the Proud Land"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4039_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006562"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006562/2022-09-09T08:47:23.937Z>.
+<https://stad.gent/id/concept/670006563/2022-09-09T08:47:28.939Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006563>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:47:28.939Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4039_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Walking my Baby Back Home"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4039_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006563"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006563/2022-09-09T08:47:28.939Z>.
+<https://stad.gent/id/concept/670006564/2022-09-09T08:47:33.941Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006564>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:47:33.941Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4039_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Waltz of My Heart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4039_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006564"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006564/2022-09-09T08:47:33.941Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/wal.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/wal.ttl>.

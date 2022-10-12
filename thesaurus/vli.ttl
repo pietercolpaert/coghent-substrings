@@ -21,3 +21,48 @@ _:df_3223_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009645"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009645/2021-10-31T21:29:16.050Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/vli.ttl>.
+<https://stad.gent/id/concept/550008623/2022-09-24T03:38:28.146Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008623>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:38:28.146Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300258480>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2059_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Draagbaar gereedschap om vliegen te verwijderen. In een ceremoniële context, voornamelijk in Afrika, dienen ze ook als symbolen voor een hoge positie of autoriteit. Meestal gemaakt van flexibele vezels, die zijn bevestigd aan een handvat. Gebruik 'vliegenmeppers' voor instrumenten die worden gebruikt om insecten te doden, gewoonlijk gemaakt van een plat stuk geperforeerd materiaal of gaas dat is bevestigd aan een handvat.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vliegenklap"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007779>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007779> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting voor persoonlijk gebruik"@nl.
+_:df_2059_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008623"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008623/2022-09-24T03:38:28.146Z>.
+<https://stad.gent/id/concept/550007944/2022-09-24T02:53:50.830Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007944>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:53:50.830Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300210057>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2377_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine stropdassen die in een strik worden vastgeknoopt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vlinderdas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007945>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007945> <http://www.w3.org/2004/02/skos/core#prefLabel> "stropdas"@nl.
+_:df_2377_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007944"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007944> <http://www.w3.org/2004/02/skos/core#prefLabel> "vlinderdas"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007944/2022-09-24T02:53:50.830Z>.
+<https://stad.gent/id/concept/550007916/2022-09-24T02:51:29.437Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007916>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:51:29.437Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300395623>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2395_36;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Benaming voor verschillende soorten apparaten om vliegen en andere insecten mee te lokken en te vangen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vliegenvanger"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007917>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007917> <http://www.w3.org/2004/02/skos/core#prefLabel> "valstrik"@nl.
+_:df_2395_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007916"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007916/2022-09-24T02:51:29.437Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/vli.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/vli.ttl>.

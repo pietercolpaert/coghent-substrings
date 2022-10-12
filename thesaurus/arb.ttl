@@ -64,3 +64,50 @@ _:df_3223_7 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009648"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009648/2021-10-31T21:29:21.051Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/arb.ttl>.
+<https://stad.gent/id/concept/570004331/2022-09-24T04:27:34.767Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570004331>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:27:34.767Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300263340>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1711_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Menselijke activiteit die de goederen voortbrengt of de diensten verzorgt die in een economie worden gevraagd.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "arbeid"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1711_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570004331"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570004331/2022-09-24T04:27:34.767Z>.
+<https://stad.gent/id/concept/570002568/2022-09-24T04:22:42.057Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570002568>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:22:42.057Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q629029>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1747_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "arbeidsomstandigheden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "associatie"@nl, "association"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1747_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570002568"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570002568/2022-09-24T04:22:42.057Z>.
+<https://stad.gent/id/concept/570002079/2022-09-24T04:20:09.787Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570002079>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:20:09.787Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055485>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1765_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Klasse van personen die in loondienst zijn, vaak voor handenarbeid. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "arbeidersklasse"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1765_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570002079"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570002079/2022-09-24T04:20:09.787Z>.
+<https://stad.gent/id/concept/670006987/2022-09-09T09:22:17.463Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006987>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:22:17.463Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3790_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Arbedkaai"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3790_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006987"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006987/2022-09-09T09:22:17.463Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/arb.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/arb.ttl>.

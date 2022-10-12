@@ -124,3 +124,163 @@ _:df_1_935 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/techn.ttl>;
     <https://w3id.org/tree#value> "techn".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/tech.ttl>.
+<https://stad.gent/id/concept/570015636/2022-09-24T07:17:14.219Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015636>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:17:14.219Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300034789>;
+    <http://www.w3.org/ns/adms#identifier> _:df_505_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor de omvangrijke categorie tekeningen voor bouwkundige, mechanische of karteringsdoeleinden, die worden ontwikkeld aan de hand van nauwkeurig omschreven conventies van schaal en projectie. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "technische tekening"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_505_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015636"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015636/2022-09-24T07:17:14.219Z>.
+<https://stad.gent/id/concept/570014602/2022-09-24T06:52:07.440Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014602>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:52:07.440Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_685_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "taksplaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_685_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014602"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014602/2022-09-24T06:52:07.440Z>.
+<https://stad.gent/id/concept/570014353/2022-09-24T06:45:27.963Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014353>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:45:27.963Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q11474>;
+    <http://www.w3.org/ns/adms#identifier> _:df_733_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kunststof"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570016416>, <https://stad.gent/id/concept/570019489>, <https://stad.gent/id/concept/570009096>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "techniek"@nl, "technique"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570009096> <http://www.w3.org/2004/02/skos/core#prefLabel> "plastic"@nl.
+<https://stad.gent/id/concept/570019489> <http://www.w3.org/2004/02/skos/core#prefLabel> "celluloid"@nl.
+<https://stad.gent/id/concept/570016416> <http://www.w3.org/2004/02/skos/core#prefLabel> "bakeliet"@nl.
+_:df_733_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014353"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014353/2022-09-24T06:45:27.963Z>.
+<https://stad.gent/id/concept/570014209/2022-09-24T06:42:51.782Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014209>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:42:51.782Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026228>;
+    <http://www.w3.org/ns/adms#identifier> _:df_751_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "technisch woordenboek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_751_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014209"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014209/2022-09-24T06:42:51.782Z>.
+<https://stad.gent/id/concept/570013662/2022-09-24T06:33:10.558Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013662>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:33:10.558Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300078925>;
+    <http://www.w3.org/ns/adms#identifier> _:df_820_5;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "aquarel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_820_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013662"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013662/2022-09-24T06:33:10.558Z>.
+<https://stad.gent/id/concept/570013623/2022-09-24T06:31:55.161Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013623>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:31:55.161Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300235428>;
+    <http://www.w3.org/ns/adms#identifier> _:df_829_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vierkleurendruk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_829_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013623"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013623/2022-09-24T06:31:55.161Z>.
+<https://stad.gent/id/concept/570013233/2022-09-24T06:23:32.275Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013233>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:23:32.275Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025823>;
+    <http://www.w3.org/ns/adms#identifier> _:df_886_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "technici"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_886_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013233"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013233/2022-09-24T06:23:32.275Z>.
+<https://stad.gent/id/concept/570013237/2022-09-24T06:23:37.645Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013237>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:23:37.645Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q5744147>;
+    <http://www.w3.org/ns/adms#identifier> _:df_886_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "flanelsteek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_886_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013237"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013237/2022-09-24T06:23:37.645Z>.
+<https://stad.gent/id/concept/570013172/2022-09-24T06:22:11.903Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013172>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:22:11.903Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q766264>;
+    <http://www.w3.org/ns/adms#identifier> _:df_895_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "technisch onderwijs"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_895_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013172"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013172/2022-09-24T06:22:11.903Z>.
+<https://stad.gent/id/concept/570012919/2022-09-24T06:16:19.160Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012919>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:16:19.160Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300138082>;
+    <http://www.w3.org/ns/adms#identifier> _:df_937_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "technieken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_937_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012919"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012919/2022-09-24T06:16:19.160Z>.
+<https://stad.gent/id/concept/570012492/2022-09-24T06:09:00.131Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012492>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:09:00.131Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300264032>;
+    <http://www.w3.org/ns/adms#identifier> _:df_988_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "petit-point steek (halve kruissteek)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_988_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012492"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012492/2022-09-24T06:09:00.131Z>.
+<https://stad.gent/id/concept/570012307/2022-09-24T06:04:57.965Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012307>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:04:57.965Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300249934>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1018_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Techniek: Gebruikt voor het lichtdrukprocédé dat in de jaren 60 van de 19e eeuw door F. Joubert in Frankrijk werd uitgewerkt. \r\nObjectnaam: Lichtdrukken die zijn geproduceerd via een procédé ontwikkeld in Frankrijk in de jaren 60 van de 19e eeuw door F. Joubert. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fototypie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1018_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012307"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012307/2022-09-24T06:04:57.965Z>.
+<https://stad.gent/id/concept/570012269/2022-09-24T06:04:27.950Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012269>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:04:27.950Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q721587>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1021_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "telegrafie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570024278>, <https://stad.gent/id/concept/570024280>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectcategorie"@nl, "object category"@en, "techniek"@nl, "technique"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570024280> <http://www.w3.org/2004/02/skos/core#prefLabel> "optische telegrafie"@nl.
+<https://stad.gent/id/concept/570024278> <http://www.w3.org/2004/02/skos/core#prefLabel> "elektrische telegrafie"@nl.
+_:df_1021_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012269"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012269/2022-09-24T06:04:27.950Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/tech.ttl> <https://w3id.org/tree#relation> _:df_1_696.
+_:df_1_696 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/techn.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "techn".
+<https://www.pieter.pm/coghent-substrings/thesaurus/tech.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/tech.ttl>.

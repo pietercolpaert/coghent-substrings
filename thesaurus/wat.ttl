@@ -227,3 +227,233 @@ _:df_1_1142 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/wate.ttl>;
     <https://w3id.org/tree#value> "wate".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/wat.ttl>.
+<https://stad.gent/id/concept/570011359/2022-09-24T05:55:18.384Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011359>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:55:18.384Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008022>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1087_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Waterloo"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020489>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020489> <http://www.w3.org/2004/02/skos/core#prefLabel> "Waals-Brabant (provincie)"@nl.
+_:df_1087_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011359"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011359/2022-09-24T05:55:18.384Z>.
+<https://stad.gent/id/concept/570011069/2022-09-24T05:52:11.645Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011069>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:52:11.645Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1601749>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1108_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "watten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1108_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011069"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011069/2022-09-24T05:52:11.645Z>.
+<https://stad.gent/id/concept/570011050/2022-09-24T05:51:46.635Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011050>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:51:46.635Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011772>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1111_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "water"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570007391>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "materiaal"@nl, "material"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007391> <http://www.w3.org/2004/02/skos/core#prefLabel> "afvalwater"@nl.
+_:df_1111_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011050"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011050/2022-09-24T05:51:46.635Z>.
+<https://stad.gent/id/concept/570010122/2022-09-24T05:38:58.251Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010122>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:38:58.251Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300199685>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1204_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten uit de oudheid voor het meten van de tijd, die gebruik maakten van water dat met een regelmatige snelheid vaten met een schaalverdeling in of uit stroomde. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "waterklok"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1204_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010122"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010122/2022-09-24T05:38:58.251Z>.
+<https://stad.gent/id/concept/570009966/2022-09-24T05:33:40.759Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009966>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:33:40.759Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300263418>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1240_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "waterweg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1240_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009966"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009966/2022-09-24T05:33:40.759Z>.
+<https://stad.gent/id/concept/570008921/2022-09-24T05:02:49.963Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008921>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:02:49.963Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2116352>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1459_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Watersportbaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1459_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008921"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008921/2022-09-24T05:02:49.963Z>.
+<https://stad.gent/id/concept/570007664/2022-09-24T04:42:14.653Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007664>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:42:14.653Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1061108>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1606_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "watervoorziening"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1606_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007664"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007664/2022-09-24T04:42:14.653Z>.
+<https://stad.gent/id/concept/570007567/2022-09-24T04:41:34.250Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007567>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:41:34.250Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006204>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1612_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een toren waarin men gezuiverd water oppompt zodat er voldoende druk wordt gecreëerd op het waterleidingnet.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "watertoren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1612_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007567"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007567/2022-09-24T04:41:34.250Z>.
+<https://stad.gent/id/concept/570007020/2022-09-24T04:39:33.326Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007020>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:39:33.326Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/4012078>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1627_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Waterschei (Genk)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570001061>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570001061> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburg (provincie)"@nl.
+_:df_1627_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007020"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007020/2022-09-24T04:39:33.326Z>.
+<https://stad.gent/id/concept/570001215/2022-09-24T04:14:59.089Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001215>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:14:59.089Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1463025>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1801_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "waterzuivering"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1801_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001215"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001215/2022-09-24T04:14:59.089Z>.
+<https://stad.gent/id/concept/550002789/2022-09-24T00:41:17.909Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002789>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:41:17.909Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900032344>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3322_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kannen voor water";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "waterkan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008184>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008184> <http://www.w3.org/2004/02/skos/core#prefLabel> "vaten voor het serveren van dranken"@nl.
+_:df_3322_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002789"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002789/2022-09-24T00:41:17.909Z>.
+<https://stad.gent/id/concept/550000205/2022-09-24T00:03:51.397Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000205>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:03:51.397Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300015045>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3589_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een verf die wordt verkregen door pigmenten te mengen in een waterig oplosmiddel, meestal in Arabische gom; wordt doorgaans aangebracht met een kwast.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "waterverf"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008867>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005748>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005748> <http://www.w3.org/2004/02/skos/core#prefLabel> "gouache (waterverf)"@nl.
+<https://stad.gent/id/concept/550008867> <http://www.w3.org/2004/02/skos/core#prefLabel> "verf op waterbasis"@nl.
+_:df_3589_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000205"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000205/2022-09-24T00:03:51.397Z>.
+<https://stad.gent/id/concept/670006965/2022-09-09T09:20:25.442Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006965>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:20:25.442Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3802_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Watersportbaan-Ekkergem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3802_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006965"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006965/2022-09-09T09:20:25.442Z>.
+<https://stad.gent/id/concept/670006580/2022-09-09T08:48:54.547Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006580>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:48:54.547Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4027_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Watusi, Guardians of King Solomon's Mines"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4027_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006580"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006580/2022-09-09T08:48:54.547Z>.
+<https://stad.gent/id/concept/670006575/2022-09-09T08:48:29.243Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006575>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:48:29.243Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4030_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wat worden onze kinderen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4030_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006575"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006575/2022-09-09T08:48:29.243Z>.
+<https://stad.gent/id/concept/670006576/2022-09-09T08:48:34.244Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006576>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:48:34.244Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4030_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Watch on the Rhine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4030_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006576"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006576/2022-09-09T08:48:34.244Z>.
+<https://stad.gent/id/concept/670006577/2022-09-09T08:48:39.247Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006577>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:48:39.247Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4030_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Waterloo Bridge"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4030_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006577"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006577/2022-09-09T08:48:39.247Z>.
+<https://stad.gent/id/concept/670006578/2022-09-09T08:48:44.543Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006578>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:48:44.543Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4030_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Waterloo Road"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4030_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006578"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006578/2022-09-09T08:48:44.543Z>.
+<https://stad.gent/id/concept/670006579/2022-09-09T08:48:49.544Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006579>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:48:49.544Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4030_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Watusi"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4030_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006579"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006579/2022-09-09T08:48:49.544Z>.
+<https://stad.gent/id/concept/670006574/2022-09-09T08:48:24.240Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006574>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:48:24.240Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4033_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wat een warboel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4033_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006574"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006574/2022-09-09T08:48:24.240Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/wat.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/wat.ttl>.

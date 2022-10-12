@@ -76,3 +76,152 @@ _:df_3232_19 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009616"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009616/2021-10-31T21:28:15.335Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/associa.ttl>.
+<https://stad.gent/id/concept/530010853/2022-09-24T00:01:05.186Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010853>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:01:05.186Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300386749>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3610_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De dochter van iemands zoon of dochter";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kleindochter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009707>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009707> <http://www.w3.org/2004/02/skos/core#prefLabel> "familie"@nl, "familie"@nl, "familie"@nl, "familie"@nl.
+_:df_3610_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010853"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010853/2022-09-24T00:01:05.186Z>.
+<https://stad.gent/id/concept/570020641/2022-09-20T00:01:14.693Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020641>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-20T00:01:14.693Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300404588>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3619_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drukwerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3619_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020641"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020641/2022-09-20T00:01:14.693Z>.
+<https://stad.gent/id/concept/570019641/2022-09-17T00:00:30.258Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019641>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-17T00:00:30.258Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055232>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3628_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Fysiek verschijnsel dat verband houdt met elektrische ladingen en de invloeden ervan in rust of in beweging. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "elektriciteit"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570024070>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en, "collectie"@nl, "collection"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570024070> <http://www.w3.org/2004/02/skos/core#prefLabel> "energie"@nl.
+_:df_3628_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019641"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019641/2022-09-17T00:00:30.258Z>.
+<https://stad.gent/id/concept/530010852/2022-09-16T00:01:10.726Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010852>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-16T00:01:10.726Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300386750>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3631_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De zoon van iemands zoon of dochter.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kleinzoon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009707>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009707> <http://www.w3.org/2004/02/skos/core#prefLabel> "familie"@nl, "familie"@nl, "familie"@nl, "familie"@nl.
+_:df_3631_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010852"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010852/2022-09-16T00:01:10.726Z>.
+<https://stad.gent/id/concept/530010853/2022-09-16T00:01:15.729Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010853>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-16T00:01:15.729Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300386749>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3631_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De dochter van iemands zoon of dochter";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kleindochter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009707>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009707> <http://www.w3.org/2004/02/skos/core#prefLabel> "familie"@nl, "familie"@nl, "familie"@nl, "familie"@nl.
+_:df_3631_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010853"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010853/2022-09-16T00:01:15.729Z>.
+<https://stad.gent/id/concept/530010854/2022-09-16T00:01:20.730Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010854>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-16T00:01:20.730Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300386773>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3631_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Broer van iemands vader of moeder, of echtgenoot van de zusters van iemands vader of moeder.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "oom"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009707>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009707> <http://www.w3.org/2004/02/skos/core#prefLabel> "familie"@nl, "familie"@nl, "familie"@nl, "familie"@nl.
+_:df_3631_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010854"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010854/2022-09-16T00:01:20.730Z>.
+<https://stad.gent/id/concept/530010855/2022-09-16T00:01:25.733Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010855>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-16T00:01:25.733Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300386772>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3631_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Zuster van iemands vader of moeder, of echtgenote van een broer van iemands vader of moeder.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tante"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009707>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009707> <http://www.w3.org/2004/02/skos/core#prefLabel> "familie"@nl, "familie"@nl, "familie"@nl, "familie"@nl.
+_:df_3631_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010855"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010855/2022-09-16T00:01:25.733Z>.
+<https://stad.gent/id/concept/530010646/2022-09-16T00:00:45.453Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010646>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-16T00:00:45.453Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300154343>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3634_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vrouwelijke partners in huwelijksrelaties.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "echtgenote"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009707>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009707> <http://www.w3.org/2004/02/skos/core#prefLabel> "familie"@nl, "familie"@nl, "familie"@nl, "familie"@nl, "familie"@nl.
+_:df_3634_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010646"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010646/2022-09-16T00:00:45.453Z>.
+<https://stad.gent/id/concept/530010784/2022-09-16T00:00:50.454Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010784>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-16T00:00:50.454Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300154350>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3634_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Mannelijk nageslacht.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zoon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009707>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009707> <http://www.w3.org/2004/02/skos/core#prefLabel> "familie"@nl, "familie"@nl, "familie"@nl, "familie"@nl, "familie"@nl.
+_:df_3634_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010784"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010784/2022-09-16T00:00:50.454Z>.
+<https://stad.gent/id/concept/530010835/2022-09-16T00:00:55.455Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010835>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-16T00:00:55.455Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300188720>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3634_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vrouwelijke bloedverwanten van dezelfde ouders (2e graads).";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zus"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009707>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009707> <http://www.w3.org/2004/02/skos/core#prefLabel> "familie"@nl, "familie"@nl, "familie"@nl, "familie"@nl, "familie"@nl.
+_:df_3634_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010835"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010835/2022-09-16T00:00:55.455Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/associa.ttl> <https://w3id.org/tree#relation> _:df_1_1364.
+_:df_1_1364 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/associat.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "associat".
+<https://www.pieter.pm/coghent-substrings/thesaurus/associa.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/associa.ttl>.

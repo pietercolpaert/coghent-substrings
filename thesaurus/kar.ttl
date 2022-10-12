@@ -118,3 +118,117 @@ _:df_3115_20 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010231"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010231/2021-10-31T21:44:38.491Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/kar.ttl>.
+<https://stad.gent/id/concept/570014949/2022-09-24T07:02:57.450Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014949>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:02:57.450Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q183440>;
+    <http://www.w3.org/ns/adms#identifier> _:df_607_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "karamel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_607_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014949"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014949/2022-09-24T07:02:57.450Z>.
+<https://stad.gent/id/concept/570010231/2022-09-24T05:41:55.061Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010231>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:41:55.061Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/7004424>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1183_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Karlsruhe"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_1183_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010231"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010231/2022-09-24T05:41:55.061Z>.
+<https://stad.gent/id/concept/570008669/2022-09-24T04:54:02.895Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008669>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:54:02.895Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300212695>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1522_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "karren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1522_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008669"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008669/2022-09-24T04:54:02.895Z>.
+<https://stad.gent/id/concept/550006134/2022-09-24T02:04:47.602Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006134>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:04:47.602Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300198495>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2728_35;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Flessen of kannen met handvatten voor het serveren van wijn of water aan tafel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "karaf"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008184>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008184> <http://www.w3.org/2004/02/skos/core#prefLabel> "vaten voor het serveren van dranken"@nl.
+_:df_2728_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006134"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006134/2022-09-24T02:04:47.602Z>.
+<https://stad.gent/id/concept/550005611/2022-09-24T01:47:38.239Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005611>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:47:38.239Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300201513>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2848_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Lichte geweren met een relatief korte loop.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "karabijn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008098>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008098> <http://www.w3.org/2004/02/skos/core#prefLabel> "schoudervuurwapen"@nl.
+_:df_2848_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005611"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005611/2022-09-24T01:47:38.239Z>.
+<https://stad.gent/id/concept/550005386/2022-09-24T01:41:09.523Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005386>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:41:09.523Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004424>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2896_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Karlsruhe"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004734>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_2896_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005386"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005386/2022-09-24T01:41:09.523Z>.
+<https://stad.gent/id/concept/550004892/2022-09-24T01:23:10.174Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004892>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:23:10.174Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014224>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3025_35;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Type dun, stijf bordpapier, gemaakt van chemische pulp of lompen van goede kwaliteit. Gewoonlijk gebruikt voor kaarten, borden, afdrukmateriaal en dozen van hoge kwaliteit. Gebruik voor goedkoop bruin golfkarton waarnaar soms wordt verwezen als 'karton' de term 'golfkarton'.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "karton"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008788>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008788> <http://www.w3.org/2004/02/skos/core#prefLabel> "bordpapier (papier)"@nl.
+_:df_3025_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004892"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004892/2022-09-24T01:23:10.174Z>.
+<https://stad.gent/id/concept/550001644/2022-09-24T00:24:12.695Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001644>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:24:12.695Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1003378>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3445_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Karatsjaj-Tsjerkessië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550001875>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001875> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rusland"@nl.
+_:df_3445_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001644"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001644/2022-09-24T00:24:12.695Z>.
+<https://stad.gent/id/concept/670007063/2022-09-09T09:28:15.612Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670007063>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:28:15.612Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3209>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3748_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Karperstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3748_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670007063"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670007063/2022-09-09T09:28:15.612Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/kar.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/kar.ttl>.

@@ -52,3 +52,105 @@ _:df_3118_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010195"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010195/2021-10-31T21:44:02.942Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/cor.ttl>.
+<https://stad.gent/id/concept/570013246/2022-09-24T06:24:02.656Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013246>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:24:02.656Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300220744>;
+    <http://www.w3.org/ns/adms#identifier> _:df_883_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "corsage"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_883_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013246"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013246/2022-09-24T06:24:02.656Z>.
+<https://stad.gent/id/concept/570010195/2022-09-24T05:41:19.626Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010195>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:41:19.626Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1186_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "cordelière passement"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1186_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010195"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010195/2022-09-24T05:41:19.626Z>.
+<https://stad.gent/id/concept/550007958/2022-09-24T02:54:56.376Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007958>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:54:56.376Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026877>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2368_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Geheel der verstuurde en ontvangen, geadresseerde, geschreven berichten, zoals brieven, ansichtkaarten, memo's, nota's of telegrammen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "correspondentie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007877>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007957>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007957> <http://www.w3.org/2004/02/skos/core#prefLabel> "correspondentie naar inhoud"@nl.
+<https://stad.gent/id/concept/550007877> <http://www.w3.org/2004/02/skos/core#prefLabel> "soorten documenten naar functie"@nl.
+_:df_2368_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007958"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007958/2022-09-24T02:54:56.376Z>.
+<https://stad.gent/id/concept/550007957/2022-09-24T02:54:51.374Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007957>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:54:51.374Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026878>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2371_40;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "correspondentie naar inhoud"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007958>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005020>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005020> <http://www.w3.org/2004/02/skos/core#prefLabel> "brief"@nl.
+<https://stad.gent/id/concept/550007958> <http://www.w3.org/2004/02/skos/core#prefLabel> "correspondentie"@nl.
+_:df_2371_40 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007957"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007957/2022-09-24T02:54:51.374Z>.
+<https://stad.gent/id/concept/550005722/2022-09-24T01:51:25.412Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005722>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:51:25.412Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300207872>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2821_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "correspondentiedragers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007763>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005721>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005721> <http://www.w3.org/2004/02/skos/core#prefLabel> "briefkaart"@nl.
+<https://stad.gent/id/concept/550007763> <http://www.w3.org/2004/02/skos/core#prefLabel> "informatiedragers naar functie"@nl.
+_:df_2821_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005722"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005722/2022-09-24T01:51:25.412Z>.
+<https://stad.gent/id/concept/550004971/2022-09-24T01:25:06.030Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004971>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:25:06.030Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3010_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "cordon- en festonsteek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3010_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004971"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004971/2022-09-24T01:25:06.030Z>.
+<https://stad.gent/id/concept/550003703/2022-09-24T00:53:06.672Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003703>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:53:06.672Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3238_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "corte"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007977>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007977> <http://www.w3.org/2004/02/skos/core#prefLabel> "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl.
+_:df_3238_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003703"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003703/2022-09-24T00:53:06.672Z>.
+<https://stad.gent/id/concept/670007018/2022-09-09T09:24:48.547Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670007018>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:24:48.547Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2862>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3772_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Corduwaniersstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3772_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670007018"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670007018/2022-09-09T09:24:48.547Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/cor.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/cor.ttl>.

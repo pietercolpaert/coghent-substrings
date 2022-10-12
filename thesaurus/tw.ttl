@@ -66,3 +66,216 @@ _:df_2401_15 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570015940"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015940/2021-10-31T23:25:36.760Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/tw.ttl>.
+<https://stad.gent/id/concept/570016609/2022-09-24T07:41:46.411Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016609>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:41:46.411Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q63379189>;
+    <http://www.w3.org/ns/adms#identifier> _:df_331_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "twijnmolen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_331_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016609"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016609/2022-09-24T07:41:46.411Z>.
+<https://stad.gent/id/concept/570015940/2022-09-24T07:23:32.008Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015940>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:23:32.008Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_460_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "twijnderij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_460_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015940"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015940/2022-09-24T07:23:32.008Z>.
+<https://stad.gent/id/concept/570009488/2022-09-24T05:21:57.304Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009488>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:21:57.304Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007161>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1324_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Twente"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_1324_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009488"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009488/2022-09-24T05:21:57.304Z>.
+<https://stad.gent/id/concept/570008991/2022-09-24T05:05:05.786Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008991>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:05:05.786Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1444_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "twijnmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1444_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008991"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008991/2022-09-24T05:05:05.786Z>.
+<https://stad.gent/id/concept/570003582/2022-09-24T04:25:28.479Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570003582>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:25:28.479Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300232088>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1726_102;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het samendraaien van twee of meer draden garen, meestal in tegenovergestelde richting van de draaiing van de gebruikte draden, om dikker en sterker garen te verkrijgen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "twijnen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1726_102 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570003582"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570003582/2022-09-24T04:25:28.479Z>.
+<https://stad.gent/id/concept/550007738/2022-09-24T02:38:17.001Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007738>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:38:17.001Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2488_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tweeslagschuinsteker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008165>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008165> <http://www.w3.org/2004/02/skos/core#prefLabel> "archeologisch object"@nl.
+_:df_2488_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007738"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007738/2022-09-24T02:38:17.001Z>.
+<https://stad.gent/id/concept/550002730/2022-09-24T00:39:57.474Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002730>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:39:57.474Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3331_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tweelingzwaard"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550000723>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000723> <http://www.w3.org/2004/02/skos/core#prefLabel> "zwaard (gevestwapen)"@nl.
+_:df_3331_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002730"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002730/2022-09-24T00:39:57.474Z>.
+<https://stad.gent/id/concept/670006948/2022-09-09T09:19:00.027Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006948>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:19:00.027Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3814_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tweede Aardstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3814_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006948"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006948/2022-09-09T09:19:00.027Z>.
+<https://stad.gent/id/concept/670006911/2022-09-09T09:16:08.514Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006911>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:16:08.514Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q111976676>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3835_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tweegatenbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3835_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006911"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006911/2022-09-09T09:16:08.514Z>.
+<https://stad.gent/id/concept/670006395/2022-09-09T08:33:20.573Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006395>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:33:20.573Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4138_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Two Tickets to London"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4138_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006395"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006395/2022-09-09T08:33:20.573Z>.
+<https://stad.gent/id/concept/670006396/2022-09-09T08:33:25.576Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006396>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:33:25.576Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4138_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Two Weeks with Love"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4138_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006396"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006396/2022-09-09T08:33:25.576Z>.
+<https://stad.gent/id/concept/670006390/2022-09-09T08:32:55.561Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006390>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:32:55.561Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4141_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Twilight for the Gods"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4141_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006390"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006390/2022-09-09T08:32:55.561Z>.
+<https://stad.gent/id/concept/670006391/2022-09-09T08:33:00.563Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006391>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:33:00.563Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4141_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Two Faced Woman"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4141_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006391"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006391/2022-09-09T08:33:00.563Z>.
+<https://stad.gent/id/concept/670006392/2022-09-09T08:33:05.566Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006392>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:33:05.566Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4141_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Two Flags West"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4141_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006392"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006392/2022-09-09T08:33:05.566Z>.
+<https://stad.gent/id/concept/670006393/2022-09-09T08:33:10.568Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006393>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:33:10.568Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4141_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Two Girls and a Sailor"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4141_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006393"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006393/2022-09-09T08:33:10.568Z>.
+<https://stad.gent/id/concept/670006394/2022-09-09T08:33:15.571Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006394>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:33:15.571Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4141_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Two Sisters from Boston"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4141_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006394"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006394/2022-09-09T08:33:15.571Z>.
+<https://stad.gent/id/concept/670006386/2022-09-09T08:32:35.182Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006386>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:32:35.182Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4144_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Twee goede kameraden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4144_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006386"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006386/2022-09-09T08:32:35.182Z>.
+<https://stad.gent/id/concept/670006387/2022-09-09T08:32:40.185Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006387>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:32:40.185Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4144_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Twee harten één saxo"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4144_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006387"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006387/2022-09-09T08:32:40.185Z>.
+<https://stad.gent/id/concept/670006388/2022-09-09T08:32:45.557Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006388>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:32:45.557Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4144_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Twee werelden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4144_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006388"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006388/2022-09-09T08:32:45.557Z>.
+<https://stad.gent/id/concept/670006389/2022-09-09T08:32:50.559Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006389>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:32:50.559Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4144_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Twelve O'Clock High"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4144_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006389"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006389/2022-09-09T08:32:50.559Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/tw.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/tw.ttl>.

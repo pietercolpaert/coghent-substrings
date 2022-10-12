@@ -32,3 +32,58 @@ _:df_2572_10 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570014828"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014828/2021-10-31T23:01:31.437Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/hor.ttl>.
+<https://stad.gent/id/concept/570008559/2022-09-24T04:50:06.192Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008559>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:50:06.192Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1431026>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1552_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "horeca"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1552_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008559"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008559/2022-09-24T04:50:06.192Z>.
+<https://stad.gent/id/concept/550009119/2022-09-24T04:00:28.910Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009119>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:00:28.910Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300403916>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1903_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "horlogeketting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007962>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007962> <http://www.w3.org/2004/02/skos/core#prefLabel> "sieraden gedragen op kleding"@nl.
+_:df_1903_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009119"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009119/2022-09-24T04:00:28.910Z>.
+<https://stad.gent/id/concept/550009120/2022-09-24T04:00:33.913Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009120>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:00:33.913Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300390901>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1903_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "horlogesleutel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550009104>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550009104> <http://www.w3.org/2004/02/skos/core#prefLabel> "klok- en horlogeonderdelen"@nl.
+_:df_1903_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009120"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009120/2022-09-24T04:00:33.913Z>.
+<https://stad.gent/id/concept/550002036/2022-09-24T00:32:08.078Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002036>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:32:08.078Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041615>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3388_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Uurwerken die klein en handig genoeg zijn om op het lichaam te worden gedragen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "horloge"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008158>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550002756>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002756> <http://www.w3.org/2004/02/skos/core#prefLabel> "zakhorloge"@nl.
+<https://stad.gent/id/concept/550008158> <http://www.w3.org/2004/02/skos/core#prefLabel> "uurwerken naar vorm"@nl.
+_:df_3388_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002036"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002036/2022-09-24T00:32:08.078Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/hor.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/hor.ttl>.

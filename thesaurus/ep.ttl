@@ -23,3 +23,33 @@ _:df_2206_25 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570016878"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016878/2021-10-31T23:53:16.696Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ep.ttl>.
+<https://stad.gent/id/concept/550005562/2022-09-24T01:46:12.221Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005562>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:46:12.221Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900032474>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2860_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Pincet om mee te epileren.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "epileerpincet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008057>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008057> <http://www.w3.org/2004/02/skos/core#prefLabel> "itrusting voor persoonlijk gebruik: kappen, hygiëne en gezondheidszorg"@nl.
+_:df_2860_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005562"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005562/2022-09-24T01:46:12.221Z>.
+<https://stad.gent/id/concept/550005143/2022-09-24T01:30:39.230Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005143>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:30:39.230Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300224235>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2971_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Sierbelegsels op de schouder; van het soort dat voornamelijk door militaire officieren wordt gedragen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "epaulet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008056>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008056> <http://www.w3.org/2004/02/skos/core#prefLabel> "schouderaccessoires"@nl.
+_:df_2971_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005143"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005143/2022-09-24T01:30:39.230Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/ep.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ep.ttl>.

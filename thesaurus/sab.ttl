@@ -1,0 +1,43 @@
+<https://stad.gent/id/concept/570000037/2022-09-24T04:05:28.323Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000037>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:05:28.323Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300030786>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1867_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sabel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1867_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000037"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000037/2022-09-24T04:05:28.323Z>.
+<https://stad.gent/id/concept/550009058/2022-09-24T03:57:22.233Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009058>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:57:22.233Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300180646>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1927_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Hangende pitkanaal-olielampen met zes of acht kanalen die vanuit het midden straalvormig uitlopen, met daaronder een druppelvanger. Ze zijn van koper of ander metaal en ze worden in joodse huishoudens aa";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sabbatslamp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550009059>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550009059> <http://www.w3.org/2004/02/skos/core#prefLabel> "lampen naar functie"@nl.
+_:df_1927_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009058"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009058/2022-09-24T03:57:22.233Z>.
+<https://stad.gent/id/concept/550001562/2022-09-24T00:22:46.882Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001562>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:22:46.882Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037086>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3454_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Blanke gevestwapens met a-symmetrisch gevest en eensnijdende kling, die in beginsel gebogen is en dus tot houwen bedoeld en waarvan de schede aan de buitenkant van de bocht ligt; soms is er een kort rugscherp; 17e eeuw tot heden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sabel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007932>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005690>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005690> <http://www.w3.org/2004/02/skos/core#prefLabel> "pallas"@nl.
+<https://stad.gent/id/concept/550007932> <http://www.w3.org/2004/02/skos/core#prefLabel> "blanke gevestwapens naar vorm"@nl, "blanke gevestwapens naar vorm"@nl.
+_:df_3454_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001562"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001562/2022-09-24T00:22:46.882Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/sab.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/sab.ttl>.

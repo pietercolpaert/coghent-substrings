@@ -12,3 +12,21 @@ _:df_1399_34 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570022890"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022890/2021-11-01T01:47:01.223Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/rev.ttl>.
+<https://stad.gent/id/concept/550005645/2022-09-24T01:48:49.047Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005645>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:48:49.047Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037173>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2842_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor vuistvuurwapens met één of twee lopen, voorzien van een magazijn met meerdere patroonkamers dat rond een as draait die parallel loopt aan de loop, waarbij iedere kamer afzonderlijk vuurt. Gebruik 'peperbussen (vuurwapens)' voor vuistvuurwapens met meerdere, soms ronddraaiende lopen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "revolver"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008099>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001832>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001832> <http://www.w3.org/2004/02/skos/core#prefLabel> "trommelrevolver"@nl.
+<https://stad.gent/id/concept/550008099> <http://www.w3.org/2004/02/skos/core#prefLabel> "draagbare vuurwapens naar vorm"@nl.
+_:df_2842_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005645"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005645/2022-09-24T01:48:49.047Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/rev.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/rev.ttl>.

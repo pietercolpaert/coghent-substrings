@@ -165,3 +165,112 @@ _:df_3220_12 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009663"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009663/2021-10-31T21:29:51.980Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/koe.ttl>.
+<https://stad.gent/id/concept/570016166/2022-09-24T07:28:29.486Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016166>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:28:29.486Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300042983>;
+    <http://www.w3.org/ns/adms#identifier> _:df_427_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Metalen, aardewerken of plastic houders, meestal voor huishoudelijk gebruik en over het algemeen wijd, ondiep en open. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koekenpan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_427_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016166"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016166/2022-09-24T07:28:29.486Z>.
+<https://stad.gent/id/concept/570014935/2022-09-24T07:01:56.758Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014935>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:01:56.758Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300215666>;
+    <http://www.w3.org/ns/adms#identifier> _:df_616_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koets"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_616_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014935"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014935/2022-09-24T07:01:56.758Z>.
+<https://stad.gent/id/concept/570014750/2022-09-24T06:57:04.741Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014750>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:57:04.741Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026535>;
+    <http://www.w3.org/ns/adms#identifier> _:df_649_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Koekelare"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018081>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018081> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen (provincie)"@nl.
+_:df_649_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014750"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014750/2022-09-24T06:57:04.741Z>.
+<https://stad.gent/id/concept/570013468/2022-09-24T06:29:11.666Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013468>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:29:11.666Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300001280>;
+    <http://www.w3.org/ns/adms#identifier> _:df_844_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koepels"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_844_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013468"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013468/2022-09-24T06:29:11.666Z>.
+<https://stad.gent/id/concept/570012825/2022-09-24T06:14:38.194Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012825>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:14:38.194Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300215748>;
+    <http://www.w3.org/ns/adms#identifier> _:df_949_18;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kasten of ruimten die op een lage temperatuur worden gehouden door middel van ijs of mechanisch apparatuur om de inhoud, voornamelijk voedsel en dranken, goed te houden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koelkast"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_949_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012825"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012825/2022-09-24T06:14:38.194Z>.
+<https://stad.gent/id/concept/570010383/2022-09-24T05:43:45.909Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010383>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:43:45.909Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1168_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koeltechniek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1168_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010383"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010383/2022-09-24T05:43:45.909Z>.
+<https://stad.gent/id/concept/570009663/2022-09-24T05:27:22.749Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009663>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:27:22.749Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q13266>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1285_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koekjes"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1285_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009663"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009663/2022-09-24T05:27:22.749Z>.
+<https://stad.gent/id/concept/550008176/2022-09-24T03:13:00.377Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008176>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:13:00.377Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300163291>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2242_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koel-, verwarm- en bevochtigingsuitrusting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007772>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008175>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008175> <http://www.w3.org/2004/02/skos/core#prefLabel> "verwarmingstoestellen"@nl.
+<https://stad.gent/id/concept/550007772> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting naar proces"@nl.
+_:df_2242_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008176"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008176> <http://www.w3.org/2004/02/skos/core#prefLabel> "koel-, verwarm- en bevochtigingsuitrusting"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008176/2022-09-24T03:13:00.377Z>.
+<https://stad.gent/id/concept/530009156/2022-09-15T00:03:40.848Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009156>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-15T00:03:40.848Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300199914>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3646_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koekjesvorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008613>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008613> <http://www.w3.org/2004/02/skos/core#prefLabel> "bakgerei"@nl.
+_:df_3646_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009156"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009156/2022-09-15T00:03:40.848Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/koe.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/koe.ttl>.

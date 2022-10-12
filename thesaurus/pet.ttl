@@ -75,3 +75,105 @@ _:df_3223_34 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009654"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009654/2021-10-31T21:29:36.056Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/pet.ttl>.
+<https://stad.gent/id/concept/570012492/2022-09-24T06:09:00.131Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012492>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:09:00.131Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300264032>;
+    <http://www.w3.org/ns/adms#identifier> _:df_988_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "petit-point steek (halve kruissteek)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_988_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012492"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012492/2022-09-24T06:09:00.131Z>.
+<https://stad.gent/id/concept/570009654/2022-09-24T05:27:07.403Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009654>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:27:07.403Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046094>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1288_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1288_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009654"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009654/2022-09-24T05:27:07.403Z>.
+<https://stad.gent/id/concept/570009313/2022-09-24T05:18:00.502Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009313>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:18:00.502Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300429133>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1354_35;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "petrischaaltje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1354_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009313"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009313/2022-09-24T05:18:00.502Z>.
+<https://stad.gent/id/concept/550008644/2022-09-24T03:40:03.949Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008644>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:40:03.949Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046094>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2050_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Randloze hoofddeksels, meestal met een klep.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2050_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008644"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008644/2022-09-24T03:40:03.949Z>.
+<https://stad.gent/id/concept/550008326/2022-09-24T03:25:17.506Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008326>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:25:17.506Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300213421>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2152_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "petten en mutsen naar vorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008257>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008643>, <https://stad.gent/id/concept/550007582>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007582> <http://www.w3.org/2004/02/skos/core#prefLabel> "sjako"@nl.
+<https://stad.gent/id/concept/550008643> <http://www.w3.org/2004/02/skos/core#prefLabel> "kepie"@nl.
+<https://stad.gent/id/concept/550008257> <http://www.w3.org/2004/02/skos/core#prefLabel> "petten en mutsen"@nl.
+_:df_2152_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008326"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008326/2022-09-24T03:25:17.506Z>.
+<https://stad.gent/id/concept/550008257/2022-09-24T03:19:28.511Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008257>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:19:28.511Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046094>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2194_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "petten en mutsen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550000302>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005337>, <https://stad.gent/id/concept/550008326>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008326> <http://www.w3.org/2004/02/skos/core#prefLabel> "petten en mutsen naar vorm"@nl.
+<https://stad.gent/id/concept/550005337> <http://www.w3.org/2004/02/skos/core#prefLabel> "muts"@nl.
+<https://stad.gent/id/concept/550000302> <http://www.w3.org/2004/02/skos/core#prefLabel> "hoofddeksel"@nl.
+_:df_2194_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008257"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008257/2022-09-24T03:19:28.511Z>.
+<https://stad.gent/id/concept/550006806/2022-09-24T02:27:46.290Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006806>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:27:46.290Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7118515>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2563_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Petersberg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004734>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_2563_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006806"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006806/2022-09-24T02:27:46.290Z>.
+<https://stad.gent/id/concept/670006942/2022-09-09T09:18:34.603Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006942>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:18:34.603Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3817_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Peter Benoitlaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3817_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006942"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006942/2022-09-09T09:18:34.603Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/pet.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/pet.ttl>.

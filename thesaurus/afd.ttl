@@ -1,0 +1,32 @@
+<https://stad.gent/id/concept/550008329/2022-09-24T03:25:32.513Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008329>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:25:32.513Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300033602>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2152_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De beschermende plaatjes die bijvoorbeeld om sleutelgaten, lichtschakelaars en deurknoppen heen zitten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "afdekplaatje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007904>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005281>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005281> <http://www.w3.org/2004/02/skos/core#prefLabel> "sleutelplaatje (afwerkingsijzerwaren)"@nl.
+<https://stad.gent/id/concept/550007904> <http://www.w3.org/2004/02/skos/core#prefLabel> "afwerkingsijzerwaar"@nl.
+_:df_2152_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008329"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008329/2022-09-24T03:25:32.513Z>.
+<https://stad.gent/id/concept/550003404/2022-09-24T00:49:03.703Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003404>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:49:03.703Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300178549>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3268_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Afbeeldingen op papier of ander materiaal, overgebracht door een ingeïnkte drukvorm. Te gebruiken wanneer specifiek de individuele afbeelding die het resultaat is van het afdrukken bedoeld wordt. Gebruik 'prenten' voor gedrukte afbeeldingen in het algemeen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "afdruk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550000076>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000076> <http://www.w3.org/2004/02/skos/core#prefLabel> "prent"@nl.
+_:df_3268_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003404"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003404/2022-09-24T00:49:03.703Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/afd.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/afd.ttl>.

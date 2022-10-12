@@ -22,3 +22,53 @@ _:df_2635_27 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570014551"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014551/2021-10-31T22:52:48.262Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/pot.ttl>.
+<https://stad.gent/id/concept/570000872/2022-09-24T04:12:42.323Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000872>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:12:42.323Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022521>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1816_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "potloodslijper"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1816_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000872"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000872/2022-09-24T04:12:42.323Z>.
+<https://stad.gent/id/concept/550005693/2022-09-24T01:50:29.956Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005693>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:50:29.956Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2830_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pottenbakker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2830_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005693"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005693/2022-09-24T01:50:29.956Z>.
+<https://stad.gent/id/concept/550000955/2022-09-24T00:12:11.400Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000955>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:12:11.400Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300045697>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3529_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders in allerlei grootte en vorm, maar meestal rond, hoofdzakelijk gebruikt voor huishoudelijke doeleinden. Ze zijn er ook van metaal.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007852>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007852> <http://www.w3.org/2004/02/skos/core#prefLabel> "vaatwerk (houder)"@nl.
+_:df_3529_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000955"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000955/2022-09-24T00:12:11.400Z>.
+<https://stad.gent/id/concept/550000224/2022-09-24T00:04:11.406Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000224>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:04:11.406Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300410334>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3586_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "potloodtekening"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007970>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007970> <http://www.w3.org/2004/02/skos/core#prefLabel> "tekeningen naar materiaal of techniek"@nl.
+_:df_3586_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000224"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000224/2022-09-24T00:04:11.406Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/pot.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/pot.ttl>.

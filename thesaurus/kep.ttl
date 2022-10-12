@@ -1,0 +1,27 @@
+<https://stad.gent/id/concept/550008643/2022-09-24T03:39:58.598Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008643>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:39:58.598Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300210766>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2050_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine legerpetten met een bijna horizontale klep en een harde bol die aan de voorkant naar beneden afloopt. Waren zeer populair in de Franse en Amerikaanse legers en zijn later overgenomen voor gebruik door burgers.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kepie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008326>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008326> <http://www.w3.org/2004/02/skos/core#prefLabel> "petten en mutsen naar vorm"@nl.
+_:df_2050_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008643"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008643/2022-09-24T03:39:58.598Z>.
+<https://stad.gent/id/concept/550008388/2022-09-24T03:30:05.397Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008388>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:30:05.397Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2119_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Geweven stof die wordt gekenmerkt door parallelle diagonale richels of ribbels die ontstaan door elke scheringdraad over één en onder twee of meer aangrenzende inslagdraden heen te laten lopen in plaats van afwisselend over en onder een inslagdraad, zoals bij gangbare weefsels. Keperweefsel heeft normaal gesproken een diagonale lijn die regelmatig wordt herhaald en gewoonlijk omhoog loopt van links naar rechts onder een hoek van 45 graden. Het weefpatroon kan op verschillende manieren worden gevarieerd, bijvoorbeeld door de hoek of de richting van de keperlijn te veranderen, zoals bij een visgraatmotief.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "keperweefsel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2119_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008388"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008388/2022-09-24T03:30:05.397Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/kep.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/kep.ttl>.

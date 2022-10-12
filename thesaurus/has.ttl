@@ -20,3 +20,45 @@ _:df_2878_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570012870"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012870/2021-10-31T22:17:52.686Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/has.ttl>.
+<https://stad.gent/id/concept/570005208/2022-09-24T04:29:41.950Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570005208>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:29:41.950Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7238592>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1696_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hasselt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570001061>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570001061> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburg (provincie)"@nl.
+_:df_1696_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570005208"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570005208/2022-09-24T04:29:41.950Z>.
+<https://stad.gent/id/concept/550004679/2022-09-24T01:16:00.252Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004679>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:16:00.252Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006947>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3076_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hasselt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004370>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004370> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburg (provincie)"@nl.
+_:df_3076_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004679"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004679/2022-09-24T01:16:00.252Z>.
+<https://stad.gent/id/concept/550001981/2022-09-24T00:30:52.648Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001981>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:30:52.648Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300263302>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3397_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Toestellen, meestal bestaande uit een kooi die kan uitzetten en die draait om een verticale schacht, en een fioelkop, die op eigen poten kan staan of kan worden bevestigd aan het deksel van de naaidoos of de rand van de tafel. Er wordt een streng draad op de kooi geplaatst en omgekeerd, waarna de haspel in beweging wordt gezet om een regelmatige bol garen op te wikkelen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "haspel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008148>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008148> <http://www.w3.org/2004/02/skos/core#prefLabel> "textielbewerkingsgereedschap"@nl.
+_:df_3397_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001981"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001981/2022-09-24T00:30:52.648Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/has.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/has.ttl>.

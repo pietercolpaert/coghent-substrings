@@ -10,3 +10,108 @@ _:df_2917_10 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570012528"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012528/2021-10-31T22:12:28.471Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/verw.ttl>.
+<https://stad.gent/id/concept/570000014/2022-09-24T04:04:37.829Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000014>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:04:37.829Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300138913>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1873_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schenking"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "verwervingsmethode"@nl, "acquisition method"@en, "afstotingsmethode"@nl, "disposal method"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1873_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000014"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000014/2022-09-24T04:04:37.829Z>.
+<https://stad.gent/id/concept/550008586/2022-09-24T03:35:34.371Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008586>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:35:34.371Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300163404>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2080_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Hiermee worden bronnen aangeduid die in de eerste plaats zijn bedoeld als naslagwerk, en niet om achter elkaar uit te lezen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verwijsbron"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007877>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008585>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008585> <http://www.w3.org/2004/02/skos/core#prefLabel> "stalenboek"@nl.
+<https://stad.gent/id/concept/550007877> <http://www.w3.org/2004/02/skos/core#prefLabel> "soorten documenten naar functie"@nl.
+_:df_2080_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008586"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008586> <http://www.w3.org/2004/02/skos/core#prefLabel> "verwijsbron"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008586/2022-09-24T03:35:34.371Z>.
+<https://stad.gent/id/concept/550008175/2022-09-24T03:12:54.891Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008175>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:12:54.891Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300163292>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2242_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verwarmingstoestellen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008176>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550004268>, <https://stad.gent/id/concept/550001901>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001901> <http://www.w3.org/2004/02/skos/core#prefLabel> "voetstoof"@nl.
+<https://stad.gent/id/concept/550004268> <http://www.w3.org/2004/02/skos/core#prefLabel> "kachel (verwarmingstoestel)"@nl.
+<https://stad.gent/id/concept/550008176> <http://www.w3.org/2004/02/skos/core#prefLabel> "koel-, verwarm- en bevochtigingsuitrusting"@nl.
+_:df_2242_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008175"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008175> <http://www.w3.org/2004/02/skos/core#prefLabel> "verwarmingstoestellen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008175/2022-09-24T03:12:54.891Z>.
+<https://stad.gent/id/concept/550008135/2022-09-24T03:09:38.494Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008135>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:09:38.494Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300076657>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2266_34;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verwarmings- en kookelementen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007810>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008134>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008134> <http://www.w3.org/2004/02/skos/core#prefLabel> "haardsteden en haardstedeonderdelen"@nl, "haardsteden en haardstedeonderdelen"@nl.
+<https://stad.gent/id/concept/550007810> <http://www.w3.org/2004/02/skos/core#prefLabel> "architecturaal element"@nl.
+_:df_2266_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008135"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008135> <http://www.w3.org/2004/02/skos/core#prefLabel> "verwarmings- en kookelementen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008135/2022-09-24T03:09:38.494Z>.
+<https://stad.gent/id/concept/550000114/2022-09-24T00:02:35.624Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000114>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:02:35.624Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3598_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "onbekend"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "verwervingsmethode"@nl, "acquisition method"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "inscriptie positie"@nl, "inscription position"@en, "periode"@nl, "period"@en, "objectnaam"@nl, "object name"@en, "materiaal"@nl, "material"@en, "Vindplaats"@nl, "Collection place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3598_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000114"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000114/2022-09-24T00:02:35.624Z>.
+<https://stad.gent/id/concept/670006880/2022-09-09T09:13:32.048Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006880>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:13:32.048Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q22340494>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3853_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "aankoop"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "verwervingsmethode"@nl, "acquisition method"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3853_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006880"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006880/2022-09-09T09:13:32.048Z>.
+<https://stad.gent/id/concept/670006515/2022-09-09T08:43:25.818Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006515>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:43:25.818Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.imdb.com/title/tt0033217>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4066_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Verwandte sind auch Menschen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4066_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006515"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006515/2022-09-09T08:43:25.818Z>.
+<https://stad.gent/id/concept/670006516/2022-09-09T08:43:30.821Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006516>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:43:30.821Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4066_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Verwilderde jeugd"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4066_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006516"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006516/2022-09-09T08:43:30.821Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/verw.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/verw.ttl>.

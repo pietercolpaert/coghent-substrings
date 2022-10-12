@@ -9,3 +9,15 @@ _:df_2413_7 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570015886"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015886/2021-10-31T23:23:50.167Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/dos.ttl>.
+<https://stad.gent/id/concept/670007025/2022-09-09T09:25:18.880Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670007025>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:25:18.880Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3769_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Dosweg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3769_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670007025"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670007025/2022-09-09T09:25:18.880Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/dos.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/dos.ttl>.

@@ -295,3 +295,359 @@ _:df_1_1005 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/de+t.ttl>;
     <https://w3id.org/tree#value> "de", "t".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/de.ttl>.
+<https://stad.gent/id/concept/570016930/2022-09-24T07:53:32.070Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016930>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:53:32.070Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209578>;
+    <http://www.w3.org/ns/adms#identifier> _:df_247_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "deegspuit"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_247_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016930"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016930/2022-09-24T07:53:32.070Z>.
+<https://stad.gent/id/concept/570016645/2022-09-24T07:42:41.786Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016645>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:42:41.786Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_325_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "deurpomp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_325_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016645"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016645/2022-09-24T07:42:41.786Z>.
+<https://stad.gent/id/concept/570016280/2022-09-24T07:31:20.996Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016280>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:31:20.996Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7013547>;
+    <http://www.w3.org/ns/adms#identifier> _:df_406_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Detroit (Michigan)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_406_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016280"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016280/2022-09-24T07:31:20.996Z>.
+<https://stad.gent/id/concept/570016142/2022-09-24T07:27:49.132Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016142>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:27:49.132Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1004353>;
+    <http://www.w3.org/ns/adms#identifier> _:df_430_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Delstern"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_430_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016142"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016142/2022-09-24T07:27:49.132Z>.
+<https://stad.gent/id/concept/570015965/2022-09-24T07:24:12.444Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015965>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:24:12.444Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2005653>;
+    <http://www.w3.org/ns/adms#identifier> _:df_457_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "deurwaarder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_457_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015965"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015965/2022-09-24T07:24:12.444Z>.
+<https://stad.gent/id/concept/570015908/2022-09-24T07:22:46.673Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015908>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:22:46.673Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300033419>;
+    <http://www.w3.org/ns/adms#identifier> _:df_466_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "deursloten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_466_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015908"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015908/2022-09-24T07:22:46.673Z>.
+<https://stad.gent/id/concept/570015692/2022-09-24T07:18:54.992Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015692>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:18:54.992Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007239>;
+    <http://www.w3.org/ns/adms#identifier> _:df_493_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Delaware"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_493_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015692"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015692/2022-09-24T07:18:54.992Z>.
+<https://stad.gent/id/concept/570015693/2022-09-24T07:18:59.995Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015693>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:18:59.995Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300264503>;
+    <http://www.w3.org/ns/adms#identifier> _:df_493_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dekens"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_493_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015693"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015693/2022-09-24T07:18:59.995Z>.
+<https://stad.gent/id/concept/570015706/2022-09-24T07:19:15.002Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015706>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:19:15.002Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1180325>;
+    <http://www.w3.org/ns/adms#identifier> _:df_493_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "De Standaard"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_493_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015706"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015706/2022-09-24T07:19:15.002Z>.
+<https://stad.gent/id/concept/570015495/2022-09-24T07:14:53.001Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015495>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:14:53.001Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q614819>;
+    <http://www.w3.org/ns/adms#identifier> _:df_523_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "De Lijn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_523_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015495"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015495/2022-09-24T07:14:53.001Z>.
+<https://stad.gent/id/concept/570015358/2022-09-24T07:12:36.972Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015358>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:12:36.972Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300400741>;
+    <http://www.w3.org/ns/adms#identifier> _:df_538_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "degen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_538_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015358"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015358/2022-09-24T07:12:36.972Z>.
+<https://stad.gent/id/concept/570015309/2022-09-24T07:11:06.165Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015309>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:11:06.165Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008118>;
+    <http://www.w3.org/ns/adms#identifier> _:df_550_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Derbyshire"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_550_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015309"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015309/2022-09-24T07:11:06.165Z>.
+<https://stad.gent/id/concept/570015252/2022-09-24T07:10:20.777Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015252>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:10:20.777Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006810>;
+    <http://www.w3.org/ns/adms#identifier> _:df_556_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Den Haag"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl, "Nederland"@nl.
+_:df_556_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015252"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015252/2022-09-24T07:10:20.777Z>.
+<https://stad.gent/id/concept/570015112/2022-09-24T07:06:14.102Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015112>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:06:14.102Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026386>;
+    <http://www.w3.org/ns/adms#identifier> _:df_586_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "De Pinte"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_586_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015112"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015112/2022-09-24T07:06:14.102Z>.
+<https://stad.gent/id/concept/570014941/2022-09-24T07:02:22.083Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014941>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:02:22.083Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300229940>;
+    <http://www.w3.org/ns/adms#identifier> _:df_613_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "decoratie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_613_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014941"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014941/2022-09-24T07:02:22.083Z>.
+<https://stad.gent/id/concept/570014285/2022-09-24T06:44:07.179Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014285>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:44:07.179Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/2003270>;
+    <http://www.w3.org/ns/adms#identifier> _:df_742_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Decatur (Alabama)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl, "Verenigde Staten van Amerika"@nl.
+_:df_742_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014285"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014285/2022-09-24T06:44:07.179Z>.
+<https://stad.gent/id/concept/570013995/2022-09-24T06:38:18.153Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013995>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:38:18.153Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300077937>;
+    <http://www.w3.org/ns/adms#identifier> _:df_784_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "deurkruk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_784_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013995"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013995/2022-09-24T06:38:18.153Z>.
+<https://stad.gent/id/concept/570013793/2022-09-24T06:34:51.553Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013793>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:34:51.553Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026387>;
+    <http://www.w3.org/ns/adms#identifier> _:df_808_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Deerlijk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018081>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018081> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen (provincie)"@nl.
+_:df_808_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013793"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013793/2022-09-24T06:34:51.553Z>.
+<https://stad.gent/id/concept/570013435/2022-09-24T06:28:06.146Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013435>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:28:06.146Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026388>;
+    <http://www.w3.org/ns/adms#identifier> _:df_853_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Deinze"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "motief"@nl, "motif"@en, "plaats"@nl, "place"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl.
+_:df_853_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013435"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013435/2022-09-24T06:28:06.146Z>.
+<https://stad.gent/id/concept/570013046/2022-09-24T06:19:15.362Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013046>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:19:15.362Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7245986>;
+    <http://www.w3.org/ns/adms#identifier> _:df_916_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Desselgem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018081>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018081> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen (provincie)"@nl.
+_:df_916_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013046"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013046/2022-09-24T06:19:15.362Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_663.
+_:df_1_663 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/dev.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "dev".
+<https://www.pieter.pm/coghent-substrings/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_664.
+_:df_1_664 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/deu.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "deu".
+<https://www.pieter.pm/coghent-substrings/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_665.
+_:df_1_665 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/del.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "del".
+<https://www.pieter.pm/coghent-substrings/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_666.
+_:df_1_666 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/den.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "den".
+<https://www.pieter.pm/coghent-substrings/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_667.
+_:df_1_667 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/deg.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "deg".
+<https://www.pieter.pm/coghent-substrings/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_668.
+_:df_1_668 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/dek.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "dek".
+<https://www.pieter.pm/coghent-substrings/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_669.
+_:df_1_669 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/de+t.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "de", "t".
+<https://www.pieter.pm/coghent-substrings/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_670.
+_:df_1_670 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/dec.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "dec".
+<https://www.pieter.pm/coghent-substrings/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_671.
+_:df_1_671 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/de+s.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "de", "s".
+<https://www.pieter.pm/coghent-substrings/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_672.
+_:df_1_672 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/des.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "des".
+<https://www.pieter.pm/coghent-substrings/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_673.
+_:df_1_673 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/de+p.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "de", "p".
+<https://www.pieter.pm/coghent-substrings/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_674.
+_:df_1_674 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/de+r.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "de", "r".
+<https://www.pieter.pm/coghent-substrings/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_675.
+_:df_1_675 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/deb.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "deb".
+<https://www.pieter.pm/coghent-substrings/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_676.
+_:df_1_676 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/dei.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "dei".
+<https://www.pieter.pm/coghent-substrings/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_677.
+_:df_1_677 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/de+b.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "de", "b".
+<https://www.pieter.pm/coghent-substrings/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_678.
+_:df_1_678 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/det.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "det".
+<https://www.pieter.pm/coghent-substrings/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_679.
+_:df_1_679 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/dee.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "dee".
+<https://www.pieter.pm/coghent-substrings/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_680.
+_:df_1_680 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/der.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "der".
+<https://www.pieter.pm/coghent-substrings/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_681.
+_:df_1_681 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/de+n.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "de", "n".
+<https://www.pieter.pm/coghent-substrings/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_682.
+_:df_1_682 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/de+h.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "de", "h".
+<https://www.pieter.pm/coghent-substrings/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_683.
+_:df_1_683 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/de+m.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "de", "m".
+<https://www.pieter.pm/coghent-substrings/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_684.
+_:df_1_684 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/de+l.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "de", "l".
+<https://www.pieter.pm/coghent-substrings/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_685.
+_:df_1_685 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/de+w.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "de", "w".
+<https://www.pieter.pm/coghent-substrings/thesaurus/de.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/de.ttl>.

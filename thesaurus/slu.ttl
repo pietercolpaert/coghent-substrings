@@ -10,3 +10,143 @@ _:df_2815_12 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570013250"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013250/2021-10-31T22:26:56.169Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/slu.ttl>.
+<https://stad.gent/id/concept/550008121/2022-09-24T03:08:26.787Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008121>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:08:26.787Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300225005>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2272_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sluitsysteemonderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008122>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008120>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008120> <http://www.w3.org/2004/02/skos/core#prefLabel> "sluitstuk"@nl.
+<https://stad.gent/id/concept/550008122> <http://www.w3.org/2004/02/skos/core#prefLabel> "sluitsystemen en sluitsysteemonderdelen"@nl.
+_:df_2272_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008121"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008121> <http://www.w3.org/2004/02/skos/core#prefLabel> "sluitsysteemonderdelen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008121/2022-09-24T03:08:26.787Z>.
+<https://stad.gent/id/concept/550008122/2022-09-24T03:08:31.789Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008122>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:08:31.789Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300225004>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2272_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sluitsystemen en sluitsysteemonderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007792>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008121>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008121> <http://www.w3.org/2004/02/skos/core#prefLabel> "sluitsysteemonderdelen"@nl.
+<https://stad.gent/id/concept/550007792> <http://www.w3.org/2004/02/skos/core#prefLabel> "vuurwapenonderdelen"@nl.
+_:df_2272_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008122"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008122> <http://www.w3.org/2004/02/skos/core#prefLabel> "sluitsystemen en sluitsysteemonderdelen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008122/2022-09-24T03:08:31.789Z>.
+<https://stad.gent/id/concept/550008120/2022-09-24T03:08:21.784Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008120>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:08:21.784Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300225003>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2275_30;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Beweegbare metalen blokken die passen op de achterstukken van vuurwapens om zodoende die staartopening hermetisch af te sluiten van de loop tijdens het vuren.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sluitstuk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008121>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001384>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001384> <http://www.w3.org/2004/02/skos/core#prefLabel> "grendel (sluitstuk)"@nl.
+<https://stad.gent/id/concept/550008121> <http://www.w3.org/2004/02/skos/core#prefLabel> "sluitsysteemonderdelen"@nl.
+_:df_2275_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008120"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008120/2022-09-24T03:08:21.784Z>.
+<https://stad.gent/id/concept/550008103/2022-09-24T03:06:59.428Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008103>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:06:59.428Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300001183>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2284_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De centrale wigvormige boogstenen in bogen of gewelven. Ook voor vergelijkbare elementen die worden gebruikt als ornamenten op de bovendorpels van deuren of ramen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sluitsteen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008104>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550002648>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002648> <http://www.w3.org/2004/02/skos/core#prefLabel> "gewelfsleutel"@nl.
+<https://stad.gent/id/concept/550008104> <http://www.w3.org/2004/02/skos/core#prefLabel> "gewelfsteen"@nl, "gewelfsteen"@nl.
+_:df_2284_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008103"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008103> <http://www.w3.org/2004/02/skos/core#prefLabel> "sluitsteen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008103/2022-09-24T03:06:59.428Z>.
+<https://stad.gent/id/concept/550008003/2022-09-24T02:58:33.233Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008003>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:58:33.233Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300203437>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2344_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Onderdelen van objecten die gebruikt worden om een mond of andere opening van een vat te bedekken of af te sluiten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sluiting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008004>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008002>, <https://stad.gent/id/concept/550009353>, <https://stad.gent/id/concept/550002255>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002255> <http://www.w3.org/2004/02/skos/core#prefLabel> "stop (onderdeel van houder)"@nl.
+<https://stad.gent/id/concept/550009353> <http://www.w3.org/2004/02/skos/core#prefLabel> "dop (sluiting)"@nl.
+<https://stad.gent/id/concept/550008002> <http://www.w3.org/2004/02/skos/core#prefLabel> "bedekking (sluiting)"@nl.
+<https://stad.gent/id/concept/550008004> <http://www.w3.org/2004/02/skos/core#prefLabel> "houderonderdelen"@nl.
+_:df_2344_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008003"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008003> <http://www.w3.org/2004/02/skos/core#prefLabel> "sluiting"@nl, "sluiting"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008003/2022-09-24T02:58:33.233Z>.
+<https://stad.gent/id/concept/550005632/2022-09-24T01:48:28.674Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005632>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:48:28.674Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300239507>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2842_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Bevestigingsmiddelen uit twee of meer delen, meestal van metaal, bestaande uit afzonderlijke in elkaar grijpende haken en bevestigingselementen die twee of meer objecten of complementaire delen van hetzelfde object samen te houden. De sluithaak wordt ook bij boekbanden gebruikt en wordt ook wel ´klamp' genoemd.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sluithaak (bevestigingsmiddel)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008073>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008073> <http://www.w3.org/2004/02/skos/core#prefLabel> "bevestigingsmiddel (onderdeel)"@nl.
+_:df_2842_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005632"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005632/2022-09-24T01:48:28.674Z>.
+<https://stad.gent/id/concept/550008003/2022-09-20T00:00:39.402Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008003>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-20T00:00:39.402Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300203437>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3622_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Onderdelen van objecten die gebruikt worden om een mond of andere opening van een vat te bedekken of af te sluiten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sluiting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008004>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008002>, <https://stad.gent/id/concept/550009353>, <https://stad.gent/id/concept/550002255>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002255> <http://www.w3.org/2004/02/skos/core#prefLabel> "stop (onderdeel van houder)"@nl.
+<https://stad.gent/id/concept/550009353> <http://www.w3.org/2004/02/skos/core#prefLabel> "dop (sluiting)"@nl.
+<https://stad.gent/id/concept/550008002> <http://www.w3.org/2004/02/skos/core#prefLabel> "bedekking (sluiting)"@nl.
+<https://stad.gent/id/concept/550008004> <http://www.w3.org/2004/02/skos/core#prefLabel> "houderonderdelen"@nl.
+_:df_3622_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008003"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008003/2022-09-20T00:00:39.402Z>.
+<https://stad.gent/id/concept/670006961/2022-09-09T09:20:05.433Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006961>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:20:05.433Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q113145821>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3805_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sluizeken-Tolhuis-Ham"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3805_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006961"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006961/2022-09-09T09:20:05.433Z>.
+<https://stad.gent/id/concept/670006875/2022-09-09T09:13:07.036Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006875>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:13:07.036Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300006082>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3856_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sluis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3856_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006875"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006875/2022-09-09T09:13:07.036Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/slu.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/slu.ttl>.

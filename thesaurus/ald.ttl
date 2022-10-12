@@ -1,0 +1,27 @@
+<https://stad.gent/id/concept/550006805/2022-09-24T02:27:41.287Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006805>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:27:41.287Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1028281>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2563_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Aldershot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006140>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006140> <http://www.w3.org/2004/02/skos/core#prefLabel> "Engeland"@nl.
+_:df_2563_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006805"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006805/2022-09-24T02:27:41.287Z>.
+<https://stad.gent/id/concept/550006714/2022-09-24T02:25:45.020Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006714>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:25:45.020Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2578_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Alden Biesen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004280>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004280> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bilzen"@nl.
+_:df_2578_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006714"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006714/2022-09-24T02:25:45.020Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/ald.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ald.ttl>.

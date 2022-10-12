@@ -86,3 +86,166 @@ _:df_2392_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570016001"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016001/2021-10-31T23:26:43.138Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/spi.ttl>.
+<https://stad.gent/id/concept/570009508/2022-09-24T05:22:32.724Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009508>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:22:32.724Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300033565>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1321_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spijker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1321_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009508"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009508/2022-09-24T05:22:32.724Z>.
+<https://stad.gent/id/concept/570009486/2022-09-24T05:21:52.302Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009486>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:21:52.302Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300263278>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1324_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Toestellen om draad of garen te maken van vezels, waarin de draadvorming plaatsvindt met behulp van een wiel dat met de hand of via een voetpedaal wordt aangedreven en dat het garen om één spoel draait. Ze zouden zijn uitgevonden in India en zijn in de Middeleeuwen via het Midden-Oosten in Europa geïntroduceerd, waar ze veel gebruikt werden tot in de 18de eeuw, evenals in Noord-Amerika na de kolonisering.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spinnewiel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1324_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009486"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009486/2022-09-24T05:21:52.302Z>.
+<https://stad.gent/id/concept/570008903/2022-09-24T05:01:54.439Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008903>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:01:54.439Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300207720>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1468_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Spinmachines met meer dan één spoel zodat een aantal draden tegelijk kan worden gesponnen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spinmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570009206>, <https://stad.gent/id/concept/570012163>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012163> <http://www.w3.org/2004/02/skos/core#prefLabel> "selfactor"@nl.
+<https://stad.gent/id/concept/570009206> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mule Jenny"@nl.
+_:df_1468_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008903"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008903/2022-09-24T05:01:54.439Z>.
+<https://stad.gent/id/concept/570008439/2022-09-24T04:47:59.975Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008439>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:47:59.975Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300247617>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1567_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Textielfabrieken of ruimten in textielfabrieken waar draad gesponnen wordt. \r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spinnerij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570008856>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008856> <http://www.w3.org/2004/02/skos/core#prefLabel> "vlasspinnerij"@nl.
+_:df_1567_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008439"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008439/2022-09-24T04:47:59.975Z>.
+<https://stad.gent/id/concept/570006051/2022-09-24T04:33:19.914Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006051>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:33:19.914Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053661>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1669_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spinnen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570022693>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570022693> <http://www.w3.org/2004/02/skos/core#prefLabel> "textiel"@nl.
+_:df_1669_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006051"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006051/2022-09-24T04:33:19.914Z>.
+<https://stad.gent/id/concept/550008953/2022-09-24T03:55:55.142Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008953>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:55:55.142Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/6005596>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1936_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Spiennes"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008925>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008925> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen"@nl.
+_:df_1936_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008953"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008953/2022-09-24T03:55:55.142Z>.
+<https://stad.gent/id/concept/550008360/2022-09-24T03:27:53.935Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008360>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:27:53.935Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300073924>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2134_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spillen en spilonderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008361>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550002443>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002443> <http://www.w3.org/2004/02/skos/core#prefLabel> "trappaal"@nl.
+<https://stad.gent/id/concept/550008361> <http://www.w3.org/2004/02/skos/core#prefLabel> "traponderdelen"@nl.
+_:df_2134_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008360"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008360> <http://www.w3.org/2004/02/skos/core#prefLabel> "spillen en spilonderdelen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008360/2022-09-24T03:27:53.935Z>.
+<https://stad.gent/id/concept/550007537/2022-09-24T02:33:29.535Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007537>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:33:29.535Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300207720>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2521_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Spinmachines met meer dan één spoel zodat een aantal draden tegelijk kan worden gesponnen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spinmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008148>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008148> <http://www.w3.org/2004/02/skos/core#prefLabel> "textielbewerkingsgereedschap"@nl.
+_:df_2521_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007537"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007537/2022-09-24T02:33:29.535Z>.
+<https://stad.gent/id/concept/550005570/2022-09-24T01:46:27.664Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005570>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:46:27.664Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037682>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2857_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor voorwerpen met een zeer gepolijst oppervlak, vaak omlijst en ontworpen om beelden te weerspiegelen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spiegel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007837>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007837> <http://www.w3.org/2004/02/skos/core#prefLabel> "interieurinrichting naar vorm of functie"@nl.
+_:df_2857_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005570"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005570/2022-09-24T01:46:27.664Z>.
+<https://stad.gent/id/concept/550002894/2022-09-24T00:42:43.840Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002894>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:42:43.840Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300263278>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3313_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Toestellen om draad of garen te maken van vezels, waarin de draadvorming plaatsvindt met behulp van een wiel dat met de hand of via een voetpedaal wordt aangedreven en dat het garen om één spoel draait. Ze zouden zijn uitgevonden in India en zijn in de Middeleeuwen via het Midden-Oosten in Europa geïntroduceerd, waar ze veel gebruikt werden tot in de 18de eeuw, evenals in Noord-Amerika na de kolonisering.Gebruik ‘spinmachines’ voor de spinmachines met meer dan één spoel die in de 18de eeuw werden ontwikkeld.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spinnewiel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008148>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008148> <http://www.w3.org/2004/02/skos/core#prefLabel> "textielbewerkingsgereedschap"@nl.
+_:df_3313_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002894"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002894/2022-09-24T00:42:43.840Z>.
+<https://stad.gent/id/concept/550002022/2022-09-24T00:31:58.073Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002022>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:31:58.073Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300033565>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3388_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Dunne, meestal puntige bevestigingsmiddelen met een kop, ontworpen om te worden ingeslagen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spijker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008073>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008073> <http://www.w3.org/2004/02/skos/core#prefLabel> "bevestigingsmiddel (onderdeel)"@nl.
+_:df_3388_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002022"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002022/2022-09-24T00:31:58.073Z>.
+<https://stad.gent/id/concept/550000867/2022-09-24T00:10:35.341Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000867>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:10:35.341Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300263796>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3541_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Spinschijf"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3541_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000867"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000867/2022-09-24T00:10:35.341Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/spi.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/spi.ttl>.

@@ -227,3 +227,272 @@ _:df_1_127 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/eie.ttl>;
     <https://w3id.org/tree#value> "eie".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ei.ttl>.
+<https://stad.gent/id/concept/570016226/2022-09-24T07:29:45.475Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016226>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:29:45.475Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_418_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "einde 20ste eeuw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012473>;
+    <http://www.w3.org/2004/02/skos/core#note> "periode"@nl, "period"@en, "associatie"@nl, "association"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012473> <http://www.w3.org/2004/02/skos/core#prefLabel> "20ste eeuw"@nl.
+_:df_418_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016226"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016226/2022-09-24T07:29:45.475Z>.
+<https://stad.gent/id/concept/570015138/2022-09-24T07:06:59.122Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015138>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:06:59.122Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_580_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "einde 16de eeuw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570023226>;
+    <http://www.w3.org/2004/02/skos/core#note> "periode"@nl, "period"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023226> <http://www.w3.org/2004/02/skos/core#prefLabel> "16de eeuw"@nl.
+_:df_580_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015138"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015138/2022-09-24T07:06:59.122Z>.
+<https://stad.gent/id/concept/570014331/2022-09-24T06:45:02.551Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014331>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:45:02.551Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7074904>;
+    <http://www.w3.org/ns/adms#identifier> _:df_736_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Eisenheim"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_736_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014331"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014331/2022-09-24T06:45:02.551Z>.
+<https://stad.gent/id/concept/570010324/2022-09-24T05:43:10.482Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010324>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:43:10.482Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026350>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1174_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Eigenbrakel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020489>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020489> <http://www.w3.org/2004/02/skos/core#prefLabel> "Waals-Brabant (provincie)"@nl.
+_:df_1174_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010324"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010324/2022-09-24T05:43:10.482Z>.
+<https://stad.gent/id/concept/570006365/2022-09-24T04:36:51.537Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006365>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:36:51.537Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209574>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1645_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "eierpocheerder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1645_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006365"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006365/2022-09-24T04:36:51.537Z>.
+<https://stad.gent/id/concept/570001149/2022-09-24T04:14:44.080Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001149>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:14:44.080Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300211954>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1801_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "eiermand"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1801_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001149"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001149/2022-09-24T04:14:44.080Z>.
+<https://stad.gent/id/concept/570000697/2022-09-24T04:11:36.716Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000697>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:11:36.716Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1825_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "einde 19de eeuw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003720>;
+    <http://www.w3.org/2004/02/skos/core#note> "periode"@nl, "period"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003720> <http://www.w3.org/2004/02/skos/core#prefLabel> "19de eeuw"@nl.
+_:df_1825_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000697"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000697/2022-09-24T04:11:36.716Z>.
+<https://stad.gent/id/concept/550008866/2022-09-24T03:52:03.035Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008866>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:52:03.035Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300191706>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1963_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ei en eierbestanddelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008854>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001442>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001442> <http://www.w3.org/2004/02/skos/core#prefLabel> "ei"@nl.
+<https://stad.gent/id/concept/550008854> <http://www.w3.org/2004/02/skos/core#prefLabel> "dierlijk materiaal naar vorm of functie"@nl.
+_:df_1963_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008866"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008866/2022-09-24T03:52:03.035Z>.
+<https://stad.gent/id/concept/550008425/2022-09-24T03:32:16.984Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008425>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:32:16.984Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300263307>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2104_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "zeer dun en fijn porselein";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "eierschaalporselein"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004914>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004914> <http://www.w3.org/2004/02/skos/core#prefLabel> "porselein"@nl.
+_:df_2104_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008425"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008425/2022-09-24T03:32:16.984Z>.
+<https://stad.gent/id/concept/550007725/2022-09-24T02:38:11.997Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007725>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:38:11.997Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1108998>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2488_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Eifel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004734>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_2488_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007725"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007725/2022-09-24T02:38:11.997Z>.
+<https://stad.gent/id/concept/550006037/2022-09-24T02:01:15.414Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006037>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:01:15.414Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006842>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2752_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Eindhoven"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006121>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006121> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl, "Nederland"@nl.
+_:df_2752_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006037"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006037/2022-09-24T02:01:15.414Z>.
+<https://stad.gent/id/concept/550003957/2022-09-24T00:58:09.561Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003957>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:58:09.561Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300012264>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3202_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Hout van de boom behorende tot het genus Quercus, uit de beukenfamilie. Het harde, duurzame hout kent allerlei toepassingen en wordt vooral gebruikt voor meubels.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "eikenhout"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008734>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008734> <http://www.w3.org/2004/02/skos/core#prefLabel> "hout naar samenstelling of herkomst"@nl.
+_:df_3202_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003957"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003957/2022-09-24T00:58:09.561Z>.
+<https://stad.gent/id/concept/550003836/2022-09-24T00:56:48.874Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003836>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:56:48.874Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300211954>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3211_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Diepe, open manden variërend in vorm, voornamelijk bestemd voor het verzamelen of vervoeren van eieren; vooral gebruikt voor eiermanden met een constructie van het ribtype.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "eiermand"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008053>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008053> <http://www.w3.org/2004/02/skos/core#prefLabel> "verzamelmand"@nl.
+_:df_3211_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003836"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003836/2022-09-24T00:56:48.874Z>.
+<https://stad.gent/id/concept/550001473/2022-09-24T00:20:50.879Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001473>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:20:50.879Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043220>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3469_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine, meestal halfovale bekertjes, vaak met een voet, gemaakt van uiteenlopende materialen en gebruikt om één gekookt ei in de schaal te serveren.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "eierdop"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007897>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007897> <http://www.w3.org/2004/02/skos/core#prefLabel> "vaatwerk voor het opdienen en consumeren van voedsel"@nl.
+_:df_3469_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001473"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001473/2022-09-24T00:20:50.879Z>.
+<https://stad.gent/id/concept/550001442/2022-09-24T00:19:45.464Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001442>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:19:45.464Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011801>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3475_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ei"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008866>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008866> <http://www.w3.org/2004/02/skos/core#prefLabel> "ei en eierbestanddelen"@nl.
+_:df_3475_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001442"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001442/2022-09-24T00:19:45.464Z>.
+<https://stad.gent/id/concept/670001442/2022-09-13T00:00:44.606Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001442>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-13T00:00:44.606Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3697_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lieve"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3697_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001442"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001442/2022-09-13T00:00:44.606Z>.
+<https://stad.gent/id/concept/670001480/2022-09-13T00:00:49.608Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001480>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-13T00:00:49.608Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/88343>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3697_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rabot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3697_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001480"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001480/2022-09-13T00:00:49.608Z>.
+<https://stad.gent/id/concept/670001484/2022-09-13T00:00:54.611Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001484>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-13T00:00:54.611Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3697_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rozemarijnbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3697_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001484"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001484/2022-09-13T00:00:54.611Z>.
+<https://stad.gent/id/concept/670001492/2022-09-13T00:00:59.924Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001492>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-13T00:00:59.924Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3697_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Agnetebrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3697_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001492"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001492/2022-09-13T00:00:59.924Z>.
+<https://stad.gent/id/concept/670001319/2022-09-13T00:00:24.597Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001319>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-13T00:00:24.597Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q815443>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3700_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Belfort"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en, "trefwoord"@nl, "keyword"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3700_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001319"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001319/2022-09-13T00:00:24.597Z>.
+<https://stad.gent/id/concept/670001388/2022-09-13T00:00:29.600Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001388>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-13T00:00:29.600Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/25890>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3700_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gravensteen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en, "trefwoord"@nl, "keyword"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3700_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001388"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001388/2022-09-13T00:00:29.600Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/ei.ttl> <https://w3id.org/tree#relation> _:df_1_1368.
+_:df_1_1368 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/eig.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "eig".
+<https://www.pieter.pm/coghent-substrings/thesaurus/ei.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ei.ttl>.

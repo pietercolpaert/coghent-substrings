@@ -53,3 +53,78 @@ _:df_3040_30 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570011127"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011127/2021-10-31T21:55:23.653Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/sli.ttl>.
+<https://stad.gent/id/concept/550008335/2022-09-24T03:26:02.928Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008335>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:26:02.928Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300162796>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2149_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "slijp- en maalgereedschap"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008250>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005458>, <https://stad.gent/id/concept/550005417>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005417> <http://www.w3.org/2004/02/skos/core#prefLabel> "vijzel"@nl.
+<https://stad.gent/id/concept/550005458> <http://www.w3.org/2004/02/skos/core#prefLabel> "stamper (maalgereedschap)"@nl.
+<https://stad.gent/id/concept/550008250> <http://www.w3.org/2004/02/skos/core#prefLabel> "slijp- en maaluitrusting"@nl.
+_:df_2149_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008335"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008335/2022-09-24T03:26:02.928Z>.
+<https://stad.gent/id/concept/550008249/2022-09-24T03:18:48.117Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008249>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:18:48.117Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300162797>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2200_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "slijp- en maalmachines"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008250>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001373>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001373> <http://www.w3.org/2004/02/skos/core#prefLabel> "molen (gereedschap)"@nl.
+<https://stad.gent/id/concept/550008250> <http://www.w3.org/2004/02/skos/core#prefLabel> "slijp- en maaluitrusting"@nl.
+_:df_2200_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008249"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008249> <http://www.w3.org/2004/02/skos/core#prefLabel> "slijp- en maalmachines"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008249/2022-09-24T03:18:48.117Z>.
+<https://stad.gent/id/concept/550008250/2022-09-24T03:18:53.492Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008250>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:18:53.492Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024716>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2200_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "slijp- en maaluitrusting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007772>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008335>, <https://stad.gent/id/concept/550008249>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008249> <http://www.w3.org/2004/02/skos/core#prefLabel> "slijp- en maalmachines"@nl.
+<https://stad.gent/id/concept/550008335> <http://www.w3.org/2004/02/skos/core#prefLabel> "slijp- en maalgereedschap"@nl.
+<https://stad.gent/id/concept/550007772> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting naar proces"@nl.
+_:df_2200_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008250"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008250> <http://www.w3.org/2004/02/skos/core#prefLabel> "slijp- en maaluitrusting"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008250/2022-09-24T03:18:53.492Z>.
+<https://stad.gent/id/concept/550005082/2022-09-24T01:28:12.926Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005082>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:28:12.926Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053090>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2989_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het vermalen, polijsten, afslijten of scherpen door middel van wrijving.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "slijpen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2989_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005082"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005082/2022-09-24T01:28:12.926Z>.
+<https://stad.gent/id/concept/550001974/2022-09-24T00:30:32.637Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001974>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:30:32.637Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411360>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3400_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Stalen staven of pennen met een handvat, veelal geribd, om er messen, of andere scherpe objecten op te slijpen, te wetten, of aan te zetten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "slijpstaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3400_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001974"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001974/2022-09-24T00:30:32.637Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/sli.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/sli.ttl>.

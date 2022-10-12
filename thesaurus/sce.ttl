@@ -11,3 +11,56 @@ _:df_1009_24 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570024153"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024153/2021-11-01T02:42:01.273Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/sce.ttl>.
+<https://stad.gent/id/concept/570007299/2022-09-24T04:40:49.226Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007299>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:40:49.226Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/tgn/7007998>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1618_35;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sceaux"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl, "Frankrijk"@nl.
+_:df_1618_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007299"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007299/2022-09-24T04:40:49.226Z>.
+<https://stad.gent/id/concept/550005783/2022-09-24T01:53:01.357Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005783>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:53:01.357Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300214161>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2812_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Sierlijk bewerkte, kostbare staven als symbolen van vorstelijk gezag.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "scepter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008197>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008197> <http://www.w3.org/2004/02/skos/core#prefLabel> "ambtssymbool"@nl.
+_:df_2812_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005783"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005783/2022-09-24T01:53:01.357Z>.
+<https://stad.gent/id/concept/550004636/2022-09-24T01:13:43.866Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004636>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:13:43.866Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007998>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3091_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sceaux"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004704>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004704> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_3091_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004636"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004636/2022-09-24T01:13:43.866Z>.
+<https://stad.gent/id/concept/670006800/2022-09-09T09:07:14.497Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006800>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:07:14.497Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300025515>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3898_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "scenarioschrijver"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3898_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006800"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006800/2022-09-09T09:07:14.497Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/sce.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/sce.ttl>.

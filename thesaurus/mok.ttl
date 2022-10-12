@@ -1,0 +1,26 @@
+<https://stad.gent/id/concept/530003232/2022-10-01T00:00:28.550Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003232>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-01T00:00:28.550Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900031225>;
+    <http://www.w3.org/ns/adms#identifier> _:df_88_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een zware hamer met een vierkante hamerkop van 1000-1500 gram op een steel van 30 cm lang, voor zwaar werk. Met een rubberen opzetstuk wordt een vuisthamer gebruikt om tegels of straatstenen in het zand te leggen voor het maken van bestrating.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "moker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008630>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008630> <http://www.w3.org/2004/02/skos/core#prefLabel> "hamer"@nl.
+_:df_88_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003232"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003232/2022-10-01T00:00:28.550Z>.
+<https://stad.gent/id/concept/550009117/2022-09-24T04:00:18.906Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009117>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:00:18.906Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1906_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "moker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1906_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009117"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009117/2022-09-24T04:00:18.906Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/mok.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/mok.ttl>.

@@ -10,3 +10,32 @@ _:df_2638_22 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570014537"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014537/2021-10-31T22:52:23.257Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/verm.ttl>.
+<https://stad.gent/id/concept/550006788/2022-09-24T02:26:55.883Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006788>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:26:55.883Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007828>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2569_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vermont"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005607>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005607> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten"@nl.
+_:df_2569_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006788"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006788/2022-09-24T02:26:55.883Z>.
+<https://stad.gent/id/concept/550005840/2022-09-24T01:55:12.131Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005840>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:55:12.131Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011044>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2794_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een transparante rode of oranjerode lak die een gouden afwerkingslaag produceert bij gebruik op een basismetaal of een verzilverd oppervlak. Vermeil werd in de 19de eeuw veel gebruikt om voorwerpen te maken die er verguld uitzagen. Tegenwoordig wordt het nauwelijks gebruikt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vermeil"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008869>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008869> <http://www.w3.org/2004/02/skos/core#prefLabel> "pleet naar materiaal"@nl.
+_:df_2794_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005840"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005840/2022-09-24T01:55:12.131Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/verm.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/verm.ttl>.

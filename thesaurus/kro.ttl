@@ -45,3 +45,66 @@ _:df_3064_27 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010736"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010736/2021-10-31T21:51:55.950Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/kro.ttl>.
+<https://stad.gent/id/concept/550008938/2022-09-24T03:55:30.130Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008938>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:55:30.130Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006663>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1939_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kroatië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005045>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550006244>, <https://stad.gent/id/concept/550006243>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "nationaliteit"@nl, "nationality"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006243> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zagreb"@nl.
+<https://stad.gent/id/concept/550006244> <http://www.w3.org/2004/02/skos/core#prefLabel> "Motovun"@nl.
+<https://stad.gent/id/concept/550005045> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl, "Europa"@nl.
+_:df_1939_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008938"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008938/2022-09-24T03:55:30.130Z>.
+<https://stad.gent/id/concept/550008027/2022-09-24T03:00:34.387Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008027>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:00:34.387Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195885>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2329_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten die meestal bestaan uit een stel verstelbare, draaiende armen en die worden gebruikt voor het meten van bijvoorbeeld diktes of diameters.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "krompasser"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008028>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008028> <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van afmeting"@nl.
+_:df_2329_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008027"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008027> <http://www.w3.org/2004/02/skos/core#prefLabel> "krompasser"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008027/2022-09-24T03:00:34.387Z>.
+<https://stad.gent/id/concept/550005370/2022-09-24T01:40:14.111Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005370>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:40:14.111Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046020>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2902_13;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Sierbanden, -kransen of dergelijke sierobjecten ter omlijsting van het hoofd die worden gedragen voor persoonlijke opschik of als teken van eer of prestatie. Ook kroningskransen van bladeren of bloemen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kroon (hoofdtooi)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008214>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550002071>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002071> <http://www.w3.org/2004/02/skos/core#prefLabel> "lauwerkrans"@nl.
+<https://stad.gent/id/concept/550008214> <http://www.w3.org/2004/02/skos/core#prefLabel> "hoofdtooi"@nl.
+_:df_2902_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005370"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005370/2022-09-24T01:40:14.111Z>.
+<https://stad.gent/id/concept/550002154/2022-09-24T00:32:53.484Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002154>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:32:53.484Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037622>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3382_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Plafondverlichting met meestal twee of meer omhoog krullende armen, waaraan kaarsen, branders of lampen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kroonluchter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007930>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007930> <http://www.w3.org/2004/02/skos/core#prefLabel> "verlichtingsmiddelen naar vorm"@nl.
+_:df_3382_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002154"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002154/2022-09-24T00:32:53.484Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/kro.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/kro.ttl>.

@@ -21,3 +21,44 @@ _:df_3034_20 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570011197"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011197/2021-10-31T21:56:04.390Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/plu.ttl>.
+<https://stad.gent/id/concept/570011197/2022-09-24T05:53:22.447Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011197>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:53:22.447Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q178559>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1102_33;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pluimvee"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1102_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011197"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011197/2022-09-24T05:53:22.447Z>.
+<https://stad.gent/id/concept/550007581/2022-09-24T02:35:10.396Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007581>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:35:10.396Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300203648>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2509_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Ornamenten gemaakt van veren, zijde, haar of andere betrekkelijk fijne materialen, die worden gedragen of getoond als versiering of als symbool van aanzien of rang.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pluim (object)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007914>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007914> <http://www.w3.org/2004/02/skos/core#prefLabel> "objectgenres naar vorm"@nl.
+_:df_2509_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007581"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007581/2022-09-24T02:35:10.396Z>.
+<https://stad.gent/id/concept/550004609/2022-09-24T01:12:33.065Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004609>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:12:33.065Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300036992>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3100_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Bajonetten met spits toelopende greep die in de mond van het vuurwapen gestoken kan worden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "plugbajonet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550001605>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001605> <http://www.w3.org/2004/02/skos/core#prefLabel> "bajonet"@nl.
+_:df_3100_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004609"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004609/2022-09-24T01:12:33.065Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/plu.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/plu.ttl>.

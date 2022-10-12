@@ -138,3 +138,120 @@ _:df_2962_21 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570012211"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012211/2021-10-31T22:06:13.375Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bre.ttl>.
+<https://stad.gent/id/concept/570008949/2022-09-24T05:03:45.381Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008949>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:03:45.381Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1094365>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1453_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "breimachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1453_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008949"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008949/2022-09-24T05:03:45.381Z>.
+<https://stad.gent/id/concept/570004864/2022-09-24T04:28:41.460Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570004864>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:28:41.460Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7077072>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1702_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bremen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl.
+_:df_1702_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570004864"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570004864/2022-09-24T04:28:41.460Z>.
+<https://stad.gent/id/concept/570002766/2022-09-24T04:23:22.478Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570002766>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:23:22.478Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026358>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1741_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bree"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1741_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570002766"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570002766/2022-09-24T04:23:22.478Z>.
+<https://stad.gent/id/concept/550008673/2022-09-24T03:41:34.385Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008673>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:41:34.385Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2038_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "brevetpenning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2038_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008673"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008673/2022-09-24T03:41:34.385Z>.
+<https://stad.gent/id/concept/550008630/2022-09-24T03:38:58.162Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008630>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:38:58.162Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300216763>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2056_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "\t\r\nDecoratieve accessoires die op bretels lijken; met gevormde banden die over beide schouders lopen en soms aan een bijpassende broeksband zijn bevestigd. De banden zijn soms met elkaar verbonden door middel van horizontale banden over de borst of rug.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bretelle"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005305>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005305> <http://www.w3.org/2004/02/skos/core#prefLabel> "accessoires die boven het middel gedragen worden"@nl.
+_:df_2056_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008630"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008630/2022-09-24T03:38:58.162Z>.
+<https://stad.gent/id/concept/550005647/2022-09-24T01:48:54.049Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005647>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:48:54.049Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053634>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2839_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het vormen en verbinden van lussen door middel van naalden of haakjes volgens een voorgeschreven manier of patroon, machinaal of met de hand; meestal gebruikt voor textiel en kleding.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "breien"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2839_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005647"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005647/2022-09-24T01:48:54.049Z>.
+<https://stad.gent/id/concept/550000046/2022-09-24T00:01:50.225Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000046>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:01:50.225Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3604_49;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "breedte"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "afmeting"@nl, "dimension"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3604_49 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000046"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000046/2022-09-24T00:01:50.225Z>.
+<https://stad.gent/id/concept/570019309/2022-09-20T00:00:59.409Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019309>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-20T00:00:59.409Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300264039>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3619_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "breiwerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3619_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019309"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019309/2022-09-20T00:00:59.409Z>.
+<https://stad.gent/id/concept/570020509/2022-09-20T00:01:09.690Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020509>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-20T00:01:09.690Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053634>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3619_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het vormen en verbinden van lussen door middel van naalden of haakjes volgens een voorgeschreven manier of patroon, machinaal of met de hand; meestal gebruikt voor textiel en kleding. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "breien"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en, "collectie"@nl, "collection"@en, "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3619_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020509"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020509/2022-09-20T00:01:09.690Z>.
+<https://stad.gent/id/concept/670007009/2022-09-09T09:24:03.530Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670007009>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:24:03.530Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3328>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3778_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bredestraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3778_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670007009"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670007009/2022-09-09T09:24:03.530Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/bre.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bre.ttl>.

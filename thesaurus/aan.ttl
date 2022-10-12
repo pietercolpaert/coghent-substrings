@@ -44,3 +44,85 @@ _:df_3151_17 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010066"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010066/2021-10-31T21:39:39.786Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/aan.ttl>.
+<https://stad.gent/id/concept/550005809/2022-09-24T01:53:41.391Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005809>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:53:41.391Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300235430>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2806_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor objecten die speciaal zijn vervaardigd om een persoon, gebeurtenis of gelegenheid te herdenken. Gebruik de term 'gedenktekens' voor bouwwerken die zijn opgericht om de herinnering te bewaren aan personen of gebeurtenissen. Gebruik 'memorabilia' voor objecten die geassocieerd worden met gedenkwaardige personen of gebeurtenissen, maar niet daarvoor speciaal zijn vervaardigd.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "aandenken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007761>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550004781>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004781> <http://www.w3.org/2004/02/skos/core#prefLabel> "doopschotel"@nl.
+<https://stad.gent/id/concept/550007761> <http://www.w3.org/2004/02/skos/core#prefLabel> "objectgenres naar functie"@nl.
+_:df_2806_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005809"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005809/2022-09-24T01:53:41.391Z>.
+<https://stad.gent/id/concept/550005244/2022-09-24T01:34:36.325Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005244>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:34:36.325Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2941_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "penning ter staving van aanwezigheid op een vergadering of in de les (tegengaan van spijbelen)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "aanwezigheidspenning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008059>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008059> <http://www.w3.org/2004/02/skos/core#prefLabel> "penning (medaille)"@nl, "penning (medaille)"@nl.
+_:df_2941_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005244"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005244/2022-09-24T01:34:36.325Z>.
+<https://stad.gent/id/concept/550005209/2022-09-24T01:32:50.514Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005209>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:32:50.514Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2956_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Penning uitgedeeld ter aanmoediging van bv. goede student";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "aanmoedigingspenning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008059>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008059> <http://www.w3.org/2004/02/skos/core#prefLabel> "penning (medaille)"@nl.
+_:df_2956_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005209"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005209/2022-09-24T01:32:50.514Z>.
+<https://stad.gent/id/concept/550002621/2022-09-24T00:38:26.735Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002621>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:38:26.735Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027445>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3343_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "aanwezigheidsbord"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007762>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007762> <http://www.w3.org/2004/02/skos/core#prefLabel> "borden naar functie"@nl.
+_:df_3343_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002621"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002621/2022-09-24T00:38:26.735Z>.
+<https://stad.gent/id/concept/550001178/2022-09-24T00:15:53.188Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001178>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:15:53.188Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300265545>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3502_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Mechanische apparaten bedoeld om sigaretten, sigaren en pijpen aan te steken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "aansteker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007771>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007771> <http://www.w3.org/2004/02/skos/core#prefLabel> "vuurmakende en beheersende uitrusting"@nl.
+_:df_3502_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001178"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001178/2022-09-24T00:15:53.188Z>.
+<https://stad.gent/id/concept/670006880/2022-09-09T09:13:32.048Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006880>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:13:32.048Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q22340494>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3853_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "aankoop"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "verwervingsmethode"@nl, "acquisition method"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3853_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006880"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006880/2022-09-09T09:13:32.048Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/aan.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/aan.ttl>.

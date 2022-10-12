@@ -31,3 +31,46 @@ _:df_3127_12 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010160"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010160/2021-10-31T21:42:57.353Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/blo.ttl>.
+<https://stad.gent/id/concept/550003008/2022-09-24T00:44:24.726Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003008>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:44:24.726Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300237566>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3301_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders waarin planten worden gekweekt, of waarin ze worden geplaatst voor decoratieve doeleinden; ze komen voor in een grote verscheidenheid aan vormen, maten en versiering.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bloembak"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007854>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550002886>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002886> <http://www.w3.org/2004/02/skos/core#prefLabel> "bloempot"@nl.
+<https://stad.gent/id/concept/550007854> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders voor de tuinbouw"@nl.
+_:df_3301_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003008"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003008/2022-09-24T00:44:24.726Z>.
+<https://stad.gent/id/concept/550002886/2022-09-24T00:42:28.831Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002886>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:42:28.831Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300194749>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3313_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders voornamenlijk om planten in te kweken; zowel voor praktisch gebruik als voor decoratieve doeleinden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bloempot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550003008>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003008> <http://www.w3.org/2004/02/skos/core#prefLabel> "bloembak"@nl.
+_:df_3313_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002886"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002886/2022-09-24T00:42:28.831Z>.
+<https://stad.gent/id/concept/670006952/2022-09-09T09:19:20.038Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006952>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:19:20.038Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2805919>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3811_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bloemekenswijk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3811_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006952"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006952/2022-09-09T09:19:20.038Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/blo.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/blo.ttl>.

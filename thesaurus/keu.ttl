@@ -101,3 +101,175 @@ _:df_2617_12 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570014618"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014618/2021-10-31T22:55:10.777Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/keu.ttl>.
+<https://stad.gent/id/concept/570017260/2022-09-24T08:02:41.512Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017260>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T08:02:41.512Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_181_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "keukenrobot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_181_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017260"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017260/2022-09-24T08:02:41.512Z>.
+<https://stad.gent/id/concept/570016960/2022-09-24T07:55:07.742Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016960>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:55:07.742Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004446>;
+    <http://www.w3.org/ns/adms#identifier> _:df_235_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Keulen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_235_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016960"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016960/2022-09-24T07:55:07.742Z>.
+<https://stad.gent/id/concept/570016465/2022-09-24T07:36:13.419Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016465>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:36:13.419Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/q908620>;
+    <http://www.w3.org/ns/adms#identifier> _:df_370_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "keurmerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_370_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016465"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016465/2022-09-24T07:36:13.419Z>.
+<https://stad.gent/id/concept/570014618/2022-09-24T06:52:42.454Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014618>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:52:42.454Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300427801>;
+    <http://www.w3.org/ns/adms#identifier> _:df_682_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "keukenweegschaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_682_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014618"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014618/2022-09-24T06:52:42.454Z>.
+<https://stad.gent/id/concept/570000218/2022-09-24T04:08:14.795Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000218>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:08:14.795Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300004514>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1849_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Ruimten bestemd voor de bereiding van voedsel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "keuken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1849_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000218"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000218/2022-09-24T04:08:14.795Z>.
+<https://stad.gent/id/concept/550008321/2022-09-24T03:24:52.492Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008321>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:24:52.492Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300207596>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2155_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "keukengereedschap voor het scheiden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007956>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005186>, <https://stad.gent/id/concept/550005457>, <https://stad.gent/id/concept/550001062>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001062> <http://www.w3.org/2004/02/skos/core#prefLabel> "zeef"@nl.
+<https://stad.gent/id/concept/550005457> <http://www.w3.org/2004/02/skos/core#prefLabel> "vergiet"@nl.
+<https://stad.gent/id/concept/550005186> <http://www.w3.org/2004/02/skos/core#prefLabel> "schuimspaan (keukengereedschap)"@nl.
+<https://stad.gent/id/concept/550007956> <http://www.w3.org/2004/02/skos/core#prefLabel> "keukengerei voor het bereiden en koken van voedsel"@nl.
+_:df_2155_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008321"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008321/2022-09-24T03:24:52.492Z>.
+<https://stad.gent/id/concept/550008316/2022-09-24T03:24:27.026Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008316>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:24:27.026Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300208992>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2158_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "keukengereedschap voor het hanteren van voedsel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007956>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550004816>, <https://stad.gent/id/concept/550001965>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001965> <http://www.w3.org/2004/02/skos/core#prefLabel> "vleesvork"@nl.
+<https://stad.gent/id/concept/550004816> <http://www.w3.org/2004/02/skos/core#prefLabel> "taartschep"@nl.
+<https://stad.gent/id/concept/550007956> <http://www.w3.org/2004/02/skos/core#prefLabel> "keukengerei voor het bereiden en koken van voedsel"@nl.
+_:df_2158_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008316"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008316/2022-09-24T03:24:27.026Z>.
+<https://stad.gent/id/concept/550008310/2022-09-24T03:23:57.012Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008310>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:23:57.012Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300201101>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2164_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "keukengereedschap en keukengerei voor snijden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007956>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001216>, <https://stad.gent/id/concept/550002267>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002267> <http://www.w3.org/2004/02/skos/core#prefLabel> "voorsnijvork"@nl.
+<https://stad.gent/id/concept/550001216> <http://www.w3.org/2004/02/skos/core#prefLabel> "rasp (keukengerei)"@nl.
+<https://stad.gent/id/concept/550007956> <http://www.w3.org/2004/02/skos/core#prefLabel> "keukengerei voor het bereiden en koken van voedsel"@nl.
+_:df_2164_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008310"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008310/2022-09-24T03:23:57.012Z>.
+<https://stad.gent/id/concept/550008203/2022-09-24T03:15:11.261Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008203>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:15:11.261Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300201099>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2224_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Diverse keukenapparaten die worden gebruikt voor het verpulveren of vermalen van graan, koffie, beenderen, gedroogde bonen en erwten of kruiden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "keukenmolen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550001373>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550003230>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003230> <http://www.w3.org/2004/02/skos/core#prefLabel> "koffiemolen"@nl.
+<https://stad.gent/id/concept/550001373> <http://www.w3.org/2004/02/skos/core#prefLabel> "molen (gereedschap)"@nl.
+_:df_2224_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008203"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008203/2022-09-24T03:15:11.261Z>.
+<https://stad.gent/id/concept/550007956/2022-09-24T02:54:46.372Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007956>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:54:46.372Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300199784>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2371_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "keukengerei voor het bereiden en koken van voedsel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007880>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008310>, <https://stad.gent/id/concept/550008316>, <https://stad.gent/id/concept/550008321>, <https://stad.gent/id/concept/550007954>, <https://stad.gent/id/concept/550001968>, <https://stad.gent/id/concept/550001976>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001976> <http://www.w3.org/2004/02/skos/core#prefLabel> "spatel (culinair gereedschap)"@nl.
+<https://stad.gent/id/concept/550001968> <http://www.w3.org/2004/02/skos/core#prefLabel> "notenkraker"@nl.
+<https://stad.gent/id/concept/550007954> <http://www.w3.org/2004/02/skos/core#prefLabel> "kookgereedschap en uitrusting"@nl, "kookgereedschap en uitrusting"@nl.
+<https://stad.gent/id/concept/550008321> <http://www.w3.org/2004/02/skos/core#prefLabel> "keukengereedschap voor het scheiden"@nl.
+<https://stad.gent/id/concept/550008316> <http://www.w3.org/2004/02/skos/core#prefLabel> "keukengereedschap voor het hanteren van voedsel"@nl.
+<https://stad.gent/id/concept/550008310> <http://www.w3.org/2004/02/skos/core#prefLabel> "keukengereedschap en keukengerei voor snijden"@nl.
+<https://stad.gent/id/concept/550007880> <http://www.w3.org/2004/02/skos/core#prefLabel> "culinaire uitrusting"@nl.
+_:df_2371_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007956"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007956> <http://www.w3.org/2004/02/skos/core#prefLabel> "keukengerei voor het bereiden en koken van voedsel"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007956/2022-09-24T02:54:46.372Z>.
+<https://stad.gent/id/concept/550006380/2022-09-24T02:14:58.438Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006380>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:14:58.438Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004446>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2653_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Keulen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004734>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_2653_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006380"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006380/2022-09-24T02:14:58.438Z>.
+<https://stad.gent/id/concept/530002814/2022-09-14T00:00:24.245Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002814>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-14T00:00:24.245Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/q131696>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3694_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "keukenhanddoek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530001420>, <https://stad.gent/id/concept/530008866>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008866> <http://www.w3.org/2004/02/skos/core#prefLabel> "keukentextiel"@nl.
+<https://stad.gent/id/concept/530001420> <http://www.w3.org/2004/02/skos/core#prefLabel> "handdoek"@nl.
+_:df_3694_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002814"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002814/2022-09-14T00:00:24.245Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/keu.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/keu.ttl>.

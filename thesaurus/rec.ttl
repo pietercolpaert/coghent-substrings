@@ -34,3 +34,160 @@ _:df_2581_13 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570014767"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014767/2021-10-31T23:00:14.884Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/rec.ttl>.
+<https://stad.gent/id/concept/570009331/2022-09-24T05:19:05.935Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009331>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:19:05.935Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1345_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "receptenboek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1345_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009331"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009331/2022-09-24T05:19:05.935Z>.
+<https://stad.gent/id/concept/570009107/2022-09-24T05:09:19.465Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009107>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:09:19.465Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411474>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1414_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Reclamefoto's verwijzen naar de foto's die worden gebruikt om het publiek bewust te maken van een bepaald product of dienst. De foto's worden meestal gebruikt door reclamebureaus om een product in de markt te zetten. Reclamefoto's verwijzen naar de foto's die worden gebruikt om het publiek bewust te maken van een bepaald product of dienst. De foto's worden meestal gebruikt door reclamebureaus om een product in de markt te zetten. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reclamefoto"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1414_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009107"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009107/2022-09-24T05:09:19.465Z>.
+<https://stad.gent/id/concept/570009112/2022-09-24T05:09:24.467Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009112>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:09:24.467Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1414_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reclamefolder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570009006>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570009006> <http://www.w3.org/2004/02/skos/core#prefLabel> "folder"@nl.
+_:df_1414_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009112"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009112/2022-09-24T05:09:24.467Z>.
+<https://stad.gent/id/concept/570008941/2022-09-24T05:03:40.379Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008941>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:03:40.379Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055079>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1453_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor platte oppervlakken of borden, soms grote bouwsels, geconstrueerd of gebruikt voor het ophangen van kennisgevingen of advertenties.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reclamebord"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1453_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008941"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008941/2022-09-24T05:03:40.379Z>.
+<https://stad.gent/id/concept/570001849/2022-09-24T04:19:03.191Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001849>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:19:03.191Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q7748>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1771_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "recht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1771_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001849"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001849/2022-09-24T04:19:03.191Z>.
+<https://stad.gent/id/concept/550009283/2022-09-24T04:03:56.568Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009283>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:03:56.568Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q24082749>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1879_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "CC BY-NC-ND 4.0"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rechten"@nl, "rights"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1879_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009283"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009283/2022-09-24T04:03:56.568Z>.
+<https://stad.gent/id/concept/550008634/2022-09-24T03:39:13.580Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008634>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:39:13.580Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300212151>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2056_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor kaarten die door verkopers of fabrikanten worden verspreid om reclame te maken voor een product, soms als extraatje bij hun product. Voor kleine bedrukte bladen of kaarten met handelsadvertenties, gebruikt van de 17e tot en met de 19e eeuw, wordt 'handelskaarten' gebruikt. Voor later gemaakte kaarten, met de naam en het adres van een bedrijf en de naam van de vertegenwoordiger erop, die zijn bedoeld ter informatie en niet zozeer als advertentie wordt 'adreskaartjes' gebruikt. Voor latere kaarten die vooral uitgegeven zijn om te worden verzameld, met of zonder advertenties, gebruik 'verzamelkaarten'. Voor kaarten bestemd om te worden opgehangen als openbare advertentie, gebruik 'posters' of de specifiekere termen daarvan.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reclamekaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005746>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005746> <http://www.w3.org/2004/02/skos/core#prefLabel> "aankondigings- en reclamedragers"@nl.
+_:df_2056_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008634"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008634/2022-09-24T03:39:13.580Z>.
+<https://stad.gent/id/concept/550007819/2022-09-24T02:43:19.811Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007819>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:43:19.811Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041659>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2452_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "rechtstreeks aangeslagen idiofonen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007820>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008615>, <https://stad.gent/id/concept/550007818>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007818> <http://www.w3.org/2004/02/skos/core#prefLabel> "percussie-idiofoon"@nl, "percussie-idiofoon"@nl.
+<https://stad.gent/id/concept/550008615> <http://www.w3.org/2004/02/skos/core#prefLabel> "klepper"@nl.
+<https://stad.gent/id/concept/550007820> <http://www.w3.org/2004/02/skos/core#prefLabel> "aangeslagen idiofoon"@nl, "aangeslagen idiofoon"@nl.
+_:df_2452_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007819"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007819> <http://www.w3.org/2004/02/skos/core#prefLabel> "rechtstreeks aangeslagen idiofonen"@nl, "rechtstreeks aangeslagen idiofonen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007819/2022-09-24T02:43:19.811Z>.
+<https://stad.gent/id/concept/550006104/2022-09-24T02:03:31.763Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006104>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:03:31.763Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004019>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2737_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Recanati"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550000038>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000038> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_2737_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006104"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006104/2022-09-24T02:03:31.763Z>.
+<https://stad.gent/id/concept/670006910/2022-09-09T09:16:03.513Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006910>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:16:03.513Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300193993>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3835_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reclame"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3835_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006910"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006910/2022-09-09T09:16:03.513Z>.
+<https://stad.gent/id/concept/670006891/2022-09-09T09:14:27.395Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006891>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:14:27.395Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1297822>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3847_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Copyright"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rechten"@nl, "rights"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3847_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006891"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006891/2022-09-09T09:14:27.395Z>.
+<https://stad.gent/id/concept/670006881/2022-09-09T09:13:37.050Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006881>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:13:37.050Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300078817>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3853_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "recto"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3853_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006881"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006881/2022-09-09T09:13:37.050Z>.
+<https://stad.gent/id/concept/670006848/2022-09-09T09:10:56.003Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006848>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:10:56.003Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3871_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "CC BY-SA 4.0"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rechten"@nl, "rights"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3871_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006848"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006848/2022-09-09T09:10:56.003Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/rec.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/rec.ttl>.

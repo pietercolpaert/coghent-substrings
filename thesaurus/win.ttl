@@ -72,3 +72,61 @@ _:df_3118_25 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010215"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010215/2021-10-31T21:44:23.487Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/win.ttl>.
+<https://stad.gent/id/concept/550005151/2022-09-24T01:30:54.239Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005151>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:30:54.239Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300192061>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2968_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Voorwerpen, bijvoorbeeld staven met vrij ronddraaiende aanwijzers waarmee de windrichting kan worden bepaald.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "windwijzer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008384>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550003218>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003218> <http://www.w3.org/2004/02/skos/core#prefLabel> "weerhaan"@nl.
+<https://stad.gent/id/concept/550008384> <http://www.w3.org/2004/02/skos/core#prefLabel> "meteorologisch instrument"@nl.
+_:df_2968_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005151"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005151/2022-09-24T01:30:54.239Z>.
+<https://stad.gent/id/concept/670006640/2022-09-09T08:53:56.794Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006640>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:53:56.794Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3991_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wings of the Hawk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3991_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006640"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006640/2022-09-09T08:53:56.794Z>.
+<https://stad.gent/id/concept/670006641/2022-09-09T08:54:01.797Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006641>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:54:01.797Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3991_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Winterset"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3991_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006641"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006641/2022-09-09T08:54:01.797Z>.
+<https://stad.gent/id/concept/670006638/2022-09-09T08:53:46.791Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006638>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:53:46.791Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3994_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Winchester '73"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3994_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006638"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006638/2022-09-09T08:53:46.791Z>.
+<https://stad.gent/id/concept/670006639/2022-09-09T08:53:51.793Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006639>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:53:51.793Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3994_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Windom's Way"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3994_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006639"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006639/2022-09-09T08:53:51.793Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/win.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/win.ttl>.

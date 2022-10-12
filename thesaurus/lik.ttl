@@ -10,3 +10,34 @@ _:df_2173_7 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570016970"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016970/2021-10-31T23:57:40.373Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/lik.ttl>.
+<https://stad.gent/id/concept/550002254/2022-09-24T00:34:19.243Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002254>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:34:19.243Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900031137>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3373_34;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Glazen waaruit men likeur drinkt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "likeurglas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006133>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006133> <http://www.w3.org/2004/02/skos/core#prefLabel> "drinkglas"@nl.
+_:df_3373_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002254"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002254/2022-09-24T00:34:19.243Z>.
+<https://stad.gent/id/concept/530000208/2022-09-15T00:00:14.601Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000208>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-15T00:00:14.601Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300386589>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3670_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Drinkglazen met een kleine kelk en een relatief korte steel, die bedoeld zijn om likeur uit te drinken, dat wil zeggen sterke, zoete alcoholische drank met diverse specifieke aromatische smaken. In een glazenset waarin de kelken dezelfde vorm hebben, is het likeurglas het kleinst, kleiner dan het portglas. De betekenis overlapt met die van 'bitterglazen', maar een bitterglas heeft meestal een heel lange steel vergeleken met de kleine kelk, terwijl likeurglazen een korte steel hebben. Sommige moderne likeurglazen hebben helemaal geen steel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "likeurglas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008516>, <https://stad.gent/id/concept/530008273>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008273> <http://www.w3.org/2004/02/skos/core#prefLabel> "likeurstel"@nl.
+<https://stad.gent/id/concept/530008516> <http://www.w3.org/2004/02/skos/core#prefLabel> "drinkglas"@nl.
+_:df_3670_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000208"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000208/2022-09-15T00:00:14.601Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/lik.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/lik.ttl>.

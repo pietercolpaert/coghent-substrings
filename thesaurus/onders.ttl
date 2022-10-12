@@ -42,3 +42,74 @@ _:df_2176_28 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570016967"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016967/2021-10-31T23:57:30.369Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/onders.ttl>.
+<https://stad.gent/id/concept/570009023/2022-09-24T05:06:11.651Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009023>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:06:11.651Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300191074>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1435_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "onderschrift"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1435_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009023"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009023/2022-09-24T05:06:11.651Z>.
+<https://stad.gent/id/concept/570006715/2022-09-24T04:37:32.008Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006715>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:37:32.008Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1639_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "onderstel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1639_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006715"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006715/2022-09-24T04:37:32.008Z>.
+<https://stad.gent/id/concept/550008964/2022-09-24T03:56:10.503Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008964>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:56:10.503Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1933_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Onderstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550001540>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008963>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008963> <http://www.w3.org/2004/02/skos/core#prefLabel> "Braemsteen"@nl.
+<https://stad.gent/id/concept/550001540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gent"@nl.
+_:df_1933_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008964"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008964/2022-09-24T03:56:10.503Z>.
+<https://stad.gent/id/concept/550008127/2022-09-24T03:08:58.093Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008127>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:08:58.093Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300039337>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2269_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ondersteunend meubilair"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007836>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550002716>, <https://stad.gent/id/concept/550008126>, <https://stad.gent/id/concept/550005202>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005202> <http://www.w3.org/2004/02/skos/core#prefLabel> "tafel (dragend meubilair)"@nl.
+<https://stad.gent/id/concept/550008126> <http://www.w3.org/2004/02/skos/core#prefLabel> "standaard (ondersteunend meubilair)"@nl.
+<https://stad.gent/id/concept/550002716> <http://www.w3.org/2004/02/skos/core#prefLabel> "ezel (standaard)"@nl.
+<https://stad.gent/id/concept/550007836> <http://www.w3.org/2004/02/skos/core#prefLabel> "meubilair naar vorm of functie"@nl.
+_:df_2269_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008127"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008127> <http://www.w3.org/2004/02/skos/core#prefLabel> "ondersteunend meubilair"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008127/2022-09-24T03:08:58.093Z>.
+<https://stad.gent/id/concept/550008060/2022-09-24T03:03:22.299Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008060>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:03:22.299Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300256050>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2308_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Objecten die aangeven dat een eretitel aan een individu is verleend. Ze worden meestal op het lichaam gedragen. Zie 'militaire insignes' voor militaire onderscheidingstekens.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "onderscheiding (eretitel)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008050>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550003628>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003628> <http://www.w3.org/2004/02/skos/core#prefLabel> "parochiemedaille"@nl.
+<https://stad.gent/id/concept/550008050> <http://www.w3.org/2004/02/skos/core#prefLabel> "identificatiedrager"@nl, "identificatiedrager"@nl.
+_:df_2308_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008060"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008060/2022-09-24T03:03:22.299Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/onders.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/onders.ttl>.

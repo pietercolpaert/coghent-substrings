@@ -42,3 +42,25 @@ _:df_2524_11 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570015111"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015111/2021-10-31T23:08:22.566Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/vet.ttl>.
+<https://stad.gent/id/concept/570005951/2022-09-24T04:31:58.479Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570005951>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:31:58.479Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1681_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vetpomp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1681_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570005951"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570005951/2022-09-24T04:31:58.479Z>.
+<https://stad.gent/id/concept/550009124/2022-09-24T04:00:53.922Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009124>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:00:53.922Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1900_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vetvanger"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1900_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009124"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009124/2022-09-24T04:00:53.922Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/vet.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/vet.ttl>.

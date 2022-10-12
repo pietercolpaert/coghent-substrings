@@ -9,3 +9,36 @@ _:df_2434_24 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570015706"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015706/2021-10-31T23:21:08.014Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/de+s.ttl>.
+<https://stad.gent/id/concept/570008923/2022-09-24T05:02:54.973Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008923>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:02:54.973Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1925596>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1459_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "de Smet de Naeyerplein"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1459_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008923"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008923/2022-09-24T05:02:54.973Z>.
+<https://stad.gent/id/concept/670006732/2022-09-09T09:01:40.408Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006732>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:01:40.408Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3937_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "De Stadt Doornick"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3937_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006732"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006732/2022-09-09T09:01:40.408Z>.
+<https://stad.gent/id/concept/670006721/2022-09-09T09:00:45.088Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006721>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:00:45.088Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3943_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "De schat van Monte Cristo avonturen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3943_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006721"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006721/2022-09-09T09:00:45.088Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/de+s.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/de+s.ttl>.

@@ -99,3 +99,92 @@ _:df_3094_15 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010411"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010411/2021-10-31T21:47:36.670Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/hi.ttl>.
+<https://stad.gent/id/concept/570015251/2022-09-24T07:10:15.775Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015251>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:10:15.775Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q309>;
+    <http://www.w3.org/ns/adms#identifier> _:df_556_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "historie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_556_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015251"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015251/2022-09-24T07:10:15.775Z>.
+<https://stad.gent/id/concept/570014215/2022-09-24T06:42:56.785Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014215>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:42:56.785Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1047845>;
+    <http://www.w3.org/ns/adms#identifier> _:df_751_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hillegom"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_751_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014215"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014215/2022-09-24T06:42:56.785Z>.
+<https://stad.gent/id/concept/570010411/2022-09-24T05:44:52.562Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010411>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:44:52.562Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007042>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1162_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hilversum"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_1162_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010411"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010411/2022-09-24T05:44:52.562Z>.
+<https://stad.gent/id/concept/550006698/2022-09-24T02:24:54.605Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006698>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:24:54.605Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005248>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2584_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hildesheim"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004734>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_2584_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006698"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006698/2022-09-24T02:24:54.605Z>.
+<https://stad.gent/id/concept/550004600/2022-09-24T01:12:03.052Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004600>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:12:03.052Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/4005039>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3103_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hingene"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005392>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005392> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl, "Antwerpen (provincie)"@nl.
+_:df_3103_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004600"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004600/2022-09-24T01:12:03.052Z>.
+<https://stad.gent/id/concept/550004492/2022-09-24T01:07:05.342Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004492>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:07:05.342Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007042>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3139_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hilversum"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006121>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006121> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl, "Nederland"@nl.
+_:df_3139_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004492"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004492/2022-09-24T01:07:05.342Z>.
+<https://stad.gent/id/concept/670006831/2022-09-09T09:09:40.206Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006831>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:09:40.206Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q632429>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3880_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hinrichshagen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3880_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006831"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006831/2022-09-09T09:09:40.206Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/hi.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/hi.ttl>.

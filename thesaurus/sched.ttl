@@ -1,0 +1,30 @@
+<https://stad.gent/id/concept/550007775/2022-09-24T02:39:47.893Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007775>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:39:47.893Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037139>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2476_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Onbuigzame schedes van hout, metaal of leer, gebruikt om scherpe wapens, gereedschappen of handwapens zoals karabijnen of geweren in op te bergen en te dragen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schede"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005256>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005256> <http://www.w3.org/2004/02/skos/core#prefLabel> "foedraal"@nl.
+_:df_2476_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007775"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007775/2022-09-24T02:39:47.893Z>.
+<https://stad.gent/id/concept/550001478/2022-09-24T00:20:55.881Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001478>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:20:55.881Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300191856>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3466_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het benige geraamte van het hoofd, dat de hersenen omvat en het gezicht ondersteunt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schedel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008852>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008852> <http://www.w3.org/2004/02/skos/core#prefLabel> "skeletonderdelen"@nl.
+_:df_3466_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001478"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001478/2022-09-24T00:20:55.881Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/sched.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/sched.ttl>.

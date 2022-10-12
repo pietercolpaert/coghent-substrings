@@ -29,3 +29,67 @@ _:df_2548_7 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570014943"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014943/2021-10-31T23:04:49.726Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/sti.ttl>.
+<https://stad.gent/id/concept/570014943/2022-09-24T07:02:32.087Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014943>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:02:32.087Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_610_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stijfselfabriek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_610_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014943"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014943/2022-09-24T07:02:32.087Z>.
+<https://stad.gent/id/concept/570006003/2022-09-24T04:32:29.315Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006003>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:32:29.315Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300012959>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1675_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een organisch bestanddeel van plantencellen, een lid van de amylosegroep van koolhydraten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stijfsel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1675_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006003"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006003/2022-09-24T04:32:29.315Z>.
+<https://stad.gent/id/concept/550009249/2022-09-24T04:02:14.872Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009249>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:02:14.872Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300207379>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1891_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sticker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005710>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005710> <http://www.w3.org/2004/02/skos/core#prefLabel> "informatiedragers naar fysieke vorm"@nl.
+_:df_1891_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009249"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009249/2022-09-24T04:02:14.872Z>.
+<https://stad.gent/id/concept/550008024/2022-09-24T03:00:19.378Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008024>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:00:19.378Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300003146>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2332_29;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verticale onderdelen die zich aan de zijkanten van deur- en raamkozijnen en dergelijke bevinden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stijl (openingsonderdeel)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008025>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008025> <http://www.w3.org/2004/02/skos/core#prefLabel> "openingsonderdelen"@nl.
+_:df_2332_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008024"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008024/2022-09-24T03:00:19.378Z>.
+<https://stad.gent/id/concept/550001525/2022-09-24T00:21:51.424Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001525>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:21:51.424Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300255573>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3460_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Metalen, houten of leren constructies met een platte voetsteun en een gebogen gedeelte die zijn bevestigd aan het zadel met een stijgbeugelriem en worden gebruikt om de voeten van de ruiter te steunen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stijgbeugel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008340>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008340> <http://www.w3.org/2004/02/skos/core#prefLabel> "werkuitrusting van dieren voor berijden"@nl.
+_:df_3460_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001525"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001525/2022-09-24T00:21:51.424Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/sti.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/sti.ttl>.

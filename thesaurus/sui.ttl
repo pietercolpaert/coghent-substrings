@@ -74,3 +74,138 @@ _:df_3226_12 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009635"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009635/2021-10-31T21:29:01.046Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/sui.ttl>.
+<https://stad.gent/id/concept/530005357/2022-10-01T00:00:38.555Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005357>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-01T00:00:38.555Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900021006>;
+    <http://www.w3.org/ns/adms#identifier> _:df_88_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Zakje, meestal van papier, waarin een afgepaste hoeveelheid suiker bij consumpties verstrekt wordt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "suikerzakje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008612>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008612> <http://www.w3.org/2004/02/skos/core#prefLabel> "culinaire houder"@nl.
+_:df_88_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005357"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005357/2022-10-01T00:00:38.555Z>.
+<https://stad.gent/id/concept/570016977/2022-09-24T07:55:58.215Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016977>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:55:58.215Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300199831>;
+    <http://www.w3.org/ns/adms#identifier> _:df_229_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "suikertang"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_229_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016977"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016977/2022-09-24T07:55:58.215Z>.
+<https://stad.gent/id/concept/570016909/2022-09-24T07:52:26.701Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016909>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:52:26.701Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_256_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "suikerbus"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_256_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016909"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016909/2022-09-24T07:52:26.701Z>.
+<https://stad.gent/id/concept/570013021/2022-09-24T06:18:24.990Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013021>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:18:24.990Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q227857>;
+    <http://www.w3.org/ns/adms#identifier> _:df_922_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "suikerfabriek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_922_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013021"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013021/2022-09-24T06:18:24.990Z>.
+<https://stad.gent/id/concept/570009635/2022-09-24T05:26:32.388Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009635>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:26:32.388Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006358>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1291_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "suikerraffinaderij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1291_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009635"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009635/2022-09-24T05:26:32.388Z>.
+<https://stad.gent/id/concept/570000449/2022-09-24T04:10:05.850Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000449>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:10:05.850Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300183931>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1834_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "suiker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1834_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000449"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000449/2022-09-24T04:10:05.850Z>.
+<https://stad.gent/id/concept/550005298/2022-09-24T01:37:22.875Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005298>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:37:22.875Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2923_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Penning, onderdeel uit een reeks penning van bv. bekende personen";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "suitepenning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008059>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008059> <http://www.w3.org/2004/02/skos/core#prefLabel> "penning (medaille)"@nl.
+_:df_2923_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005298"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005298/2022-09-24T01:37:22.875Z>.
+<https://stad.gent/id/concept/550004804/2022-09-24T01:20:32.550Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004804>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:20:32.550Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043069>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3043_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Potten met deksels voor het bewaren en serveren van suiker; worden vaak gemaakt als set met één of twee theebusjes. Soms bevatten ze een suikerschep voor het opdienen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "suikerpot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007939>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007939> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders behorende bij het opdienen van voedsel"@nl.
+_:df_3043_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004804"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004804/2022-09-24T01:20:32.550Z>.
+<https://stad.gent/id/concept/550002699/2022-09-24T00:39:17.107Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002699>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:39:17.107Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043031>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3337_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Strooiers die met name bedoeld zijn voor het serveren van suiker op tafel, meestal cylinder- of balustervormig met een geperforeerd, bol deksel dat soms op de strooier zelf moet worden geschroefd.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "suikerstrooier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008295>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008295> <http://www.w3.org/2004/02/skos/core#prefLabel> "strooibus (tafel)"@nl.
+_:df_3337_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002699"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002699/2022-09-24T00:39:17.107Z>.
+<https://stad.gent/id/concept/550001975/2022-09-24T00:30:37.640Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001975>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:30:37.640Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3397_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "suikerbijltje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3397_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001975"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001975/2022-09-24T00:30:37.640Z>.
+<https://stad.gent/id/concept/550001953/2022-09-24T00:29:36.546Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001953>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:29:36.546Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300199831>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3406_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Tangen, meestal van zilver gemaakt, met klauwvormige of lepelvormige uiteinden waarmee suikerklontjes worden opgepakt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "suikertang"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008185>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008185> <http://www.w3.org/2004/02/skos/core#prefLabel> "tangen voor het opdienen van voedsel"@nl.
+_:df_3406_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001953"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001953/2022-09-24T00:29:36.546Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/sui.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/sui.ttl>.

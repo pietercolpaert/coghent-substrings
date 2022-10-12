@@ -31,3 +31,90 @@ _:df_2647_34 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570014444"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014444/2021-10-31T22:51:07.047Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/vis.ttl>.
+<https://stad.gent/id/concept/550008637/2022-09-24T03:39:28.586Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008637>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:39:28.586Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026823>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2053_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine kaartjes met daarop de naam en soms het adres van een persoon of een echtpaar dat dient ter introductie, zoals tijdens het afleggen van een formeel bezoek.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "visitekaartje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008554>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008554> <http://www.w3.org/2004/02/skos/core#prefLabel> "identificatiekaarten"@nl.
+_:df_2053_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008637"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008637/2022-09-24T03:39:28.586Z>.
+<https://stad.gent/id/concept/550007918/2022-09-24T02:51:39.442Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007918>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:51:39.442Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300247419>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2392_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "visvangtuig en valstrikken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007780>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007917>, <https://stad.gent/id/concept/550000729>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000729> <http://www.w3.org/2004/02/skos/core#prefLabel> "vishaak"@nl.
+<https://stad.gent/id/concept/550007917> <http://www.w3.org/2004/02/skos/core#prefLabel> "valstrik"@nl.
+<https://stad.gent/id/concept/550007780> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting naar context"@nl.
+_:df_2392_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007918"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007918> <http://www.w3.org/2004/02/skos/core#prefLabel> "visvangtuig en valstrikken"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007918/2022-09-24T02:51:39.442Z>.
+<https://stad.gent/id/concept/550000729/2022-09-24T00:08:59.366Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000729>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:08:59.366Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024418>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3553_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gebogen of gekromde voorwerpen met een of meer punten, meestal met weerhaken, gebonden aan het uiteinde van een vislijn voor het vangen van vis.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vishaak"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007918>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007918> <http://www.w3.org/2004/02/skos/core#prefLabel> "visvangtuig en valstrikken"@nl.
+_:df_3553_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000729"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000729/2022-09-24T00:08:59.366Z>.
+<https://stad.gent/id/concept/670006535/2022-09-09T08:45:06.777Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006535>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:45:06.777Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4054_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vision am See"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4054_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006535"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006535/2022-09-09T08:45:06.777Z>.
+<https://stad.gent/id/concept/670006536/2022-09-09T08:45:11.779Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006536>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:45:11.779Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4054_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Visit to a Small Planet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4054_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006536"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006536/2022-09-09T08:45:11.779Z>.
+<https://stad.gent/id/concept/670006533/2022-09-09T08:44:56.772Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006533>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:44:56.772Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4057_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Visage voile"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4057_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006533"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006533/2022-09-09T08:44:56.772Z>.
+<https://stad.gent/id/concept/670006534/2022-09-09T08:45:01.774Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006534>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:45:01.774Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4057_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Visages d'Orient"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4057_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006534"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006534/2022-09-09T08:45:01.774Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/vis.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/vis.ttl>.

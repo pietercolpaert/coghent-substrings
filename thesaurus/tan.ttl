@@ -55,3 +55,125 @@ _:df_2077_17 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570017441"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017441/2021-11-01T00:11:22.971Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/tan.ttl>.
+<https://stad.gent/id/concept/550008860/2022-09-24T03:51:31.389Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008860>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:51:31.389Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011855>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1966_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Hard uitsteeksel van gemineraliseerd of deels gemineraliseerd weefsel dat wordt gevormd in de kaken van dieren; door de opbouw te onderscheiden van ander been";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tand"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008780>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001507>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001507> <http://www.w3.org/2004/02/skos/core#prefLabel> "slagtand"@nl.
+<https://stad.gent/id/concept/550008780> <http://www.w3.org/2004/02/skos/core#prefLabel> "tand en tandonderdelen"@nl.
+_:df_1966_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008860"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008860/2022-09-24T03:51:31.389Z>.
+<https://stad.gent/id/concept/550008779/2022-09-24T03:46:08.535Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008779>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:46:08.535Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300191878>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2005_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tandonderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008780>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008778>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008778> <http://www.w3.org/2004/02/skos/core#prefLabel> "dentine"@nl.
+<https://stad.gent/id/concept/550008780> <http://www.w3.org/2004/02/skos/core#prefLabel> "tand en tandonderdelen"@nl.
+_:df_2005_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008779"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008779> <http://www.w3.org/2004/02/skos/core#prefLabel> "tandonderdelen"@nl, "tandonderdelen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008779/2022-09-24T03:46:08.535Z>.
+<https://stad.gent/id/concept/550008780/2022-09-24T03:46:13.536Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008780>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:46:13.536Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300191874>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2005_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tand en tandonderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008750>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008860>, <https://stad.gent/id/concept/550008779>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008779> <http://www.w3.org/2004/02/skos/core#prefLabel> "tandonderdelen"@nl, "tandonderdelen"@nl.
+<https://stad.gent/id/concept/550008860> <http://www.w3.org/2004/02/skos/core#prefLabel> "tand"@nl.
+<https://stad.gent/id/concept/550008750> <http://www.w3.org/2004/02/skos/core#prefLabel> "been naar vorm"@nl.
+_:df_2005_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008780"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008780> <http://www.w3.org/2004/02/skos/core#prefLabel> "tand en tandonderdelen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008780/2022-09-24T03:46:13.536Z>.
+<https://stad.gent/id/concept/550008185/2022-09-24T03:13:40.395Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008185>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:13:40.395Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300217765>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2236_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tangen voor het opdienen van voedsel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008186>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001953>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001953> <http://www.w3.org/2004/02/skos/core#prefLabel> "suikertang"@nl.
+<https://stad.gent/id/concept/550008186> <http://www.w3.org/2004/02/skos/core#prefLabel> "gerei voor het opdienen van voedsel"@nl.
+_:df_2236_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008185"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008185> <http://www.w3.org/2004/02/skos/core#prefLabel> "tangen voor het opdienen van voedsel"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008185/2022-09-24T03:13:40.395Z>.
+<https://stad.gent/id/concept/550006206/2022-09-24T02:08:09.857Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006206>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:08:09.857Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300018420>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2704_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tang"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008949>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008949> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chinese dynastieke stijlen en perioden"@nl, "Chinese dynastieke stijlen en perioden"@nl.
+_:df_2704_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006206"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006206/2022-09-24T02:08:09.857Z>.
+<https://stad.gent/id/concept/550006187/2022-09-24T02:07:24.419Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006187>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:07:24.419Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024748>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2707_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Diverse gereedschappen die worden gebruikt om voorwerpen vast te pakken. Ze bestaan meestal uit twee stukken metaal die aan één uiteinde, of iets van het uiteinde, aan elkaar zijn bevestigd door middel van een draaipen of veer, zodat ze twee kaken vormen waarmee iets kan worden vastgepakt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tang"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008299>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008299> <http://www.w3.org/2004/02/skos/core#prefLabel> "grijp- en klemgereedschap"@nl.
+_:df_2707_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006187"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006187/2022-09-24T02:07:24.419Z>.
+<https://stad.gent/id/concept/530010855/2022-09-24T00:01:15.191Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010855>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:01:15.191Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300386772>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3607_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Zuster van iemands vader of moeder, of echtgenote van een broer van iemands vader of moeder.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tante"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009707>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009707> <http://www.w3.org/2004/02/skos/core#prefLabel> "familie"@nl, "familie"@nl.
+_:df_3607_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010855"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010855/2022-09-24T00:01:15.191Z>.
+<https://stad.gent/id/concept/530010855/2022-09-16T00:01:25.733Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010855>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-16T00:01:25.733Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300386772>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3631_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Zuster van iemands vader of moeder, of echtgenote van een broer van iemands vader of moeder.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tante"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009707>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009707> <http://www.w3.org/2004/02/skos/core#prefLabel> "familie"@nl, "familie"@nl, "familie"@nl, "familie"@nl.
+_:df_3631_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010855"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010855/2022-09-16T00:01:25.733Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/tan.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/tan.ttl>.

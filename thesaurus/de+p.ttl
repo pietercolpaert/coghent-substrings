@@ -12,3 +12,66 @@ _:df_2524_14 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570015112"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015112/2021-10-31T23:08:27.567Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/de+p.ttl>.
+<https://stad.gent/id/concept/570006080/2022-09-24T04:33:49.930Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006080>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:33:49.930Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026385>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1666_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "De Panne"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018081>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018081> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen (provincie)"@nl.
+_:df_1666_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006080"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006080/2022-09-24T04:33:49.930Z>.
+<https://stad.gent/id/concept/550006897/2022-09-24T02:32:39.041Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006897>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:32:39.041Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026385>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2527_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "De Panne"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004834>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "Vindplaats"@nl, "Collection place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004834> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen"@nl.
+_:df_2527_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006897"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006897/2022-09-24T02:32:39.041Z>.
+<https://stad.gent/id/concept/550006065/2022-09-24T02:02:05.933Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006065>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:02:05.933Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026386>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2746_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "De Pinte"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004313>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004313> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen"@nl, "Oost-Vlaanderen"@nl.
+_:df_2746_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006065"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006065/2022-09-24T02:02:05.933Z>.
+<https://stad.gent/id/concept/670007021/2022-09-09T09:24:58.869Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670007021>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:24:58.869Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3168>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3772_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "De Pintelaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3772_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670007021"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670007021/2022-09-09T09:24:58.869Z>.
+<https://stad.gent/id/concept/670006924/2022-09-09T09:17:08.889Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006924>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:17:08.889Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q842454>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3826_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "De Pinte"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3826_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006924"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006924/2022-09-09T09:17:08.889Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/de+p.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/de+p.ttl>.

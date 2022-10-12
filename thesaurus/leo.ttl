@@ -12,3 +12,27 @@ _:df_2386_16 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570016041"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016041/2021-10-31T23:27:49.647Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/leo.ttl>.
+<https://stad.gent/id/concept/570005981/2022-09-24T04:32:08.484Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570005981>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:32:08.484Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q762>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1678_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Leonardo Da Vinci"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1678_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570005981"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570005981/2022-09-24T04:32:08.484Z>.
+<https://stad.gent/id/concept/570002112/2022-09-24T04:20:35.990Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570002112>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:20:35.990Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q12967>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1762_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Leopold II, koning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1762_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570002112"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570002112/2022-09-24T04:20:35.990Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/leo.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/leo.ttl>.

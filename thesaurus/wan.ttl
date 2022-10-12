@@ -104,3 +104,127 @@ _:df_2770_16 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570013587"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013587/2021-10-31T22:33:39.343Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/wan.ttl>.
+<https://stad.gent/id/concept/550009131/2022-09-24T04:01:24.320Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009131>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:01:24.320Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7596292>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1897_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wanquetin"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004704>;
+    <http://www.w3.org/2004/02/skos/core#note> "Vindplaats"@nl, "Collection place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004704> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_1897_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009131"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009131/2022-09-24T04:01:24.320Z>.
+<https://stad.gent/id/concept/550008374/2022-09-24T03:29:04.814Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008374>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:29:04.814Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300204886>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2125_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kunstvoorwerpen, vaak stoffen, die aan muren worden gehangen en vooral voor bescherming, warmte of versiering worden gebruikt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wandbedekking"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007893>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550000988>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000988> <http://www.w3.org/2004/02/skos/core#prefLabel> "tapisserie"@nl.
+<https://stad.gent/id/concept/550007893> <http://www.w3.org/2004/02/skos/core#prefLabel> "bedekkingen en voorhangen voor oppervlakte-elementen"@nl.
+_:df_2125_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008374"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008374/2022-09-24T03:29:04.814Z>.
+<https://stad.gent/id/concept/550005831/2022-09-24T01:54:36.778Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005831>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:54:36.778Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010731>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2800_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een tegel, vaak geglazuurd, ontworpen voor gebruik als bekleding op een muur.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wandtegel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008087>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008087> <http://www.w3.org/2004/02/skos/core#prefLabel> "tegel (object)"@nl.
+_:df_2800_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005831"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005831/2022-09-24T01:54:36.778Z>.
+<https://stad.gent/id/concept/550005263/2022-09-24T01:36:01.878Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005263>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:36:01.878Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900018190>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2932_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wandarm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007930>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007930> <http://www.w3.org/2004/02/skos/core#prefLabel> "verlichtingsmiddelen naar vorm"@nl.
+_:df_2932_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005263"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005263/2022-09-24T01:36:01.878Z>.
+<https://stad.gent/id/concept/550004484/2022-09-24T01:06:39.669Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004484>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:06:39.669Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3142_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wandtapijten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008627>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008627> <http://www.w3.org/2004/02/skos/core#prefLabel> "textiel (collectie)"@nl.
+_:df_3142_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004484"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004484/2022-09-24T01:06:39.669Z>.
+<https://stad.gent/id/concept/550003884/2022-09-24T00:57:13.885Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003884>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:57:13.885Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300180022>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3208_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders voor kaarsen, die aan de wand zijn bevestigd. De ondersteunende arm kan onbuigzaam of geleed zijn.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wandkandelaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008381>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008381> <http://www.w3.org/2004/02/skos/core#prefLabel> "armatuur (verlichtingsmiddel)"@nl.
+_:df_3208_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003884"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003884/2022-09-24T00:57:13.885Z>.
+<https://stad.gent/id/concept/550002903/2022-09-24T00:43:09.323Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002903>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:43:09.323Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041592>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3310_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Klokken die zijn ontworpen om aan de muur te worden gehangen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wandklok"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008293>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008293> <http://www.w3.org/2004/02/skos/core#prefLabel> "klokken naar vorm"@nl.
+_:df_3310_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002903"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002903/2022-09-24T00:43:09.323Z>.
+<https://stad.gent/id/concept/550002740/2022-09-24T00:40:07.482Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002740>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:40:07.482Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300221268>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3331_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Stokken die in de hand worden gehouden en steun bieden bij het lopen, met name een stijlvol en vaak ook een ornamenteel onderdeel voor het maken van een wandeling.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wandelstok"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007779>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008334>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008334> <http://www.w3.org/2004/02/skos/core#prefLabel> "staf"@nl.
+<https://stad.gent/id/concept/550007779> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting voor persoonlijk gebruik"@nl.
+_:df_3331_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002740"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002740/2022-09-24T00:40:07.482Z>.
+<https://stad.gent/id/concept/670006565/2022-09-09T08:47:38.946Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006565>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T08:47:38.946Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4036_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wanda, la peccatrice"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4036_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006565"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006565/2022-09-09T08:47:38.946Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/wan.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/wan.ttl>.

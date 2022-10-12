@@ -1,0 +1,16 @@
+<https://stad.gent/id/concept/550007903/2022-09-24T02:50:23.994Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007903>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:50:23.994Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300210870>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2401_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Term uit de 19e eeuw voor omhoogstaande mannenhoeden met een rand die plat tegen de voorkant en achterkant staat en twee hoeken vormt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bicorne"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005297>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005297> <http://www.w3.org/2004/02/skos/core#prefLabel> "steek (hoed)"@nl.
+_:df_2401_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007903"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007903/2022-09-24T02:50:23.994Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/bic.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bic.ttl>.

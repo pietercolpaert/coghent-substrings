@@ -25,3 +25,44 @@ _:df_1915_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570018661"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018661/2021-11-01T00:33:56.861Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bas.ttl>.
+<https://stad.gent/id/concept/550004785/2022-09-24T01:19:27.086Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004785>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:19:27.086Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300042755>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3049_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Serpenten bestaande uit een ongeveer 230 cm lange, doorgaans koperen conische buis, met zes toongaten, drie of vier kleppen, een aanblaasbuis in de vorm van een zwanenhals en een wijd uitlopende klankbeker; ontwikkeld in de vroege 19e eeuw.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bashoorn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007869>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007869> <http://www.w3.org/2004/02/skos/core#prefLabel> "serpent (blaasinstrument)"@nl.
+_:df_3049_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004785"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004785/2022-09-24T01:19:27.086Z>.
+<https://stad.gent/id/concept/550002937/2022-09-24T00:43:44.349Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002937>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:43:44.349Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300184633>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3304_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Beeldhouwwerken uitgevoerd in relatief laag reliëf.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bas-reliëf"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005957>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005957> <http://www.w3.org/2004/02/skos/core#prefLabel> "reliëf (object)"@nl.
+_:df_3304_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002937"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002937/2022-09-24T00:43:44.349Z>.
+<https://stad.gent/id/concept/670006933/2022-09-09T09:17:49.229Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006933>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:17:49.229Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q78>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3823_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Basel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3823_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006933"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006933/2022-09-09T09:17:49.229Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/bas.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/bas.ttl>.

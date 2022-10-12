@@ -36,3 +36,76 @@ _:df_2719_7 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570013988"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013988/2021-10-31T22:40:43.736Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/mor.ttl>.
+<https://stad.gent/id/concept/570013988/2022-09-24T06:38:08.149Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013988>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:38:08.149Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300036961>;
+    <http://www.w3.org/ns/adms#identifier> _:df_784_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mortier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_784_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013988"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013988/2022-09-24T06:38:08.149Z>.
+<https://stad.gent/id/concept/550009054/2022-09-24T03:57:02.219Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009054>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:57:02.219Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1927_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mortel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1927_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009054"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009054/2022-09-24T03:57:02.219Z>.
+<https://stad.gent/id/concept/550009057/2022-09-24T03:57:17.231Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009057>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:57:17.231Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1927_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mortarium"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1927_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009057"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009057/2022-09-24T03:57:17.231Z>.
+<https://stad.gent/id/concept/550006388/2022-09-24T02:15:13.446Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006388>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:15:13.446Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008829>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2653_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Morlanwelz-Mariemont"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008925>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008925> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen"@nl.
+_:df_2653_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006388"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006388/2022-09-24T02:15:13.446Z>.
+<https://stad.gent/id/concept/550004382/2022-09-24T01:04:08.246Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004382>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:04:08.246Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7136410>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3160_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mörlenbach"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004734>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_3160_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004382"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004382/2022-09-24T01:04:08.246Z>.
+<https://stad.gent/id/concept/550000805/2022-09-24T00:10:09.801Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000805>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:10:09.801Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300036961>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3544_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Geschut met een getrokken of gladde loop, dat wordt gekenmerkt door een kortere loop, lagere mondingssnelheid, korter bereik en een hogere afvuurhoek dan houwitsers of kanonnen; de meeste huidige modellen zijn voorladers.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mortier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008187>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008187> <http://www.w3.org/2004/02/skos/core#prefLabel> "geschut naar vorm"@nl.
+_:df_3544_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000805"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000805/2022-09-24T00:10:09.801Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/mor.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/mor.ttl>.

@@ -126,3 +126,160 @@ _:df_1_544 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/asb.ttl>;
     <https://w3id.org/tree#value> "asb".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/as.ttl>.
+<https://stad.gent/id/concept/530010858/2022-10-04T00:01:03.193Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010858>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-10-04T00:01:03.193Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_79_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "werknemer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_79_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010858"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010858/2022-10-04T00:01:03.193Z>.
+<https://stad.gent/id/concept/570017416/2022-09-24T08:08:39.260Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017416>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T08:08:39.260Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053279>;
+    <http://www.w3.org/ns/adms#identifier> _:df_139_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Drukmethode waarbij de afbeelding van een plaat, blok of steen wordt overgezet op een andere laag, bijvoorbeeld van rubber, en dan op het uiteindelijke oppervlak.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "offset"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en, "associatie"@nl, "association"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_139_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017416"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017416/2022-09-24T08:08:39.260Z>.
+<https://stad.gent/id/concept/570016984/2022-09-24T07:56:23.235Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016984>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:56:23.235Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300178264>;
+    <http://www.w3.org/ns/adms#identifier> _:df_226_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Beeldende werken in email inclusief figuren en scenes, en die in metaalwerk zijn gezet. Voor de decoratieve techniek gebruik 'emaillak'.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "email"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "onderwerp"@nl, "subject"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_226_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016984"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016984/2022-09-24T07:56:23.235Z>.
+<https://stad.gent/id/concept/570016733/2022-09-24T07:45:17.971Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016733>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:45:17.971Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053241>;
+    <http://www.w3.org/ns/adms#identifier> _:df_307_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Drukprocédé: wordt gebruikt voor de diepdruktechniek waarbij een ontwerp wordt gemaakt met een zuurbestendige stof die de metalen drukplaat beschermt. De plaat wordt blootgesteld aan zuur, dat in de plaat inbijt, zodat de delen van de metalen plaat die aan het zuur blootstaan, worden geëtst.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "etsen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_307_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016733"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016733/2022-09-24T07:45:17.971Z>.
+<https://stad.gent/id/concept/570016226/2022-09-24T07:29:45.475Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016226>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:29:45.475Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_418_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "einde 20ste eeuw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012473>;
+    <http://www.w3.org/2004/02/skos/core#note> "periode"@nl, "period"@en, "associatie"@nl, "association"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012473> <http://www.w3.org/2004/02/skos/core#prefLabel> "20ste eeuw"@nl.
+_:df_418_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016226"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016226/2022-09-24T07:29:45.475Z>.
+<https://stad.gent/id/concept/570014900/2022-09-24T07:00:46.387Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014900>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:00:46.387Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300419295>;
+    <http://www.w3.org/ns/adms#identifier> _:df_625_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "apotheek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_625_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014900"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014900/2022-09-24T07:00:46.387Z>.
+<https://stad.gent/id/concept/570014440/2022-09-24T06:48:19.308Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014440>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:48:19.308Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300132466>;
+    <http://www.w3.org/ns/adms#identifier> _:df_712_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toerisme"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570020086>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020086> <http://www.w3.org/2004/02/skos/core#prefLabel> "kusttoerisme"@nl.
+_:df_712_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014440"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014440/2022-09-24T06:48:19.308Z>.
+<https://stad.gent/id/concept/570014291/2022-09-24T06:44:27.537Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014291>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:44:27.537Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300234656>;
+    <http://www.w3.org/ns/adms#identifier> _:df_739_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Drukpersen waarin het papier in een doorlopende rol wordt aangevoerd.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "rotatiepers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018042>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018042> <http://www.w3.org/2004/02/skos/core#prefLabel> "drukpersen"@nl.
+_:df_739_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014291"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014291/2022-09-24T06:44:27.537Z>.
+<https://stad.gent/id/concept/570013435/2022-09-24T06:28:06.146Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013435>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:28:06.146Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026388>;
+    <http://www.w3.org/ns/adms#identifier> _:df_853_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Deinze"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "motief"@nl, "motif"@en, "plaats"@nl, "place"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl.
+_:df_853_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013435"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013435/2022-09-24T06:28:06.146Z>.
+<https://stad.gent/id/concept/570013226/2022-09-24T06:23:27.274Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013226>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:23:27.274Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054713>;
+    <http://www.w3.org/ns/adms#identifier> _:df_886_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "productieproces"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_886_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013226"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013226/2022-09-24T06:23:27.274Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/as.ttl> <https://w3id.org/tree#relation> _:df_1_607.
+_:df_1_607 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/ast.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "ast".
+<https://www.pieter.pm/coghent-substrings/thesaurus/as.ttl> <https://w3id.org/tree#relation> _:df_1_608.
+_:df_1_608 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/ass.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "ass".
+<https://www.pieter.pm/coghent-substrings/thesaurus/as.ttl> <https://w3id.org/tree#relation> _:df_1_609.
+_:df_1_609 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/asp.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "asp".
+<https://www.pieter.pm/coghent-substrings/thesaurus/as.ttl> <https://w3id.org/tree#relation> _:df_1_610.
+_:df_1_610 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/asb.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "asb".
+<https://www.pieter.pm/coghent-substrings/thesaurus/as.ttl> <https://w3id.org/tree#relation> _:df_1_611.
+_:df_1_611 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/as+m.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "as", "m".
+<https://www.pieter.pm/coghent-substrings/thesaurus/as.ttl> <https://w3id.org/tree#relation> _:df_1_612.
+_:df_1_612 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/asc.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "asc".
+<https://www.pieter.pm/coghent-substrings/thesaurus/as.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/as.ttl>.

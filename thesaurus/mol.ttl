@@ -25,3 +25,57 @@ _:df_1534_25 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570020413"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020413/2021-11-01T01:27:58.612Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/mol.ttl>.
+<https://stad.gent/id/concept/570008776/2022-09-24T04:57:57.422Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008776>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:57:57.422Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300264626>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1495_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "molen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1495_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008776"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008776/2022-09-24T04:57:57.422Z>.
+<https://stad.gent/id/concept/570002587/2022-09-24T04:22:47.058Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570002587>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:22:47.058Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300264626>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1744_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar gebouwen die zijn ontworpen voor en uitgerust met machines die bepaalde taken in de vervaardiging van producten verrichten, waaronder het malen van graan of het draaien van een weefgetouw voor het maken van textiel. Gebruik 'molens (machines)' voor de machines zelf, los van het gebouw. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "molens"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570019696>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570019696> <http://www.w3.org/2004/02/skos/core#prefLabel> "windmolens"@nl.
+_:df_1744_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570002587"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570002587/2022-09-24T04:22:47.058Z>.
+<https://stad.gent/id/concept/550001373/2022-09-24T00:18:19.703Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001373>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:18:19.703Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300264628>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3487_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar eenvoudige of complexe machines of mechanische apparaten die worden gebruikt om vaste stoffen, zoals graan of kruiden, te verpulveren of tot poeder of pulp te vermalen. Gebruik 'molens (gebouwen)' om te verwijzen naar de combinatie van een gebouw en de daarin ondergebrachte maalinrichting.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "molen (gereedschap)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008249>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008203>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008203> <http://www.w3.org/2004/02/skos/core#prefLabel> "keukenmolen"@nl.
+<https://stad.gent/id/concept/550008249> <http://www.w3.org/2004/02/skos/core#prefLabel> "slijp- en maalmachines"@nl.
+_:df_3487_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001373"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001373/2022-09-24T00:18:19.703Z>.
+<https://stad.gent/id/concept/670007069/2022-09-09T09:28:40.625Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670007069>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:28:40.625Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3400>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3745_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Moleneinde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3745_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670007069"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670007069/2022-09-09T09:28:40.625Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/mol.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/mol.ttl>.

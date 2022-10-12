@@ -99,3 +99,93 @@ _:df_3145_19 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010089"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010089/2021-10-31T21:40:30.448Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ju.ttl>.
+<https://stad.gent/id/concept/570001254/2022-09-24T04:15:19.097Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001254>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:15:19.097Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209286>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1798_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "juwelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1798_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001254"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001254/2022-09-24T04:15:19.097Z>.
+<https://stad.gent/id/concept/550008277/2022-09-24T03:21:09.441Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008277>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:21:09.441Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027590>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2182_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor documenten die in het algemeen een juridische relevantie hebben. Gebruik 'wettelijke documenten' voor documenten waarin een wettelijke bepaling of overeenkomst wordt uitgedrukt om een recht in het leven te roepen, te waarborgen, te wijzigen of in te trekken, of om bewijs te leveren voor een recht.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "juridisch document"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008278>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008276>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008276> <http://www.w3.org/2004/02/skos/core#prefLabel> "wettelijk document"@nl.
+<https://stad.gent/id/concept/550008278> <http://www.w3.org/2004/02/skos/core#prefLabel> "documentatie naar vorm of functie"@nl.
+_:df_2182_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008277"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008277> <http://www.w3.org/2004/02/skos/core#prefLabel> "juridisch document"@nl, "juridisch document"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008277/2022-09-24T03:21:09.441Z>.
+<https://stad.gent/id/concept/550005786/2022-09-24T01:53:06.358Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005786>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:53:06.358Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2809_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Juwelier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2809_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005786"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005786/2022-09-24T01:53:06.358Z>.
+<https://stad.gent/id/concept/550005776/2022-09-24T01:52:45.982Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005776>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:52:45.982Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300039006>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2812_11;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine doosjes voor het bewaren van juwelen, waardevolle zaken of kleine voorwerpen; meestal van hout of metaal en vaak versierd.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "juwelenkistje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007961>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007961> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders voor persoonlijke zaken"@nl, "houders voor persoonlijke zaken"@nl.
+_:df_2812_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005776"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005776/2022-09-24T01:52:45.982Z>.
+<https://stad.gent/id/concept/550004667/2022-09-24T01:15:14.773Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004667>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:15:14.773Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026520>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3079_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Jumet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008925>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008925> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen"@nl.
+_:df_3079_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004667"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004667/2022-09-24T01:15:14.773Z>.
+<https://stad.gent/id/concept/550003168/2022-09-24T00:46:32.405Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003168>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:46:32.405Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3286_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De glimmende bastvezel van één van twee Oost-Indische planten (Corchorus olitorius en C. capsularis); wordt hoofdzakelijk gebruikt voor zakkengoed, goedkopere twijnsoorten en meubelstoffering.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "jute (vezel)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008783>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008783> <http://www.w3.org/2004/02/skos/core#prefLabel> "plantenvezel"@nl.
+_:df_3286_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003168"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003168/2022-09-24T00:46:32.405Z>.
+<https://stad.gent/id/concept/670007070/2022-09-09T09:28:45.626Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670007070>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:28:45.626Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3745_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Jules de Saint-Genoisstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3745_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670007070"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670007070/2022-09-09T09:28:45.626Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/ju.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/ju.ttl>.

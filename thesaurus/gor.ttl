@@ -31,3 +31,58 @@ _:df_2395_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570015975"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015975/2021-10-31T23:26:18.133Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/gor.ttl>.
+<https://stad.gent/id/concept/550005365/2022-09-24T01:39:54.102Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005365>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:39:54.102Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300220741>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2905_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Smalle riemen, koorden, sjerpen of dergelijke die meestal voor de sier zijn en om het middel worden gedragen om kleding te sluiten of nauwer te maken of die fungeren als middel om kleine objecten zoals portefeuilles of sleutels te houden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gordel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008113>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008113> <http://www.w3.org/2004/02/skos/core#prefLabel> "riemen die om het middel of daaronder gedragen worden"@nl.
+_:df_2905_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005365"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005365/2022-09-24T01:39:54.102Z>.
+<https://stad.gent/id/concept/550001984/2022-09-24T00:31:02.652Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001984>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:31:02.652Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3394_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gordelhaak"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005756>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005756> <http://www.w3.org/2004/02/skos/core#prefLabel> "haak (bevestigingsmiddel)"@nl.
+_:df_3394_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001984"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001984/2022-09-24T00:31:02.652Z>.
+<https://stad.gent/id/concept/530010847/2022-09-24T00:00:34.762Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010847>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:00:34.762Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005526>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3613_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gorizia"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_3613_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010847"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010847/2022-09-24T00:00:34.762Z>.
+<https://stad.gent/id/concept/530010847/2022-09-09T09:34:18.247Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010847>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:34:18.247Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005526>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3703_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gorizia"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl, "Italië"@nl.
+_:df_3703_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010847"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530010847> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gorizia"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010847/2022-09-09T09:34:18.247Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/gor.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/gor.ttl>.

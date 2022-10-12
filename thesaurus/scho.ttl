@@ -219,3 +219,246 @@ _:df_1_1128 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/schoe.ttl>;
     <https://w3id.org/tree#value> "schoe".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/scho.ttl>.
+<https://stad.gent/id/concept/570013243/2022-09-24T06:23:57.654Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013243>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:23:57.654Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046131>;
+    <http://www.w3.org/ns/adms#identifier> _:df_883_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kledingstukken die ter bescherming, soms ook louter decoratief worden gedragen over bovenkledingstukken. Bedekken meestal de voorkant van het lichaam en sluiten om het middel met banden, kunnen echter ook een borststuk of schouderbanden hebben. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schort"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_883_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013243"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013243/2022-09-24T06:23:57.654Z>.
+<https://stad.gent/id/concept/570012767/2022-09-24T06:13:52.641Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012767>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:13:52.641Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300410506>;
+    <http://www.w3.org/ns/adms#identifier> _:df_955_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Borden met een donker oppervlak, meestal zwart of groen, waarop je kan tekenen of schrijven met krijt of vergelijkbaar materiaal. Ze worden bijvoorbeeld op school gebruikt, in winkels, restaurants, of op andere plekken waar men dingen wil opschrijven die gemakkelijk kunnen worden veranderd.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoolbord"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_955_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012767"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012767/2022-09-24T06:13:52.641Z>.
+<https://stad.gent/id/concept/570012666/2022-09-24T06:12:31.896Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012666>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:12:31.896Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025294>;
+    <http://www.w3.org/ns/adms#identifier> _:df_964_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoenmaker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_964_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012666"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012666/2022-09-24T06:12:31.896Z>.
+<https://stad.gent/id/concept/570012497/2022-09-24T06:09:10.134Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012497>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:09:10.134Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_988_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoolschrift"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_988_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012497"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012497/2022-09-24T06:09:10.134Z>.
+<https://stad.gent/id/concept/570011070/2022-09-24T05:52:16.647Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011070>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:52:16.647Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7253983>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1108_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Schoonaarde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_1108_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011070"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011070/2022-09-24T05:52:16.647Z>.
+<https://stad.gent/id/concept/570010033/2022-09-24T05:35:56.930Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010033>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:35:56.930Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1225_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoolwerken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1225_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010033"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010033/2022-09-24T05:35:56.930Z>.
+<https://stad.gent/id/concept/570009851/2022-09-24T05:31:09.415Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009851>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:31:09.415Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2250844>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1258_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoolboek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1258_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009851"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009851/2022-09-24T05:31:09.415Z>.
+<https://stad.gent/id/concept/570009231/2022-09-24T05:14:28.682Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009231>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:14:28.682Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046065>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1378_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Schoeisel met een relatief stijve zool en hak dat gewoonlijk de voet tot op of onder het enkelgewricht bedekt. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1378_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009231"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009231/2022-09-24T05:14:28.682Z>.
+<https://stad.gent/id/concept/570009212/2022-09-24T05:13:33.270Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009212>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:13:33.270Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1384_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoolgerief"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1384_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009212"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009212/2022-09-24T05:13:33.270Z>.
+<https://stad.gent/id/concept/570008926/2022-09-24T05:03:09.982Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008926>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:03:09.982Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1459_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Schoolkaai"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1459_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008926"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008926/2022-09-24T05:03:09.982Z>.
+<https://stad.gent/id/concept/570008756/2022-09-24T04:57:11.850Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008756>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:57:11.850Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1501_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoolfoto"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1501_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008756"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008756/2022-09-24T04:57:11.850Z>.
+<https://stad.gent/id/concept/570008547/2022-09-24T04:49:55.810Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008547>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:49:55.810Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1640682>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1552_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoolplaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1552_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008547"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008547/2022-09-24T04:49:55.810Z>.
+<https://stad.gent/id/concept/570006246/2022-09-24T04:36:06.042Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006246>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:36:06.042Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026721>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1651_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Schoten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020234>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020234> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl, "Antwerpen (provincie)"@nl, "Antwerpen (provincie)"@nl.
+_:df_1651_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006246"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006246/2022-09-24T04:36:06.042Z>.
+<https://stad.gent/id/concept/570004845/2022-09-24T04:28:36.457Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570004845>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:28:36.457Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300003933>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1705_47;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoorstenen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1705_47 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570004845"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570004845/2022-09-24T04:28:36.457Z>.
+<https://stad.gent/id/concept/570000533/2022-09-24T04:10:31.281Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000533>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:10:31.281Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7002444>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1831_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Schotland"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570009361>, <https://stad.gent/id/concept/570019742>, <https://stad.gent/id/concept/570023978>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "motief"@nl, "motif"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023978> <http://www.w3.org/2004/02/skos/core#prefLabel> "Paisley"@nl.
+<https://stad.gent/id/concept/570019742> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glasgow"@nl.
+<https://stad.gent/id/concept/570009361> <http://www.w3.org/2004/02/skos/core#prefLabel> "Edinburgh"@nl.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_1831_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000533"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000533/2022-09-24T04:10:31.281Z>.
+<https://stad.gent/id/concept/550009125/2022-09-24T04:00:58.925Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009125>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:00:58.925Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1900_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vroeg-neolithicum"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1900_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009125"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009125/2022-09-24T04:00:58.925Z>.
+<https://stad.gent/id/concept/550009126/2022-09-24T04:01:03.927Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009126>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:01:03.927Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1900_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "laat-neolithicum"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1900_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009126"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009126/2022-09-24T04:01:03.927Z>.
+<https://stad.gent/id/concept/550009111/2022-09-24T03:59:53.407Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009111>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:59:53.407Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300052347>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1909_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoorsteenmantel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008133>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008133> <http://www.w3.org/2004/02/skos/core#prefLabel> "haardstedeonderdelen"@nl.
+_:df_1909_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009111"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009111/2022-09-24T03:59:53.407Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://www.pieter.pm/coghent-substrings/thesaurus/scho.ttl> <https://w3id.org/tree#relation> _:df_1_1060.
+_:df_1_1060 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/schor.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "schor".
+<https://www.pieter.pm/coghent-substrings/thesaurus/scho.ttl> <https://w3id.org/tree#relation> _:df_1_1061.
+_:df_1_1061 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/schoe.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "schoe".
+<https://www.pieter.pm/coghent-substrings/thesaurus/scho.ttl> <https://w3id.org/tree#relation> _:df_1_1062.
+_:df_1_1062 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/schoo.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "schoo".
+<https://www.pieter.pm/coghent-substrings/thesaurus/scho.ttl> <https://w3id.org/tree#relation> _:df_1_1063.
+_:df_1_1063 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/schou.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "schou".
+<https://www.pieter.pm/coghent-substrings/thesaurus/scho.ttl> <https://w3id.org/tree#relation> _:df_1_1064.
+_:df_1_1064 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/schot.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "schot".
+<https://www.pieter.pm/coghent-substrings/thesaurus/scho.ttl> <https://w3id.org/tree#relation> _:df_1_1065.
+_:df_1_1065 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/coghent-substrings/thesaurus/schop.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "schop".
+<https://www.pieter.pm/coghent-substrings/thesaurus/scho.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/scho.ttl>.

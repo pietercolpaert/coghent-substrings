@@ -21,3 +21,34 @@ _:df_2317_17 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570016452"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016452/2021-10-31T23:37:32.785Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/tal.ttl>.
+<https://stad.gent/id/concept/550008863/2022-09-24T03:51:46.396Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008863>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:51:46.396Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011159>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1966_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een zacht, lichtgroen of grijs mineraal.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "talk (mineraal)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550002710>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550006192>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006192> <http://www.w3.org/2004/02/skos/core#prefLabel> "steatiet"@nl.
+<https://stad.gent/id/concept/550002710> <http://www.w3.org/2004/02/skos/core#prefLabel> "mineraal"@nl.
+_:df_1966_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008863"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008863/2022-09-24T03:51:46.396Z>.
+<https://stad.gent/id/concept/550004874/2022-09-24T01:22:45.159Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004874>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:22:45.159Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006629>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3028_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tallinn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008940>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008940> <http://www.w3.org/2004/02/skos/core#prefLabel> "Estland"@nl.
+_:df_3028_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004874"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004874/2022-09-24T01:22:45.159Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/tal.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/tal.ttl>.

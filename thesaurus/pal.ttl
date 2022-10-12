@@ -21,3 +21,87 @@ _:df_3007_17 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570011559"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011559/2021-10-31T21:59:52.568Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/pal.ttl>.
+<https://stad.gent/id/concept/570008523/2022-09-24T04:49:20.794Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008523>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:49:20.794Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1045849>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1555_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Palazzolo sull'Oglio"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020612>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020612> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_1555_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008523"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008523/2022-09-24T04:49:20.794Z>.
+<https://stad.gent/id/concept/550008954/2022-09-24T03:56:00.144Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008954>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:56:00.144Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004540>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1936_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Palestina"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550003505>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003505> <http://www.w3.org/2004/02/skos/core#prefLabel> "Azië"@nl.
+_:df_1936_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008954"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008954/2022-09-24T03:56:00.144Z>.
+<https://stad.gent/id/concept/550006393/2022-09-24T02:15:28.453Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006393>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:15:28.453Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003928>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2650_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Palermo"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550000038>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000038> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_2650_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006393"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006393/2022-09-24T02:15:28.453Z>.
+<https://stad.gent/id/concept/550005714/2022-09-24T01:51:09.984Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005714>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:51:09.984Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300012424>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2824_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kostbaar edelhout van tropische bomen; donkerrood of paarsachtig van kleur, met zwarte aftekeningen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "palissanderhout"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008734>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008734> <http://www.w3.org/2004/02/skos/core#prefLabel> "hout naar samenstelling of herkomst"@nl.
+_:df_2824_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005714"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005714/2022-09-24T01:51:09.984Z>.
+<https://stad.gent/id/concept/550005690/2022-09-24T01:50:19.524Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005690>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:50:19.524Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900023057>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2830_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Sabels met een rechte, vrij brede en puntige kling, bedoeld voor ruiters.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pallas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550001562>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001562> <http://www.w3.org/2004/02/skos/core#prefLabel> "sabel"@nl.
+_:df_2830_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005690"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005690/2022-09-24T01:50:19.524Z>.
+<https://stad.gent/id/concept/550001444/2022-09-24T00:19:55.471Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001444>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:19:55.471Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300019258>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3475_36;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Paleolithisch"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001453>, <https://stad.gent/id/concept/550001452>, <https://stad.gent/id/concept/550009018>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550009018> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mousteriaan"@nl.
+<https://stad.gent/id/concept/550001452> <http://www.w3.org/2004/02/skos/core#prefLabel> "midden-paleolithisch"@nl.
+<https://stad.gent/id/concept/550001453> <http://www.w3.org/2004/02/skos/core#prefLabel> "hoog-paleolithisch"@nl.
+_:df_3475_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001444"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001444/2022-09-24T00:19:55.471Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/pal.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/pal.ttl>.

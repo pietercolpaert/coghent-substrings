@@ -21,3 +21,61 @@ _:df_2911_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570012556"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012556/2021-10-31T22:13:14.095Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/kac.ttl>.
+<https://stad.gent/id/concept/570012556/2022-09-24T06:10:31.178Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012556>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:10:31.178Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300052201>;
+    <http://www.w3.org/ns/adms#identifier> _:df_979_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verplaatsbare of vaste apparaten die hitte leveren voor verwarming en/of om te koken, gewoonlijk door gebruik te maken van kolen, olie, gas, hout of elektriciteit. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kachel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_979_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012556"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012556/2022-09-24T06:10:31.178Z>.
+<https://stad.gent/id/concept/550008342/2022-09-24T03:26:22.939Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008342>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:26:22.939Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2146_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gebakken tegel waarmee een tegelkachel wordt gebouwd. De tegel is meestal rijk versierd en geglazuurd.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kacheltegel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008343>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008343> <http://www.w3.org/2004/02/skos/core#prefLabel> "kachelonderdelen"@nl.
+_:df_2146_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008342"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008342> <http://www.w3.org/2004/02/skos/core#prefLabel> "kacheltegel"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008342/2022-09-24T03:26:22.939Z>.
+<https://stad.gent/id/concept/550008343/2022-09-24T03:26:28.490Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008343>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:26:28.490Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300248096>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2146_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kachelonderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007947>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008342>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008342> <http://www.w3.org/2004/02/skos/core#prefLabel> "kacheltegel"@nl.
+<https://stad.gent/id/concept/550007947> <http://www.w3.org/2004/02/skos/core#prefLabel> "gereedschap- en uitrustingonderdelen"@nl.
+_:df_2146_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008343"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008343> <http://www.w3.org/2004/02/skos/core#prefLabel> "kachelonderdelen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008343/2022-09-24T03:26:28.490Z>.
+<https://stad.gent/id/concept/550004268/2022-09-24T01:01:16.515Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004268>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:01:16.515Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300052201>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3181_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verplaatsbare of vaste apparaten die hitte leveren voor verwarming en/of om te koken, gewoonlijk door gebruik te maken van kolen, olie, gas, hout of elektriciteit.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kachel (verwarmingstoestel)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008175>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008175> <http://www.w3.org/2004/02/skos/core#prefLabel> "verwarmingstoestellen"@nl.
+_:df_3181_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004268"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004268/2022-09-24T01:01:16.515Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/kac.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/kac.ttl>.

@@ -1,0 +1,16 @@
+<https://stad.gent/id/concept/550000220/2022-09-24T00:04:01.402Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000220>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:04:01.402Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300220572>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3589_32;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor volledige, niet-periodieke gedrukte geschriften met meestal minder dan 80 pagina's en vaak met een papieren kaft. Soms zijn het korte verhandelingen over actuele thema's of onderwerpen. Voor kleinere gedrukte geschriften bestaand uit één gevouwen en niet ingenaaide of gebonden blad wordt 'vouwbladen' gebruikt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pamflet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005710>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005710> <http://www.w3.org/2004/02/skos/core#prefLabel> "informatiedragers naar fysieke vorm"@nl.
+_:df_3589_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000220"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000220/2022-09-24T00:04:01.402Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/pam.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/pam.ttl>.

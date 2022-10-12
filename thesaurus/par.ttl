@@ -87,3 +87,131 @@ _:df_1972_7 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570017845"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017845/2021-11-01T00:26:00.151Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/par.ttl>.
+<https://stad.gent/id/concept/570001255/2022-09-24T04:15:24.102Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001255>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:15:24.102Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300015166>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1798_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "parfum"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "materiaal"@nl, "material"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1798_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001255"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001255/2022-09-24T04:15:24.102Z>.
+<https://stad.gent/id/concept/570000647/2022-09-24T04:11:16.703Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000647>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:11:16.703Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008038>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1828_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Parijs"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "motief"@nl, "motif"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_1828_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000647"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000647/2022-09-24T04:11:16.703Z>.
+<https://stad.gent/id/concept/550009288/2022-09-24T04:04:21.582Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009288>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:04:21.582Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300003857>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1876_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "parkeermeter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1876_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009288"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009288/2022-09-24T04:04:21.582Z>.
+<https://stad.gent/id/concept/550008625/2022-09-24T03:38:38.151Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008625>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:38:38.151Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046218>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2059_13;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine paraplu's die als zonnescherm worden gebruikt of gewoon als modieus accessoire worden meegedragen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "parasol"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008145>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008145> <http://www.w3.org/2004/02/skos/core#prefLabel> "meegedragen kledingaccessoires"@nl.
+_:df_2059_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008625"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008625/2022-09-24T03:38:38.151Z>.
+<https://stad.gent/id/concept/550008435/2022-09-24T03:32:47.422Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008435>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:32:47.422Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2101_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "parfumflesje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2101_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008435"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008435/2022-09-24T03:32:47.422Z>.
+<https://stad.gent/id/concept/550003628/2022-09-24T00:50:29.113Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003628>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:50:29.113Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3256_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Medaille met kenmerken en naam van de parochie. Deze wordt uitgereikt aan mensen die zich verdienstelijk hebben gemaakt voor de parochie of anderszins.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "parochiemedaille"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008060>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008060> <http://www.w3.org/2004/02/skos/core#prefLabel> "onderscheiding (eretitel)"@nl.
+_:df_3256_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003628"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003628/2022-09-24T00:50:29.113Z>.
+<https://stad.gent/id/concept/550002134/2022-09-24T00:32:43.480Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002134>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:32:43.480Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008038>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3382_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Parijs"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004704>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004704> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_3382_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002134"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002134/2022-09-24T00:32:43.480Z>.
+<https://stad.gent/id/concept/550002051/2022-09-24T00:32:18.469Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002051>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:32:18.469Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300261068>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3385_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor bij elkaar horende versieringen bedoeld om samen te worden gedragen, bestaande uit juwelen of garneersels voor kleding, gewoonlijk op boord en manchetten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "parure"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008079>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008079> <http://www.w3.org/2004/02/skos/core#prefLabel> "kledinggroepen"@nl.
+_:df_3385_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002051"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002051/2022-09-24T00:32:18.469Z>.
+<https://stad.gent/id/concept/550000969/2022-09-24T00:12:31.408Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000969>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:12:31.408Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3526_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Liturgische gewaden met toebehoren. Vorm, functie en betekenis van deze gewaden zijn in de loop der tijden gewijzigd door veranderende inzichten en voorschriften. De in onbruik geraakte paramenten in oude stijl zijn in veel kerken bewaard gebleven. (SKKN)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "parament"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008079>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008079> <http://www.w3.org/2004/02/skos/core#prefLabel> "kledinggroepen"@nl.
+_:df_3526_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000969"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000969/2022-09-24T00:12:31.408Z>.
+<https://stad.gent/id/concept/550000940/2022-09-24T00:11:50.950Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000940>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:11:50.950Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011827>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3532_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een gladde, ronde kraal die wordt gevormd in de schelp van bepaalde weekdieren. Wordt gebruikt voor sieraden en andere decoratieve doeleinden, en wordt als edelsteen beschouwd.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "parel (dierlijk materiaal)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008732>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008732> <http://www.w3.org/2004/02/skos/core#prefLabel> "combinatie anorganisch/organisch dierlijk materiaal"@nl.
+_:df_3532_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000940"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000940/2022-09-24T00:11:50.950Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/par.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/par.ttl>.

@@ -87,3 +87,97 @@ _:df_2443_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570015646"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015646/2021-10-31T23:19:31.733Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/at.ttl>.
+<https://stad.gent/id/concept/570017255/2022-09-24T08:02:31.509Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017255>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T08:02:31.509Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024841>;
+    <http://www.w3.org/ns/adms#identifier> _:df_184_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Documenten waarin door een gezaghebbend persoon of lichaam een getuigenis wordt gegeven van een feit, van een belofte of van iemands bekwaamheid. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "attest"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_184_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017255"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017255/2022-09-24T08:02:31.509Z>.
+<https://stad.gent/id/concept/570015646/2022-09-24T07:17:39.244Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015646>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:17:39.244Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7013331>;
+    <http://www.w3.org/ns/adms#identifier> _:df_502_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Atlanta"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_502_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015646"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015646/2022-09-24T07:17:39.244Z>.
+<https://stad.gent/id/concept/570008799/2022-09-24T04:58:22.433Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008799>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:58:22.433Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300007725>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1492_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "atelier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1492_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008799"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008799/2022-09-24T04:58:22.433Z>.
+<https://stad.gent/id/concept/550006465/2022-09-24T02:18:20.289Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006465>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:18:20.289Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7001393>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2629_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Athene"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550003635>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003635> <http://www.w3.org/2004/02/skos/core#prefLabel> "Griekenland"@nl.
+_:df_2629_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006465"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006465/2022-09-24T02:18:20.289Z>.
+<https://stad.gent/id/concept/550006079/2022-09-24T02:02:21.326Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006079>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:02:21.326Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007858>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2743_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ath"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008925>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008925> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen"@nl.
+_:df_2743_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006079"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006079/2022-09-24T02:02:21.326Z>.
+<https://stad.gent/id/concept/550004575/2022-09-24T01:10:47.148Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004575>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:10:47.148Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3112_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "atelier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3112_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004575"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004575/2022-09-24T01:10:47.148Z>.
+<https://stad.gent/id/concept/670007578/2022-09-14T00:03:10.219Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670007578>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-14T00:03:10.219Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3673_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Atlas Malfeson"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3673_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670007578"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670007578/2022-09-14T00:03:10.219Z>.
+<https://stad.gent/id/concept/670007577/2022-09-14T00:03:05.216Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670007577>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-14T00:03:05.216Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3676_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Atlas Goetghebeur (IC_AG_W)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3676_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670007577"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670007577/2022-09-14T00:03:05.216Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/at.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/at.ttl>.

@@ -23,3 +23,47 @@ _:df_3019_32 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570011401"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011401/2021-10-31T21:58:20.863Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/deg.ttl>.
+<https://stad.gent/id/concept/570011401/2022-09-24T05:55:38.394Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011401>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:55:38.394Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300234682>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1084_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Drukpersen waarin het papier en het drukvlak beide plat liggen en met elkaar in contact komen door als een oesterschelp te openen en sluiten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "degelpers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018042>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "associatie"@nl, "association"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018042> <http://www.w3.org/2004/02/skos/core#prefLabel> "drukpersen"@nl.
+_:df_1084_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011401"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011401/2022-09-24T05:55:38.394Z>.
+<https://stad.gent/id/concept/550008348/2022-09-24T03:26:53.501Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008348>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:26:53.501Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300210007>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2143_31;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Riemen bedoeld om een zwaard aan te kunnen dragen. Ze worden over het algemeen over de onderbuik of schuin over de borst gedragen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "degenkoppel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005366>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005366> <http://www.w3.org/2004/02/skos/core#prefLabel> "riem (kledingaccessoire)"@nl.
+_:df_2143_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008348"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008348/2022-09-24T03:26:53.501Z>.
+<https://stad.gent/id/concept/550005028/2022-09-24T01:26:31.998Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005028>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:26:31.998Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900031679>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3001_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Steekwapens met een lage, smalle rechte kling, met een klinglengte tussen 60 en 110 cm, het gevest doorgaans voorzien van een vuistbeugel en een of meer zijbeugels en een stootplaat; vanaf de middeleeuwen tot nu. Een vernieuwde versie van de rapier.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "degen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007932>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007932> <http://www.w3.org/2004/02/skos/core#prefLabel> "blanke gevestwapens naar vorm"@nl.
+_:df_3001_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005028"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005028/2022-09-24T01:26:31.998Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/deg.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/deg.ttl>.

@@ -42,3 +42,49 @@ _:df_3130_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010138"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010138/2021-10-31T21:42:21.787Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/let.ttl>.
+<https://stad.gent/id/concept/570010138/2022-09-24T05:39:38.646Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010138>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:39:38.646Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300233895>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1198_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lettergieten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1198_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010138"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010138/2022-09-24T05:39:38.646Z>.
+<https://stad.gent/id/concept/570008690/2022-09-24T04:54:53.265Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008690>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:54:53.265Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300410328>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1516_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Ondiepe bakken voor handzetsel. Ze zijn verdeeld in vakken om de diverse letters van een type in te doen.  ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "letterkast"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1516_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008690"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008690/2022-09-24T04:54:53.265Z>.
+<https://stad.gent/id/concept/570008501/2022-09-24T04:48:55.396Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008501>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:48:55.396Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1558_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "letterzetterij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1558_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008501"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008501/2022-09-24T04:48:55.396Z>.
+<https://stad.gent/id/concept/670007572/2022-09-09T09:33:57.712Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670007572>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:33:57.712Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q211>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3706_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Letland"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3706_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670007572"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670007572/2022-09-09T09:33:57.712Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/let.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/let.ttl>.

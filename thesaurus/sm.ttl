@@ -107,3 +107,85 @@ _:df_3163_19 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010015"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010015/2021-10-31T21:37:58.491Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/sm.ttl>.
+<https://stad.gent/id/concept/570016865/2022-09-24T07:50:40.459Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016865>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:50:40.459Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300161881>;
+    <http://www.w3.org/ns/adms#identifier> _:df_268_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "smeltlepel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_268_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016865"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016865/2022-09-24T07:50:40.459Z>.
+<https://stad.gent/id/concept/570015680/2022-09-24T07:18:34.628Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015680>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:18:34.628Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q72827>;
+    <http://www.w3.org/ns/adms#identifier> _:df_496_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "smout"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_496_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015680"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015680/2022-09-24T07:18:34.628Z>.
+<https://stad.gent/id/concept/570010015/2022-09-24T05:35:16.589Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010015>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:35:16.589Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1231_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "smalboek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1231_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010015"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010015/2022-09-24T05:35:16.589Z>.
+<https://stad.gent/id/concept/570006922/2022-09-24T04:38:32.684Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006922>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:38:32.684Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011012>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1633_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "smeedijzer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000036>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000036> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaal"@nl.
+_:df_1633_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006922"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006922/2022-09-24T04:38:32.684Z>.
+<https://stad.gent/id/concept/550005823/2022-09-24T01:54:16.768Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005823>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:54:16.768Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2803_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "smid"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2803_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005823"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005823/2022-09-24T01:54:16.768Z>.
+<https://stad.gent/id/concept/550005279/2022-09-24T01:36:32.284Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005279>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:36:32.284Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054033>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2929_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het vormgeven aan metaal door middel van verhitten en hameren.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "smeden (metaalvorming)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2929_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005279"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005279/2022-09-24T01:36:32.284Z>.
+<https://stad.gent/id/concept/550004082/2022-09-24T00:59:00.067Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004082>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:59:00.067Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011012>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3196_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Ijzerlegering die van nature vezelachtig is; wordt gemaakt door wit gietijzer te smelten, er met een oxiderende vlam overheen te gaan en het tot een massa te rollen; wordt gewaardeerd om de roestbestendigheid en kneedbaarheid. Gebruik 'gesmeed' wanneer er objecten worden beschreven die zijn gemaakt of gevormd door het slaan met een hamer.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "smeedijzer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005588>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005588> <http://www.w3.org/2004/02/skos/core#prefLabel> "ijzerlegering"@nl.
+_:df_3196_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004082"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004082/2022-09-24T00:59:00.067Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/sm.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/sm.ttl>.

@@ -1,0 +1,36 @@
+<https://stad.gent/id/concept/550004134/2022-09-24T00:59:10.510Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004134>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:59:10.510Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7123338>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3196_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Neudrossenfeld"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004734>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_3196_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004134"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004134/2022-09-24T00:59:10.510Z>.
+<https://stad.gent/id/concept/670007107/2022-09-09T09:30:26.507Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670007107>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:30:26.507Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3733_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Neuseplein"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3733_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670007107"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670007107/2022-09-09T09:30:26.507Z>.
+<https://stad.gent/id/concept/670006812/2022-09-09T09:08:09.822Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670006812>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-09T09:08:09.822Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q48958>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3892_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Neuilly-sur-Seine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3892_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670006812"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670006812/2022-09-09T09:08:09.822Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/neu.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/neu.ttl>.

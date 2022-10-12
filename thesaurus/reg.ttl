@@ -64,3 +64,84 @@ _:df_3235_14 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009594"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009594/2021-10-31T21:27:44.623Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/reg.ttl>.
+<https://stad.gent/id/concept/570009233/2022-09-24T05:14:40.262Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009233>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:14:40.262Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027842>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1375_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt in zijn algemeenheid gebruikt voor grondbeginselen, regels of wetten, bedoeld voor het beheersen of reguleren van het gedrag van personen en bedrijven enz. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reglement"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1375_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009233"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009233/2022-09-24T05:14:40.262Z>.
+<https://stad.gent/id/concept/570009101/2022-09-24T05:09:04.454Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009101>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:09:04.454Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027168>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1417_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "register"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1417_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009101"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009101/2022-09-24T05:09:04.454Z>.
+<https://stad.gent/id/concept/550009260/2022-09-24T04:03:06.083Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009260>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:03:06.083Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1885_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Regnessestraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550001540>;
+    <http://www.w3.org/2004/02/skos/core#note> "Vindplaats"@nl, "Collection place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gent"@nl.
+_:df_1885_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009260"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009260/2022-09-24T04:03:06.083Z>.
+<https://stad.gent/id/concept/550008617/2022-09-24T03:38:02.347Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008617>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:38:02.347Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027433>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2062_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het geheel aan wetten, verordeningen of voorschriften die worden opgesteld door een publiek lichaam, een stichting of een al dan niet in een vennootschap ondergebracht bedrijf om de eigen lokale of interne zaken, de betrekkingen met anderen, of het bestuur van de leden te regelen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reglement"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2062_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008617"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008617/2022-09-24T03:38:02.347Z>.
+<https://stad.gent/id/concept/550008035/2022-09-24T03:01:15.041Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008035>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:01:15.041Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027765>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2323_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "registratie naar afkomst"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008036>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008635>, <https://stad.gent/id/concept/550008274>, <https://stad.gent/id/concept/550008034>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008034> <http://www.w3.org/2004/02/skos/core#prefLabel> "schooldocument"@nl.
+<https://stad.gent/id/concept/550008274> <http://www.w3.org/2004/02/skos/core#prefLabel> "overheidsdocument"@nl.
+<https://stad.gent/id/concept/550008635> <http://www.w3.org/2004/02/skos/core#prefLabel> "officieel document"@nl.
+<https://stad.gent/id/concept/550008036> <http://www.w3.org/2004/02/skos/core#prefLabel> "documentatie"@nl.
+_:df_2323_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008035"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008035> <http://www.w3.org/2004/02/skos/core#prefLabel> "registratie naar afkomst"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008035/2022-09-24T03:01:15.041Z>.
+<https://stad.gent/id/concept/550005267/2022-09-24T01:36:12.275Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005267>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:36:12.275Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027168>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2932_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Officiële lijsten waarin zorgvuldig en systematisch aantekening wordt gehouden van alle informatie die daarvoor belangrijk genoeg wordt geacht, in het bijzonder in een regelmatig numerieke of chronologische volgorde.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "register"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008241>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008241> <http://www.w3.org/2004/02/skos/core#prefLabel> "lijsten (informatiedragers) naar vorm of functie"@nl.
+_:df_2932_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005267"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005267/2022-09-24T01:36:12.275Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/reg.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/reg.ttl>.

@@ -20,3 +20,211 @@ _:df_2908_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570012579"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012579/2021-10-31T22:13:39.103Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/lit.ttl>.
+<https://stad.gent/id/concept/570008814/2022-09-24T04:58:57.884Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008814>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:58:57.884Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300180362>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1489_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "literatuur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1489_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008814"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008814/2022-09-24T04:58:57.884Z>.
+<https://stad.gent/id/concept/550008408/2022-09-24T03:31:16.540Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008408>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:31:16.540Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053271>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2110_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lithografie (techniek)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2110_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008408"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008408/2022-09-24T03:31:16.540Z>.
+<https://stad.gent/id/concept/550008248/2022-09-24T03:18:43.115Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008248>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:18:43.115Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300202991>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2200_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "liturgische teksten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008092>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008247>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008247> <http://www.w3.org/2004/02/skos/core#prefLabel> "misboek"@nl.
+<https://stad.gent/id/concept/550008092> <http://www.w3.org/2004/02/skos/core#prefLabel> "religieuze teksten"@nl.
+_:df_2200_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008248"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008248> <http://www.w3.org/2004/02/skos/core#prefLabel> "liturgische teksten"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008248/2022-09-24T03:18:43.115Z>.
+<https://stad.gent/id/concept/550008209/2022-09-24T03:15:41.740Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008209>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T03:15:41.740Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300210450>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2221_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kledingstukken die door priesters of andere geestelijken worden gedragen tijdens de godsdienstoefening; ze verschillen bij de diverse kerkelijke ceremonies en geven een rang binnen de kerkelijke hiërarchie aan.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "liturigisch gewaad"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008000>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008208>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008208> <http://www.w3.org/2004/02/skos/core#prefLabel> "koorkap"@nl.
+<https://stad.gent/id/concept/550008000> <http://www.w3.org/2004/02/skos/core#prefLabel> "liturgische kleding"@nl.
+_:df_2221_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008209"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008209> <http://www.w3.org/2004/02/skos/core#prefLabel> "liturigisch gewaad"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008209/2022-09-24T03:15:41.740Z>.
+<https://stad.gent/id/concept/550008000/2022-09-24T02:58:18.219Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008000>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:58:18.219Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300210387>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2344_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleding of andere uitdossing die een voornamelijk ceremoniele of rituele functie heeft.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "liturgische kleding"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007832>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007999>, <https://stad.gent/id/concept/550008209>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008209> <http://www.w3.org/2004/02/skos/core#prefLabel> "liturigisch gewaad"@nl.
+<https://stad.gent/id/concept/550007999> <http://www.w3.org/2004/02/skos/core#prefLabel> "liturgisch gewaad"@nl.
+<https://stad.gent/id/concept/550007832> <http://www.w3.org/2004/02/skos/core#prefLabel> "kleding naar functie"@nl.
+_:df_2344_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008000"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008000/2022-09-24T02:58:18.219Z>.
+<https://stad.gent/id/concept/550007999/2022-09-24T02:58:13.214Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007999>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:58:13.214Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300210450>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2347_32;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kledingstukken die door priesters of andere geestelijken worden gedragen tijdens de godsdienstoefening; ze verschillen bij de diverse kerkelijke ceremonies en geven een rang binnen de kerkelijke hiërarchie aan.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "liturgisch gewaad"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008000>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550003904>, <https://stad.gent/id/concept/550003893>, <https://stad.gent/id/concept/550000978>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000978> <http://www.w3.org/2004/02/skos/core#prefLabel> "stola"@nl.
+<https://stad.gent/id/concept/550003893> <http://www.w3.org/2004/02/skos/core#prefLabel> "kazuifel"@nl.
+<https://stad.gent/id/concept/550003904> <http://www.w3.org/2004/02/skos/core#prefLabel> "dalmatiek"@nl.
+<https://stad.gent/id/concept/550008000> <http://www.w3.org/2004/02/skos/core#prefLabel> "liturgische kleding"@nl.
+_:df_2347_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007999"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007999/2022-09-24T02:58:13.214Z>.
+<https://stad.gent/id/concept/550007828/2022-09-24T02:44:05.263Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007828>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:44:05.263Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300196901>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2446_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "liturgische vaten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007829>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001024>, <https://stad.gent/id/concept/550001019>, <https://stad.gent/id/concept/550005023>, <https://stad.gent/id/concept/550008883>, <https://stad.gent/id/concept/550005165>, <https://stad.gent/id/concept/550001130>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001130> <http://www.w3.org/2004/02/skos/core#prefLabel> "wijwateremmer"@nl.
+<https://stad.gent/id/concept/550005165> <http://www.w3.org/2004/02/skos/core#prefLabel> "wijwaterbakje"@nl.
+<https://stad.gent/id/concept/550008883> <http://www.w3.org/2004/02/skos/core#prefLabel> "pateen"@nl.
+<https://stad.gent/id/concept/550005023> <http://www.w3.org/2004/02/skos/core#prefLabel> "collecteschaal"@nl.
+<https://stad.gent/id/concept/550001019> <http://www.w3.org/2004/02/skos/core#prefLabel> "ciborie"@nl.
+<https://stad.gent/id/concept/550001024> <http://www.w3.org/2004/02/skos/core#prefLabel> "ampul (altaarvat)"@nl.
+<https://stad.gent/id/concept/550007829> <http://www.w3.org/2004/02/skos/core#prefLabel> "liturgische houders"@nl.
+_:df_2446_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007828"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007828> <http://www.w3.org/2004/02/skos/core#prefLabel> "liturgische vaten"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007828/2022-09-24T02:44:05.263Z>.
+<https://stad.gent/id/concept/550007829/2022-09-24T02:44:10.266Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007829>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:44:10.266Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300194500>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2446_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "liturgische houders"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006202>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550003898>, <https://stad.gent/id/concept/550001162>, <https://stad.gent/id/concept/550005257>, <https://stad.gent/id/concept/550007828>, <https://stad.gent/id/concept/550005146>, <https://stad.gent/id/concept/550004443>, <https://stad.gent/id/concept/550004951>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004951> <http://www.w3.org/2004/02/skos/core#prefLabel> "reliekhouder"@nl.
+<https://stad.gent/id/concept/550004443> <http://www.w3.org/2004/02/skos/core#prefLabel> "pyxis"@nl.
+<https://stad.gent/id/concept/550005146> <http://www.w3.org/2004/02/skos/core#prefLabel> "monstrans"@nl.
+<https://stad.gent/id/concept/550007828> <http://www.w3.org/2004/02/skos/core#prefLabel> "liturgische vaten"@nl.
+<https://stad.gent/id/concept/550005257> <http://www.w3.org/2004/02/skos/core#prefLabel> "kelk (liturgisch)"@nl.
+<https://stad.gent/id/concept/550001162> <http://www.w3.org/2004/02/skos/core#prefLabel> "chrismatorium"@nl.
+<https://stad.gent/id/concept/550003898> <http://www.w3.org/2004/02/skos/core#prefLabel> "bursa"@nl.
+<https://stad.gent/id/concept/550006202> <http://www.w3.org/2004/02/skos/core#prefLabel> "ceremoniële houders"@nl, "ceremoniële houders"@nl.
+_:df_2446_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007829"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007829> <http://www.w3.org/2004/02/skos/core#prefLabel> "liturgische houders"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007829/2022-09-24T02:44:10.266Z>.
+<https://stad.gent/id/concept/550006817/2022-09-24T02:28:31.728Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006817>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:28:31.728Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006542>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2557_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Litouwen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005045>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005045> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl.
+_:df_2557_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006817"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006817/2022-09-24T02:28:31.728Z>.
+<https://stad.gent/id/concept/550006063/2022-09-24T02:01:55.928Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006063>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:01:55.928Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041379>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2746_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vlakdrukken gemaakt met behulp van een stenen drukvorm, die met vette materialen en arabische gom is bewerkt, waarna de drukinkt alleen hecht op de vette delen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lithografie (prent)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008224>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en, "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008224> <http://www.w3.org/2004/02/skos/core#prefLabel> "vlakdruk"@nl.
+_:df_2746_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006063"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006063/2022-09-24T02:01:55.928Z>.
+<https://stad.gent/id/concept/550005670/2022-09-24T01:49:44.504Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005670>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:49:44.504Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022760>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2833_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Platte kalkstenen die worden gebruikt bij lithografie.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lithosteen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007978>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007978> <http://www.w3.org/2004/02/skos/core#prefLabel> "drukoppervlakken"@nl.
+_:df_2833_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005670"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005670/2022-09-24T01:49:44.504Z>.
+<https://stad.gent/id/concept/550004459/2022-09-24T01:05:49.223Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004459>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:05:49.223Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3148_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lithograaf"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3148_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004459"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004459/2022-09-24T01:05:49.223Z>.
+<https://stad.gent/id/concept/530008862/2022-09-14T00:02:29.983Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008862>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-14T00:02:29.983Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300210414>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3679_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "liturgische kledij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009251>, <https://stad.gent/id/concept/530003666>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530008580>, <https://stad.gent/id/concept/530009077>, <https://stad.gent/id/concept/530001048>, <https://stad.gent/id/concept/530004403>, <https://stad.gent/id/concept/530009076>, <https://stad.gent/id/concept/530008793>, <https://stad.gent/id/concept/530009112>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009112> <http://www.w3.org/2004/02/skos/core#prefLabel> "stoolkraag"@nl.
+<https://stad.gent/id/concept/530008793> <http://www.w3.org/2004/02/skos/core#prefLabel> "stola (liturgische kleding)"@nl.
+<https://stad.gent/id/concept/530009076> <http://www.w3.org/2004/02/skos/core#prefLabel> "manipel"@nl.
+<https://stad.gent/id/concept/530004403> <http://www.w3.org/2004/02/skos/core#prefLabel> "koorkap"@nl.
+<https://stad.gent/id/concept/530001048> <http://www.w3.org/2004/02/skos/core#prefLabel> "kazuifel"@nl.
+<https://stad.gent/id/concept/530009077> <http://www.w3.org/2004/02/skos/core#prefLabel> "dalmatiek"@nl.
+<https://stad.gent/id/concept/530008580> <http://www.w3.org/2004/02/skos/core#prefLabel> "albe"@nl.
+<https://stad.gent/id/concept/530003666> <http://www.w3.org/2004/02/skos/core#prefLabel> "kleding (objectnaam)"@nl.
+<https://stad.gent/id/concept/530009251> <http://www.w3.org/2004/02/skos/core#prefLabel> "ceremonieel object"@nl.
+_:df_3679_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008862"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008862/2022-09-14T00:02:29.983Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/lit.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/lit.ttl>.

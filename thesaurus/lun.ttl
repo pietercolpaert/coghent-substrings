@@ -1,0 +1,28 @@
+<https://stad.gent/id/concept/550006318/2022-09-24T02:13:06.979Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006318>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:13:06.979Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004436>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2668_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lüneburg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004734>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_2668_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006318"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006318/2022-09-24T02:13:06.979Z>.
+<https://stad.gent/id/concept/550004608/2022-09-24T01:12:28.064Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004608>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T01:12:28.064Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7009313>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3100_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lunéville"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004704>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004704> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_3100_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004608"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004608/2022-09-24T01:12:28.064Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/lun.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/lun.ttl>.

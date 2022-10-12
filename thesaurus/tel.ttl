@@ -206,3 +206,230 @@ _:df_2986_16 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570011887"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011887/2021-10-31T22:02:50.551Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/tel.ttl>.
+<https://stad.gent/id/concept/570016988/2022-09-24T07:56:38.706Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016988>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:56:38.706Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/q41437188>;
+    <http://www.w3.org/ns/adms#identifier> _:df_226_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "telmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_226_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016988"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016988/2022-09-24T07:56:38.706Z>.
+<https://stad.gent/id/concept/570016740/2022-09-24T07:45:48.405Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016740>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:45:48.405Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_301_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "telelenshouder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_301_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016740"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016740/2022-09-24T07:45:48.405Z>.
+<https://stad.gent/id/concept/570016681/2022-09-24T07:43:42.172Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016681>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:43:42.172Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_316_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "telegraafrelais"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_316_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016681"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016681/2022-09-24T07:43:42.172Z>.
+<https://stad.gent/id/concept/570016189/2022-09-24T07:28:44.492Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016189>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T07:28:44.492Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300400814>;
+    <http://www.w3.org/ns/adms#identifier> _:df_424_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een internationaal telegrafiesysteem dat bestaat uit een netwerk van teleprinters die worden verbonden door telecommunicatielijnen. Abonnees van een telexdienst kunnen direct en veilig tekst en gegevens met elkaar uitwisselen. Wanneer er een bericht wordt verzonden, kan dit direct worden afgedrukt of voor later worden opgeslagen, waarna het kan worden afgedrukt of op een beeldscherm kan worden weergegeven. De term 'telex' wordt vaak met een hoofdletter geschreven maar is in het gewone gebruik geen eigennaam. 'Telex' is een geregistreerd handelsmerk in de Verenigde Staten, maar in de meeste andere landen werden telexsystemen door overheidsinstanties beheerd. De namen van sommige specifieke producten (radioapparatuur, gehoorapparaten, etc.) van de Telex Corporation zijn als handelsmerk geregistreerd. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "telex"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_424_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016189"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016189/2022-09-24T07:28:44.492Z>.
+<https://stad.gent/id/concept/570014049/2022-09-24T06:39:23.852Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014049>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:39:23.852Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_775_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "telefoonkastje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_775_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014049"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014049/2022-09-24T06:39:23.852Z>.
+<https://stad.gent/id/concept/570014050/2022-09-24T06:39:28.855Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014050>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:39:28.855Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_775_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "telefoonhoorn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_775_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014050"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014050/2022-09-24T06:39:28.855Z>.
+<https://stad.gent/id/concept/570012731/2022-09-24T06:13:32.631Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012731>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:13:32.631Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_958_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "telefoonlijnschakelaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_958_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012731"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012731/2022-09-24T06:13:32.631Z>.
+<https://stad.gent/id/concept/570012598/2022-09-24T06:11:26.536Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012598>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:11:26.536Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300248636>;
+    <http://www.w3.org/ns/adms#identifier> _:df_973_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "televisietoestellen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_973_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012598"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012598/2022-09-24T06:11:26.536Z>.
+<https://stad.gent/id/concept/570012440/2022-09-24T06:07:09.252Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012440>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:07:09.252Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1003_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "telefoon-adapter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1003_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012440"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012440/2022-09-24T06:07:09.252Z>.
+<https://stad.gent/id/concept/570012269/2022-09-24T06:04:27.950Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012269>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:04:27.950Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q721587>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1021_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "telegrafie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570024278>, <https://stad.gent/id/concept/570024280>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectcategorie"@nl, "object category"@en, "techniek"@nl, "technique"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570024280> <http://www.w3.org/2004/02/skos/core#prefLabel> "optische telegrafie"@nl.
+<https://stad.gent/id/concept/570024278> <http://www.w3.org/2004/02/skos/core#prefLabel> "elektrische telegrafie"@nl.
+_:df_1021_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012269"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012269/2022-09-24T06:04:27.950Z>.
+<https://stad.gent/id/concept/570011887/2022-09-24T06:00:06.022Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011887>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T06:00:06.022Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026281>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1054_29;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gidsen met namen van mensen met een telefoonaansluiting en de bijbehorende adressen en telefoonnummers. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "telefoonboeken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1054_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011887"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011887/2022-09-24T06:00:06.022Z>.
+<https://stad.gent/id/concept/570009577/2022-09-24T05:24:26.112Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009577>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:24:26.112Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1306_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "telefooninstallatie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1306_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009577"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009577/2022-09-24T05:24:26.112Z>.
+<https://stad.gent/id/concept/570007848/2022-09-24T04:43:15.067Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007848>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:43:15.067Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300248636>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1600_31;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor apparaten die inkomende televisiesignalen omzetten in de oorspronkelijke beelden en het bijbehorende geluid.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "televisie-ontvanger"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en, "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1600_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007848"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007848/2022-09-24T04:43:15.067Z>.
+<https://stad.gent/id/concept/570006970/2022-09-24T04:38:52.692Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006970>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:38:52.692Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300005416>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1630_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "telefooncentrale"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1630_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006970"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006970/2022-09-24T04:38:52.692Z>.
+<https://stad.gent/id/concept/570004235/2022-09-24T04:27:19.758Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570004235>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:27:19.758Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300249768>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1714_38;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor instrumenten, toestellen of apparaten die geluiden over een afstand overbrengen of reproduceren, vooral die apparaten waarin een menselijke stem wordt overgebracht door een kabel of een satelliet. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "telefoon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1714_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570004235"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570004235/2022-09-24T04:27:19.758Z>.
+<https://stad.gent/id/concept/570003497/2022-09-24T04:24:58.456Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570003497>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:24:58.456Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026909>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1729_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "telegram"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1729_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570003497"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570003497/2022-09-24T04:24:58.456Z>.
+<https://stad.gent/id/concept/570001622/2022-09-24T04:17:52.271Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001622>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:17:52.271Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300343518>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1780_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "telefonie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectcategorie"@nl, "object category"@en, "techniek"@nl, "technique"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1780_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001622"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001622/2022-09-24T04:17:52.271Z>.
+<https://stad.gent/id/concept/550007643/2022-09-24T02:36:51.403Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007643>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:36:51.403Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300005422>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2497_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "telefooncel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007644>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007644> <http://www.w3.org/2004/02/skos/core#prefLabel> "communicatiebouwconstructies"@nl.
+_:df_2497_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007643"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007643> <http://www.w3.org/2004/02/skos/core#prefLabel> "telefooncel"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007643/2022-09-24T02:36:51.403Z>.
+<https://stad.gent/id/concept/550001426/2022-09-24T00:19:20.072Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001426>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:19:20.072Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900022893>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3478_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "telescoop"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550002764>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002764> <http://www.w3.org/2004/02/skos/core#prefLabel> "optisch instrument"@nl.
+_:df_3478_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001426"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001426/2022-09-24T00:19:20.072Z>.
+<https://stad.gent/id/concept/530002003/2022-09-15T00:01:09.928Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002003>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-15T00:01:09.928Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300150833>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3664_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "telescoop"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3664_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002003"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002003/2022-09-15T00:01:09.928Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/tel.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/tel.ttl>.

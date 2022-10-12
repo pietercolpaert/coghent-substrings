@@ -31,3 +31,59 @@ _:df_3127_22 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010162"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010162/2021-10-31T21:43:07.356Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/cas.ttl>.
+<https://stad.gent/id/concept/550006888/2022-09-24T02:32:03.624Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006888>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:32:03.624Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1032436>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2533_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Cassel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004704>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004704> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl, "Frankrijk"@nl.
+_:df_2533_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006888"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006888/2022-09-24T02:32:03.624Z>.
+<https://stad.gent/id/concept/530010849/2022-09-24T00:00:44.765Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010849>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T00:00:44.765Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005878>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3610_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Casalmaggiore"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_3610_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010849"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010849/2022-09-24T00:00:44.765Z>.
+<https://stad.gent/id/concept/530008524/2022-09-15T00:03:10.591Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008524>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-15T00:03:10.591Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411344>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3649_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine bandrecorders waarbij de spoelen bij elkaar in een doosje zitten dat gemakkelijk verwisseld kan worden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "cassetterecorder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004264>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004264> <http://www.w3.org/2004/02/skos/core#prefLabel> "bandrecorder"@nl.
+_:df_3649_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008524"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008524/2022-09-15T00:03:10.591Z>.
+<https://stad.gent/id/concept/530010849/2022-09-13T00:00:14.591Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010849>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-13T00:00:14.591Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005878>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3703_251;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Casalmaggiore"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl, "Italië"@nl.
+_:df_3703_251 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010849"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530010849> <http://www.w3.org/2004/02/skos/core#prefLabel> "Casalmaggiore"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010849/2022-09-13T00:00:14.591Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/cas.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/cas.ttl>.

@@ -36,3 +36,41 @@ _:df_2338_15 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570016320"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016320/2021-10-31T23:34:30.823Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/hav.ttl>.
+<https://stad.gent/id/concept/570009285/2022-09-24T05:16:54.657Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009285>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T05:16:54.657Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300008678>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1360_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Beschut liggende inlaten van water die bescherming tegen wind en zee bieden en voldoende diepte hebben zodat schepen voor anker kunnen gaan.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "haven"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1360_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009285"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009285/2022-09-24T05:16:54.657Z>.
+<https://stad.gent/id/concept/570007887/2022-09-24T04:43:41.772Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007887>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T04:43:41.772Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1537445>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1597_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "havenarbeiders"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1597_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007887"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007887/2022-09-24T04:43:41.772Z>.
+<https://stad.gent/id/concept/550006333/2022-09-24T02:13:47.500Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006333>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-09-24T02:13:47.500Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006453>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2662_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Havana"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006290>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006290> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cuba"@nl.
+_:df_2662_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006333"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006333/2022-09-24T02:13:47.500Z>.
+<https://www.pieter.pm/coghent-substrings/thesaurus/hav.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/coghent-substrings/thesaurus/hav.ttl>.
